@@ -227,6 +227,25 @@
       "url": "/de/schedule/2026-05-30"
     },
     {
+      "category": "Open Lobby",
+      "date_iso": "2026-06-04",
+      "date_label": "Do.04.06.26",
+      "floors": [
+        {
+          "artists": [],
+          "name": "LOBBY + ANNEX"
+        }
+      ],
+      "id": "2026-06-04",
+      "ticket": {
+        "state": "free",
+        "url": null
+      },
+      "time": "20:00–00:00",
+      "title": null,
+      "url": "/de/schedule/2026-06-04"
+    },
+    {
       "category": "Clubnight",
       "date_iso": "2026-06-06",
       "date_label": "Sa.06.06.26",
@@ -255,6 +274,25 @@
       "time": "22:00–06:00",
       "title": null,
       "url": "/de/schedule/2026-06-06"
+    },
+    {
+      "category": "Open Lobby",
+      "date_iso": "2026-06-11",
+      "date_label": "Do.11.06.26",
+      "floors": [
+        {
+          "artists": [],
+          "name": "LOBBY + ANNEX"
+        }
+      ],
+      "id": "2026-06-11",
+      "ticket": {
+        "state": "free",
+        "url": null
+      },
+      "time": "20:00–00:00",
+      "title": null,
+      "url": "/de/schedule/2026-06-11"
     },
     {
       "category": "Clubnight",
@@ -288,6 +326,25 @@
       "url": "/de/schedule/2026-06-13"
     },
     {
+      "category": "Open Lobby",
+      "date_iso": "2026-06-18",
+      "date_label": "Do.18.06.26",
+      "floors": [
+        {
+          "artists": [],
+          "name": "LOBBY + ANNEX"
+        }
+      ],
+      "id": "2026-06-18",
+      "ticket": {
+        "state": "free",
+        "url": null
+      },
+      "time": "20:00–00:00",
+      "title": null,
+      "url": "/de/schedule/2026-06-18"
+    },
+    {
       "category": "Clubnight",
       "date_iso": "2026-06-20",
       "date_label": "Sa.20.06.26",
@@ -315,6 +372,25 @@
       "time": "22:00–06:00",
       "title": null,
       "url": "/de/schedule/2026-06-20"
+    },
+    {
+      "category": "Open Lobby",
+      "date_iso": "2026-06-25",
+      "date_label": "Do.25.06.26",
+      "floors": [
+        {
+          "artists": [],
+          "name": "LOBBY + ANNEX"
+        }
+      ],
+      "id": "2026-06-25",
+      "ticket": {
+        "state": "free",
+        "url": null
+      },
+      "time": "20:00–00:00",
+      "title": null,
+      "url": "/de/schedule/2026-06-25"
     },
     {
       "category": "Clubnight",
@@ -412,5 +488,5 @@
       "url": "/de/schedule/2026-07-11"
     }
   ],
-  "scraped_at": "2026-05-08T08:11:12+00:00"
+  "scraped_at": "2026-05-08T12:49:42+00:00"
 }
