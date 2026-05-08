@@ -24,7 +24,14 @@ jobs:
           cache: pip
       - run: pip install -e .
       - run: python -m openground_diff.main
-      - name: Commit data + site
+      - name: Restore last-notified marker
+        uses: actions/cache@v4
+        with:
+          path: data/.last_notified
+          key: last-notified-${{ hashFiles('data/history.jsonl') }}
+          restore-keys: last-notified-
+      - id: commit
+        name: Commit data + site
         run: |
           if [ -n "$(git status --porcelain data site)" ]; then
             git config user.name  "github-actions[bot]"
@@ -32,9 +39,20 @@ jobs:
             git add data site
             git commit -m "scrape: $(date -u +%Y-%m-%dT%H:%M:%SZ)"
             git push
+            echo "changed=true" >> "$GITHUB_OUTPUT"
           else
             echo "No changes."
+            echo "changed=false" >> "$GITHUB_OUTPUT"
           fi
+      - name: Notify Matrix
+        if: steps.commit.outputs.changed == 'true'
+        continue-on-error: true
+        env:
+          MATRIX_HOMESERVER: ${{ secrets.MATRIX_HOMESERVER }}
+          MATRIX_ACCESS_TOKEN: ${{ secrets.MATRIX_ACCESS_TOKEN }}
+          MATRIX_ROOM_ID: ${{ secrets.MATRIX_ROOM_ID }}
+          SITE_URL: ${{ vars.SITE_URL }}
+        run: python scripts/notify_matrix.py
       - uses: actions/upload-pages-artifact@v3
         with:
           path: site

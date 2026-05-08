@@ -38,3 +38,24 @@ Open `site/index.html` in your browser.
 `.github/workflows/scrape.yml` runs the CLI on a 6-hour cron, commits any
 changes under `data/` and `site/`, and deploys `site/` to GitHub Pages.
 Enable Pages once in the repo settings (source: GitHub Actions).
+
+### Matrix notifications (optional)
+
+After a successful commit the workflow runs `scripts/notify_matrix.py`,
+which posts the latest run's changes to a Matrix room via the Client-Server
+API. The step no-ops (and never fails the job) when secrets are absent,
+so forks work out of the box.
+
+Configure these repository secrets to enable it:
+
+- `MATRIX_HOMESERVER` — e.g. `https://matrix.example.org`
+- `MATRIX_ACCESS_TOKEN` — bot user's access token (the bot must already be
+  joined to the target room, and the room must not be E2EE)
+- `MATRIX_ROOM_ID` — internal room id, e.g. `!abcdef:example.org`
+
+Optional repository variable:
+
+- `SITE_URL` — public URL of the deployed site, linked from the message header.
+
+Idempotency is provided by `data/.last_notified` (gitignored, cached
+between runs by `actions/cache`).
