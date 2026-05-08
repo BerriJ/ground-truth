@@ -1,0 +1,27 @@
+:root { color-scheme: light dark; }
+* { box-sizing: border-box; }
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", system-ui, sans-serif;
+    max-width: 52rem;
+    margin: 2rem auto;
+    padding: 0 1rem;
+    line-height: 1.5;
+}
+h1 { margin-bottom: 0.25rem; }
+.meta { color: #666; font-size: 0.9rem; margin-bottom: 2rem; }
+section.run { border-top: 1px solid #ccc; padding-top: 1rem; margin-top: 2rem; }
+section.run h2 { font-size: 1.1rem; margin: 0 0 0.5rem; }
+.empty { color: #888; font-style: italic; }
+.change { padding: 0.6rem 0.8rem; margin: 0.5rem 0; border-left: 4px solid #ccc; background: rgba(127,127,127,0.06); }
+.change.added { border-left-color: #1a7f37; }
+.change.cancelled { border-left-color: #cf222e; }
+.change.modified { border-left-color: #9a6700; }
+.change h3 { margin: 0 0 0.25rem; font-size: 1rem; }
+.change h3 a { color: inherit; }
+.kind { display: inline-block; font-size: 0.75rem; text-transform: uppercase;
+        letter-spacing: 0.05em; padding: 0.05rem 0.4rem; border-radius: 0.25rem;
+        background: rgba(127,127,127,0.15); margin-right: 0.4rem; vertical-align: middle; }
+.change ul { margin: 0.25rem 0 0; padding-left: 1.2rem; }
+.change li { margin: 0.1rem 0; }
+.added-artist::before { content: "+ "; color: #1a7f37; font-weight: bold; }
+.removed-artist::before { content: "− "; color: #cf222e; font-weight: bold; }

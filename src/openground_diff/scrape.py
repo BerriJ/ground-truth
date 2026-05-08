@@ -2,6 +2,7 @@
 from __future__ import annotations
 
 import re
+import time
 from dataclasses import dataclass, field, asdict
 from typing import Any
 
@@ -9,7 +10,10 @@ import requests
 from bs4 import BeautifulSoup, Tag
 
 HOMEPAGE_URL = "https://www.openground.club/de/"
-USER_AGENT = "openground-diff/0.1 (+https://github.com/)"
+USER_AGENT = (
+    "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
+    "(KHTML, like Gecko) Chrome/124.0 Safari/537.36"
+)
 SCHEDULE_RE = re.compile(r"/de/schedule/(?P<slug>[^/?#]+)")
 DATE_RE = re.compile(r"^(?P<date>\d{4}-\d{2}-\d{2})")
 
@@ -42,10 +46,22 @@ class Event:
         return asdict(self)
 
 
-def fetch(url: str = HOMEPAGE_URL, timeout: float = 20.0) -> str:
-    resp = requests.get(url, timeout=timeout, headers={"User-Agent": USER_AGENT})
-    resp.raise_for_status()
-    return resp.text
+def fetch(url: str = HOMEPAGE_URL, timeout: float = 60.0) -> str:
+    headers = {
+        "User-Agent": USER_AGENT,
+        "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+        "Accept-Language": "de,en;q=0.7",
+    }
+    last_err: Exception | None = None
+    for attempt in range(3):
+        try:
+            resp = requests.get(url, timeout=timeout, headers=headers)
+            resp.raise_for_status()
+            return resp.text
+        except requests.RequestException as err:
+            last_err = err
+            time.sleep(2 * (attempt + 1))
+    raise RuntimeError(f"failed to fetch {url}") from last_err
 
 
 def parse_html(html: str) -> list[Event]:
