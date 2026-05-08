@@ -1,4 +1,4 @@
-# openground-diff
+# Ground-Truth
 
 Scrapes the [Open Ground](https://www.openground.club/de/) homepage on a
 schedule and publishes a static page that lists meaningful changes between
