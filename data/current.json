@@ -1,41 +1,6 @@
 {
   "events": [
     {
-      "category": "Extended Clubnight",
-      "date_iso": "2026-05-09",
-      "date_label": "Sa.09.05.26",
-      "floors": [
-        {
-          "artists": [
-            "Kā (live) Gong x Synthesis",
-            "Harman Holiday (opening concert)",
-            "dBridge (ambient set)",
-            "D.K.",
-            "dBridge",
-            "Darwin",
-            "Nono Gigsta"
-          ],
-          "name": "FREIFELD"
-        },
-        {
-          "artists": [
-            "Andy Martin",
-            "Mama Snake",
-            "Basic Chanel (ambient set)"
-          ],
-          "name": "ANNEX"
-        }
-      ],
-      "id": "2026-05-09-abyss-at-open-ground",
-      "ticket": {
-        "state": "onsale",
-        "url": "https://shop.weeztix.com/190ca081-74f2-43b4-9259-f33c6266cf42"
-      },
-      "time": "20:00–07:00",
-      "title": "Abyss at Open Ground",
-      "url": "/de/schedule/2026-05-09-abyss-at-open-ground"
-    },
-    {
       "category": "Special Event",
       "date_iso": "2026-05-13",
       "date_label": "Mi.13.05.26",
@@ -488,5 +453,5 @@
       "url": "/de/schedule/2026-07-11"
     }
   ],
-  "scraped_at": "2026-05-10T01:17:02+00:00"
+  "scraped_at": "2026-05-10T07:13:09+00:00"
 }
