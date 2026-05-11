@@ -221,9 +221,18 @@ def _render_change_body(change: dict[str, Any]) -> Iterable[str]:
             + "".join(sub)
             + "</ul></li>"
         )
+    # Suppress slot-level changes (time, bio) for artists that are already
+    # reported as added or removed on the same floor.
+    moved: set[tuple[str, str]] = set()
+    for fc in change.get("floor_changes") or []:
+        floor = fc.get("floor", "")
+        for a in (fc.get("artists_added") or []) + (fc.get("artists_removed") or []):
+            moved.add((floor, a))
     for sc in change.get("slot_changes") or []:
         floor = sc.get("floor", "")
         name = sc.get("name", "")
+        if (floor, name) in moved:
+            continue
         parts: list[str] = []
         t_old = sc.get("time_old")
         t_new = sc.get("time_new")

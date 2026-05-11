@@ -62,3 +62,18 @@ Optional repository variable:
 
 Idempotency is provided by `data/.last_notified` (gitignored, cached
 between runs by `actions/cache`).
+
+#### Testing
+
+If you have set up the above environment variables locally, you can test the notification service as follows:
+
+```sh
+# Inspect the request without sending:
+python scripts/test_matrix_notify.py --dry-run
+
+# Send a synthetic change set to the configured room:
+python scripts/test_matrix_notify.py
+
+# Send a custom one-liner instead:
+python scripts/test_matrix_notify.py --message "hello from ground-truth"
+```
