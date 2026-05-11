@@ -5,9 +5,6 @@ import json
 from html import escape
 from pathlib import Path
 from typing import Any, Iterable
-from urllib.parse import urljoin
-
-SITE_BASE_URL = "https://www.openground.club"
 
 STYLE_CSS = """\
 :root { color-scheme: light dark; }
@@ -109,8 +106,7 @@ def _render_change(change: dict[str, Any]) -> str:
     url = change.get("url")
     headline_inner = escape(headline_text)
     if url:
-        href = urljoin(SITE_BASE_URL, url)
-        headline_inner = f'<a href="{escape(href)}">{headline_inner}</a>'
+        headline_inner = f'<a href="{escape(url)}">{headline_inner}</a>'
     parts = [f'<div class="change {escape(kind)}">']
     suffix = (
         f' <small>· {escape(date_label)}</small>'

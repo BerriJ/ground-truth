@@ -3,9 +3,6 @@ from __future__ import annotations
 
 from html import escape
 from typing import Any
-from urllib.parse import urljoin
-
-SITE_BASE_URL = "https://www.openground.club"
 
 _KIND_LABEL = {
     "added": "Added",
@@ -54,7 +51,7 @@ def _change_text(change: dict[str, Any]) -> list[str]:
     url = change.get("url")
     head = f"- [{_KIND_LABEL.get(kind, kind)}] {title} · {date_label}"
     if url:
-        head += f" ({urljoin(SITE_BASE_URL, url)})"
+        head += f" ({url})"
     lines = [head]
     for sub in _change_sub_lines(change):
         lines.append(f"  - {sub}")
@@ -68,8 +65,7 @@ def _change_html(change: dict[str, Any]) -> str:
     url = change.get("url")
     title_html = escape(title)
     if url:
-        href = urljoin(SITE_BASE_URL, url)
-        title_html = f'<a href="{escape(href, quote=True)}">{title_html}</a>'
+        title_html = f'<a href="{escape(url, quote=True)}">{title_html}</a>'
     parts = [
         f"<li><strong>[{escape(_KIND_LABEL.get(kind, kind))}]</strong> "
         f"{title_html} · {escape(date_label)}"
