@@ -54,15 +54,26 @@ def _read_runs(history_path: Path) -> list[dict[str, Any]]:
     return runs
 
 
-def render_site(history_path: Path, out_dir: Path) -> None:
+def render_site(
+    history_path: Path,
+    out_dir: Path,
+    last_scrape: str | None = None,
+) -> None:
     runs = _read_runs(history_path)
     out_dir.mkdir(parents=True, exist_ok=True)
     (out_dir / "style.css").write_text(STYLE_CSS, encoding="utf-8")
-    (out_dir / "index.html").write_text(_render_index(runs), encoding="utf-8")
+    (out_dir / "index.html").write_text(
+        _render_index(runs, last_scrape), encoding="utf-8"
+    )
 
 
-def _render_index(runs: list[dict[str, Any]]) -> str:
-    last_run = runs[0]["run_at"] if runs else "never"
+def _render_index(runs: list[dict[str, Any]], last_scrape: str | None = None) -> str:
+    if last_scrape:
+        last_run = last_scrape
+    elif runs:
+        last_run = runs[0]["run_at"]
+    else:
+        last_run = "never"
     body_parts: list[str] = []
     body_parts.append(f"<h1>Open Ground — line-up changes</h1>")
     body_parts.append(

@@ -96,7 +96,7 @@ def main(argv: list[str] | None = None) -> int:
         _append_history(history_path, run_at, change_dicts)
 
     if not args.no_render:
-        render_site(history_path, args.site_dir)
+        render_site(history_path, args.site_dir, last_scrape=run_at)
 
     print(
         f"scraped {len(new_events)} events, "
