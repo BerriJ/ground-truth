@@ -97,4 +97,23 @@ def _change_sub_lines(change: dict[str, Any]) -> list[str]:
             out.append(f"{floor}: + {a}")
         for a in fc.get("artists_removed") or []:
             out.append(f"{floor}: − {a}")
+    for fsc in change.get("floor_subtitle_changes") or []:
+        floor = fsc.get("floor", "")
+        old = fsc.get("old") or "—"
+        new = fsc.get("new") or "—"
+        out.append(f"{floor} subtitle: {old} → {new}")
+    for sc in change.get("slot_changes") or []:
+        floor = sc.get("floor", "")
+        name = sc.get("name", "")
+        bits: list[str] = []
+        t_old = sc.get("time_old")
+        t_new = sc.get("time_new")
+        if t_old or t_new:
+            bits.append(f"time {t_old or '—'} → {t_new or '—'}")
+        if sc.get("bio_changed"):
+            bits.append("bio updated")
+        if bits:
+            out.append(f"{floor} · {name}: " + "; ".join(bits))
+    if change.get("description"):
+        out.append("description updated")
     return out

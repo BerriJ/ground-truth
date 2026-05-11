@@ -1,9 +1,12 @@
 # Ground-Truth
 
-Scrapes the [Open Ground](https://www.openground.club/de/) homepage on a
+Scrapes the [Open Ground](https://www.openground.club/en/) homepage on a
 schedule and publishes a static page that lists meaningful changes between
 scrapes (new events, cancellations of future events, line-up edits, ticket
-state flips, time changes). Past events that simply roll off the homepage are
+state flips, time changes). It additionally fetches each event's detail page
+(`/en/schedule/<date>`) and tracks set times, artist bios, floor subtitles
+and the night's general description, surfacing those as deeper diffs on
+per-event sub-pages. Past events that simply roll off the homepage are
 not reported.
 
 ## Local usage

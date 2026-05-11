@@ -9,6 +9,7 @@ body {
 }
 h1 { margin-bottom: 0.25rem; }
 .meta { color: #666; font-size: 0.9rem; margin-bottom: 2rem; }
+.nav { margin-bottom: 1.5rem; font-size: 0.95rem; }
 section.run { border-top: 1px solid #ccc; padding-top: 1rem; margin-top: 2rem; }
 section.run h2 { font-size: 1.1rem; margin: 0 0 0.5rem; }
 .empty { color: #888; font-style: italic; }
@@ -25,3 +26,36 @@ section.run h2 { font-size: 1.1rem; margin: 0 0 0.5rem; }
 .change li { margin: 0.1rem 0; }
 .added-artist::before { content: "+ "; color: #1a7f37; font-weight: bold; }
 .removed-artist::before { content: "− "; color: #cf222e; font-weight: bold; }
+.text-diff { margin: 0.4rem 0; padding: 0.4rem 0.6rem; background: rgba(127,127,127,0.08);
+             border-radius: 0.25rem; white-space: pre-wrap; font-size: 0.9rem; }
+.text-diff .label { font-weight: bold; font-size: 0.75rem; text-transform: uppercase;
+                    letter-spacing: 0.05em; color: #888; display: block; margin-bottom: 0.2rem; }
+.text-diff.old { border-left: 3px solid #cf222e; }
+.text-diff.new { border-left: 3px solid #1a7f37; }
+
+/* Per-event page */
+.event-meta { color: #666; font-size: 0.9rem; margin-bottom: 1.5rem; }
+.event-floor { border: 1px solid rgba(127,127,127,0.25); border-radius: 0.4rem;
+               padding: 0.75rem 1rem; margin: 1rem 0; }
+.event-floor h3 { margin: 0 0 0.5rem; font-size: 1.05rem; }
+.event-floor .floor-sub { color: #888; font-size: 0.85rem; font-weight: normal; }
+.slot { padding: 0.4rem 0; border-top: 1px dashed rgba(127,127,127,0.25); }
+.slot:first-of-type { border-top: 0; }
+.slot-details { padding: 0; margin: 0; }
+.slot-details > summary { list-style: none; cursor: pointer; display: flex;
+                          gap: 0.6rem; align-items: baseline; }
+.slot-details > summary::-webkit-details-marker { display: none; }
+.slot-details:not([open]) > summary .slot-toggle::before { content: "▸ "; color: #888; }
+.slot-details[open] > summary .slot-toggle::before { content: "▾ "; color: #888; }
+.slot-details > summary.no-bio { cursor: default; }
+.slot-details > summary.no-bio .slot-toggle { visibility: hidden; }
+.slot-toggle { font-size: 0.85rem; min-width: 1em; }
+.slot-time { font-variant-numeric: tabular-nums; color: #555; min-width: 3.5em; }
+.slot-name { font-weight: 600; }
+.slot-city { color: #888; font-size: 0.85rem; }
+.slot-bio { margin: 0.4rem 0 0.2rem 4.6em; font-size: 0.92rem; color: #444;
+            white-space: pre-wrap; }
+.event-description { margin: 1.5rem 0; padding: 0.75rem 1rem;
+                     background: rgba(127,127,127,0.06); border-radius: 0.4rem;
+                     white-space: pre-wrap; }
+.event-description h2 { margin: 0 0 0.5rem; font-size: 1rem; }

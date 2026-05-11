@@ -3,7 +3,54 @@
     {
       "category": "Special Event",
       "date_iso": "2026-05-13",
-      "date_label": "Mi.13.05.26",
+      "date_label": "Wed.13.05.26",
+      "detail": {
+        "description": "Expect a night of deep, forward-thinking club music between house, dub, ambient and techno, shaped by Marcus Worgull and Michael Mayer’s long-standing practice as selectors, moving fluidly between groove-driven club moments and more open, atmospheric passages.\nOn May 13th, a little over two years will have passed since ILLUSION first took the reins of a night at Open Ground. For a decade this year, Illusion have shared a particular sensitivity for music that wanders beyond well-trodden listening paths and sounds that drift somewhere off the map of habit. Over time, that shared instinct has grown into something more tangible: these days, they not only share a musical language, but also a roof, living in the same building in their hometown Cologne. And as if that was not domestic enough, Ole B/P’s father Marcus Worgull will stay close, appearing at Freifeld.\n\nThe guest artists who bring music to Illusion’s homely club nights could hardly be more different from one another. Yet beneath their differences runs a common thread: each of them carries a sound that feels personal, idiosyncratic, and lovingly cultivated rather than carefully packaged. This same spirit connects them to FEELX, a driving force behind KuH; an independent, off-center community festival in the Black Forest.\n\nAdmission 20 € / before 23:00 15 €",
+        "floors": [
+          {
+            "name": "FREIFELD",
+            "slots": [
+              {
+                "bio": "As a producer, Marcus has been closely linked with Dixon and Âme’s Innervisions label and their unique brand of emotive club music for the entirety of his career. Friendship and a genuine interest in human interaction continue to inform all of his creative efforts. Those principles have led to collaborations with Peter Pardeike, Osunlade, Prins Thomas, Âme's Frank Wiedemann, Daniel Bortz, Mr. White (of Larry Heard fame) and UK singer/songwriter Fink.\n\nWhether it’s original material or remixes for The xx, Tevo Howard & Tracy Thorne, UR’s Gerald Mitchell and labels like DFA or Running Back, Marcus’ tracks run the gamut from\ndancefloor-ready jams to the expansive ambience of Vermont, his production duo with Danilo Plessow (Motor City Drum Ensemble) that has brought forth two acclaimed LPs on Cologne institution Kompakt Records.\n\nHis latest release with Innervisions, „Broad Horizons“ not only showcases his connection with\nhouse music, it also hints at his love of dub and reggae. This open minded approach to music is\nwhat makes Marcus Worgull succeed as a DJ who can perfectly read his audience, without losing\nhis instinct for deep haunting grooves that feed his soul.\nIn 2020 Marcus started his own label Chorus Records with releases by Frank Wiedemann, Imperieux a.o..",
+                "city": "Cologne",
+                "name": "Marcus Worgull",
+                "time": "23:30"
+              },
+              {
+                "bio": "Over the past four decades, Michael Mayer has done many things: maintained an internationally renowned DJ career; co-steered the Kompakt record label, physical store, and online shop; and produced a slow but steady stream of singles and albums, both solo, and in collaboration with the likes of Superpitcher, Reinhard Voigt, Kölsch, Barnt, and – on his 2016 album, & - a plethora of talents from dance music and beyond. He’s also released several ground-breaking, legendary mix discs, from 1998’s gorgeous Neuhouse, to the epochal Immer mixes, plus contributions to both the Fabric and DJ-Kicks series. Key to all of this, though, is the decorous drive of his clear, yet open-minded aesthetic, and a wide-eyed, thorough-going appreciation for music in all its variety and complexity.\n\nWhen talking about this deep love of music, Mayer’s eyes light up: he’s clearly got the spirit in him. “I enjoy digging in all kinds of genres. What I’m trying to excerpt from all that is something that could function within the realms of Kompakt or my DJ sets. I’m constantly trying to find inspiration somewhere to take the label or my DJ sets to the next level. My life is hunting down tracks, identifying them, and trying to bring them to the world somehow.” You can sense this broad aesthetic purview in the albums he’s released via his Imara imprint: new albums from Heiko Voss and Servicio Al Cliente; reissues of Nigerian psych-rock with Ofege, the American soul-funk of Greenlove, and classic Cologne electronica by Schlammpeitziger.\nAs Mayer clarifies, though, this all weaves back into his calling as a selector. “I will always be, first and foremost, a DJ. Everything else I do, being production, curating the record store, curating the label, I’m doing all that with the heart of a DJ.” When asked what’s core to being a DJ, why it’s so important to him, he replies, simply, “It’s like a compass to navigate through this world. I’m striving to bring joy to this world, and make people happy, but at the same time, there’s always this educational thing. You want to play them the best possible music and the most state-of-the-art music right now.” Sometimes, that music is Mayer’s own, and he’s also always slowly working on new productions; there’s an EP, maybe an album to come, but it’ll take its own sweet time.\n\nUltimately, though, Mayer’s reflections on the work he does suggest an approach to life that’s built around care and consideration; around the spirit of sharing, both sharing the music that Mayer spends his time digging out for listeners, and sharing the space of the club, the venue, but also the collective, the crew, the heads that gather together wherever there’s a great night to be had. “I deeply care about this music, this company, the scene, the people,” he concludes, reflecting on his multi-faceted career to date. “It’s a whole filtering thing: filtering through the bullshit and presenting what I think is music that should be heard.”",
+                "city": "Cologne",
+                "name": "Michael Mayer",
+                "time": "02:30"
+              }
+            ],
+            "subtitle": null
+          },
+          {
+            "name": "ANNEX",
+            "slots": [
+              {
+                "bio": "Ada Luvv is a North Rhine–Westphalia–based dancefloor enthusiast and crossword master. Rooted somewhere in that no-name land between niche and classy club music, she feels especially drawn to anything percussive, pulsating, spacious and delightfully quirky. While striving to channel her eclectic taste into mixes that are diverse yet inherently consistent, her deeper intention remains simple: to gather people, connect through music with like-minded souls, and create intense moments of collective spark.",
+                "city": "Cologne",
+                "name": "Ada Luvv",
+                "time": "22:00"
+              },
+              {
+                "bio": "FEELX is a Vienna-based DJ and part of the Klein und Haarig Festival.\nFor him, playing music and curating the DIY festival are about finding the balance between vision, space and intuition. Both a collection of choices with a focus on context and timing. No distractions, just tracks. One after the other.",
+                "city": "Vienna",
+                "name": "FEELX",
+                "time": "00:30"
+              },
+              {
+                "bio": "Magnus is a DJ from Cologne, Germany, whose work sails between ambient, trance and techno with a special interest in atmosphere and depth in sound.\n\nOle B/P is a Wuppertal-born and Cologne-based DJ. His DJ sets aim at balancing functionality with curiosity, maintaining a keen sense of context and curation.As co-founder of Illusion he has been an active part of the Cologne music scene for almost a decade, playing alongside artists like upsammy, Bambounou, OKO DJ and others.",
+                "city": "Cologne",
+                "name": "Magnus b2b Ole B/P",
+                "time": "03:00"
+              }
+            ],
+            "subtitle": "Illusion at Open Ground"
+          }
+        ]
+      },
       "floors": [
         {
           "artists": [
@@ -28,12 +75,35 @@
       },
       "time": "22:00–06:00",
       "title": null,
-      "url": "/de/schedule/2026-05-13"
+      "url": "https://www.openground.club/en/schedule/2026-05-13"
     },
     {
       "category": "Open Lobby",
       "date_iso": "2026-05-14",
-      "date_label": "Do.14.05.26",
+      "date_label": "Thu.14.05.26",
+      "detail": {
+        "description": "Gitter is a collective of artists and event organizers that has been actively shaping Essenʼs cultural scene since\n2018. Originally specializing in techno raves that began secretly in the woods and have since evolved into events\nin the local club scene and off-locations, the collective has continuously developed over the years. This growth\nled to the creation of Gitter Raum, a cultural center on the outskirts of Essenʼs inner city, which in recent years has\nprovided space for intimate concerts, art exhibitions, readings, and diverse encounters.\nWhether rave, concert, or exhibition — every Gitter event aims to create a temporary space where everyday\nconventions give way to fresh ideas, allowing something new to emerge.",
+        "floors": [
+          {
+            "name": "LOBBY + ANNEX",
+            "slots": [
+              {
+                "bio": "Annabelle is a DJ rooted in the Essen-based collective Gitter, bringing a distinctive sense of flow and atmosphere\nto the dancefloor.\nWith an intuitive feel for rhythm and selection, she effortlessly transforms her deep musical knowledge into\nunforgettable moments. Whether at Tresor.West, Druckluft, Junkyard, Goethebunker, or the Kornfeld Festival, she\nhas a remarkable ability to channel her love for music and movement directly into the crowd.\nHer sets are marked by a playful confidence and a finely tuned connection to her audience — creating spaces\nwhere energy circulates naturally and the night unfolds with ease.\n\nAs a co-founder of Gitter and Kontaktfeld, Leniart has been part of the underground scene in the Ruhr area since\n2018, organizing raves and concerts in Essen and beyond. Behind the decks, his sound is atmospheric, deep, and\ndriving. Each set is carefully curated for the night and always evolving, with a strong focus on low-end, sub-heavy\nsounds. Blending hypnotic, groovy techno with influences of dub and deep house, his sets are sometimes heady\nyet irresistibly danceable.",
+                "city": "Essen",
+                "name": "Annabelle b2b Leniart",
+                "time": null
+              },
+              {
+                "bio": "Dns, member of the Essener collective Gitter and co-founder of the party series abstract_concrete plays with an\nenergetic fusion of powerful and hypnotic melodies and creates ecstatic sound landscapes throughout his sets.\nDriven by the cultural and musical diversity, of his hometown Essen and his playground the Ruhr Area his mixes\ndisplay an act of refusing the obvious. He loves to surprise his listeners with groove and funk inspired techno\ntunes to loosen the gradually build up tension.\n\nMetrapha, a part of Essenʼs local cultural scene and co-founder of the Gitter collective, guides his listeners\nthrough dark, hypnotic sonic landscapes, where he gradually dares to transition into unknown spheres.\nIn his DJ sets, he perceives the audience as an emotional resonance body, eliciting visceral reactions through\ndriving, technoid grooves and melodic, sometimes dub-inspired textures. For him, techno serves as a vehicle to\nexplore the ineffable and transform the club space into a realm of immediacy.\nWith both the Gitter Raves and his own event series abstract_concrete, Metrapha regularly brings his vision of\ntechno to life within the local club scene and at extravagant off-locations. Always in search of the real within track\nculture, these carefully curated club nights invite an immersive experience and reveal the profound artistic depth\nof techno as an art form.",
+                "city": "Essen",
+                "name": "Dns b2b Metrapha",
+                "time": null
+              }
+            ],
+            "subtitle": "Drinks and DJ selections free entry"
+          }
+        ]
+      },
       "floors": [
         {
           "artists": [
@@ -50,12 +120,71 @@
       },
       "time": "20:00–00:00",
       "title": null,
-      "url": "/de/schedule/2026-05-14"
+      "url": "https://www.openground.club/en/schedule/2026-05-14"
     },
     {
       "category": "Clubnight",
       "date_iso": "2026-05-16",
-      "date_label": "Sa.16.05.26",
+      "date_label": "Sat.16.05.26",
+      "detail": {
+        "description": "We’re very excited to be back at Open Ground for our third label night with re:ni, Deetron presents Soulmate and the Zenker Brothers.\n\nIlian Tape stands for a wide musical spectrum and we’re always open to many directions — but our roots lie in Techno, and this night will clearly celebrate that side of the label.\n\nFor us, Techno can be many things: it can be dark or uplifting, straight or broken, but it always needs one thing — groove. We love it funky, soulful and with a personal touch.\n\nre:ni will kick things off smoothly and bring her signature UK touch to the floor. The Zenker Brothers will then pick up the energy and flow with the atmosphere of the night. Closing the night is a true legend: Deetron with his Soulmate project — a highly skilled DJ with decades of experience who will guide you into the morning.\n\nOne Love\nSPA\nreturns to Open Ground for a masterclass in forward-thinking club music, blending bass-heavy techno with grime, footwork, and fractured rhythms. The night explores the full spectrum of the underground, shifting from atmospheric depth to raw, unapologetic intensity. It’s an immersive journey through weighted beats and creative mixing, built for those who thrive at the edges of sound.\n\nAdmission 20 € / before 23:00 15 €",
+        "floors": [
+          {
+            "name": "FREIFELD",
+            "slots": [
+              {
+                "bio": "re:ni is the alias of Lauren Reni Bush, a DJ & producer based in South East London. Born in Birmingham and later raised in Dorset, re:ni's sub-heavy sound marries deep, dank dub sonics with dark & twisted mutations of techno, jungle and dubstep, characteristic of her label, party and radio show \"re:lax\" which she runs with Hessle Audio affiliate Laksa. Following her steady rise as an internationally recognised DJ, having played institutions like De School, fabric and Panorama Bar multiple times, re:ni released her debut 12\" Revenge Body on Ilian Tape in 2022. This year saw the release of her second EP BeautySick which came out via Batu's Timedance label, as well as her first 12\" on her own imprint.",
+                "city": "London",
+                "name": "re:ni",
+                "time": "22:00"
+              },
+              {
+                "bio": "Rooted in the legacy of Detroit and Techno, House, Dub, Rap Music and Breakbeats, the two brothers managed to define their own trademark sound over the years with their own productions, and their own way of running a label by building a fundament with patience.\nThe brothers never forget their roots, where they came from and the essential meaning of a well-known Munich proverb: “Live and let live”, so furthermore they transcend the musical legacy of their hometown into the new millennium, shaping and forming it the Zenkerian way towards something very unique and – even more important – connective.",
+                "city": "Munich",
+                "name": "Zenker Brothers",
+                "time": "01:00"
+              },
+              {
+                "bio": "Being involved with making and playing music for almost 30 years, Deetron stands as a pillar ofconsistency, creativity, and technical mastery.Renowned for his mind-boggling three-deck DJ-sets,signature remixes, and a richly diverse discography, he has built a career defined by quality, depth, and authenticity.\n\nRaised in Bern, Switzerland, young Deetron’s passion was rooted in hip-hop and turntablism, driven by alove for vinyl and inspired by local hero DJ Djaimin and an eye opening DJ-set from Jeff Mills in the early‘90s.He absorbed the traditions of DJ-ing; those basic, yet crucially important elements: a broad yet accessible selection, true skills built up from hours and hours of practice and dedication.\n\nToday, Deetron is an icon for a new generation of DJ's and producers.His mixing ability is second tonone with vinyl still an intrinsic part of his creative process, pledging wholehearted allegiance to hisroots.The art of his crate-digging & mixing has been eternalised through multiple official mix CD’s ('InThe Mix', 'Fuse presents Deetron', 'Balance 020', 'Fabric 76', 'DJ-Kicks’).",
+                "city": "Zurich",
+                "name": "Deetron pres. SOULMATE",
+                "time": "04:00"
+              }
+            ],
+            "subtitle": "Ilian Tape at Open Ground"
+          },
+          {
+            "name": "ANNEX",
+            "slots": [
+              {
+                "bio": "DJ Brom aka FRANCE ’98 is a musician, DJ and graphic designer based in Cologne. In 2018 he co-founded the label SPA Recordings alongside longterm friends Philip Jondo and Friday Dunard, accompanied by Sarah San & Manuel Sékou. Their output marks 17 releases in different formats and numerous radio shows for their monthly NTS residency. Besides his work as an artist DJ Brom co-curates events and festivals such as Cologne's renowned annual 'Night of Surprise'.",
+                "city": "Cologne",
+                "name": "DJ Brom",
+                "time": "23:00"
+              },
+              {
+                "bio": "With co-signings from some of Europe’s most influential venues, platforms and labels, including Düsseldorf’s Salon des Amateurs and London’s NTS Radio, Cologne-based artist Phillip Jondo has garnered a reputation as a first-class DJ and producer since many years.\nHis debut EP Little Princess for Dekmantel (2021), featured knockout collaborations with Maxwell Sterling, DJ Plead and Moa Pillar. Jondo’s latest BISQU EP feat. Xzavier Stone and DJ Plead will be released via his own imprint SPA Recordings and treads a similarly weighty path. The label SPA was launched in 2018 by Jondo and his friends DJ Brom and Friday Dunard.\nSince 2014 Phillip has been regularly hosting shows on NTS and inviting international guests to deliver forward thinking and creative selections. His sets cover everything from grime, house, footwork, jungle, rap, dancehall, R&B, disco to bass-heavy techno. Jondo’s passion for experimentation made him a unique selector, who has been able to seamlessly connect the dots between various styles through thoughtful layering and creative mixing skills.\nWith highlight shows including festivals and clubs like Draaimolen, Meakusma, Dekmantel, Dekmantel Selectors, Melt, Robert Johnson and De School, Jondo has presented his distinctive sound to a variety of audiences across Europe.",
+                "city": "Cologne",
+                "name": "Phillip Jondo",
+                "time": "00:30"
+              },
+              {
+                "bio": "Zora Jones has always thrived at the edges of sound and vision. Her 2020 debut album, Ten Billion Angels, stretched across 11 tracks of ghostly voices and fractured rhythms, channeling an entire spectrum of emotion into a vivid, otherworldly experience. The record marked a culmination of years spent pushing boundaries, both on her own and in collaboration.\n\nBack in 2014, she co-founded Fractal Fantasy with Sinjin Hawke - a fluid, shape-shifting platform where their interactive experiments and musical projects could come alive. The duo has since toured the world with a relentless AV live show, refining and reimagining it since. Along the way, Zora carved out her own lane with shorter releases like her debut EP 100 Ladies and the collaborative Vicious Circles on Planet Mu, while also linking with artists including Jlin, La Zowi, Scratcha DVA, and Heavee.\n\nNow, 2026 signals a new chapter. After a club-centric EP early in the year, her new album will deliver a raw and unapologetic body of work that oscillates between fragility and ferocity - a testament to survival and defiance in the face of pain. It’s a bold statement of intent: Zora Jones isn’t just passing through - she’s building worlds, and she’s here to stay.",
+                "city": "Barcelona",
+                "name": "Zora Jones",
+                "time": "02:00"
+              },
+              {
+                "bio": null,
+                "city": null,
+                "name": "Phillip Jondo & DJ Brom",
+                "time": "03:30"
+              }
+            ],
+            "subtitle": "SPA Recordings at Open Ground"
+          }
+        ]
+      },
       "floors": [
         {
           "artists": [
@@ -82,12 +211,29 @@
       },
       "time": "22:00–07:00",
       "title": null,
-      "url": "/de/schedule/2026-05-16"
+      "url": "https://www.openground.club/en/schedule/2026-05-16"
     },
     {
       "category": "Open Lobby",
       "date_iso": "2026-05-21",
-      "date_label": "Do.21.05.26",
+      "date_label": "Thu.21.05.26",
+      "detail": {
+        "description": null,
+        "floors": [
+          {
+            "name": "LOBBY + ANNEX",
+            "slots": [
+              {
+                "bio": "DJ finsterNiz (BitchesxWitches) moves between bass-heavy and atmospheric sound without sticking to one lane. Her approach is stripped back and precise — broken, slightly shifted rhythms, sharp drums and deep, controlled low-end.\nThe energy doesn’t rely on big drops. It builds steadily, stays present and pulls you in — dark, hypnotic and focused. At the same time, there are moments that open up, creating space to breathe without losing tension.\nMinimal, direct and grounded in a deconstructed, mental approach — made for the heads.\n\nWith a fascination for all things bass & breaks, matildnz likes to play whatever tickles her brain, touches her soul or gets her body moving — preferably all at once. Aiming to create more spaces for unique electronic sounds, the DJ, designer and digital artist has been involved in the local music scene for quite some time now, organizing events as part of IVORY as well as curating the online radio station beton.fm.\n\nMotivated by her passion for dance and deconstructed club music, @sun_ma____ (BitchesxWitches) based in the Ruhr area, takes you on a sonic journey. A mosaic of leftfield electronic music, carried by hypnotic rhythms, glitchy surfaces, driving drums and pulsating bass lines.",
+                "city": "Oberhausen / Germany",
+                "name": "finsterNiz b2b Matildnz b2b Sun_ma",
+                "time": null
+              }
+            ],
+            "subtitle": "Drinks and DJ selections free entry"
+          }
+        ]
+      },
       "floors": [
         {
           "artists": [
@@ -103,12 +249,71 @@
       },
       "time": "20:00–00:00",
       "title": null,
-      "url": "/de/schedule/2026-05-21"
+      "url": "https://www.openground.club/en/schedule/2026-05-21"
     },
     {
       "category": "Extended Clubnight",
       "date_iso": "2026-05-23",
-      "date_label": "Sa.23.05.26",
+      "date_label": "Sat.23.05.26",
+      "detail": {
+        "description": null,
+        "floors": [
+          {
+            "name": "FREIFELD",
+            "slots": [
+              {
+                "bio": "Zoë Mc Pherson embodies the unexpected. Their vibrant, nuanced music tests sonic extremes and musical pleasure, grapples with politics and raw emotion, shapes fantasy concepts and meditates on reality.\n\nContrasts are hardwired into their projects, performances and collaborations, bringing bold forms into sharp relief — the constant in their art is evolution.\n\nMc Pherson has developed an arc of accomplished albums and EPs which strike out into uncharted zones, moving from the acute percussive angles of earlier albums through to more melodious, vocal-charged exploration. The sonic elements shifting within their sound reach from the physicality of soundsystem music to the hyper-kinetic rhythms of singeli, avant-garde synthesis, textural experimentation and the unfiltered emotive impact of club-ready pop.",
+                "city": "Berlin",
+                "name": "Zoë Mc Pherson",
+                "time": null
+              },
+              {
+                "bio": "Rob Smith, aka RSD has been moving minds, hearts, bodies and VU meters for decades. Irrepressible innovator, tastemaker and an incredible influence on all forms of dubrelated music since the eighties. A paragon for generations that have followed. With releases on respected labels including Tectonic, Punch Drunk, Black Box, Moonshine, Foundation Audio etc., RSD’s sound is typified by heavy soundsystem style sub bass lines and junglist dub breaks.\n\nWith a staggering discography and a range of projects encompassing Dub, Reggae, Jungle, 2-Step, Dubstep and Trip Hop, Rob returns to Europe after his 2025/26 tour of Japan, Hong Kong and south east Asia and is excited to be embarking on this summer’s shows.",
+                "city": "Bristol",
+                "name": "Rob Smith",
+                "time": null
+              },
+              {
+                "bio": "Born and raised in Jordan, DJ and producer Yazan Zyadat, aka Toumba, is now based inLondon, where he fashions lithe club bangers that melt Middle Eastern elements withdubstep basslines and clattering breaks. Last year he experienced a flurry of interest whenBen UFO's Hessle Audio label released his \"Petals\" EP and Zyadat was able to broadcasthis unique sounds on a larger platform. Tonally ambitious and deviously percussive, hismusic takes the essence of Arabic tarab and shelat forms (often seen as wedding music)and dilutes it in a dance floor-ready roil of booming bass and dissociated synths",
+                "city": "London / Amman",
+                "name": "Toumba",
+                "time": null
+              },
+              {
+                "bio": null,
+                "city": "Los Angeles",
+                "name": "Skrillex",
+                "time": null
+              },
+              {
+                "bio": null,
+                "city": "London",
+                "name": "Josi Devil",
+                "time": null
+              }
+            ],
+            "subtitle": null
+          },
+          {
+            "name": "ANNEX",
+            "slots": [
+              {
+                "bio": "For more than 30 years, Hans Nieswandt is a well know and highly respected personality in the music scene of Germany and beyond, a legendary character in the world of DJ culture, music production and pop culture writing.\n\nAs a DJ, the width of his depth is breathtaking. His club sets are usually build around his deep mix of disco, house and techno, but he also sometimes plays hippie music, hiphop, folk, jazz, soul, reggae, post punk, yacht rock, baroque pop and so on.",
+                "city": "Cologne / Tokyo",
+                "name": "Hans Nieswandt",
+                "time": null
+              },
+              {
+                "bio": "Best known for his diverse sets in the clubs of Cologne Uh-Young Kim interweaves funkyriddims with deep grooves and resistant rave signals. Under the moniker Dub Kimski he traces dance music back to its origins in Jamaican studios and embraces its sonic offsprings from Detroit via London to Durban transforming any floor into a happening space.",
+                "city": "Cologne",
+                "name": "Uh-Young Kim",
+                "time": null
+              }
+            ],
+            "subtitle": null
+          }
+        ]
+      },
       "floors": [
         {
           "artists": [
@@ -135,12 +340,47 @@
       },
       "time": "20:00–06:00",
       "title": null,
-      "url": "/de/schedule/2026-05-23"
+      "url": "https://www.openground.club/en/schedule/2026-05-23"
     },
     {
       "category": "Open Lobby",
       "date_iso": "2026-05-28",
-      "date_label": "Do.28.05.26",
+      "date_label": "Thu.28.05.26",
+      "detail": {
+        "description": "SWAMP\n\nWith the mission to complement and strengthen the Jungle and dark (Halftime-) Drum & Bass scene in North Rhine-Westphalia, SWAMP provides a vibrant grassroots venue where Jungle and Bass-Music enthusiasts come together to build and share experiences of musical journeys filled with emotional depth, rhythmic movement and an intimate vibe.\n\nAt our predominantly FLINTA*-fronted nights at AZ Wuppertal, cutting-edge Jungle and D&B meet dusty crate-digging gems and experimental sounds curated by emerging as well as established selectors from North Rhine-Westphalia and beyond.\n\nAt 'Open Lobby', we will start with a set by Mar, SWAMP's co-initiator and selector of all tings dub and jungle-related.\nMar will play a warm welcome set ranging from soulful pre- and early reggae vocals to deep, rocking dub basses.\n\nBuilding on the dubwise, Erdy Bat, who has been involved with SWAMP since the beginning, will take us on a journey through murky halftime drum and bass, tribal tech step and of course, banging jungle tunes. She has been making her mark on the German D&B scene with her crew, Shake Up, since the early 2000s.\n\nGert, who joined SWAMP in 2025, will take us further into the deep, spiralling realms of halftime drum & bass. We are looking forward to experiencing Gert's distinctive psychedelic selections and getting a sneak preview of his forthcoming ritualistic productions on Onset Audio.\n\nPetty Criminal, a music enthusiast and long-standing supporter of SWAMP, both on and off the decks, will bring the session to a close with a selection of atmospheric jungle and weird, experimental drum and bass. If you're interested, check out Petty Criminal's show on Callshop Radio.\n\nSee you on the dancefloor\nCome by, say hi\nBig Ups!",
+        "floors": [
+          {
+            "name": "LOBBY + ANNEX",
+            "slots": [
+              {
+                "bio": null,
+                "city": "Cologne",
+                "name": "Erdy Bat",
+                "time": null
+              },
+              {
+                "bio": null,
+                "city": "Bochum",
+                "name": "Gert",
+                "time": null
+              },
+              {
+                "bio": null,
+                "city": "Wuppertal",
+                "name": "Mar",
+                "time": null
+              },
+              {
+                "bio": null,
+                "city": "Cologne",
+                "name": "Petty Criminal",
+                "time": null
+              }
+            ],
+            "subtitle": "Drinks and DJ selections free entry"
+          }
+        ]
+      },
       "floors": [
         {
           "artists": [
@@ -159,12 +399,65 @@
       },
       "time": "20:00–00:00",
       "title": null,
-      "url": "/de/schedule/2026-05-28"
+      "url": "https://www.openground.club/en/schedule/2026-05-28"
     },
     {
       "category": "Clubnight",
       "date_iso": "2026-05-30",
-      "date_label": "Sa.30.05.26",
+      "date_label": "Sat.30.05.26",
+      "detail": {
+        "description": "A meeting point of dance music history, bringing all worlds together on one floor — where foundational grooves meet dub techno and forward-thinking electronics, tracing a line between past, present and future through a shared language of rhythm and sound.\nAnnex will be shaped byatmospheric and driving techno unfolds, where vinyl-led selections move between Detroit influence, industrial edge and emotive depth, where distorted elements, fragmented sounds and steady percussive force build a tense, hypnotic pull on the dancefloor.\nAdmission 25 €",
+        "floors": [
+          {
+            "name": "FREIFELD",
+            "slots": [
+              {
+                "bio": "Pioneer, Icon, Mogul, and Renaissance man are all words that describe Louis Burns a/k/a Lil Louis. An international Artist, Producer, Songwriter, DJ, Author and Director, Lil Louis is credited as being the Founding Father of House Music.\nAs the son of the late great Blues artist Bobby Sims, music became essential in Louis’s adolescent life when at age 8 he begin to play the drums and bass. In 1974, while working at a party organized by his mother Mary to unite Chicago gangs, Louis was asked to play after the DJ fell ill. The acclaim from the crowd birthed the 12-year-old’s career as a DJ, and by many accounts, the birth of House music. Shortly after, he began DJing at adult nightclubs. It was during a police raid at the River’s Edge club, that Louis was given his now renowned stage name “Lil Louis” from a riled, witty police officer.",
+                "city": "Chicago",
+                "name": "Lil Louis",
+                "time": null
+              },
+              {
+                "bio": "Moritz von Oswald is one of electronic music's most quietly influential figures - a composer, producer, and engineer whose work has shaped the sonic language of the last four decades.\n\nTrained as a classical percussionist, von Oswald came of age in the early 1980s avant-garde before co-founding the landmark Basic Channel/Maurizio and Rhythm and Sound project with Mark Ernestus. Together they wrote the blueprint for minimal techno and dub-inflected electronic music, records that remain touchstones across virtually every corner of contemporary club culture. As founder of Berlin's Dubplates & Mastering, he brought the same precision to sound reproduction, setting a benchmark for mastering quality that defined an era.\n\nThe decades since have seen him move fluidly across contexts - from his celebrated Deutsche Grammophon commission with Carl Craig, reinterpreting Ravel and Mussorgsky through an electronic lens, to the Borderland project with Juan Atkins, to The Moritz von Oswald Trio, where jazz improvisation and electronic music are drawn into unpredictable dialogue with collaborators including Vladislav Delay, Laurel Halo, and the late Tony Allen among many other projects.\n\nTechnical mastery and honest curiosity in equal measure - von Oswald remains an artist in constant motion.",
+                "city": "Berlin",
+                "name": "Moritz von Oswald",
+                "time": null
+              },
+              {
+                "bio": null,
+                "city": "Berlin",
+                "name": "Tikiman & Arthur",
+                "time": null
+              }
+            ],
+            "subtitle": null
+          },
+          {
+            "name": "ANNEX",
+            "slots": [
+              {
+                "bio": "Agnes‘ vinyl-only sets are atmospheric, with distorted and driving elements and transition into driving Techno. They are characterized by old and new techno tracks, with influences from Detroit and industrial.",
+                "city": "Wuppertal",
+                "name": "Agnes Stark",
+                "time": null
+              },
+              {
+                "bio": "Having spent much of her youth deep in Cologne’s techno scene while staying connected to Georgia’s electronic music culture, Mariami brings a blend of both influences to her sets—carefully built, emotive and textured.\n\nSince 2021, she has been part of the Brutalism label, where she also curates events across West Germany.\n\nHer sound is subtle yet forceful, emotional yet controlled. Long transitions and contrast-driven selections define her approach, moving fluidly between atmospheric rhythms and heavier, percussive elements.",
+                "city": "Cologne",
+                "name": "Mariami",
+                "time": null
+              },
+              {
+                "bio": "Sonae hat keine Scheu vor komplexen Themen, verhandelt sie in mehrstündigen Live-Sets für den Dancefloor, wo sie zweifellos hingehören. Es ist Musik, die trotz clubtauglicher Strukturen nicht nur funktioniert, sondern etwas will, irritiert, eine eigentümliche Sogwirkung hat. Gebilde aus Knistern, geisterhaften Klangfragmenten, Sirenen und Glocken, denen längst die Stimme versagt hat, zeternde Störgeräusche, klapperndes Kleinzeug, zusammengehalten von einem unmissverständlichem Beat—Stolpertechno.",
+                "city": "Berlin",
+                "name": "Sonae (live)",
+                "time": null
+              }
+            ],
+            "subtitle": null
+          }
+        ]
+      },
       "floors": [
         {
           "artists": [
@@ -190,12 +483,22 @@
       },
       "time": "22:00–06:00",
       "title": null,
-      "url": "/de/schedule/2026-05-30"
+      "url": "https://www.openground.club/en/schedule/2026-05-30"
     },
     {
       "category": "Open Lobby",
       "date_iso": "2026-06-04",
-      "date_label": "Do.04.06.26",
+      "date_label": "Thu.04.06.26",
+      "detail": {
+        "description": null,
+        "floors": [
+          {
+            "name": "LOBBY + ANNEX",
+            "slots": [],
+            "subtitle": "Drinks and DJ selections free entry"
+          }
+        ]
+      },
       "floors": [
         {
           "artists": [],
@@ -209,12 +512,59 @@
       },
       "time": "20:00–00:00",
       "title": null,
-      "url": "/de/schedule/2026-06-04"
+      "url": "https://www.openground.club/en/schedule/2026-06-04"
     },
     {
       "category": "Clubnight",
       "date_iso": "2026-06-06",
-      "date_label": "Sa.06.06.26",
+      "date_label": "Sat.06.06.26",
+      "detail": {
+        "description": "Admission 25 €",
+        "floors": [
+          {
+            "name": "FREIFELD",
+            "slots": [
+              {
+                "bio": "Influenced by early Detroit techno and Berlin dub techno, drum'n'bass and IDM, the Berghain resident likes to break the frame as a producer & DJ. Coupled with fast and razor-sharp multi-deck mixing, he continues to develop his DJ sets with forward thrust and pursues the goal of a unity-creating experience on the floor. His productions and sets are united by a constant lookout for groove, flow, reduction and repetition and follow the urge to surrender oneself solely to the music.",
+                "city": "Berlin",
+                "name": "Fadi Mohem",
+                "time": null
+              },
+              {
+                "bio": "DJ and producer Marcel Dettmann is recognized as one of the most influential proponents of contemporary techno. Widely associated with iconic places – Berlin, Berghain and Hard Wax – Dettmann stays true to his roots by consistently innovating his interpretation of electronic music, integrating art with the scene.\n\nActive since the mid 90’s, Dettmann quests tirelessly for new ways and inspiration to further develop his own concept of electronic music. His labels MDR (Marcel Dettmann Records) and Bad Manners serve as a platform upon which to shape his musical vision, and through its releases launch new talent onto the techno scene. As a curator and producer, Dettmann fosters the call to create in a way which is equally timeless and innovative. His own releases comprise three albums on Ostgut Ton and, most recently, his first album in ten years, Fear of Programming, via Dekmantel Records.\n\nOutside of the club context, Marcel Dettmann has established himself as a multi-faceted artist. He designed the sound concept for New Works, an exhibition of photographer Frederike von Rauch, contributed to the contemporary dance project Masse – together with Frank Wiedemann and choreographer Nadja Saidakowa in cooperation with Berghain and the Berlin State Ballet. His single “Seduction feat. Emika” provided the soundtrack to director and screenwriter Parker Ellerman’s short film of the same name. He further has contributed to the soundtrack of The Matrix Resurrections by Lana Wachowski in 2021.",
+                "city": "Berlin",
+                "name": "Marcel Dettmann",
+                "time": null
+              }
+            ],
+            "subtitle": null
+          },
+          {
+            "name": "ANNEX",
+            "slots": [
+              {
+                "bio": "Frau Beji brings a unique blend of North African roots and Afro-electronic music to the stage. Living and working in Dortmund as a DJ, Frau Beji aims to take her audience on a journey, conveying emotions and inspiring healing through her music.Deeply connected to Afro-electronic music, Frau Beji enjoys genres such as Afrohouse, Afrotech, and Melodic -House & Techno. Her sets are not only known for their musical diversity, but also for their spiritual atmosphere. Frau Beji aims to create a sense of connection and community through her music, providing an unforgettable experience.\n\nHer North African heritage plays an important role in her music. By combining her roots with modern sounds, she creates a unique musical vision. Through her music, she aims to build bridges between cultures and bring people together.",
+                "city": "Dortmund",
+                "name": "Frau Beji",
+                "time": null
+              },
+              {
+                "bio": "D[Nowhere]J is a unique voice in South Africa’s Gqom scene, channeling the energy of their culture into music that bridges worlds and connects people. Their performances have taken them around the globe, gracing stages from Rome and Istanbul to Berlin, Oslo, Manchester, and Amsterdam, where they leave a lasting impression on audiences and venues alike.\n\nIn 2024, D[Nowhere]J debuted with Iyaphila, a track that quickly gained recognition, securing the cover of Spotify’s Gqom Power House playlist. This release encapsulates their style—bold, raw, and emotionally resonant—melding Durban’s gritty Gqom sound with Soweto’s unbreakable spirit.\n\nD[Nowhere]J is a storyteller, using music to explore themes of connection and self-discovery. Each beat invites listeners into a shared celebration of life, dissolving differences and emphasizing our shared humanity on the dance floor.",
+                "city": "Johannesburg",
+                "name": "D[Nowhere]J",
+                "time": null
+              },
+              {
+                "bio": "Piccell is a DJ, producer, and the founder of Barulho, a collective pushing Afro-electronic music and local club culture in Germany. His sound blends AfroTech, Gqom, Kuduro, and Hardgroove, fueled by live elements and his signature MPC. With deep roots in Angola and Germany, Piccell’s sets and productions reflect a unique cultural fusion. Through Barulho, he’s building a label and creating spaces for artists and audiences to connect, while redefining what the local scene can be.",
+                "city": "Dortmund",
+                "name": "Piccell",
+                "time": null
+              }
+            ],
+            "subtitle": "Barulho World at Open Ground"
+          }
+        ]
+      },
       "floors": [
         {
           "artists": [
@@ -239,12 +589,22 @@
       },
       "time": "22:00–06:00",
       "title": null,
-      "url": "/de/schedule/2026-06-06"
+      "url": "https://www.openground.club/en/schedule/2026-06-06"
     },
     {
       "category": "Open Lobby",
       "date_iso": "2026-06-11",
-      "date_label": "Do.11.06.26",
+      "date_label": "Thu.11.06.26",
+      "detail": {
+        "description": null,
+        "floors": [
+          {
+            "name": "LOBBY + ANNEX",
+            "slots": [],
+            "subtitle": "Drinks and DJ selections free entry"
+          }
+        ]
+      },
       "floors": [
         {
           "artists": [],
@@ -258,12 +618,65 @@
       },
       "time": "20:00–00:00",
       "title": null,
-      "url": "/de/schedule/2026-06-11"
+      "url": "https://www.openground.club/en/schedule/2026-06-11"
     },
     {
       "category": "Clubnight",
       "date_iso": "2026-06-13",
-      "date_label": "Sa.13.06.26",
+      "date_label": "Sat.13.06.26",
+      "detail": {
+        "description": "For nearly ten years, Callshop Radio has been broadcasting live to the world. What began in a backyard in Düsseldorf as part of the interdisciplinary cultural space ROOOOOM has, over the years, evolved into an established community radio, building studios in Leipzig, Paris, and Vienna. The diversity of genres reflects the many facets of the scenes that Callshop Radio calls home.\n\nAlongside its ongoing radio program, events have always been a core part of the collective. Collaborations with festivals, clubs, museums, and concert venues create opportunities to bring the station’s hosts onto the stage beyond the studio. The focus remains on connecting artists from different locations and shaping events collaboratively.\n\nOn June 13, the radio stays true to this vision: for the Annex Floor at Open Ground, alongside one guest and two residents from the Düsseldorf and Leipzig locations have been invited.\n\nAdmission 25 €",
+        "floors": [
+          {
+            "name": "FREIFELD",
+            "slots": [
+              {
+                "bio": "The Tottenham London born-and-bred selector grew up on soul and reggae, later becoming a dedicated junglist. First as a resident DJ at the legendary London club Plastic People, she’s built a rep as one of the most effective and interesting DJs around. Playing shape-shifting, genre-bending sets that effortlessly move from classic rare groove and disco records to upfront house and techno, via garage, jungle and whatever else she feels like. With no social media presence, Josey’s reputation is based on selection, passion and authenticity.",
+                "city": "London",
+                "name": "Josey Rebelle",
+                "time": null
+              },
+              {
+                "bio": "Since 1994 Terrence Dixon is widely known for his experimental approach to Detroit Techno. He has been on some of the most prestigious electronic music labels such as Metroplex, Tresor, Rush Hour, Axis, Delsin, 30 drop, minimaldetroitaudio(mda) and Trip just to name a few, He also has rare appearances on Slam radio and nts radio.\nHis record releases are on another level, the \"From The Far Future\" series on Tresor, his album \"Reporting From Detroit\" on Rush Hour...to the four classics he has on Metroplex records in Detroit.\nHis unique approach to live shows is the same as the music he makes, all original unreleased material expect anything at any time but with a very steady awareness of the dance floor and mind.",
+                "city": "Detroit",
+                "name": "Terrence Dixon (live)",
+                "time": null
+              },
+              {
+                "bio": "Cisco Ferreira, known as The Advent and based in London, can be described in a variety of ways: as a musician, a trailblazer, a sound designer, a consistent presence, a tenacious individual, a rebel, an icon, an outsider, and a remarkable live performer.\n\nHowever, The Advent is primarily recognised for his unique take on what we refer to as Techno. From the moment the young Portuguese Cisco encountered Acid House in the London clubs he frequented, his mission has been to carve out his niche in the electronic music landscape. As he recently expressed, “I’ve been doing this for quite a few years and I’m not going anywhere,” which encapsulates his determination. Unlike some of his peers, you won’t catch Ferreira engaging in sensationalistic antics or fretting over the integrity of mainstream artists. He embodies everything you appreciate about techno, minus the unnecessary theatrics.",
+                "city": "London",
+                "name": "The Advent",
+                "time": null
+              }
+            ],
+            "subtitle": null
+          },
+          {
+            "name": "ANNEX",
+            "slots": [
+              {
+                "bio": "Grinsta's musical journey started with dubstep and many formative nights at places like Salon des Amateurs, Golzheim and RBC. Contributing to and moving within the multifaceted world of Callshop Radio has further broadened his musical horizons, and throughout it all he has developed a deep appreciation for records that are accompanied by dim lights and a bass heavy system.",
+                "city": "Düsseldorf",
+                "name": "Grinsta",
+                "time": null
+              },
+              {
+                "bio": "House aficionado who's been generating serious buzz. Co-founder of Dubble Records, he has transformed into one of the scene's best-kept secrets, an irresistible force of percussive, rolling dubby goodness that everyone craves.\n\nWith a growing army of supporters that includes heavyweights like Enzo Siragusa, Gene on Earth, Laidlaw, Sibil and DJ Sweet6teen,\n\nBrennan is no longer just an emerging talent; he's a namesake in the making. His infectious grooves and expert craftmanship have not only won over fans but have also solidified his reputation as a wizard in the studio.\n\nBrennan is also a seasoned DJ, effortlessly commanding the decks alongside talents such as Garrett David, Taslo, Youandewan, and Liquid Earth. Each set is a testament to his versatility, where he fuses deep basslines with hypnotic rhythms that keep the dance floor alive.\n\nAs he continues to carve out his niche, Brennan is poised to become a defining voice in the world of tech house.",
+                "city": "Manchester",
+                "name": "Brennan",
+                "time": null
+              },
+              {
+                "bio": "Originally from East Germany, based in Leipzig, Miss Take began her journey into DJing by making mixtapes for her loved ones.\n\nShe brings her signature blend of deep basslines, dubby sounds and broken rhythms. Always guided by cheeky vocals and intuitive energy.\n\nFrom new age, alternative and wave influences in her radio shows and listening sets to bass-heavy explorations on the dance floor, she stands for vibes over genres. Loving many sounds and often all at once, Miss Take refuses to take only one path. Instead, she blends everything together, creating a unity that feels whole and fluid. Her music connects movement and mood, always led by the bass.",
+                "city": "Leipzig",
+                "name": "Miss Take",
+                "time": null
+              }
+            ],
+            "subtitle": "Callshop Radio at Open Ground"
+          }
+        ]
+      },
       "floors": [
         {
           "artists": [
@@ -289,12 +702,22 @@
       },
       "time": "22:00–06:00",
       "title": null,
-      "url": "/de/schedule/2026-06-13"
+      "url": "https://www.openground.club/en/schedule/2026-06-13"
     },
     {
       "category": "Open Lobby",
       "date_iso": "2026-06-18",
-      "date_label": "Do.18.06.26",
+      "date_label": "Thu.18.06.26",
+      "detail": {
+        "description": null,
+        "floors": [
+          {
+            "name": "LOBBY + ANNEX",
+            "slots": [],
+            "subtitle": "Drinks and DJ selections free entry"
+          }
+        ]
+      },
       "floors": [
         {
           "artists": [],
@@ -308,12 +731,53 @@
       },
       "time": "20:00–00:00",
       "title": null,
-      "url": "/de/schedule/2026-06-18"
+      "url": "https://www.openground.club/en/schedule/2026-06-18"
     },
     {
       "category": "Clubnight",
       "date_iso": "2026-06-20",
-      "date_label": "Sa.20.06.26",
+      "date_label": "Sat.20.06.26",
+      "detail": {
+        "description": null,
+        "floors": [
+          {
+            "name": "FREIFELD",
+            "slots": [
+              {
+                "bio": "Already classic, Galcher Lustwerk is a complete, unique vibe. The New York-based producer, DJ, and vocalist ignited a fervent and instant fanbase in 2013 with his mix of all original material, “100% Galcher”. Its sexy blend of azure deep house productions and analgesic rap murmurs spawned many imitators, but as Pitchfork noted in their “Best Reissue” review, Lustwerk created, “a style that didn’t sound like anything else in dance music – not then, not before, not since.” That’s why he’s been in demand ever since, signing to Ghostly International and touring around the world. Regular stops include the most prestigious clubs and festivals, both underground (Panorama Bar, Sustain Release) and more mainstream (Ministry of Sound, Splash House) – testament to a sound both beloved and accessible. Whether performing a normal DJ set or mixing all originals with live vocals, Galcher presents music as essential as a heartbeat: sensual, timeless, and utterly original.",
+                "city": "New York City",
+                "name": "Galcher Lustwerk",
+                "time": null
+              },
+              {
+                "bio": "Musical trends may fluctuate over time, but some artists remain pillars unscathed by the change in the tides. One such artist is undoubtedly Stojche Cvetanovski. Native of Skopje, Macedonia, he established himself as notable undeground techno rebel, trapped in the urban chaos of the 21st century. Being exposed early to the expasion of the Motor City sounds in the Macedonian capital, triggered him to explore his own path in this futuristic music phenomenon called Techno.\n\nAs an artist that always remained true to his vinyl collection, he played a vital role in the vibrant underground scene across the region. After a decade devoted solely to djing, he shifted to producing, and in 2009 he co-founded “Argumento Music”.",
+                "city": "Madrid",
+                "name": "Stojche",
+                "time": null
+              },
+              {
+                "bio": "Tasha’s DJing style weaves tunes together seamlessly from her bass informed home of the UK alongside four four techno forms born in Berlin and Detroit. With an accomplished and atmospheric hold on the dancefloor expect upfront cuts mixed in with some old gems and other styles in between like D&B / Jungle. In an industry where artists are asked to prioritize their art for social media presence, likes and other vacuous pursuits, Tasha is very much in demand for her ‘music first’ attitude, selection and ability.",
+                "city": "London",
+                "name": "Tasha",
+                "time": null
+              }
+            ],
+            "subtitle": null
+          },
+          {
+            "name": "ANNEX",
+            "slots": [
+              {
+                "bio": "Mogol Soundsystem Crew is the connection between DIY soundsystem culture and electronic underground club sound. The project started out with the idea to open up the local bass music scene in Wuppertal by building a precise and sub-oriented system and doing parties with it, connecting the scene. Over time, a solid crew of regular selectors formed around the system, each one with their own distinctive approach to the art of selection – ranging from deep dub and heavyweight steppers to broken UK rhythms, experimental electronics, and driving 4x4 basslines, always rooted in soundsystem culture and a shared love for low frequencies.\n\nSince the construcion of the first speaker in early 2024, the Soundsystem was featured at multiple cultural hotspots of Wuppertal, delivering proper sound to the city, while creating a community for like-minded people. The selectors came together at several occasions to host parties in the city and did events at local spots like bars, the Café23 or the Open Lobby at Open Ground.",
+                "city": "Wuppertal",
+                "name": "Mogol Soundsystem Crew",
+                "time": null
+              }
+            ],
+            "subtitle": "Mogol Soundsystem at Open Ground"
+          }
+        ]
+      },
       "floors": [
         {
           "artists": [
@@ -337,12 +801,22 @@
       },
       "time": "22:00–06:00",
       "title": null,
-      "url": "/de/schedule/2026-06-20"
+      "url": "https://www.openground.club/en/schedule/2026-06-20"
     },
     {
       "category": "Open Lobby",
       "date_iso": "2026-06-25",
-      "date_label": "Do.25.06.26",
+      "date_label": "Thu.25.06.26",
+      "detail": {
+        "description": null,
+        "floors": [
+          {
+            "name": "LOBBY + ANNEX",
+            "slots": [],
+            "subtitle": "Drinks and DJ selections free entry"
+          }
+        ]
+      },
       "floors": [
         {
           "artists": [],
@@ -356,12 +830,71 @@
       },
       "time": "20:00–00:00",
       "title": null,
-      "url": "/de/schedule/2026-06-25"
+      "url": "https://www.openground.club/en/schedule/2026-06-25"
     },
     {
       "category": "Clubnight",
       "date_iso": "2026-06-27",
-      "date_label": "Sa.27.06.26",
+      "date_label": "Sat.27.06.26",
+      "detail": {
+        "description": "Admission 20 € / before 23:00 15 €",
+        "floors": [
+          {
+            "name": "FREIFELD",
+            "slots": [
+              {
+                "bio": "Lomi is a musician who explores the intersection of sound and architecture. Since co-founding BRUTALISM in 2015, he uses the label as a cultural research platform that explores sonic forms through materials, textures and structure. His approach combines electronic composition with a data-driven exploration of visual media and spatial aesthetics.\n\nDornen works with modular synthesizers, field recordings and noise to shape raw, sculptural\nsound objects. With an experimental and direct approach, he manipulates analog, pure\nfrequencies and explores the boundaries of sound as both material and medium.",
+                "city": "Berlin / Cologne",
+                "name": "Lomi b2b Dornen (hybrid)",
+                "time": null
+              },
+              {
+                "bio": "Operating out of Toronto, Trailcam crafts dense music shaped by fractured percussion and\ndub's dislocation. Her approach to sound evokes a world that's constantly shifting with its\nclean edges eroded by repetition and drift. Released on Northern Electronics, her debut album\nDrumlin Loop serves as a weathered map of these sonic territories.",
+                "city": "Toronto",
+                "name": "Trailcam",
+                "time": null
+              },
+              {
+                "bio": "Cecilia Tosh is a DJ, music producer and curator based in Berlin.\nHer sound is defined by a steady groove and an atmospheric, playful depth, guiding listeners through journeys rooted in Detroit, minimal, hypnotic and driving techno. Since 2022, she has been a resident at Tresor Berlin.\n\nExpanding her musical practice, she launched the live project Davids & Tosh in 2024 together with Kat Davids. Since then, she has been exploring more improvisational territories between dub, ambient and electronica.\n\nBeyond performing, she develops interdisciplinary projects, having previously brought to life Kotti Island Disc (a large-scale exhibition in public space accompanied by a concept album released on Tresor Records) and CURA Berlin (a cultural open-air venue), both exploring the relationship between sound, spatial environments and urban dynamics. She is also the producer and co-initiator of Machines – The Music Lab, a music production course focused on hands-on learning, hardware-based approaches and empowering participants through collaborative and exploratory practice.\n\nCurrently, she is furthering her research in the master’s program Art in Context at UdK Berlin, with a focus on curation.\n\nMåtyrer is a pioneering artist and co-founder of the Brutalism movement, known for pushing boundaries in electronic music and cultivating immersive experiences. With over a decade of background, Måtyrer has established a dynamic presence as a resident at Cologne’s iconic Gewölbe Club, where he also founded Research, a monthly community-centered Sunday party that has become a staple in the local scene.",
+                "city": "Berlin / Cologne",
+                "name": "Cecilia Tosh b2b Måtyrer",
+                "time": null
+              }
+            ],
+            "subtitle": "Brutalism at Open Ground"
+          },
+          {
+            "name": "ANNEX",
+            "slots": [
+              {
+                "bio": "Greta Perola, born and raised in Bochum, is part of a new wave of selectors emerging\nfrom the Ruhr area’s electronic music scene.\n\nBelieving that anything can resonate when placed in the right moment, breaking\nboundaries and exploring genres are key parts of her musical identity.\nHer sound blends old-school influences with contemporary club energy, moving through\nall kinds of house into electro and breaks, driven by a passion for acid and synthesizers.\n\nComing straight from the heart, made for the floor!\n\nKinan Halabi is a Germany based DJ, curator, and event organizer whose sound moves freely between techno, house, electro, and break-driven rhythms. His sets are defined by groove, tension, and narrative flow, blending raw club energy with subtle, detail-oriented selections that adapt to both peak-time dancefloors and deeper, late-night moments.\n\nHis journey into electronic music began in 2007 in Aleppo, Syria, where he first connected with DJ culture and underground club sounds. After relocating to Germany, he played his first gigs in 2015, gradually establishing himself within the local scene through a versatile and open-minded approach to music, shaped by both his roots and his evolving club experience.\n\nBeyond the DJ booth, Kinan became increasingly active as a booker and event organizer, focusing on carefully curated line-ups and cohesive night concepts rather than genre boundaries. As a co-founder and resident of Aquatica Collective, he has played a role in developing events that prioritize quality, inclusivity, and a strong sense of atmosphere, bridging house, techno, electro, and broken rhythms into unified dancefloor experiences.\n\nWith a background in design and spatial thinking, Kinan approaches DJing as more than track selection, treating each set as a dialogue between sound, space, and crowd. Whether performing or curating, his work is driven by a clear intention: to create immersive nights that feel both physical and memorable.",
+                "city": "Bochum",
+                "name": "Greta Perola b2b Kinan Halabi",
+                "time": null
+              },
+              {
+                "bio": "Lera is a DJ currently based in Dortmund, Germany. She began her journey in 2020 within the Kharkiv project Kultura Zvuka and later became active in Kyiv’s electronic music scene. After relocating across Europe, she continued performing and developing her sound on local scenes.\n\nHer sets blend dense house grooves with a strong sense of space, dynamics, and dancefloor awareness. Built as a continuous narrative, they move from deep, hypnotic moods toward more energetic forms, focusing on rhythm, texture, and long-form flow.",
+                "city": "Dortmund",
+                "name": "Lera Zagrevskaya",
+                "time": null
+              },
+              {
+                "bio": "Wasted Lipstick is DJ and event organizer from Essen in the heart of the Ruhr Area. She discovered her passion for electronic music early in her youth and has been part of the techno community ever since.\n\nAs the Co-Founder of the Aquatica collective, she advocates for increased visibility of FLINTA* artists and subcultural spaces. With a residency at Essen’s Club Hotel Shanghai and the queer party series Schwesta Party, she has established herself as an emerging DJ in the Ruhr area. Wasted Lipstick represents mainly driving, groovy techno with a big passion for tribal elements. She skillfully blends rhythmic beats with uplifting, playful and melodic elements, ensuring her sets resonate deeply with the crowd. Her music is always attuned to the energy of the dancefloor, creating an engaging atmosphere that invites everyone to lose themselves in the rhythm.\n\nHer sound is versatile, transcending genres while always staying true to the essence of electronic music. Each performance is a journey - balancing intensity and euphoria - making every Set an unique experience for the dance floor.\n\nNico Zobel is a DJ and producer based in Essen, active in electronic music for several years. As co-founder of the event collective Aquatica, he is part of the local club scene and has released music on labels such as Groove Estate and Abstract Motion. His sound spans groovy techno, house, breaks, and trance-leaning elements, always shaped by the party’s atmosphere and the dancefloor.",
+                "city": "Essen",
+                "name": "Wasted Lipstick b2b Nico Zobel",
+                "time": null
+              },
+              {
+                "bio": "Artist Proletarian is an Essen based live act focused on techno and genre-fluid electronic music, incorporating influences from synthwave to more experimental sounds. Performing exclusively live, he shapes his sound through hardware such as synthesizers, drum machines, and modular systems. Proletarian’s sets are centered on low-end heavy, percussive, and textural rhythms, layered with all kinds of strange noises and tonal elements. As part of the Delirium collective, he contributes to a DIY-driven scene rooted in community, art, and cultural exchange. Alongside his solo work, he is involved in a workshop-based music initiative with young people from youth care, fostering creativity and self-expression through sound. Through a synthpunk duo project, he merges his roots in punk with electronic music.\n\nHALBTØNE is a live electronic music project specializing in hypnotic, rhythm-driven soundscapes built through gradual progression and controlled dynamics. The project prioritizes precision, continuity, and spatial depth, delivering immersive performances designed for focused listening environments and club settings alike.\n\nOriginating from Bulgaria, HALBTØNE developed his practice outside conventional production and performance infrastructures. This independent approach has shaped a disciplined, self-directed methodology where limitation, repetition, and long-term development serve as compositional tools rather than stylistic flourishes.\nThe project is hardware-only, using a semi-modular setup combinated with Drum machines, allowing for hands-on control, real-time improvisation, and organic evolution of each performance. The focus lies on texture, rhythmic tension, and subtle modulation, ensuring each live set is unique, physically engaging, and meticulously structured.\n\nThe project’s work emphasizes the creation of immersive sonic environments, blending physical presence with conceptual depth, offering audiences a sustained and evolving experience rather than momentary impact.",
+                "city": "Essen",
+                "name": "Proletarian b2b Halbtøne (live)",
+                "time": null
+              }
+            ],
+            "subtitle": "Aquatica at Open Ground"
+          }
+        ]
+      },
       "floors": [
         {
           "artists": [
@@ -388,12 +921,77 @@
       },
       "time": "22:00–06:00",
       "title": null,
-      "url": "/de/schedule/2026-06-27"
+      "url": "https://www.openground.club/en/schedule/2026-06-27"
     },
     {
       "category": "Clubnight",
       "date_iso": "2026-07-04",
-      "date_label": "Sa.04.07.26",
+      "date_label": "Sat.04.07.26",
+      "detail": {
+        "description": "Mzansi Bass, curated by Shannen SP explores the hypnotic, darker, bassier corners of club music coming out of South Africa and the African continent, covering genres like Gqom, 3 Step, Bacardi - to hybrid sounds that defy categorisation. With a powerful line up featuring Durban’s gqom icon DJ Lag, who has collaborated with artists ranging from Moses Boyd to Novelist to Beyonce and has taken his trance inducing brand of Gqom to clubs all over the world, from Seoul, to Colombia to New York, this party presents a unique offering of bass centred club music. Shannen SP is a creative hybrid who platforms the global club underground. As a DJ, she has supported Arca, Batu, Jamie XX (and warmed up for Bjork), with her commitment to platforming non-western electronic music spanning her A&R work with Hyperdub, NTS and Spitfire Audio. Zimbabwe-born and Amsterdam-based artist State OFFF has been igniting dancefloors worldwide with his bold productions and high-energy sets, blending Gqom, Baile Funk, Dubstep, and other global sounds, earning him a spot on Mixmag’s \"Top 25 Artists to Watch in 2025.\" Expect to hear cutting edge club music, hybrid genres and lots of unreleased material.\nAdmission 20 € / before 23:00 15 €",
+        "floors": [
+          {
+            "name": "FREIFELD",
+            "slots": [
+              {
+                "bio": "DJ Lag’s superb production skills have played a big part in transforming a sub-genre of house – one that began by soundtracking taxi trips around Durban – to an enviably innovative participant in the global scene. It's a stunning rise and DJ Lag is ready to put in the work required to make sure Gqom is remembered forever.",
+                "city": "Durban",
+                "name": "DJ Lag",
+                "time": null
+              },
+              {
+                "bio": "Shannen SP is a London based creative hybrid. Her high energy DJ sets explore the vanguard of the global club underground, while her style delves into the darker, edgier side of non Western electronic music. As a DJ, she has supported Arca, Batu, and Jamie XX, with recent tours in East Asia and India. Behind the scenes her A&R work spans Hyperdub, NTS, and Spitfire Audio. Described as “quietly prolific” by Crack Magazine, she has held radio residencies with NTS and Rinse FM, with mixes for Dekmantel, DJ Mag, and Fact. She has performed across international clubs and festivals including Berghain, Oil Shenzhen, Fabric, Nyege Nyege, Glastonbury, and Dekmantel Selectors.",
+                "city": "London",
+                "name": "Shannen SP",
+                "time": null
+              },
+              {
+                "bio": "State OFFF, Zimbabwe-born and Amsterdam-based, has been igniting dancefloors worldwide with his bold productions and high-energy sets, earning a spot on Mixmag’s \"Top 25 Artists to Watch in 2025.\"\n\nHis journey began with GQOM TODAY (2022), a debut EP that showcased his forward- thinking approach to Gqom. In 2024, State OFFF cemented his reputation with Simulacra and The Offering, two standout releases blending Gqom, Baile Funk, and other global sounds, alongside EDITSSS, his viral remix series that seamlessly reworks pop, R&B, and hip hop for the club. These projects have racked up millions of views and critical acclaim, positioning him as one of the most innovative producers of the moment.\n\nAs a DJ, State OFFF’s command of the dancefloor is unrivaled.",
+                "city": "Amsterdam",
+                "name": "State OFFF",
+                "time": null
+              }
+            ],
+            "subtitle": "Mzansi Bass at Open Ground"
+          },
+          {
+            "name": "ANNEX",
+            "slots": [
+              {
+                "bio": "Andras_2020 is a rising figure in Europe’s burgeoning electronic music scene. Their sound combines the sonorous ripples of their Latin America with experimental pop, deconstructed club music and avant-garde. With influences that range from Brazilian funk to hyperpop, Andras’ music features lyrics that encompass explicitness, clashing with hard hitting drums and their soft falsetto.\n\nOriginally from Brazil, the artist garnered a dedicated following after releasing their intricate and textured debut EP, “Cuerpo Temperamental (acting in concert),” in 2021 and their multiple features on the Mutants Mixtape Compilation, initiated by Venezuelan pioneer Arca. This success was followed by the Cuerpo Tour, which saw Andras enthralling audiences across Europe and the UK for nearly two years. As a live performer, Andras’ work amalgamates contemporary dance and club culture. Their performances fuse the visceral materiality of the body, violent screams, and poetry, exploring themes of survival and physical transformation, contrasted with the gentleness of soft pop live aesthetics.\n\nMotivated by a desire and natural ability to fuse personal experiences with creative expression, Andras released “Blowhole” for Rest Now! (Berlin) in October, 2024. The title candidly contrasts the concept of inhaling and exhaling through a hole, like cetaceans, with anal pleasure and its associations with queerness and discomfort.",
+                "city": "Düsseldorf",
+                "name": "Andras_2020 (live)",
+                "time": null
+              },
+              {
+                "bio": "Miserere Mei originated as a side project of Wuppertal raised and Vienna based artist Ungemach @ungemach000 to condense his passion for the remote sides of electronic music into an appropriate shape. With crooked soundscapes and merciless cascades, Miserere Mei traverses borrowings from industrial, noise, UK bass and deconstructed club, without ever being firmly placed in one of these genres. Despite all the brute force, the idea that gave birth to this project is never lost sight of: Joy. As vicious as its expression may be.",
+                "city": "Vienna",
+                "name": "Miserere Mei (live)",
+                "time": null
+              },
+              {
+                "bio": "STI ZOI is driven by a fascination with the ever-evolving Zeitgeist and shaped by a rich multicultural perspective. She seeks to create a unique crossroads where music, culture, and identity converge— where genres shift and blend, and each mix becomes an immersive, emotionally textured experience that lives in the in-between spaces.",
+                "city": "Düsseldorf",
+                "name": "STI ZOI",
+                "time": null
+              },
+              {
+                "bio": "MYEN can be broken down as a project of audio hyperstition, sonic tulpamancy and self described funeral music. His music is often driven by immersive and cinematic sound design, heavy distortion and an overall feeling of suspense. He is currently based in Leipzig, Germany, has worked on collaborative projects with Raiika, Sissy Misfit and KAVARI and recently self-released his EP \"MARTYRDOM\".",
+                "city": "Leipzig",
+                "name": "MYEN",
+                "time": null
+              },
+              {
+                "bio": "B3CKI’s sets are driven by heavy bass, breaks, and bouncy kicks. Always playful, melodic, and rooted in her Indonesian background, with influences from pop, hip-hop, and global club sounds",
+                "city": "Berlin",
+                "name": "B3CKI",
+                "time": null
+              }
+            ],
+            "subtitle": "Echidna x Subtle Wreck at Open Ground"
+          }
+        ]
+      },
       "floors": [
         {
           "artists": [
@@ -421,12 +1019,59 @@
       },
       "time": "22:00–06:00",
       "title": null,
-      "url": "/de/schedule/2026-07-04"
+      "url": "https://www.openground.club/en/schedule/2026-07-04"
     },
     {
       "category": "Extended Clubnight",
       "date_iso": "2026-07-11",
-      "date_label": "Sa.11.07.26",
+      "date_label": "Sat.11.07.26",
+      "detail": {
+        "description": "Bring Your Ass has been a party series inviting ambassadors of house music, guests as Aaron-Carl, Whodat, Marcellus Pittman, and Kyle Hall when he was just 18 years old, way back when internet was not taking that much space. Open Ground is giving the spirit of those parties a new home to continue a deep house journey on a soundsystem comparable in it's intensity to the high technical standard originaly set on US American deep house dancefloors like The Shelter. Let's transform.",
+        "floors": [
+          {
+            "name": "FREIFELD",
+            "slots": [
+              {
+                "bio": "Berlin-based DJ and radio host Elke radiates high energy – whether through playful electro, garage, and jungle or via percussive techno, bassy rollers, and stone-cold drumfunk.",
+                "city": "Berlin",
+                "name": "Elke",
+                "time": null
+              },
+              {
+                "bio": "The first superstar produced by the breakbeat jungle movement, Goldie popularized drum’n’bass as a form of musical expression just as relevant for living-room contemplation as techno had become by the early ’90s. Goldie became one of the first personalities in British dance music, his gold teeth and b-boy attitude placing him leagues away from the faceless bedroom boffins who had become the norm in intelligent dance music.\n\nA true veteran and leading tastemaker in Doc Scott has been an essential and pivotal figure in D&B scene since before its inception and continues to push things forward with his future beats ethos. Whilst well known for shaping Drum & Bass, he’s equally passionate about links between Detroit Techno and Drum n Bass It all came from the same DNA originally and parallels and bridges between the two worlds still very much exist today.",
+                "city": "London / Coventry",
+                "name": "Goldie b2b Doc Scott",
+                "time": null
+              }
+            ],
+            "subtitle": null
+          },
+          {
+            "name": "ANNEX",
+            "slots": [
+              {
+                "bio": "late is of great passion for club dancing and music of many styles. playing records for the dance, he frames a house with windows wide open to much & any other style on the beat, from all corners and many niches of space and time, mixing in balance and melting it all down into one jam that is of strength & spice, that might be of surprise, that draws a four onto a floor where ♥︎ is always on the one",
+                "city": "Cologne",
+                "name": "late DJ",
+                "time": null
+              },
+              {
+                "bio": "To K15, music is about expression and challenge, a space where fun meets friction and an opportunity to make music from living, not a living from music. His ability to craft music has seen him cultivate a loyal cohort of listeners and made him well respected among peers. He's DJ’d and made music for over 20 years and continues to create - but still wouldn't consider himself a musician.\n\nHe has collaborated on various projects with Simbad, Kuniyuki, Mr.G, Earl Jeffers and with Emeson as part of Profusion, as well as producing and remixing music for Children of Zeus, Nubya Garcia and Yelfris Valdés His most recent release is a collaborative EP with Detroit’s finest Kyle Hall. Whether he's K15 or Culross Close, the approach is always the same - make music that's honest of the time.",
+                "city": "London",
+                "name": "K15",
+                "time": null
+              },
+              {
+                "bio": "Viola Klein’s records are supremely earthy and astrally inclined. In her DJ sets, she navigates with harmonies through a music selection that combines experimental house from the US Midwest, West African polyrhythms, and music in the tradition of Can from Cologne. „DJ Viola Klein’s R’nB-infused house cuts had the crowd swooning.“ Crack Magazine",
+                "city": "Cologne",
+                "name": "Viola Klein",
+                "time": null
+              }
+            ],
+            "subtitle": "Bring Your Ass at Open Ground"
+          }
+        ]
+      },
       "floors": [
         {
           "artists": [
@@ -451,8 +1096,8 @@
       },
       "time": "21:00–06:00",
       "title": null,
-      "url": "/de/schedule/2026-07-11"
+      "url": "https://www.openground.club/en/schedule/2026-07-11"
     }
   ],
-  "scraped_at": "2026-05-11T14:46:51+00:00"
+  "scraped_at": "2026-05-11T15:18:37+00:00"
 }

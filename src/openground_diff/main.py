@@ -4,6 +4,7 @@ from __future__ import annotations
 import argparse
 import json
 import sys
+import time as _time
 from dataclasses import asdict
 from datetime import date, datetime, timezone
 from pathlib import Path
@@ -22,6 +23,19 @@ BERLIN = ZoneInfo("Europe/Berlin")
 
 def _events_to_json(events: list[scrape.Event]) -> list[dict[str, Any]]:
     return [e.to_dict() for e in events]
+
+
+def _attach_details(events: list[scrape.Event], delay: float = 0.5) -> None:
+    """Fetch the per-event page for each event and attach the parsed detail."""
+    for i, ev in enumerate(events):
+        try:
+            html = scrape.fetch_event(ev.id)
+            ev.detail = scrape.parse_event_detail(html)
+        except Exception as err:  # noqa: BLE001
+            print(f"warn: failed to fetch detail for {ev.id}: {err}", file=sys.stderr)
+            ev.detail = None
+        if delay and i < len(events) - 1:
+            _time.sleep(delay)
 
 
 def _load_current(path: Path) -> list[dict[str, Any]]:
@@ -67,6 +81,14 @@ def main(argv: list[str] | None = None) -> int:
         "--no-render", action="store_true",
         help="Skip writing the static site (still updates data files).",
     )
+    parser.add_argument(
+        "--no-details", action="store_true",
+        help="Skip fetching per-event detail pages.",
+    )
+    parser.add_argument(
+        "--detail-delay", type=float, default=0.5,
+        help="Seconds to sleep between event-detail fetches.",
+    )
     args = parser.parse_args(argv)
 
     if args.from_file:
@@ -75,6 +97,10 @@ def main(argv: list[str] | None = None) -> int:
         html = scrape.fetch()
 
     events = scrape.parse_html(html)
+
+    if not args.no_details and not args.from_file:
+        _attach_details(events, delay=args.detail_delay)
+
     new_events = _events_to_json(events)
 
     now_utc = datetime.now(timezone.utc).replace(microsecond=0)
@@ -96,7 +122,12 @@ def main(argv: list[str] | None = None) -> int:
         _append_history(history_path, run_at, change_dicts)
 
     if not args.no_render:
-        render_site(history_path, args.site_dir, last_scrape=run_at)
+        render_site(
+            history_path,
+            args.site_dir,
+            last_scrape=run_at,
+            current_path=current_path,
+        )
 
     print(
         f"scraped {len(new_events)} events, "
