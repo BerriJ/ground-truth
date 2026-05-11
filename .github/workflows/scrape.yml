@@ -17,15 +17,15 @@ jobs:
   scrape:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@v6
+      - uses: actions/setup-python@v6.2.0
         with:
           python-version: "3.12"
           cache: pip
       - run: pip install -e .
       - run: python -m openground_diff.main
       - name: Restore last-notified marker
-        uses: actions/cache@v4
+        uses: actions/cache@v5
         with:
           path: data/.last_notified
           key: last-notified-${{ hashFiles('data/history.jsonl') }}
@@ -53,7 +53,7 @@ jobs:
           MATRIX_ROOM_ID: ${{ secrets.MATRIX_ROOM_ID }}
           SITE_URL: ${{ vars.SITE_URL }}
         run: python scripts/notify_matrix.py
-      - uses: actions/upload-pages-artifact@v3
+      - uses: actions/upload-pages-artifact@v5
         with:
           path: site
   deploy:
@@ -64,4 +64,4 @@ jobs:
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
       - id: deployment
-        uses: actions/deploy-pages@v4
+        uses: actions/deploy-pages@v5
