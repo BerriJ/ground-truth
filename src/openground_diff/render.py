@@ -53,19 +53,21 @@ section.run h2 { font-size: 1.1rem; margin: 0 0 0.5rem; }
 .slot { padding: 0.4rem 0; border-top: 1px dashed rgba(127,127,127,0.25); }
 .slot:first-of-type { border-top: 0; }
 .slot-details { padding: 0; margin: 0; }
-.slot-details > summary { list-style: none; cursor: pointer; display: flex;
+.slot-details > summary { list-style: none; cursor: pointer;
+                          display: grid;
+                          grid-template-columns: 1.2em 4em 1fr auto;
                           gap: 0.6rem; align-items: baseline; }
 .slot-details > summary::-webkit-details-marker { display: none; }
-.slot-details:not([open]) > summary .slot-toggle::before { content: "▸ "; color: #888; }
-.slot-details[open] > summary .slot-toggle::before { content: "▾ "; color: #888; }
+.slot-details:not([open]) > summary .slot-toggle::before { content: "▸"; color: #888; }
+.slot-details[open] > summary .slot-toggle::before { content: "▾"; color: #888; }
 .slot-details > summary.no-bio { cursor: default; }
 .slot-details > summary.no-bio .slot-toggle { visibility: hidden; }
-.slot-toggle { font-size: 0.85rem; min-width: 1em; }
-.slot-time { font-variant-numeric: tabular-nums; color: #555; min-width: 3.5em; }
+.slot-toggle { font-size: 0.85rem; }
+.slot-time { font-variant-numeric: tabular-nums; color: #555; }
 .slot-name { font-weight: 600; }
-.slot-city { color: #888; font-size: 0.85rem; }
-.slot-bio { margin: 0.4rem 0 0.2rem 4.6em; font-size: 0.92rem; color: #444;
-            white-space: pre-wrap; }
+.slot-city { color: #888; font-size: 0.85rem; text-align: right; }
+.slot-bio { margin: 0.4rem 0 0.2rem calc(1.2em + 4em + 1.2rem);
+            font-size: 0.92rem; color: #888; white-space: pre-wrap; }
 .event-description { margin: 1.5rem 0; padding: 0.75rem 1rem;
                      background: rgba(127,127,127,0.06); border-radius: 0.4rem;
                      white-space: pre-wrap; }
@@ -382,9 +384,8 @@ def _render_slot(slot: dict[str, Any]) -> str:
         '<span class="slot-toggle"></span>'
         f'<span class="slot-time">{escape(time_s)}</span>'
         f'<span class="slot-name">{escape(name)}</span>'
+        f'<span class="slot-city">{escape(city or "")}</span>'
     )
-    if city:
-        summary += f'<span class="slot-city">{escape(city)}</span>'
     summary += "</summary>"
     bio_html = f'<div class="slot-bio">{escape(bio)}</div>' if bio else ""
     return f'<div class="slot"><details class="slot-details">{summary}{bio_html}</details></div>'
