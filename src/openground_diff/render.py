@@ -92,17 +92,22 @@ def _render_run(run: dict[str, Any]) -> str:
 
 def _render_change(change: dict[str, Any]) -> str:
     kind = change.get("kind", "modified")
-    title_text = change.get("title") or change.get("id") or ""
+    title = change.get("title")
     date_label = change.get("date_label") or change.get("date_iso") or ""
+    headline_text = title or date_label or change.get("id") or ""
     url = change.get("url")
-    headline_inner = escape(title_text)
+    headline_inner = escape(headline_text)
     if url:
         href = urljoin(SITE_BASE_URL, url)
         headline_inner = f'<a href="{escape(href)}">{headline_inner}</a>'
     parts = [f'<div class="change {escape(kind)}">']
+    suffix = (
+        f' <small>· {escape(date_label)}</small>'
+        if title and date_label and date_label != headline_text
+        else ""
+    )
     parts.append(
-        f'<h3><span class="kind">{escape(kind)}</span>{headline_inner} '
-        f'<small>· {escape(date_label)}</small></h3>'
+        f'<h3><span class="kind">{escape(kind)}</span>{headline_inner}{suffix}</h3>'
     )
     parts.extend(_render_change_body(change))
     parts.append("</div>")
