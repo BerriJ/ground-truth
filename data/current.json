@@ -7953,7 +7953,168 @@
       "time": "21:00–06:00",
       "title": null,
       "url": "https://www.openground.club/en/schedule/2026-07-11"
+    },
+    {
+      "category": "Clubnight",
+      "date_iso": "2026-07-18",
+      "date_label": "Sat.18.07.26",
+      "detail": {
+        "description": "Admission 20 € / before 23:00 15 €",
+        "floors": [
+          {
+            "name": "FREIFELD",
+            "slots": [
+              {
+                "bio": "Born in Norilsk, raised between Ukraine and Germany, now based in Dortmund.\n\nThe approach is simple: read the room, don’t force a concept. Dychromatic´s DJ sets move between techno, house, minimal, electro, breaks, and trance.\n\nRooted in DIY and off grid environments, he can usually be found at the edges of the night, beeing a resident DJ at Tresor.West.",
+                "city": "Dortmund",
+                "name": "Dychromatic",
+                "time": null
+              },
+              {
+                "bio": "Nørbak’s crucial role in today’s techno environment derives from a strong sense of commitment and hard working attitude which he guides towards his musical passion. The Portuguese artist makes use of a thorough knowledge of classic techno and fuses it with modern sound design, the result of which is a signature sound that has seen worldwide support from tier-1 artists and mammoth labels such as Soma Records, Warm Up Recordings and Mord.",
+                "city": null,
+                "name": "Nørbak (live)",
+                "time": null
+              },
+              {
+                "bio": "Based in Bochum, his connection to electronic music began early, around the age of 12, shaped by the raw energy of drum & bass and dubstep.\n\nFor a period, his attention shifted toward hip hop, where he started to lay down an important foundation, influencing the way he approaches rhythm and space in his music today.\n\nReturning to electronic music with a clearer direction, he moved into techno with a focus on dance floor functionality. Over time, that perspective has evolved into a more restrained and deeper sound. His current work is rooted in detailed sound design, with an emphasis on low-end movement.\n\nRather than creating purely functional club tools, his tracks aim to balance usability with depth—music that works within a dance floor context but also invites a more attentive listening experience\n\nBorn into a family of musicians and artists, Steuert's path led from classical piano to techno – a genre that revealed itself as his natural form of expression, further deepened through his time with the Open Ground Crew and their profound understanding of club culture. His approach to DJing resembles storytelling through rhythm, creating moments in which the dancefloor connects with something primal. Although techno forms the centre of his sound, he draws from a wide range of genres to transform individual dancers into a collectively pulsating unity, moving under the spell of hypnotic beats – always in search of the ancient instinct of collective movement.",
+                "city": "Bochum / Wuppertal",
+                "name": "Loris Erdmann b2b Steuert",
+                "time": null
+              }
+            ],
+            "subtitle": "Recaved at Open Ground"
+          },
+          {
+            "name": "ANNEX",
+            "slots": [
+              {
+                "bio": "DJ Frank doesn’t do boxes. While the Wuppertal based DJ and producer has carried this philosophy throughout her entire life, weaving it into her art is what is now making her an exciting face in the electronic music landscape. With a sound as deep as it is driving and as carefully curated as it is playful, she proves that it’s not just contrast that makes her music so captivating. Exploring the emotional spectrum of electronic music, she blends groovy percussion, textured synth work, and emotional depth into a sound made to move – but also to feel.\n​Refining her craft in such a meticulous way over time has also put her in touch with her vision for nightlife: a barrier-free celebration of talent and creativity, which she furthers as a founder of the collective Prude, supplying and curating events & workshops to make space for upcoming talent.",
+                "city": "Wuppertal",
+                "name": "DJ Frank",
+                "time": null
+              },
+              {
+                "bio": "Maruhni is Wuppertal based DJ, Producer and co-founder of prude collective. together they give dj workshops, host parties and produce music. as an artist, maruhni's music is hugely influenced by different Bass music genres, like Acid, Dub, Jungle or Trance.\n\npaaradoxx (she/her) is a Cologne-based DJ originally from Wuppertal, where she built a strong following as part of the Mauke club. As co-founder of the PRUDE collective, she hosts workshops, a radio show, and throws parties across Germany. She is also a resident DJ at Gewölbe, spinning a wide spectrum of UK sounds, including Grime, UK Garage, Speedgarage, and DnB. Consider this a warning: paaradoxx is a FLINTA* Flummi on a mission. She's here to disrupt, amplify, and reshape the music scene into a truly equitable space, one bouncy beat at a time. So buckle up, or get bounced.",
+                "city": "Wuppertal / Cologne",
+                "name": "Maruhni b2b Paaradoxx",
+                "time": null
+              }
+            ],
+            "subtitle": "Prude at Open Ground"
+          }
+        ]
+      },
+      "floors": [
+        {
+          "artists": [
+            "Dychromatic",
+            "Nørbak (live)",
+            "Loris Erdmann b2b Steuert"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "DJ Frank",
+            "Maruhni b2b Paaradoxx"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2026-07-18",
+      "ticket": {
+        "state": "onsale",
+        "url": "https://shop.weeztix.com/c3763d91-ead0-4f27-8326-4a05377dbd38/tickets"
+      },
+      "time": "22:00–06:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2026-07-18"
+    },
+    {
+      "category": "Clubnight",
+      "date_iso": "2026-07-25",
+      "date_label": "Sat.25.07.26",
+      "detail": {
+        "description": "Admission 20 € / before 23:00 15 €",
+        "floors": [
+          {
+            "name": "FREIFELD",
+            "slots": [
+              {
+                "bio": "Nada Formosa and C.A. Ramirez are Cologne DJs made by and for the dancefloor, shaped early on by disco and house in all their facets and united by a lifelong pursuit of the groove. Genre-fluid and deeply sound-driven, they blend euphoric highs with deeper, driving passages into a continuous flow of warm energy.\n\nTogether, they fill the room with their love for music—creating a vibrant, soulful journey that becomes an inevitable invitation to connection, ecstasy, and collective release. All power to the dancefloor!\n\nNada Formosa and C.A. Ramirez are Cologne DJs made by and for the dancefloor, shaped early on by disco and house in all their facets and united by a lifelong pursuit of the groove. Genre-fluid and deeply sound-driven, they blend euphoric highs with deeper, driving passages into a continuous flow of warm energy.\n\nTogether, they fill the room with their love for music—creating a vibrant, soulful journey that becomes an inevitable invitation to connection, ecstasy, and collective release. All power to the dancefloor!",
+                "city": "Cologne",
+                "name": "C.A.Ramirez b2b Nada Formosa",
+                "time": null
+              },
+              {
+                "bio": "There’s a humble power about Kai Alce (pronounced al-SAY). Perhaps it’s a combination of his Haitian roots, his youth spent in St. Croix, and his New York City upbringing. It is evident when he steps behind the turntables or CDJs, where he is at once clearly comfortable and believe it or not, just a tad bit nervous and after more than 20 years in the business, yes; “The Kaizer” still gets butterflies. That’s probably what makes Kai Alce (pronounced al-SAY) such a force: He doesn’t settle down, blend in or go along. That integrity comes through in every gig he’s worked – from his early days at Detroit’s Music Institute when he was just teenager, to the 10-year-long DEEP legacy at MJQ that he co-founded, to the production company, NDATL, that he created in 2008. What’s good is that, just like always, Alce is ready to put in work – staying true to house music, DJing for DJing’s sake, pushing himself … and us on the dance floor. Whether it’s after a night of intense dancing at the club, a session in the booth or studio, or any other creative endeavor, as long as it’s done with truth and sincerity.",
+                "city": "New York",
+                "name": "Kai Alcé",
+                "time": null
+              },
+              {
+                "bio": "Wuppertal-based DJ duo FKK & Van der Bolt met nine years ago and bonded over a shared love for design, music and club culture. As Kiosk Force, they are known for their playful style and have developed a groovy electronic rooted sound with raw club vibes and danceable rhythms – often driven by acid-influenced basslines. Their sets mean to captivate and ground listeners in the present moment.",
+                "city": "Wuppertal",
+                "name": "Kioskforce",
+                "time": null
+              }
+            ],
+            "subtitle": null
+          },
+          {
+            "name": "ANNEX",
+            "slots": [
+              {
+                "bio": "Based in the Ruhr Area and with a residency at Tresor.West, medea navigates the deeper ends of techno with a focus on texture and control.\n\nHer sound is rooted in rolling, dub-leaning structures and atmospheric layering, occasionally tracing back to Detroit without leaning on nostalgia. Sets unfold patiently, favouring continuity over impact, and are shaped with a strong awareness for space, timing and system response.",
+                "city": "Dortmund",
+                "name": "medea",
+                "time": null
+              },
+              {
+                "bio": "Kyohara and ÆKO, founders of Kontur, create hypnosis through repetition and subtle movement. With sharing the same perspective on sound their live sets are built on improvisation, reacting to the moment rather than following a fixed plan. Each performance unfolds naturally, shaped by the space and the energy in the room.\n\nKyohara and ÆKO, founders of Kontur, create hypnosis through repetition and subtle movement. With sharing the same perspective on sound their live sets are built on improvisation, reacting to the moment rather than following a fixed plan. Each performance unfolds naturally, shaped by the space and the energy in the room.",
+                "city": "Düsseldorf",
+                "name": "ÆKO b2b Kyohara",
+                "time": null
+              },
+              {
+                "bio": "Balance within contrasts.\nShe approaches art through the belief that balance can only emerge from opposition — harmony is born through dynamics. A dialogue between softness and force, control and surrender — a dance of tension and release.\nGuided by psychoacoustic intuition, she sculpts textures that blur the edge of consciousness. The low end anchors, the highs cut, the mids breathe. Rolling drums create a constant motion — a rhythmic ground that nourishes the magnetic midrange elements shaping the narrative.\nWhat connects it all is the pursuit of perpetual balance: a continuous loop between pressure and relief, clarity and blur, chaos and control — a living tension that never fully resolves, yet keeps the body in motion and the mind awake.",
+                "city": "Berlin",
+                "name": "Mara Menace",
+                "time": null
+              }
+            ],
+            "subtitle": "Rau.ton at Open Ground"
+          }
+        ]
+      },
+      "floors": [
+        {
+          "artists": [
+            "C.A.Ramirez b2b Nada Formosa",
+            "Kai Alcé",
+            "Kioskforce"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "medea",
+            "ÆKO b2b Kyohara",
+            "Mara Menace"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2026-07-25",
+      "ticket": {
+        "state": "onsale",
+        "url": "https://shop.weeztix.com/4edd1acb-03e0-4196-8654-f838cfd0a006"
+      },
+      "time": "22:00–06:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2026-07-25"
     }
   ],
-  "scraped_at": "2026-05-13T13:04:54+00:00"
+  "scraped_at": "2026-05-13T18:58:39+00:00"
 }
