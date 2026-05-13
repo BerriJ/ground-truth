@@ -1,6 +1,6862 @@
 {
   "events": [
     {
+      "category": null,
+      "date_iso": "2023-12-08",
+      "date_label": "Fri.08.12.23",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Mark Ernestus",
+            "KAT7",
+            "Mala",
+            "Josey Rebelle"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Pretty Sneaky",
+            "Elke",
+            "Struktur"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2023-12-08-clubnight",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": null,
+      "title": "Clubnight",
+      "url": "https://www.openground.club/en/schedule/2023-12-08-clubnight"
+    },
+    {
+      "category": null,
+      "date_iso": "2023-12-09",
+      "date_label": "Sat.09.12.23",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Arthur",
+            "Viola Klein",
+            "Calibre",
+            "Tasha"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Appleblim",
+            "DJ Pete",
+            "Stenny"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2023-12-09-clubnight",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": null,
+      "title": "Clubnight",
+      "url": "https://www.openground.club/en/schedule/2023-12-09-clubnight"
+    },
+    {
+      "category": null,
+      "date_iso": "2023-12-15",
+      "date_label": "Fri.15.12.23",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Willow",
+            "Akua",
+            "GiGi FM"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Big Ever",
+            "Loefah",
+            "Orson"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2023-12-15-clubnight",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": null,
+      "title": "Clubnight",
+      "url": "https://www.openground.club/en/schedule/2023-12-15-clubnight"
+    },
+    {
+      "category": null,
+      "date_iso": "2023-12-16",
+      "date_label": "Sat.16.12.23",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Tapes",
+            "Al Wootton",
+            "Carrier"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Prosumer",
+            "Jesse G"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2023-12-16-clubnight",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": null,
+      "title": "Clubnight",
+      "url": "https://www.openground.club/en/schedule/2023-12-16-clubnight"
+    },
+    {
+      "category": null,
+      "date_iso": "2023-12-22",
+      "date_label": "Fri.22.12.23",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Mischa",
+            "Temudo",
+            "Yant"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Dérive",
+            "Dj wiggles",
+            "Leibniz"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2023-12-22-clubnight",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": null,
+      "title": "Clubnight",
+      "url": "https://www.openground.club/en/schedule/2023-12-22-clubnight"
+    },
+    {
+      "category": null,
+      "date_iso": "2023-12-23",
+      "date_label": "Sat.23.12.23",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Natascha Kann",
+            "Marc Schneider",
+            "Serge"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Resom",
+            "Tammo Hesselink"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2023-12-23-clubnight",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": null,
+      "title": "Clubnight",
+      "url": "https://www.openground.club/en/schedule/2023-12-23-clubnight"
+    },
+    {
+      "category": null,
+      "date_iso": "2023-12-29",
+      "date_label": "Fri.29.12.23",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "re:ni",
+            "mad miran",
+            "Doc Scott"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "AliA",
+            "Konduku"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2023-12-29-clubnight",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": null,
+      "title": "Clubnight",
+      "url": "https://www.openground.club/en/schedule/2023-12-29-clubnight"
+    },
+    {
+      "category": null,
+      "date_iso": "2023-12-30",
+      "date_label": "Sat.30.12.23",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "DJ Pete",
+            "b2b",
+            "Surgeon"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Nancy June",
+            "Pinch",
+            "Bloomfeld"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2023-12-30-clubnight",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": null,
+      "title": "Clubnight",
+      "url": "https://www.openground.club/en/schedule/2023-12-30-clubnight"
+    },
+    {
+      "category": null,
+      "date_iso": "2024-01-05",
+      "date_label": "Fri.05.01.24",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Behrang Mohammadi",
+            "Vivian Koch"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Gunni",
+            "b2b",
+            "Violetta"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2024-01-05-clubnight",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": null,
+      "title": "Clubnight",
+      "url": "https://www.openground.club/en/schedule/2024-01-05-clubnight"
+    },
+    {
+      "category": null,
+      "date_iso": "2024-01-06",
+      "date_label": "Sat.06.01.24",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Iron Curtis",
+            "Mareena"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Atrice",
+            "Erik Jabari"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2024-01-06-clubnight",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": null,
+      "title": "Clubnight",
+      "url": "https://www.openground.club/en/schedule/2024-01-06-clubnight"
+    },
+    {
+      "category": null,
+      "date_iso": "2024-01-12",
+      "date_label": "Fri.12.01.24",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Conrad Pack",
+            "Blasha & Allatt"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Nono Gigsta",
+            "Jim Janco"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2024-01-12-clubnight",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": null,
+      "title": "Clubnight",
+      "url": "https://www.openground.club/en/schedule/2024-01-12-clubnight"
+    },
+    {
+      "category": null,
+      "date_iso": "2024-01-13",
+      "date_label": "Sat.13.01.24",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Jon K",
+            "Felix K"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Snow",
+            "Soundstream"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2024-01-13-clubnight",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": null,
+      "title": "Clubnight",
+      "url": "https://www.openground.club/en/schedule/2024-01-13-clubnight"
+    },
+    {
+      "category": null,
+      "date_iso": "2024-01-19",
+      "date_label": "Fri.19.01.24",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Phillip Jondo",
+            "Hodge",
+            "Dangermami"
+          ],
+          "name": "FREIFELD"
+        }
+      ],
+      "id": "2024-01-19-clubnight",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": null,
+      "title": "Clubnight",
+      "url": "https://www.openground.club/en/schedule/2024-01-19-clubnight"
+    },
+    {
+      "category": null,
+      "date_iso": "2024-01-20",
+      "date_label": "Sat.20.01.24",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "MSJY",
+            "Om Unit",
+            "Ploy"
+          ],
+          "name": "FREIFELD"
+        }
+      ],
+      "id": "2024-01-20-clubnight",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": null,
+      "title": "Clubnight",
+      "url": "https://www.openground.club/en/schedule/2024-01-20-clubnight"
+    },
+    {
+      "category": null,
+      "date_iso": "2024-01-26",
+      "date_label": "Fri.26.01.24",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Struktur",
+            "Shed",
+            "Yasmin Sun"
+          ],
+          "name": "FREIFELD"
+        }
+      ],
+      "id": "2024-01-26-clubnight",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": null,
+      "title": "Clubnight",
+      "url": "https://www.openground.club/en/schedule/2024-01-26-clubnight"
+    },
+    {
+      "category": null,
+      "date_iso": "2024-01-27",
+      "date_label": "Sat.27.01.24",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "K. Luisa",
+            "Marco Shuttle",
+            "Kwartz"
+          ],
+          "name": "FREIFELD"
+        }
+      ],
+      "id": "2024-01-27-clubnight",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": null,
+      "title": "Clubnight",
+      "url": "https://www.openground.club/en/schedule/2024-01-27-clubnight"
+    },
+    {
+      "category": null,
+      "date_iso": "2024-02-02",
+      "date_label": "Fri.02.02.24",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Zenker Brothers",
+            "Fadi Mohem"
+          ],
+          "name": "FREIFELD"
+        }
+      ],
+      "id": "2024-02-02-clubnight",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": null,
+      "title": "Clubnight",
+      "url": "https://www.openground.club/en/schedule/2024-02-02-clubnight"
+    },
+    {
+      "category": null,
+      "date_iso": "2024-02-03",
+      "date_label": "Sat.03.02.24",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Perko",
+            "Jossy Mitsu",
+            "Jurango"
+          ],
+          "name": "FREIFELD"
+        }
+      ],
+      "id": "2024-02-03-clubnight",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": null,
+      "title": "Clubnight",
+      "url": "https://www.openground.club/en/schedule/2024-02-03-clubnight"
+    },
+    {
+      "category": null,
+      "date_iso": "2024-02-09",
+      "date_label": "Fri.09.02.24",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Ehua",
+            "Electric Indigo",
+            "Kessie"
+          ],
+          "name": "FREIFELD"
+        }
+      ],
+      "id": "2024-02-09-clubnight",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": null,
+      "title": "Clubnight",
+      "url": "https://www.openground.club/en/schedule/2024-02-09-clubnight"
+    },
+    {
+      "category": null,
+      "date_iso": "2024-02-10",
+      "date_label": "Sat.10.02.24",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Elke",
+            "Djrum",
+            "Chinese Daughter"
+          ],
+          "name": "FREIFELD"
+        }
+      ],
+      "id": "2024-02-10-clubnight",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": null,
+      "title": "Clubnight",
+      "url": "https://www.openground.club/en/schedule/2024-02-10-clubnight"
+    },
+    {
+      "category": null,
+      "date_iso": "2024-02-16",
+      "date_label": "Fri.16.02.24",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "OK Williams",
+            "Pearson Sound",
+            "Rhyw"
+          ],
+          "name": "FREIFELD"
+        }
+      ],
+      "id": "2024-02-16-clubnight",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": null,
+      "title": "Clubnight",
+      "url": "https://www.openground.club/en/schedule/2024-02-16-clubnight"
+    },
+    {
+      "category": null,
+      "date_iso": "2024-02-17",
+      "date_label": "Sat.17.02.24",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Viola Klein",
+            "DJ Qu",
+            "Tim Elzer"
+          ],
+          "name": "FREIFELD"
+        }
+      ],
+      "id": "2024-02-17-clubnight",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": null,
+      "title": "Clubnight",
+      "url": "https://www.openground.club/en/schedule/2024-02-17-clubnight"
+    },
+    {
+      "category": null,
+      "date_iso": "2024-02-23",
+      "date_label": "Fri.23.02.24",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Don Williams",
+            "Stojche",
+            "Deniro"
+          ],
+          "name": "FREIFELD"
+        }
+      ],
+      "id": "2024-02-23-clubnight",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": null,
+      "title": "Clubnight",
+      "url": "https://www.openground.club/en/schedule/2024-02-23-clubnight"
+    },
+    {
+      "category": null,
+      "date_iso": "2024-02-24",
+      "date_label": "Sat.24.02.24",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Agnes Stark",
+            "Nørbak",
+            "Commissar Lag"
+          ],
+          "name": "FREIFELD"
+        }
+      ],
+      "id": "2024-02-24-clubnight",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": null,
+      "title": "Clubnight",
+      "url": "https://www.openground.club/en/schedule/2024-02-24-clubnight"
+    },
+    {
+      "category": null,
+      "date_iso": "2024-03-01",
+      "date_label": "Fri.01.03.24",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Altinbas",
+            "Quelza"
+          ],
+          "name": "FREIFELD"
+        }
+      ],
+      "id": "2024-03-01-clubnight",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "23:00",
+      "title": "Clubnight",
+      "url": "https://www.openground.club/en/schedule/2024-03-01-clubnight"
+    },
+    {
+      "category": null,
+      "date_iso": "2024-03-02",
+      "date_label": "Sat.02.03.24",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "MAENDI",
+            "low Ki",
+            "A2iCE & BO3",
+            "Colkin"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2024-03-02",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": null,
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2024-03-02"
+    },
+    {
+      "category": null,
+      "date_iso": "2024-03-08",
+      "date_label": "Fri.08.03.24",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "DJ Flounce",
+            "Josey Rebelle",
+            "Tasha"
+          ],
+          "name": "FREIFELD"
+        }
+      ],
+      "id": "2024-03-08-clubnight",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": null,
+      "title": "Clubnight",
+      "url": "https://www.openground.club/en/schedule/2024-03-08-clubnight"
+    },
+    {
+      "category": null,
+      "date_iso": "2024-03-09",
+      "date_label": "Sat.09.03.24",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Peverelist",
+            "Mia Koden",
+            "Appleblim"
+          ],
+          "name": "FREIFELD"
+        }
+      ],
+      "id": "2024-03-09-clubnight",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": null,
+      "title": "Clubnight",
+      "url": "https://www.openground.club/en/schedule/2024-03-09-clubnight"
+    },
+    {
+      "category": null,
+      "date_iso": "2024-03-15",
+      "date_label": "Fri.15.03.24",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Lakkes",
+            "Steven Julien",
+            "Cinthie"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2024-03-15-morning-factory",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "23:00",
+      "title": "Morning Factory",
+      "url": "https://www.openground.club/en/schedule/2024-03-15-morning-factory"
+    },
+    {
+      "category": null,
+      "date_iso": "2024-03-16",
+      "date_label": "Sat.16.03.24",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Rifts",
+            "Efdemin",
+            "MEXEM",
+            "b2b",
+            "Danyon"
+          ],
+          "name": "FREIFELD"
+        }
+      ],
+      "id": "2024-03-16-clubnight",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "23:00",
+      "title": "Clubnight",
+      "url": "https://www.openground.club/en/schedule/2024-03-16-clubnight"
+    },
+    {
+      "category": null,
+      "date_iso": "2024-03-22",
+      "date_label": "Fri.22.03.24",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Jerome Hill",
+            "Blasha & Allatt"
+          ],
+          "name": "FREIFELD"
+        }
+      ],
+      "id": "2024-03-22-clubnight",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "23:00",
+      "title": "Clubnight",
+      "url": "https://www.openground.club/en/schedule/2024-03-22-clubnight"
+    },
+    {
+      "category": null,
+      "date_iso": "2024-03-23",
+      "date_label": "Sat.23.03.24",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "JakoJako",
+            "Rene Wise"
+          ],
+          "name": "FREIFELD"
+        }
+      ],
+      "id": "2024-03-23-clubnight",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "23:00",
+      "title": "Clubnight",
+      "url": "https://www.openground.club/en/schedule/2024-03-23-clubnight"
+    },
+    {
+      "category": null,
+      "date_iso": "2024-03-29",
+      "date_label": "Fri.29.03.24",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "mmara",
+            "Martin Stürtzer"
+          ],
+          "name": "FREIFELD"
+        }
+      ],
+      "id": "2024-03-29-ambient-listening",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "21:00",
+      "title": "Ambient Listening",
+      "url": "https://www.openground.club/en/schedule/2024-03-29-ambient-listening"
+    },
+    {
+      "category": null,
+      "date_iso": "2024-03-30",
+      "date_label": "Sat.30.03.24",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "KØKØ",
+            "Regis",
+            "Chontane"
+          ],
+          "name": "FREIFELD"
+        }
+      ],
+      "id": "2024-03-30-clubnight",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "23:00",
+      "title": "Clubnight",
+      "url": "https://www.openground.club/en/schedule/2024-03-30-clubnight"
+    },
+    {
+      "category": null,
+      "date_iso": "2024-04-05",
+      "date_label": "Fri.05.04.24",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "DJ Pete",
+            "The Lady Machine"
+          ],
+          "name": "FREIFELD"
+        }
+      ],
+      "id": "2024-04-05-clubnight",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "23:00",
+      "title": "Clubnight",
+      "url": "https://www.openground.club/en/schedule/2024-04-05-clubnight"
+    },
+    {
+      "category": null,
+      "date_iso": "2024-04-06",
+      "date_label": "Sat.06.04.24",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Fadi Mohem",
+            "Nkisi"
+          ],
+          "name": "FREIFELD"
+        }
+      ],
+      "id": "2024-04-06-clubnight",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "23:00",
+      "title": "Clubnight",
+      "url": "https://www.openground.club/en/schedule/2024-04-06-clubnight"
+    },
+    {
+      "category": null,
+      "date_iso": "2024-04-12",
+      "date_label": "Fri.12.04.24",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "SP:MC (DJ set)",
+            "Calibre",
+            "Skeptical"
+          ],
+          "name": "FREIFELD"
+        }
+      ],
+      "id": "2024-04-12-clubnight",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "23:00",
+      "title": "Clubnight",
+      "url": "https://www.openground.club/en/schedule/2024-04-12-clubnight"
+    },
+    {
+      "category": null,
+      "date_iso": "2024-04-13",
+      "date_label": "Sat.13.04.24",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Gîn Bali",
+            "MI-EL",
+            "Sarah Farina"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2024-04-13-yaya-crew-lessbrgreaterat-open-ground",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "23:00",
+      "title": "YAYA Crew at Open Ground",
+      "url": "https://www.openground.club/en/schedule/2024-04-13-yaya-crew-lessbrgreaterat-open-ground"
+    },
+    {
+      "category": null,
+      "date_iso": "2024-04-19",
+      "date_label": "Fri.19.04.24",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Dangermami",
+            "DJ Nigga Fox",
+            "MSJY"
+          ],
+          "name": "FREIFELD"
+        }
+      ],
+      "id": "2024-04-19-clubnight",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "23:00",
+      "title": "Clubnight",
+      "url": "https://www.openground.club/en/schedule/2024-04-19-clubnight"
+    },
+    {
+      "category": null,
+      "date_iso": "2024-04-20",
+      "date_label": "Sat.20.04.24",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Arthur",
+            "Holy Tongue",
+            "Forest Drive West",
+            "Sun People"
+          ],
+          "name": "FREIFELD"
+        }
+      ],
+      "id": "2024-04-20-clubnight",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "23:00",
+      "title": "Clubnight",
+      "url": "https://www.openground.club/en/schedule/2024-04-20-clubnight"
+    },
+    {
+      "category": null,
+      "date_iso": "2024-04-26",
+      "date_label": "Fri.26.04.24",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Lamin Fofana",
+            "Akanbi"
+          ],
+          "name": "FREIFELD"
+        }
+      ],
+      "id": "2024-04-26-clubnight",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "23:00",
+      "title": "Clubnight",
+      "url": "https://www.openground.club/en/schedule/2024-04-26-clubnight"
+    },
+    {
+      "category": null,
+      "date_iso": "2024-04-27",
+      "date_label": "Sat.27.04.24",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Stenny",
+            "Skee Mask",
+            "Zenker Brothers"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Elke",
+            "Kahn + Neek"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2024-04-27-ilian-tape-lessbrgreater-at-open-ground",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": null,
+      "title": "Ilian Tape at Open Ground",
+      "url": "https://www.openground.club/en/schedule/2024-04-27-ilian-tape-lessbrgreater-at-open-ground"
+    },
+    {
+      "category": null,
+      "date_iso": "2024-04-30",
+      "date_label": "Tue.30.04.24",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Ada Luvv",
+            "low Ki",
+            "Magnus",
+            "mmara",
+            "Ole B/P"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2024-04-30-illusion-crew-lessbrgreater-at-open-ground",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "23:00",
+      "title": "Illusion Crew at Open Ground",
+      "url": "https://www.openground.club/en/schedule/2024-04-30-illusion-crew-lessbrgreater-at-open-ground"
+    },
+    {
+      "category": null,
+      "date_iso": "2024-05-03",
+      "date_label": "Fri.03.05.24",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Tammo Hesselink",
+            "Batu"
+          ],
+          "name": "FREIFELD"
+        }
+      ],
+      "id": "2024-05-03-clubnight",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "23:00",
+      "title": "Clubnight",
+      "url": "https://www.openground.club/en/schedule/2024-05-03-clubnight"
+    },
+    {
+      "category": null,
+      "date_iso": "2024-05-04",
+      "date_label": "Sat.04.05.24",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Mantra",
+            "Tasha",
+            "SP:MC"
+          ],
+          "name": "FREIFELD"
+        }
+      ],
+      "id": "2024-05-04-clubnight",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "23:00",
+      "title": "Clubnight",
+      "url": "https://www.openground.club/en/schedule/2024-05-04-clubnight"
+    },
+    {
+      "category": null,
+      "date_iso": "2024-05-08",
+      "date_label": "Wed.08.05.24",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "GiGi FM",
+            "Altinbas"
+          ],
+          "name": "FREIFELD"
+        }
+      ],
+      "id": "2024-05-08-clubnight",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "23:00",
+      "title": "Clubnight",
+      "url": "https://www.openground.club/en/schedule/2024-05-08-clubnight"
+    },
+    {
+      "category": null,
+      "date_iso": "2024-05-10",
+      "date_label": "Fri.10.05.24",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "DJ Polo",
+            "DJ Lag",
+            "Low End Activist"
+          ],
+          "name": "FREIFELD"
+        }
+      ],
+      "id": "2024-05-10-clubnight",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "23:00",
+      "title": "Clubnight",
+      "url": "https://www.openground.club/en/schedule/2024-05-10-clubnight"
+    },
+    {
+      "category": null,
+      "date_iso": "2024-05-11",
+      "date_label": "Sat.11.05.24",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Parissa",
+            "Richard Akingbehin",
+            "Roska",
+            "Nancy June"
+          ],
+          "name": "FREIFELD"
+        }
+      ],
+      "id": "2024-05-11-refuge-worldwide-lessbrgreaterat-open-ground",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "23:00",
+      "title": "Refuge Worldwide at Open Ground",
+      "url": "https://www.openground.club/en/schedule/2024-05-11-refuge-worldwide-lessbrgreaterat-open-ground"
+    },
+    {
+      "category": null,
+      "date_iso": "2024-05-17",
+      "date_label": "Fri.17.05.24",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Adlas",
+            "Dajusch"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2024-05-17-clubnight",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "23:00",
+      "title": "Clubnight",
+      "url": "https://www.openground.club/en/schedule/2024-05-17-clubnight"
+    },
+    {
+      "category": null,
+      "date_iso": "2024-05-18",
+      "date_label": "Sat.18.05.24",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Nono Gigsta",
+            "re:ni"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2024-05-18-clubnight",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "23:00",
+      "title": "Clubnight",
+      "url": "https://www.openground.club/en/schedule/2024-05-18-clubnight"
+    },
+    {
+      "category": null,
+      "date_iso": "2024-05-19",
+      "date_label": "Sun.19.05.24",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Quelza"
+          ],
+          "name": "FREIFELD"
+        }
+      ],
+      "id": "2024-05-19-clubnight",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "23:00",
+      "title": "Clubnight",
+      "url": "https://www.openground.club/en/schedule/2024-05-19-clubnight"
+    },
+    {
+      "category": null,
+      "date_iso": "2024-05-24",
+      "date_label": "Fri.24.05.24",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Fiedel",
+            "DJ Tool"
+          ],
+          "name": "FREIFELD"
+        }
+      ],
+      "id": "2024-05-24-clubnight",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "23:00",
+      "title": "Clubnight",
+      "url": "https://www.openground.club/en/schedule/2024-05-24-clubnight"
+    },
+    {
+      "category": null,
+      "date_iso": "2024-05-25",
+      "date_label": "Sat.25.05.24",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "EMA",
+            "Jurango"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2024-05-25-clubnight",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "23:00",
+      "title": "Clubnight",
+      "url": "https://www.openground.club/en/schedule/2024-05-25-clubnight"
+    },
+    {
+      "category": null,
+      "date_iso": "2024-05-29",
+      "date_label": "Wed.29.05.24",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Ustad Noor Bakhsh"
+          ],
+          "name": "FREIFELD"
+        }
+      ],
+      "id": "2024-05-29-concert",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "19:30",
+      "title": "Concert",
+      "url": "https://www.openground.club/en/schedule/2024-05-29-concert"
+    },
+    {
+      "category": null,
+      "date_iso": "2024-05-31",
+      "date_label": "Fri.31.05.24",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Josey Rebelle",
+            "Ben UFO"
+          ],
+          "name": "FREIFELD"
+        }
+      ],
+      "id": "2024-05-31-clubnight",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "23:00",
+      "title": "Clubnight",
+      "url": "https://www.openground.club/en/schedule/2024-05-31-clubnight"
+    },
+    {
+      "category": null,
+      "date_iso": "2024-06-01",
+      "date_label": "Sat.01.06.24",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Luke Una",
+            "Blck Mamba",
+            "Loefah"
+          ],
+          "name": "FREIFELD"
+        }
+      ],
+      "id": "2024-06-01-clubnight",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "23:00",
+      "title": "Clubnight",
+      "url": "https://www.openground.club/en/schedule/2024-06-01-clubnight"
+    },
+    {
+      "category": null,
+      "date_iso": "2024-06-07",
+      "date_label": "Fri.07.06.24",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Nadia Struiwigh",
+            "Akua"
+          ],
+          "name": "FREIFELD"
+        }
+      ],
+      "id": "2024-06-07-clubnight",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "23:00",
+      "title": "Clubnight",
+      "url": "https://www.openground.club/en/schedule/2024-06-07-clubnight"
+    },
+    {
+      "category": null,
+      "date_iso": "2024-06-08",
+      "date_label": "Sat.08.06.24",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Elke",
+            "Monolake",
+            "dBridge"
+          ],
+          "name": "FREIFELD"
+        }
+      ],
+      "id": "2024-06-08-clubnight",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "23:00",
+      "title": "Clubnight",
+      "url": "https://www.openground.club/en/schedule/2024-06-08-clubnight"
+    },
+    {
+      "category": null,
+      "date_iso": "2024-06-14",
+      "date_label": "Fri.14.06.24",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "AliA",
+            "Prosumer"
+          ],
+          "name": "FREIFELD"
+        }
+      ],
+      "id": "2024-06-14-clubnight",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "23:00",
+      "title": "Clubnight",
+      "url": "https://www.openground.club/en/schedule/2024-06-14-clubnight"
+    },
+    {
+      "category": null,
+      "date_iso": "2024-06-15",
+      "date_label": "Sat.15.06.24",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Ada Luvv",
+            "Toumba",
+            "Ole B/P"
+          ],
+          "name": "FREIFELD"
+        }
+      ],
+      "id": "2024-06-15-illusion-crew-lessbrgreater-at-open-ground",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "23:00",
+      "title": "Illusion Crew at Open Ground",
+      "url": "https://www.openground.club/en/schedule/2024-06-15-illusion-crew-lessbrgreater-at-open-ground"
+    },
+    {
+      "category": null,
+      "date_iso": "2024-06-21",
+      "date_label": "Fri.21.06.24",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Jesse G",
+            "Ryan James Ford"
+          ],
+          "name": "FREIFELD"
+        }
+      ],
+      "id": "2024-06-21-clubnight",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "23:00",
+      "title": "Clubnight",
+      "url": "https://www.openground.club/en/schedule/2024-06-21-clubnight"
+    },
+    {
+      "category": null,
+      "date_iso": "2024-06-22",
+      "date_label": "Sat.22.06.24",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "LNS",
+            "Ron Morelli",
+            "PLO Man"
+          ],
+          "name": "FREIFELD"
+        }
+      ],
+      "id": "2024-06-22-cav-empt-lessbrgreaterat-open-ground",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "23:00",
+      "title": "Cav Empt at Open Ground",
+      "url": "https://www.openground.club/en/schedule/2024-06-22-cav-empt-lessbrgreaterat-open-ground"
+    },
+    {
+      "category": null,
+      "date_iso": "2024-06-28",
+      "date_label": "Fri.28.06.24",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Calibre",
+            "Breakage",
+            "SP:MC"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Sedaction"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2024-06-28-clubnight",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "23:00",
+      "title": "Clubnight",
+      "url": "https://www.openground.club/en/schedule/2024-06-28-clubnight"
+    },
+    {
+      "category": null,
+      "date_iso": "2024-06-29",
+      "date_label": "Sat.29.06.24",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Monita Wagma",
+            "Gîn Bali",
+            "Frau Beji"
+          ],
+          "name": "FREIFELD"
+        }
+      ],
+      "id": "2024-06-29-clubnight",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "23:00",
+      "title": "Clubnight",
+      "url": "https://www.openground.club/en/schedule/2024-06-29-clubnight"
+    },
+    {
+      "category": null,
+      "date_iso": "2024-07-06",
+      "date_label": "Sat.06.07.24",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Agnes Stark",
+            "Erik Jabari"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Sanleo",
+            "Twyn",
+            "Elmaskaya",
+            "Sanleo",
+            "b2b",
+            "Twyn",
+            "b2b",
+            "Elmaskaya"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2024-07-06-clubnight",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "23:00",
+      "title": "Clubnight",
+      "url": "https://www.openground.club/en/schedule/2024-07-06-clubnight"
+    },
+    {
+      "category": null,
+      "date_iso": "2024-07-13",
+      "date_label": "Sat.13.07.24",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Fadi Mohem"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Køkø",
+            "Mexem",
+            "Danyon"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2024-07-13-clubnight",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "23:00",
+      "title": "Clubnight",
+      "url": "https://www.openground.club/en/schedule/2024-07-13-clubnight"
+    },
+    {
+      "category": null,
+      "date_iso": "2024-07-20",
+      "date_label": "Sat.20.07.24",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Low Ki",
+            "Verraco"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Lomi",
+            "Mariami"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2024-07-20-clubnight",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "23:00",
+      "title": "Clubnight",
+      "url": "https://www.openground.club/en/schedule/2024-07-20-clubnight"
+    },
+    {
+      "category": null,
+      "date_iso": "2024-07-25",
+      "date_label": "Thu.25.07.24",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Awesome Tapes"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Mark Ernestus’ Ndagga Rhythm Force"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2024-07-25",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "19:30",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2024-07-25"
+    },
+    {
+      "category": null,
+      "date_iso": "2024-07-27",
+      "date_label": "Sat.27.07.24",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Phalcon",
+            "Beste Hira"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Hohe",
+            "Kribs",
+            "Miles Pinkert"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2024-07-27-clubnight",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "23:00",
+      "title": "Clubnight",
+      "url": "https://www.openground.club/en/schedule/2024-07-27-clubnight"
+    },
+    {
+      "category": null,
+      "date_iso": "2024-08-03",
+      "date_label": "Sat.03.08.24",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Facito",
+            "b2b",
+            "Van der Bolt",
+            "Soundstream",
+            "Colkin"
+          ],
+          "name": "FREIFELD"
+        }
+      ],
+      "id": "2024-08-03-mauke-label-night-at-open-ground",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "23:00",
+      "title": "Mauke Label Night at Open Ground",
+      "url": "https://www.openground.club/en/schedule/2024-08-03-mauke-label-night-at-open-ground"
+    },
+    {
+      "category": null,
+      "date_iso": "2024-08-10",
+      "date_label": "Sat.10.08.24",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "V.I.V.E.K.",
+            "+ Dego Ranking",
+            "Darwin"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Jakob Lueck",
+            "Marco Hilbert",
+            "b2b",
+            "r.Select",
+            "Rostøm"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2024-08-10",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "23:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2024-08-10"
+    },
+    {
+      "category": null,
+      "date_iso": "2024-08-17",
+      "date_label": "Sat.17.08.24",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Nørbak",
+            "Nørbak",
+            "b2b",
+            "Vil",
+            "Vil"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Sesner",
+            "Hade",
+            "Nullmeridian",
+            "Sesner",
+            "b2b",
+            "Hade",
+            "b2b",
+            "Nullmeridian"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2024-08-17",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "23:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2024-08-17"
+    },
+    {
+      "category": null,
+      "date_iso": "2024-08-24",
+      "date_label": "Sat.24.08.24",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Gunni",
+            "Darryn Jones"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Maruhni"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2024-08-24",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "23:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2024-08-24"
+    },
+    {
+      "category": null,
+      "date_iso": "2024-08-31",
+      "date_label": "Sat.31.08.24",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Kessie",
+            "Phara"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Luzie",
+            "Karmaboy",
+            "b2b",
+            "Amsl"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2024-08-31",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "23:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2024-08-31"
+    },
+    {
+      "category": null,
+      "date_iso": "2024-09-07",
+      "date_label": "Sat.07.09.24",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Skratch",
+            "Sicaria",
+            "Bakey"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Sarah San",
+            "Phillip Jondo",
+            "DJ Brom",
+            "Friday Dunard"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2024-09-07",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "23:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2024-09-07"
+    },
+    {
+      "category": null,
+      "date_iso": "2024-09-13",
+      "date_label": "Fri.13.09.24",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Tasha",
+            "DJ Storm",
+            "b2b",
+            "Tasha",
+            "DJ Storm"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Lucas Croon",
+            "Eiger Nordwand",
+            "GG Dee"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2024-09-13",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "23:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2024-09-13"
+    },
+    {
+      "category": null,
+      "date_iso": "2024-09-14",
+      "date_label": "Sat.14.09.24",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Jon K",
+            "Elle Andrews",
+            "Gavsborg"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Dr.Love",
+            "Daniel Wang"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2024-09-14",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "23:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2024-09-14"
+    },
+    {
+      "category": null,
+      "date_iso": "2024-09-21",
+      "date_label": "Sat.21.09.24",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Blawan",
+            "Pariah"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Arthur",
+            "Lil Mofo",
+            "Tikiman"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2024-09-21",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "23:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2024-09-21"
+    },
+    {
+      "category": null,
+      "date_iso": "2024-09-28",
+      "date_label": "Sat.28.09.24",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Kerrie",
+            "Marco Shuttle"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Separat",
+            "Horner"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2024-09-28",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "23:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2024-09-28"
+    },
+    {
+      "category": null,
+      "date_iso": "2024-10-02",
+      "date_label": "Wed.02.10.24",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Fadi Mohem",
+            "b2b",
+            "Victor"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Kaspar van de Water",
+            "Oliv",
+            "JD-C"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2024-10-02",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "23:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2024-10-02"
+    },
+    {
+      "category": null,
+      "date_iso": "2024-10-04",
+      "date_label": "Fri.04.10.24",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Efdemin",
+            "Efdemin",
+            "b2b",
+            "Altinbas",
+            "Altinbas"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "SanLeo",
+            "b2b",
+            "Elmaskaya",
+            "Bobbie*",
+            "Marcel Woyt"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2024-10-04",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "23:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2024-10-04"
+    },
+    {
+      "category": null,
+      "date_iso": "2024-10-05",
+      "date_label": "Sat.05.10.24",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Nancy June",
+            "Mala",
+            "DJ Pete"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Ophélie",
+            "ELLLL"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2024-10-05",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "23:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2024-10-05"
+    },
+    {
+      "category": null,
+      "date_iso": "2024-10-11",
+      "date_label": "Fri.11.10.24",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Dekmantel Soundsystem",
+            "Call Super",
+            "Josey Rebelle"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Vlada",
+            "Konduku"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2024-10-11-dekmantel-at-open-ground",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "23:00",
+      "title": "Dekmantel at Open Ground",
+      "url": "https://www.openground.club/en/schedule/2024-10-11-dekmantel-at-open-ground"
+    },
+    {
+      "category": null,
+      "date_iso": "2024-10-18",
+      "date_label": "Fri.18.10.24",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Elke",
+            "Joy Orbison",
+            "Floating Points"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Elijah & Jammz"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2024-10-18",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "23:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2024-10-18"
+    },
+    {
+      "category": null,
+      "date_iso": "2024-10-18",
+      "date_label": "Fri.18.10.24",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Elijah",
+            "Jammz"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2024-10-18-elijah-lecture-at-annex",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "21:00",
+      "title": "Elijah: Lecture at ANNEX",
+      "url": "https://www.openground.club/en/schedule/2024-10-18-elijah-lecture-at-annex"
+    },
+    {
+      "category": null,
+      "date_iso": "2024-10-19",
+      "date_label": "Sat.19.10.24",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Clarisa Kimskii",
+            "Quelza"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "314A",
+            "Mojo",
+            "Aino"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2024-10-19",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "23:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2024-10-19"
+    },
+    {
+      "category": null,
+      "date_iso": "2024-10-26",
+      "date_label": "Sat.26.10.24",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Low Ki",
+            "b2b",
+            "Mmara",
+            "Objekt",
+            "Ada Luvv"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Medea",
+            "Shaleen"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2024-10-26",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "23:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2024-10-26"
+    },
+    {
+      "category": null,
+      "date_iso": "2024-10-31",
+      "date_label": "Thu.31.10.24",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Drinks and",
+            "DJ selections",
+            "free entry"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2024-10-31",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "20:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2024-10-31"
+    },
+    {
+      "category": null,
+      "date_iso": "2024-11-01",
+      "date_label": "Fri.01.11.24",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Tasha",
+            "Ben Sims"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Marie Midori",
+            "b2b",
+            "Monibi",
+            "Dangermami"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2024-11-01",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "23:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2024-11-01"
+    },
+    {
+      "category": null,
+      "date_iso": "2024-11-08",
+      "date_label": "Fri.08.11.24",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Erik Jabari",
+            "DVS1",
+            "Decka"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "DJ Frank",
+            "Gîn Bali",
+            "DJ Frank",
+            "b2b",
+            "Gîn Bali"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2024-11-08-extended-clubnight",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": null,
+      "title": "Extended Clubnight",
+      "url": "https://www.openground.club/en/schedule/2024-11-08-extended-clubnight"
+    },
+    {
+      "category": null,
+      "date_iso": "2024-11-16",
+      "date_label": "Sat.16.11.24",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Jossy Mitsu",
+            "Martyn",
+            "Joker"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Sucre Sucre & Joscha Creutzfeldt",
+            "Marathon Man & Fry-Ry"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2024-11-16",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "23:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2024-11-16"
+    },
+    {
+      "category": null,
+      "date_iso": "2024-11-23",
+      "date_label": "Sat.23.11.24",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "ML",
+            "Vera Dvale (live)",
+            "Polido (live)",
+            "Sagat (live)",
+            "Mankiyan"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Viola Klein",
+            "Chima Isaaro",
+            "Josey Rebelle"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2024-11-23-meakusma-at-open-ground",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "23:00",
+      "title": "Meakusma at Open Ground",
+      "url": "https://www.openground.club/en/schedule/2024-11-23-meakusma-at-open-ground"
+    },
+    {
+      "category": null,
+      "date_iso": "2024-11-29",
+      "date_label": "Fri.29.11.24",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Tasha",
+            "Freddy K"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Parissa",
+            "Jaxx TMS",
+            "Errol"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2024-11-29",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "23:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2024-11-29"
+    },
+    {
+      "category": null,
+      "date_iso": "2024-12-07",
+      "date_label": "Sat.07.12.24",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Daniel Wang",
+            "Chez Damier",
+            "Ian Pooley"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Kioskforce"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2024-12-07",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "23:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2024-12-07"
+    },
+    {
+      "category": null,
+      "date_iso": "2024-12-14",
+      "date_label": "Sat.14.12.24",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "GiGi FM",
+            "Surgeon"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Colkin"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2024-12-14",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "23:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2024-12-14"
+    },
+    {
+      "category": null,
+      "date_iso": "2024-12-21",
+      "date_label": "Sat.21.12.24",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "JakoJako",
+            "Mareena"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Eiger Nordwand",
+            "Bufiman",
+            "Kennedy"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2024-12-21",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "23:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2024-12-21"
+    },
+    {
+      "category": null,
+      "date_iso": "2024-12-28",
+      "date_label": "Sat.28.12.24",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Fadi Mohem",
+            "Tasha"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Elke",
+            "Josey Rebelle"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2024-12-28-resident-clubnight",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "23:00",
+      "title": "Resident Clubnight",
+      "url": "https://www.openground.club/en/schedule/2024-12-28-resident-clubnight"
+    },
+    {
+      "category": null,
+      "date_iso": "2025-01-11",
+      "date_label": "Sat.11.01.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Miezibub",
+            "Ehua",
+            "Maruhni"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Mexem",
+            "b2b",
+            "Danyon",
+            "Borgborg",
+            "Køkø"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2025-01-11-clubnight",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "23:00",
+      "title": "Clubnight",
+      "url": "https://www.openground.club/en/schedule/2025-01-11-clubnight"
+    },
+    {
+      "category": null,
+      "date_iso": "2025-01-18",
+      "date_label": "Sat.18.01.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Good Call",
+            "Nada Formosa & C.A.Ramirez",
+            "Visky"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Plumitaa",
+            "Nick Deeken",
+            "Entropy"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2025-01-18-clubnight",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "23:00",
+      "title": "Clubnight",
+      "url": "https://www.openground.club/en/schedule/2025-01-18-clubnight"
+    },
+    {
+      "category": null,
+      "date_iso": "2025-01-25",
+      "date_label": "Sat.25.01.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Polygonia",
+            "BLANKA"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "E.P.I.Q."
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2025-01-25-clubnight",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "23:00",
+      "title": "Clubnight",
+      "url": "https://www.openground.club/en/schedule/2025-01-25-clubnight"
+    },
+    {
+      "category": null,
+      "date_iso": "2025-02-01",
+      "date_label": "Sat.01.02.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "OSE",
+            "Danilo Plessow",
+            "Gunni"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Steuert",
+            "Alrauni",
+            "bb89"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2025-02-01",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "23:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2025-02-01"
+    },
+    {
+      "category": null,
+      "date_iso": "2025-02-08",
+      "date_label": "Sat.08.02.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Agnes Stark",
+            "Tasha",
+            "Akua"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Korkut Elbay",
+            "While My Sequencer Gently Bleeps (live)",
+            "Benedikt Meger",
+            "Christian S."
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2025-02-08-clubnight",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "23:00",
+      "title": "Clubnight",
+      "url": "https://www.openground.club/en/schedule/2025-02-08-clubnight"
+    },
+    {
+      "category": null,
+      "date_iso": "2025-02-13",
+      "date_label": "Thu.13.02.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Gretchen",
+            "Exhausted Environment"
+          ],
+          "name": "FREIFELD"
+        }
+      ],
+      "id": "2025-02-13-open-lobby",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": null,
+      "title": "Open Lobby",
+      "url": "https://www.openground.club/en/schedule/2025-02-13-open-lobby"
+    },
+    {
+      "category": null,
+      "date_iso": "2025-02-14",
+      "date_label": "Fri.14.02.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Zip",
+            "Fumiya Tanaka"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Sanleo",
+            "Elmaskaya"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2025-02-14-perlon-lessbrgreater-at-open-ground",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "22:00",
+      "title": "Perlon at Open Ground",
+      "url": "https://www.openground.club/en/schedule/2025-02-14-perlon-lessbrgreater-at-open-ground"
+    },
+    {
+      "category": null,
+      "date_iso": "2025-02-20",
+      "date_label": "Thu.20.02.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "20.00 to midnight",
+            "Drinks and DJ selections",
+            "free entry"
+          ],
+          "name": "FREIFELD"
+        }
+      ],
+      "id": "2025-02-20-open-lobby",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": null,
+      "title": "Open Lobby",
+      "url": "https://www.openground.club/en/schedule/2025-02-20-open-lobby"
+    },
+    {
+      "category": null,
+      "date_iso": "2025-02-22",
+      "date_label": "Sat.22.02.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Commissar Lag",
+            "Rene Wise"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Firek",
+            "Kribs",
+            "Anna & Ramón"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2025-02-22-clubnight",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "22:00",
+      "title": "Clubnight",
+      "url": "https://www.openground.club/en/schedule/2025-02-22-clubnight"
+    },
+    {
+      "category": null,
+      "date_iso": "2025-02-27",
+      "date_label": "Thu.27.02.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "MOIN",
+            "Rashad Becker"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Klaus Fiehe"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2025-02-27-concert",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "20:00",
+      "title": "Concert",
+      "url": "https://www.openground.club/en/schedule/2025-02-27-concert"
+    },
+    {
+      "category": null,
+      "date_iso": "2025-02-27",
+      "date_label": "Thu.27.02.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Audio feed from Freifeld (DJ + Concert)",
+            "free entry"
+          ],
+          "name": "FREIFELD"
+        }
+      ],
+      "id": "2025-02-27-open-lobby",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": null,
+      "title": "Open Lobby",
+      "url": "https://www.openground.club/en/schedule/2025-02-27-open-lobby"
+    },
+    {
+      "category": null,
+      "date_iso": "2025-03-01",
+      "date_label": "Sat.01.03.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Arthur",
+            "Skeptical",
+            "Breakage"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Josey Rebelle"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2025-03-01-clubnight",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "22:00",
+      "title": "Clubnight",
+      "url": "https://www.openground.club/en/schedule/2025-03-01-clubnight"
+    },
+    {
+      "category": null,
+      "date_iso": "2025-03-06",
+      "date_label": "Thu.06.03.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "20.00 to midnight",
+            "Drinks and DJ selections",
+            "free entry"
+          ],
+          "name": "FREIFELD"
+        }
+      ],
+      "id": "2025-03-06-open-lobby",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": null,
+      "title": "Open Lobby",
+      "url": "https://www.openground.club/en/schedule/2025-03-06-open-lobby"
+    },
+    {
+      "category": null,
+      "date_iso": "2025-03-08",
+      "date_label": "Sat.08.03.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Tereza",
+            "Lakuti",
+            "Tama Sumo"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "finsterNiz",
+            "Matildnz",
+            "Menki",
+            "Sun_ma__"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2025-03-08-clubnight",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "22:00",
+      "title": "Clubnight",
+      "url": "https://www.openground.club/en/schedule/2025-03-08-clubnight"
+    },
+    {
+      "category": null,
+      "date_iso": "2025-03-13",
+      "date_label": "Thu.13.03.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "20.00 to midnight",
+            "Drinks and DJ selections",
+            "free entry"
+          ],
+          "name": "FREIFELD"
+        }
+      ],
+      "id": "2025-03-13-open-lobby",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": null,
+      "title": "Open Lobby",
+      "url": "https://www.openground.club/en/schedule/2025-03-13-open-lobby"
+    },
+    {
+      "category": null,
+      "date_iso": "2025-03-15",
+      "date_label": "Sat.15.03.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Elke",
+            "Fireground (live)",
+            "Zenker Brothers"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Foudjo",
+            "Frau Beji",
+            "Piccell"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2025-03-15-ilian-tape-lessbrgreater-at-open-ground",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "22:00",
+      "title": "Ilian Tape at Open Ground",
+      "url": "https://www.openground.club/en/schedule/2025-03-15-ilian-tape-lessbrgreater-at-open-ground"
+    },
+    {
+      "category": null,
+      "date_iso": "2025-03-20",
+      "date_label": "Thu.20.03.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "20.00 to midnight",
+            "Drinks and DJ selections",
+            "free entry"
+          ],
+          "name": "FREIFELD"
+        }
+      ],
+      "id": "2025-03-20-open-lobby",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": null,
+      "title": "Open Lobby",
+      "url": "https://www.openground.club/en/schedule/2025-03-20-open-lobby"
+    },
+    {
+      "category": null,
+      "date_iso": "2025-03-22",
+      "date_label": "Sat.22.03.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Horner",
+            "Separat",
+            "Fadi Mohem"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Fry-Ry & Marathon Man",
+            "Elizabeth Davis (live)",
+            "TBZ (live)"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2025-03-22-clubnight",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "22:00",
+      "title": "Clubnight",
+      "url": "https://www.openground.club/en/schedule/2025-03-22-clubnight"
+    },
+    {
+      "category": null,
+      "date_iso": "2025-03-27",
+      "date_label": "Thu.27.03.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "20.00 to midnight",
+            "Drinks and DJ selections",
+            "free entry"
+          ],
+          "name": "FREIFELD"
+        }
+      ],
+      "id": "2025-03-27-open-lobby",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": null,
+      "title": "Open Lobby",
+      "url": "https://www.openground.club/en/schedule/2025-03-27-open-lobby"
+    },
+    {
+      "category": null,
+      "date_iso": "2025-03-29",
+      "date_label": "Sat.29.03.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Mark Ernestus",
+            "Mala",
+            "Batu"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "SAM",
+            "Lara Fein",
+            "TILS"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2025-03-29-clubnight",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "22:00",
+      "title": "Clubnight",
+      "url": "https://www.openground.club/en/schedule/2025-03-29-clubnight"
+    },
+    {
+      "category": null,
+      "date_iso": "2025-04-03",
+      "date_label": "Thu.03.04.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "8 pm to midnight",
+            "Drinks and DJ selections",
+            "free entry"
+          ],
+          "name": "FREIFELD"
+        }
+      ],
+      "id": "2025-04-03-open-lobby",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": null,
+      "title": "Open Lobby",
+      "url": "https://www.openground.club/en/schedule/2025-04-03-open-lobby"
+    },
+    {
+      "category": null,
+      "date_iso": "2025-04-05",
+      "date_label": "Sat.05.04.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Elke",
+            "Calibre",
+            "Klaus",
+            "SP:MC",
+            "Doc Scott"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Elke",
+            "Klaus"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2025-04-05-extended-clubnight",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "19:00",
+      "title": "Extended Clubnight",
+      "url": "https://www.openground.club/en/schedule/2025-04-05-extended-clubnight"
+    },
+    {
+      "category": null,
+      "date_iso": "2025-04-10",
+      "date_label": "Thu.10.04.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "8 pm to midnight",
+            "Drinks and DJ selections",
+            "free entry"
+          ],
+          "name": "FREIFELD"
+        }
+      ],
+      "id": "2025-04-10-open-lobby",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": null,
+      "title": "Open Lobby",
+      "url": "https://www.openground.club/en/schedule/2025-04-10-open-lobby"
+    },
+    {
+      "category": null,
+      "date_iso": "2025-04-12",
+      "date_label": "Sat.12.04.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Konduku",
+            "DJ Nobu"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Kassem Mosse & Lowtec"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2025-04-12-clubnight",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "22:00",
+      "title": "Clubnight",
+      "url": "https://www.openground.club/en/schedule/2025-04-12-clubnight"
+    },
+    {
+      "category": null,
+      "date_iso": "2025-04-17",
+      "date_label": "Thu.17.04.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Mauzius",
+            "Magnus",
+            "Waltraud Blischke",
+            "mmara (live)",
+            "Lomi"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Tektra von Roland Kayn"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2025-04-17-ambient-listening",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "18:00",
+      "title": "Ambient Listening",
+      "url": "https://www.openground.club/en/schedule/2025-04-17-ambient-listening"
+    },
+    {
+      "category": null,
+      "date_iso": "2025-04-19",
+      "date_label": "Sat.19.04.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Josey Rebelle",
+            "DJ Stingray 313",
+            "Quest"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Kötting",
+            "Paaradoxx",
+            "clara luise"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2025-04-19-clubnight",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "22:00",
+      "title": "Clubnight",
+      "url": "https://www.openground.club/en/schedule/2025-04-19-clubnight"
+    },
+    {
+      "category": null,
+      "date_iso": "2025-04-24",
+      "date_label": "Thu.24.04.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "8 pm to midnight",
+            "Drinks and DJ selections",
+            "free entry"
+          ],
+          "name": "FREIFELD"
+        }
+      ],
+      "id": "2025-04-24-open-lobby",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": null,
+      "title": "Open Lobby",
+      "url": "https://www.openground.club/en/schedule/2025-04-24-open-lobby"
+    },
+    {
+      "category": null,
+      "date_iso": "2025-04-26",
+      "date_label": "Sat.26.04.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Ole B/P",
+            "Azu Tiwaline",
+            "Ada Luvv"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "r.Select",
+            "di²",
+            "b2b",
+            "pik",
+            "Marco Hilbert"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2025-04-26-clubnight",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "22:00",
+      "title": "Clubnight",
+      "url": "https://www.openground.club/en/schedule/2025-04-26-clubnight"
+    },
+    {
+      "category": null,
+      "date_iso": "2025-04-30",
+      "date_label": "Wed.30.04.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Newa",
+            "Ben Klock",
+            "Fadi Mohem"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Parissa",
+            "Maryisonacid",
+            "Errol"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2025-04-30-extended-clubnight",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "22:00",
+      "title": "Extended Clubnight",
+      "url": "https://www.openground.club/en/schedule/2025-04-30-extended-clubnight"
+    },
+    {
+      "category": null,
+      "date_iso": "2025-05-01",
+      "date_label": "Thu.01.05.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "8 pm to midnight",
+            "Drinks and DJ selections",
+            "free entry"
+          ],
+          "name": "FREIFELD"
+        }
+      ],
+      "id": "2025-05-01-open-lobby",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": null,
+      "title": "Open Lobby",
+      "url": "https://www.openground.club/en/schedule/2025-05-01-open-lobby"
+    },
+    {
+      "category": null,
+      "date_iso": "2025-05-03",
+      "date_label": "Sat.03.05.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Stenny",
+            "Toru Ikemoto",
+            "Tasha",
+            "b2b",
+            "Alarico"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Mantra",
+            "Double O"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2025-05-03-15-years-of-neighbourhood-at-open-ground",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "22:00",
+      "title": "15 years of Neighbourhood at Open Ground",
+      "url": "https://www.openground.club/en/schedule/2025-05-03-15-years-of-neighbourhood-at-open-ground"
+    },
+    {
+      "category": null,
+      "date_iso": "2025-05-08",
+      "date_label": "Thu.08.05.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "8 pm to midnight",
+            "Drinks and DJ selections",
+            "free entry"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2025-05-08-open-lobby",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": null,
+      "title": "Open Lobby",
+      "url": "https://www.openground.club/en/schedule/2025-05-08-open-lobby"
+    },
+    {
+      "category": null,
+      "date_iso": "2025-05-09",
+      "date_label": "Fri.09.05.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Careless",
+            "Daphni",
+            "(5 hour DJ set)"
+          ],
+          "name": "FREIFELD"
+        }
+      ],
+      "id": "2025-05-09-special-event",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "22:00",
+      "title": "Special Event",
+      "url": "https://www.openground.club/en/schedule/2025-05-09-special-event"
+    },
+    {
+      "category": null,
+      "date_iso": "2025-05-10",
+      "date_label": "Sat.10.05.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Move D",
+            "Prosumer"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Andras_2020",
+            "LUZ1E",
+            "Gîn Bali"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2025-05-10-clubnight",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "22:00",
+      "title": "Clubnight",
+      "url": "https://www.openground.club/en/schedule/2025-05-10-clubnight"
+    },
+    {
+      "category": null,
+      "date_iso": "2025-05-15",
+      "date_label": "Thu.15.05.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "8 pm to midnight",
+            "Drinks and DJ selections",
+            "free entry"
+          ],
+          "name": "FREIFELD"
+        }
+      ],
+      "id": "2025-05-15-open-lobby",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": null,
+      "title": "Open Lobby",
+      "url": "https://www.openground.club/en/schedule/2025-05-15-open-lobby"
+    },
+    {
+      "category": null,
+      "date_iso": "2025-05-17",
+      "date_label": "Sat.17.05.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "MI-EL",
+            "Carrier (live)",
+            "RS Tangent",
+            "Josey Rebelle"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Will Bankhead",
+            "Mark Ainley",
+            "b2b",
+            "Mark Ernestus",
+            "Brassfoot"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2025-05-17-the-trilogy-tapes-at-open-ground",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "22:00",
+      "title": "The Trilogy Tapes at Open Ground",
+      "url": "https://www.openground.club/en/schedule/2025-05-17-the-trilogy-tapes-at-open-ground"
+    },
+    {
+      "category": null,
+      "date_iso": "2025-05-22",
+      "date_label": "Thu.22.05.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "8 pm to midnight",
+            "Drinks and DJ selections",
+            "free entry"
+          ],
+          "name": "FREIFELD"
+        }
+      ],
+      "id": "2025-05-22-open-lobby",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": null,
+      "title": "Open Lobby",
+      "url": "https://www.openground.club/en/schedule/2025-05-22-open-lobby"
+    },
+    {
+      "category": null,
+      "date_iso": "2025-05-24",
+      "date_label": "Sat.24.05.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "A-Lo",
+            "Concert: Ray Lozano",
+            "Daferwa",
+            "Phillip Jondo",
+            "Le Motel",
+            "Dub Kimski"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Good Call",
+            "Jay Simon"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2025-05-24-clubnight",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "20:00",
+      "title": "Clubnight",
+      "url": "https://www.openground.club/en/schedule/2025-05-24-clubnight"
+    },
+    {
+      "category": null,
+      "date_iso": "2025-05-29",
+      "date_label": "Thu.29.05.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "8 pm to midnight",
+            "Drinks and DJ selections",
+            "free entry"
+          ],
+          "name": "FREIFELD"
+        }
+      ],
+      "id": "2025-05-29-open-lobby",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": null,
+      "title": "Open Lobby",
+      "url": "https://www.openground.club/en/schedule/2025-05-29-open-lobby"
+    },
+    {
+      "category": null,
+      "date_iso": "2025-05-30",
+      "date_label": "Fri.30.05.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Floating Points"
+          ],
+          "name": "FREIFELD"
+        }
+      ],
+      "id": "2025-05-30-special-event",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "22:00–06:00",
+      "title": "Special Event",
+      "url": "https://www.openground.club/en/schedule/2025-05-30-special-event"
+    },
+    {
+      "category": null,
+      "date_iso": "2025-05-31",
+      "date_label": "Sat.31.05.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Freddy K"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Pinch",
+            "2562",
+            "Beatrice M."
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2025-05-31-extended-clubnight-lessbrgreater-freddy-k-lessbrgreater-all",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "22:00",
+      "title": "Extended Clubnight Freddy K all night long",
+      "url": "https://www.openground.club/en/schedule/2025-05-31-extended-clubnight-lessbrgreater-freddy-k-lessbrgreater-all"
+    },
+    {
+      "category": "Open Lobby",
+      "date_iso": "2025-06-05",
+      "date_label": "Thu.05.06.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "8 pm to midnight",
+            "Drinks and DJ selections",
+            "free entry"
+          ],
+          "name": "FREIFELD"
+        }
+      ],
+      "id": "2025-06-05",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "20:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2025-06-05"
+    },
+    {
+      "category": "Clubnight",
+      "date_iso": "2025-06-07",
+      "date_label": "Sat.07.06.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Maurice Fulton",
+            "KiNK (live)",
+            "Kioskforce"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "STI ZOI",
+            "XI-N (live)",
+            "fairytears",
+            "Rama",
+            "B3CKI"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2025-06-07",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "22:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2025-06-07"
+    },
+    {
+      "category": "Open Lobby",
+      "date_iso": "2025-06-12",
+      "date_label": "Thu.12.06.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "..."
+          ],
+          "name": "LOBBY + ANNEX"
+        }
+      ],
+      "id": "2025-06-12",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "20:00–00:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2025-06-12"
+    },
+    {
+      "category": "Clubnight",
+      "date_iso": "2025-06-13",
+      "date_label": "Fri.13.06.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "SnSe",
+            "KMRU (live)",
+            "Gavsborg",
+            "Arif (live)",
+            "Mina",
+            "Mina",
+            "b2b",
+            "SnSe"
+          ],
+          "name": "FREIFELD"
+        }
+      ],
+      "id": "2025-06-13",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "22:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2025-06-13"
+    },
+    {
+      "category": null,
+      "date_iso": "2025-06-14",
+      "date_label": "Sat.14.06.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Saturday",
+            "14.06.2025",
+            "Harman Holiday - opening ceremony (live)",
+            "How Du (live)",
+            "EMA",
+            "Jurango",
+            "Shackleton (live)",
+            "Mama Snake",
+            "Darwin",
+            "Sunday",
+            "15.06.2025",
+            "\"Spectral Radiance Breathwork\" with Harman Holiday",
+            "\"Sonic Serenity Yoga\" with JuJu & DJ Pete",
+            "Richard Akingbehin",
+            "Laurel Halo",
+            "Harman Holiday closing ceremony"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Dengue Dengue Dengue",
+            "Lena Willikens",
+            "Basic Chanel"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2025-06-14-abyss-weekender-at-open-ground",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "20:00",
+      "title": "abyss Weekender at Open Ground",
+      "url": "https://www.openground.club/en/schedule/2025-06-14-abyss-weekender-at-open-ground"
+    },
+    {
+      "category": "Open Lobby",
+      "date_iso": "2025-06-19",
+      "date_label": "Thu.19.06.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "..."
+          ],
+          "name": "LOBBY + ANNEX"
+        }
+      ],
+      "id": "2025-06-19",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "20:00–00:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2025-06-19"
+    },
+    {
+      "category": "Clubnight",
+      "date_iso": "2025-06-21",
+      "date_label": "Sat.21.06.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Mark Ernestus",
+            "Arthur",
+            "Frau Beji",
+            "DJ Lag",
+            "Piccell",
+            "Foudjo"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Køkø",
+            "Di²",
+            "Mexem"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2025-06-21",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "22:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2025-06-21"
+    },
+    {
+      "category": "Concert",
+      "date_iso": "2025-06-25",
+      "date_label": "Wed.25.06.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Mark Ernestus’ Ndagga Rhythm Force"
+          ],
+          "name": "FREIFELD"
+        }
+      ],
+      "id": "2025-06-25",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "19:30",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2025-06-25"
+    },
+    {
+      "category": "Open Lobby",
+      "date_iso": "2025-06-26",
+      "date_label": "Thu.26.06.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "..."
+          ],
+          "name": "LOBBY + ANNEX"
+        }
+      ],
+      "id": "2025-06-26",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "20:00–00:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2025-06-26"
+    },
+    {
+      "category": "Clubnight",
+      "date_iso": "2025-06-28",
+      "date_label": "Sat.28.06.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Kenneth Christiansen",
+            "Vainqueur (live)",
+            "Christine Benz"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Visky",
+            "Steffen Damm",
+            "DJ H0TLINE"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2025-06-28",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "22:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2025-06-28"
+    },
+    {
+      "category": "Open Lobby",
+      "date_iso": "2025-07-03",
+      "date_label": "Thu.03.07.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "..."
+          ],
+          "name": "LOBBY + ANNEX"
+        }
+      ],
+      "id": "2025-07-03",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "20:00–00:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2025-07-03"
+    },
+    {
+      "category": "Clubnight",
+      "date_iso": "2025-07-05",
+      "date_label": "Sat.05.07.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Tasha",
+            "D.Dan"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "SnPLO"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2025-07-05",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "22:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2025-07-05"
+    },
+    {
+      "category": "Open Lobby",
+      "date_iso": "2025-07-10",
+      "date_label": "Thu.10.07.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "..."
+          ],
+          "name": "LOBBY + ANNEX"
+        }
+      ],
+      "id": "2025-07-10",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "20:00–00:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2025-07-10"
+    },
+    {
+      "category": "Extended Clubnight",
+      "date_iso": "2025-07-12",
+      "date_label": "Sat.12.07.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "BLUME",
+            "FOLD",
+            "Sicaria",
+            "with SGT Pokes",
+            "Josi Devil"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Maxwell",
+            "C U SOON",
+            "Miezibub"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2025-07-12",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "20:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2025-07-12"
+    },
+    {
+      "category": "Open Lobby",
+      "date_iso": "2025-07-17",
+      "date_label": "Thu.17.07.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "..."
+          ],
+          "name": "LOBBY + ANNEX"
+        }
+      ],
+      "id": "2025-07-17",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "20:00–00:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2025-07-17"
+    },
+    {
+      "category": "Clubnight",
+      "date_iso": "2025-07-19",
+      "date_label": "Sat.19.07.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Laura BCR",
+            "Psyk"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Phillip Jondo",
+            "DJ Plead",
+            "DJ Brom",
+            "Phillip Jondo",
+            "b2b",
+            "DJ Plead",
+            "b2b",
+            "DJ Brom"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2025-07-19",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "22:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2025-07-19"
+    },
+    {
+      "category": "Open Lobby",
+      "date_iso": "2025-07-24",
+      "date_label": "Thu.24.07.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "..."
+          ],
+          "name": "LOBBY + ANNEX"
+        }
+      ],
+      "id": "2025-07-24",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "20:00–00:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2025-07-24"
+    },
+    {
+      "category": "Special Event",
+      "date_iso": "2025-07-25",
+      "date_label": "Fri.25.07.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "DJ Koze",
+            "Ada"
+          ],
+          "name": "FREIFELD"
+        }
+      ],
+      "id": "2025-07-25",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "22:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2025-07-25"
+    },
+    {
+      "category": "Clubnight",
+      "date_iso": "2025-07-26",
+      "date_label": "Sat.26.07.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Loidis",
+            "GiGi FM"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Felix Fleer & Jonas Landwehr",
+            "Benniap (MC)"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2025-07-26",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "22:00–06:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2025-07-26"
+    },
+    {
+      "category": "Open Lobby",
+      "date_iso": "2025-07-31",
+      "date_label": "Thu.31.07.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "..."
+          ],
+          "name": "LOBBY + ANNEX"
+        }
+      ],
+      "id": "2025-07-31",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "20:00–00:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2025-07-31"
+    },
+    {
+      "category": "Clubnight",
+      "date_iso": "2025-08-02",
+      "date_label": "Sat.02.08.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Josey Rebelle",
+            "HiTech (live)",
+            "1morning"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Frau Beji",
+            "Foudjo",
+            "Piccell"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2025-08-02",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "22:00–06:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2025-08-02"
+    },
+    {
+      "category": "Open Lobby",
+      "date_iso": "2025-08-07",
+      "date_label": "Thu.07.08.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "..."
+          ],
+          "name": "LOBBY + ANNEX"
+        }
+      ],
+      "id": "2025-08-07",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "20:00–00:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2025-08-07"
+    },
+    {
+      "category": "Clubnight",
+      "date_iso": "2025-08-09",
+      "date_label": "Sat.09.08.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Low Ki",
+            "Cousin",
+            "Tikiman & Richard Akingbehin",
+            "CCL"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Alrauni",
+            "Steuert",
+            "Loris Erdmann"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2025-08-09",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "22:00–06:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2025-08-09"
+    },
+    {
+      "category": "Open Lobby",
+      "date_iso": "2025-08-14",
+      "date_label": "Thu.14.08.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Sebastian Rebig",
+            "dEEJAZZID"
+          ],
+          "name": "LOBBY + ANNEX"
+        }
+      ],
+      "id": "2025-08-14",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "20:00–00:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2025-08-14"
+    },
+    {
+      "category": "Clubnight",
+      "date_iso": "2025-08-16",
+      "date_label": "Sat.16.08.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Struktur",
+            "Fadi Mohem"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Sedaction",
+            "Dub Kimski",
+            "Daferwa"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2025-08-16",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "22:00–06:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2025-08-16"
+    },
+    {
+      "category": "Open Lobby",
+      "date_iso": "2025-08-21",
+      "date_label": "Thu.21.08.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Dirk Domin & Andreas Eisenschneider"
+          ],
+          "name": "LOBBY + ANNEX"
+        }
+      ],
+      "id": "2025-08-21",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "20:00–00:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2025-08-21"
+    },
+    {
+      "category": "Clubnight",
+      "date_iso": "2025-08-23",
+      "date_label": "Sat.23.08.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Surgeon",
+            "Quelza"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Mogol Soundsystem",
+            "Lumatraxx (live)"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2025-08-23",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "22:00–06:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2025-08-23"
+    },
+    {
+      "category": "Open Lobby",
+      "date_iso": "2025-08-28",
+      "date_label": "Thu.28.08.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Plattenpelle",
+            "b2b",
+            "Einworteinmann",
+            "Auriline",
+            "b2b",
+            "DJBJ"
+          ],
+          "name": "LOBBY + ANNEX"
+        }
+      ],
+      "id": "2025-08-28",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "20:00–00:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2025-08-28"
+    },
+    {
+      "category": "Clubnight",
+      "date_iso": "2025-08-30",
+      "date_label": "Sat.30.08.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Mariami",
+            "Rrose (live)",
+            "Dornen",
+            "b2b",
+            "Lomi"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Elmaskaya",
+            "Levat",
+            "Patrick Specke",
+            "SanLeo"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2025-08-30",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "22:00–06:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2025-08-30"
+    },
+    {
+      "category": "Open Lobby",
+      "date_iso": "2025-09-04",
+      "date_label": "Thu.04.09.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Jonas"
+          ],
+          "name": "LOBBY + ANNEX"
+        }
+      ],
+      "id": "2025-09-04",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "20:00–00:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2025-09-04"
+    },
+    {
+      "category": "Clubnight",
+      "date_iso": "2025-09-06",
+      "date_label": "Sat.06.09.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Maruhni",
+            "Marie Montexier",
+            "Kioskforce"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Voltmar",
+            "Blazej Malinowski (live)",
+            "Philipp Stoffel"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2025-09-06",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "22:00–06:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2025-09-06"
+    },
+    {
+      "category": "Open Lobby",
+      "date_iso": "2025-09-11",
+      "date_label": "Thu.11.09.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Mexem",
+            "Danyon",
+            "Køkø"
+          ],
+          "name": "LOBBY + ANNEX"
+        }
+      ],
+      "id": "2025-09-11",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "20:00–00:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2025-09-11"
+    },
+    {
+      "category": "Special Event",
+      "date_iso": "2025-09-12",
+      "date_label": "Fri.12.09.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Marcus Worgull",
+            "Âme (live)"
+          ],
+          "name": "FREIFELD"
+        }
+      ],
+      "id": "2025-09-12",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "22:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2025-09-12"
+    },
+    {
+      "category": "Clubnight",
+      "date_iso": "2025-09-13",
+      "date_label": "Sat.13.09.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Conrad Pack",
+            "Josey Rebelle",
+            "Pariah"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Shamey Oliver",
+            "Nullmeridian",
+            "Maxwell"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2025-09-13",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "22:00–06:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2025-09-13"
+    },
+    {
+      "category": "Open Lobby",
+      "date_iso": "2025-09-18",
+      "date_label": "Thu.18.09.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Sneaky Pete"
+          ],
+          "name": "LOBBY + ANNEX"
+        }
+      ],
+      "id": "2025-09-18",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "20:00–00:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2025-09-18"
+    },
+    {
+      "category": "Clubnight",
+      "date_iso": "2025-09-20",
+      "date_label": "Sat.20.09.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Agnes Stark",
+            "Polygonia (live)",
+            "Tasha"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Serena & Javi",
+            "Nboj Tespo (live)",
+            "Nicolini (live)",
+            "Marathon Man"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2025-09-20",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "22:00–06:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2025-09-20"
+    },
+    {
+      "category": "Open Lobby",
+      "date_iso": "2025-09-25",
+      "date_label": "Thu.25.09.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Glitza",
+            "Low Ki"
+          ],
+          "name": "LOBBY + ANNEX"
+        }
+      ],
+      "id": "2025-09-25",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "20:00–00:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2025-09-25"
+    },
+    {
+      "category": "Clubnight",
+      "date_iso": "2025-09-27",
+      "date_label": "Sat.27.09.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Electric Indigo",
+            "SSTROM (live)",
+            "Fadi Mohem"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Elisen",
+            "Mighty Maus",
+            "Raphael Hansen"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2025-09-27",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "22:00–06:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2025-09-27"
+    },
+    {
+      "category": "Extended Clubnight",
+      "date_iso": "2025-10-02",
+      "date_label": "Thu.02.10.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "DVS1"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Claude Blimey",
+            "Ildikó",
+            "Exhausted Environment",
+            "Keta Gavasheli",
+            "Claude Blimey",
+            "b2b",
+            "Ildikó",
+            "b2b",
+            "Exhausted Environment",
+            "b2b",
+            "Keta Gavasheli",
+            "Separat",
+            "AMSL"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2025-10-02",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "22:00–10:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2025-10-02"
+    },
+    {
+      "category": "Clubnight",
+      "date_iso": "2025-10-04",
+      "date_label": "Sat.04.10.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Arthur",
+            "b2b",
+            "Mark Ernestus",
+            "Aba Shanti-I",
+            "Nídia",
+            "Josey Rebelle"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Viola Klein",
+            "Michael J. Blood (live)",
+            "Why Be",
+            "Gretchen"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2025-10-04-carhartt-wip-at-open-ground",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "22:00–06:00",
+      "title": "Carhartt WIP at Open Ground",
+      "url": "https://www.openground.club/en/schedule/2025-10-04-carhartt-wip-at-open-ground"
+    },
+    {
+      "category": "Open Lobby",
+      "date_iso": "2025-10-09",
+      "date_label": "Thu.09.10.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "such a blurrr"
+          ],
+          "name": "LOBBY + ANNEX"
+        }
+      ],
+      "id": "2025-10-09",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "20:00–00:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2025-10-09"
+    },
+    {
+      "category": "Clubnight",
+      "date_iso": "2025-10-11",
+      "date_label": "Sat.11.10.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Hans Nieswandt",
+            "Vick Lavender",
+            "Nat Wendell"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "sun_ma",
+            "b2b",
+            "finsterNiz",
+            "Cleo AD (live)",
+            "Einar Fehrholz",
+            "Tofuland David"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2025-10-11",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "22:00–06:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2025-10-11"
+    },
+    {
+      "category": "Open Lobby",
+      "date_iso": "2025-10-16",
+      "date_label": "Thu.16.10.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Paul Olf",
+            "Philipp Olf"
+          ],
+          "name": "LOBBY + ANNEX"
+        }
+      ],
+      "id": "2025-10-16",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "20:00–00:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2025-10-16"
+    },
+    {
+      "category": "Extended Clubnight",
+      "date_iso": "2025-10-18",
+      "date_label": "Sat.18.10.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Josey Rebelle",
+            "b2b",
+            "Toby Feltwell",
+            "Breakage",
+            "NikNak",
+            "Halogenix"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Will Bankhead",
+            "Arthur",
+            "DJ Trystero",
+            "Rezzett (live)",
+            "PLO Man",
+            "Josey Rebelle"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2025-10-18",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "20:00–07:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2025-10-18"
+    },
+    {
+      "category": "Open Lobby",
+      "date_iso": "2025-10-23",
+      "date_label": "Thu.23.10.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Mogol Soundsystem Crew"
+          ],
+          "name": "LOBBY + ANNEX"
+        }
+      ],
+      "id": "2025-10-23",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "20:00–00:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2025-10-23"
+    },
+    {
+      "category": "Clubnight",
+      "date_iso": "2025-10-25",
+      "date_label": "Sat.25.10.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Markus Suckut",
+            "Altinbas"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "DJ Ass Tits",
+            "DJ Palga",
+            "Paaradoxx",
+            "Slaymira",
+            "Ursula Erdmann"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2025-10-25",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "22:00–06:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2025-10-25"
+    },
+    {
+      "category": "Open Lobby",
+      "date_iso": "2025-10-30",
+      "date_label": "Thu.30.10.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "DJ Karriere",
+            "Uh-Young Kim"
+          ],
+          "name": "LOBBY + ANNEX"
+        }
+      ],
+      "id": "2025-10-30",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "20:00–00:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2025-10-30"
+    },
+    {
+      "category": "Clubnight",
+      "date_iso": "2025-11-01",
+      "date_label": "Sat.01.11.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Fadi Mohem",
+            "Akua"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Piccell (Hybrid Set)",
+            "Catu Diosis",
+            "DJ Travella",
+            "Frau Beji",
+            "Foudjo"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2025-11-01",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "22:00–06:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2025-11-01"
+    },
+    {
+      "category": "Open Lobby",
+      "date_iso": "2025-11-06",
+      "date_label": "Thu.06.11.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Anna & Ramón"
+          ],
+          "name": "LOBBY + ANNEX"
+        }
+      ],
+      "id": "2025-11-06",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "20:00–00:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2025-11-06"
+    },
+    {
+      "category": "Clubnight",
+      "date_iso": "2025-11-08",
+      "date_label": "Sat.08.11.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Elijah",
+            "Shy FX",
+            "Tasha"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Henning",
+            "Mauzius",
+            "ELSA"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2025-11-08",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "22:00–06:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2025-11-08"
+    },
+    {
+      "category": "Open Lobby",
+      "date_iso": "2025-11-13",
+      "date_label": "Thu.13.11.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "04061",
+            "Eyal Talmor (live)",
+            "Lotus FX (live)",
+            "Pileta"
+          ],
+          "name": "LOBBY + ANNEX"
+        }
+      ],
+      "id": "2025-11-13",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "20:00–00:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2025-11-13"
+    },
+    {
+      "category": "Clubnight",
+      "date_iso": "2025-11-15",
+      "date_label": "Sat.15.11.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Kribs",
+            "b2b",
+            "Miles Pinkert",
+            "Steffi",
+            "Juri Heidemann"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Disrupt",
+            "b2b",
+            "Tapes",
+            "Kiki Hitomi (live)",
+            "Disrupt & Speng Bond (live)",
+            "Tapes",
+            "b2b",
+            "Disrupt"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2025-11-15",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "22:00–06:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2025-11-15"
+    },
+    {
+      "category": "Open Lobby",
+      "date_iso": "2025-11-20",
+      "date_label": "Thu.20.11.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "softburn",
+            "BTA"
+          ],
+          "name": "LOBBY + ANNEX"
+        }
+      ],
+      "id": "2025-11-20",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "20:00–00:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2025-11-20"
+    },
+    {
+      "category": "Extended Clubnight",
+      "date_iso": "2025-11-21",
+      "date_label": "Fri.21.11.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Alarico",
+            "Alarico",
+            "b2b",
+            "Ben Klock",
+            "Ben Klock",
+            "Ben Klock",
+            "b2b",
+            "Sterac",
+            "Sterac"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Ole B/P",
+            "b2b",
+            "Magnus",
+            "Olgica",
+            "mmara",
+            "b2b",
+            "Low Ki",
+            "Sarmabot"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2025-11-21",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "22:00–12:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2025-11-21"
+    },
+    {
+      "category": "Open Lobby",
+      "date_iso": "2025-11-27",
+      "date_label": "Thu.27.11.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "BRUTALISM (live)",
+            "Måtyrer",
+            "Dornen (live)",
+            "lomi (live)",
+            "Eszaid (live)",
+            "Joreng Boi (live)"
+          ],
+          "name": "LOBBY + ANNEX"
+        }
+      ],
+      "id": "2025-11-27",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "20:00–00:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2025-11-27"
+    },
+    {
+      "category": "Extended Clubnight",
+      "date_iso": "2025-11-29",
+      "date_label": "Sat.29.11.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Benny Ill",
+            "Mark Ernestus",
+            "Mad Professor (live)",
+            "Kahn",
+            "Felixculpah",
+            "Sir Spyro",
+            "Mala",
+            "Hosted by SGT Pokes"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Breakfake",
+            "b2b",
+            "Kundarini",
+            "Von D",
+            "Silkie",
+            "Tailor Jae"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2025-11-29-deep-medi-at-open-ground",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "18:00–06:00",
+      "title": "Deep Medi at Open Ground",
+      "url": "https://www.openground.club/en/schedule/2025-11-29-deep-medi-at-open-ground"
+    },
+    {
+      "category": "Open Lobby",
+      "date_iso": "2025-12-04",
+      "date_label": "Thu.04.12.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Mehmet Aslan",
+            "OSE"
+          ],
+          "name": "LOBBY + ANNEX"
+        }
+      ],
+      "id": "2025-12-04",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "20:00–00:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2025-12-04"
+    },
+    {
+      "category": "Clubnight",
+      "date_iso": "2025-12-06",
+      "date_label": "Sat.06.12.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Vers",
+            "Al Wootton",
+            "Tash LC",
+            "Emily Jeanne"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Sensu",
+            "MOBBS (live)",
+            "Lutto Lento",
+            "ojoo (Hybrid)"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2025-12-06",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "22:00–06:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2025-12-06"
+    },
+    {
+      "category": "Open Lobby",
+      "date_iso": "2025-12-11",
+      "date_label": "Thu.11.12.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Agnes Stark"
+          ],
+          "name": "LOBBY + ANNEX"
+        }
+      ],
+      "id": "2025-12-11",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "20:00–00:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2025-12-11"
+    },
+    {
+      "category": "Clubnight",
+      "date_iso": "2025-12-13",
+      "date_label": "Sat.13.12.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Alienata",
+            "b2b",
+            "Tasha",
+            "MARRØN"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Sarah San",
+            "Sin Maldita",
+            "Cocktail Party Effect",
+            "Gretchen",
+            "xeccute"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2025-12-13",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "22:00–06:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2025-12-13"
+    },
+    {
+      "category": "Open Lobby",
+      "date_iso": "2025-12-18",
+      "date_label": "Thu.18.12.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "lu.wicked",
+            "Esgeem",
+            "Justus Kaya"
+          ],
+          "name": "LOBBY + ANNEX"
+        }
+      ],
+      "id": "2025-12-18",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "20:00–00:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2025-12-18"
+    },
+    {
+      "category": "Extended Clubnight",
+      "date_iso": "2025-12-20",
+      "date_label": "Sat.20.12.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Bruce",
+            "re:ni",
+            "Metrist (live)",
+            "Yushh",
+            "Batu"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Batu (vinyl set)",
+            "k means",
+            "Carin Kelly",
+            "Bake"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2025-12-20-timedance-at-open-ground",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "20:00–06:00",
+      "title": "Timedance at Open Ground",
+      "url": "https://www.openground.club/en/schedule/2025-12-20-timedance-at-open-ground"
+    },
+    {
+      "category": "Open Lobby",
+      "date_iso": "2025-12-25",
+      "date_label": "Thu.25.12.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "DRAW",
+            "Jonas Mokosch",
+            "Steuert"
+          ],
+          "name": "LOBBY + ANNEX"
+        }
+      ],
+      "id": "2025-12-25",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "20:00–00:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2025-12-25"
+    },
+    {
+      "category": "Clubnight",
+      "date_iso": "2025-12-27",
+      "date_label": "Sat.27.12.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Elke",
+            "Josey Rebelle",
+            "Tasha",
+            "Fadi Mohem"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Brutalism",
+            "Sequence",
+            "Rave Against The Machine",
+            "Kioskforce",
+            "Maruhni",
+            "Barulho World",
+            "Illusion",
+            "Gîn Bali",
+            "Raphael Hansen",
+            "Separat"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2025-12-27-friends-and-residents",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "22:00–06:00",
+      "title": "Friends and Residents",
+      "url": "https://www.openground.club/en/schedule/2025-12-27-friends-and-residents"
+    },
+    {
+      "category": "Extended Clubnight",
+      "date_iso": "2025-12-31",
+      "date_label": "Wed.31.12.25",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Zar",
+            "Delicat",
+            "b2b",
+            "ArpXP",
+            "b2b",
+            "Benski",
+            "Calibre feat. DRS",
+            "Mantra",
+            "Bailey",
+            "Miezibub"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Sad Cat",
+            "b2b",
+            "Annca",
+            "Alite",
+            "Bailey",
+            "Soulsurfer",
+            "Okular",
+            "Zar"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2025-12-31-sunandbass-at-open-ground",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "22:00–08:00",
+      "title": "SUNANDBASS at Open Ground",
+      "url": "https://www.openground.club/en/schedule/2025-12-31-sunandbass-at-open-ground"
+    },
+    {
+      "category": "Open Lobby",
+      "date_iso": "2026-01-15",
+      "date_label": "Thu.15.01.26",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Ildikó",
+            "ex::EN",
+            "GG Dee",
+            "MINALOY"
+          ],
+          "name": "LOBBY + ANNEX"
+        }
+      ],
+      "id": "2026-01-15",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "20:00–00:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2026-01-15"
+    },
+    {
+      "category": "Clubnight",
+      "date_iso": "2026-01-17",
+      "date_label": "Sat.17.01.26",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Forest Drive West",
+            "b2b",
+            "DB1",
+            "b2b",
+            "localhost",
+            "Elke"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Shaka",
+            "Eric D. Clark",
+            "Craig White"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2026-01-17",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "22:00–06:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2026-01-17"
+    },
+    {
+      "category": "Open Lobby",
+      "date_iso": "2026-01-22",
+      "date_label": "Thu.22.01.26",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Namesti",
+            "b2b",
+            "V.Dietz",
+            "Felix Bernhard",
+            "b2b",
+            "Pötter"
+          ],
+          "name": "LOBBY + ANNEX"
+        }
+      ],
+      "id": "2026-01-22",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "20:00–00:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2026-01-22"
+    },
+    {
+      "category": "Clubnight",
+      "date_iso": "2026-01-24",
+      "date_label": "Sat.24.01.26",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Tom Kutsche",
+            "MUSCLECARS"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Danyon",
+            "Mexem",
+            "Køkø",
+            "Anuli"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2026-01-24",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "22:00–06:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2026-01-24"
+    },
+    {
+      "category": "Listening Session",
+      "date_iso": "2026-01-24",
+      "date_label": "Sat.24.01.26",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Wolfgang Tillmans"
+          ],
+          "name": "FREIFELD"
+        }
+      ],
+      "id": "2026-01-24-playback-room-musik-1986-2016-2025-at",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "20:00–21:59",
+      "title": "Playback Room: Musik 1986, 2016-2025 at Open Ground",
+      "url": "https://www.openground.club/en/schedule/2026-01-24-playback-room-musik-1986-2016-2025-at"
+    },
+    {
+      "category": "Open Lobby",
+      "date_iso": "2026-01-29",
+      "date_label": "Thu.29.01.26",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Matildnz",
+            "Glitza"
+          ],
+          "name": "LOBBY + ANNEX"
+        }
+      ],
+      "id": "2026-01-29",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "20:00–00:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2026-01-29"
+    },
+    {
+      "category": "Clubnight",
+      "date_iso": "2026-01-31",
+      "date_label": "Sat.31.01.26",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Fadi Mohem",
+            "b2b",
+            "Ogazón"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Alrauni",
+            "b2b",
+            "bb89",
+            "Erik Jabari",
+            "EPHIE"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2026-01-31",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "22:00–06:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2026-01-31"
+    },
+    {
+      "category": "Open Lobby",
+      "date_iso": "2026-02-05",
+      "date_label": "Thu.05.02.26",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Plattenpelle",
+            "b2b",
+            "Einworteinmann",
+            "Auriline",
+            "DJBJ"
+          ],
+          "name": "LOBBY + ANNEX"
+        }
+      ],
+      "id": "2026-02-05",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "20:00–00:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2026-02-05"
+    },
+    {
+      "category": "Concert",
+      "date_iso": "2026-02-06",
+      "date_label": "Fri.06.02.26",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Mariami",
+            "b2b",
+            "Måtyrer",
+            "Justin (live)",
+            "Mohammad Reza Mortazavi (live)",
+            "Dornen & Lomi (hybrid live)"
+          ],
+          "name": "FREIFELD"
+        }
+      ],
+      "id": "2026-02-06-10-years-of-brutalism-at-open-ground",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "20:00–00:30",
+      "title": "10 years of BRUTALISM at Open Ground",
+      "url": "https://www.openground.club/en/schedule/2026-02-06-10-years-of-brutalism-at-open-ground"
+    },
+    {
+      "category": "Clubnight",
+      "date_iso": "2026-02-07",
+      "date_label": "Sat.07.02.26",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "DJ Pete",
+            "DJ Nobu"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Ben Sleia",
+            "Slikback",
+            "Nala Brown",
+            "b2b",
+            "Opium Hum"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2026-02-07",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "22:00–06:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2026-02-07"
+    },
+    {
+      "category": "Open Lobby",
+      "date_iso": "2026-02-12",
+      "date_label": "Thu.12.02.26",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Laenk",
+            "xe:la"
+          ],
+          "name": "LOBBY + ANNEX"
+        }
+      ],
+      "id": "2026-02-12",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "20:00–00:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2026-02-12"
+    },
+    {
+      "category": "Clubnight",
+      "date_iso": "2026-02-14",
+      "date_label": "Sat.14.02.26",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Tasha",
+            "Regis"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Foudjo",
+            "Frau Beji",
+            "Antunes",
+            "Piccell"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2026-02-14",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "22:00–06:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2026-02-14"
+    },
+    {
+      "category": "Open Lobby",
+      "date_iso": "2026-02-19",
+      "date_label": "Thu.19.02.26",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Audio feed from Freifeld (DJ + Concert)",
+            "free entry"
+          ],
+          "name": "LOBBY + ANNEX"
+        }
+      ],
+      "id": "2026-02-19",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "19:00–00:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2026-02-19"
+    },
+    {
+      "category": "Concert",
+      "date_iso": "2026-02-19",
+      "date_label": "Thu.19.02.26",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "snail irl & iriai mix",
+            "Jules Reidy & Sam Dunscombe",
+            "Tanz mein Herz"
+          ],
+          "name": "FREIFELD"
+        }
+      ],
+      "id": "2026-02-19-iriai-verlag-at-open-ground",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "19:00–00:00",
+      "title": "Iriai Verlag at Open Ground",
+      "url": "https://www.openground.club/en/schedule/2026-02-19-iriai-verlag-at-open-ground"
+    },
+    {
+      "category": "Clubnight",
+      "date_iso": "2026-02-21",
+      "date_label": "Sat.21.02.26",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Daniel Bell"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Paul Claude",
+            "Agnes Stark",
+            "Vera"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2026-02-21",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "22:00–06:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2026-02-21"
+    },
+    {
+      "category": "Open Lobby",
+      "date_iso": "2026-02-26",
+      "date_label": "Thu.26.02.26",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Alfalfa",
+            "Julian Bomm"
+          ],
+          "name": "LOBBY + ANNEX"
+        }
+      ],
+      "id": "2026-02-26",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "20:00–00:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2026-02-26"
+    },
+    {
+      "category": "Clubnight",
+      "date_iso": "2026-02-28",
+      "date_label": "Sat.28.02.26",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Ring Noord",
+            "upsammy",
+            "Coido",
+            "gyrofield",
+            "Current Value"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "No Plastic",
+            "Parissa",
+            "Afrodisiac",
+            "SMIKI"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2026-02-28",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "22:00–06:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2026-02-28"
+    },
+    {
+      "category": "Open Lobby",
+      "date_iso": "2026-03-05",
+      "date_label": "Thu.05.03.26",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Moonlit Brooks",
+            "AAMAA",
+            "e.m.s.",
+            "LAVIE"
+          ],
+          "name": "LOBBY + ANNEX"
+        }
+      ],
+      "id": "2026-03-05",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "20:00–00:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2026-03-05"
+    },
+    {
+      "category": "Workshop",
+      "date_iso": "2026-03-07",
+      "date_label": "Sat.07.03.26",
+      "detail": null,
+      "floors": [],
+      "id": "2026-03-07-ableton-workshop-for-flinta-producers",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "20:00–21:45",
+      "title": "Ableton Workshop for FLINTA* Producers",
+      "url": "https://www.openground.club/en/schedule/2026-03-07-ableton-workshop-for-flinta-producers"
+    },
+    {
+      "category": "Clubnight",
+      "date_iso": "2026-03-07",
+      "date_label": "Sat.07.03.26",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Elke",
+            "DJ Frank",
+            "b2b",
+            "Maruhni",
+            "mad miran",
+            "Savsannah & Sedaction"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "groovHer",
+            "Kerima (live)",
+            "Philo",
+            "Gîn Bali",
+            "b2b",
+            "No:elia"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2026-03-07-prude-at-open-ground",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "22:00–06:00",
+      "title": "Prude at Open Ground",
+      "url": "https://www.openground.club/en/schedule/2026-03-07-prude-at-open-ground"
+    },
+    {
+      "category": "Open Lobby",
+      "date_iso": "2026-03-12",
+      "date_label": "Thu.12.03.26",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Vitaminka",
+            "Jay"
+          ],
+          "name": "LOBBY + ANNEX"
+        }
+      ],
+      "id": "2026-03-12",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "20:00–00:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2026-03-12"
+    },
+    {
+      "category": "Clubnight",
+      "date_iso": "2026-03-14",
+      "date_label": "Sat.14.03.26",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Josey Rebelle",
+            "Neffa-T",
+            "ophélie"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Mauzius",
+            "Jay Duncan",
+            "softburn"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2026-03-14",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "22:00–06:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2026-03-14"
+    },
+    {
+      "category": "Open Lobby",
+      "date_iso": "2026-03-19",
+      "date_label": "Thu.19.03.26",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Jonas",
+            "Fabian Kresin"
+          ],
+          "name": "LOBBY + ANNEX"
+        }
+      ],
+      "id": "2026-03-19",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "20:00–00:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2026-03-19"
+    },
+    {
+      "category": "Special Event",
+      "date_iso": "2026-03-20",
+      "date_label": "Fri.20.03.26",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Barbara Preisinger",
+            "Chez Damier",
+            "Ricardo Villalobos"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Francesco Menduni",
+            "Jonny Rock"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2026-03-20-the-gathering-at-open-ground",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "22:00–10:00",
+      "title": "The Gathering at Open Ground",
+      "url": "https://www.openground.club/en/schedule/2026-03-20-the-gathering-at-open-ground"
+    },
+    {
+      "category": "Clubnight",
+      "date_iso": "2026-03-21",
+      "date_label": "Sat.21.03.26",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Arthur",
+            "Aurora Halal",
+            "DJ Masda"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Denzel & Joni DJ",
+            "Sans-I (live)",
+            "Nosedrip"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2026-03-21-solstice-und-sustain-release-at-open-ground",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "22:00–07:00",
+      "title": "Solstice & Sustain Release at Open Ground",
+      "url": "https://www.openground.club/en/schedule/2026-03-21-solstice-und-sustain-release-at-open-ground"
+    },
+    {
+      "category": "Open Lobby",
+      "date_iso": "2026-03-26",
+      "date_label": "Thu.26.03.26",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "domayng",
+            "Jaelo",
+            "Losdos2"
+          ],
+          "name": "LOBBY + ANNEX"
+        }
+      ],
+      "id": "2026-03-26",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "20:00–00:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2026-03-26"
+    },
+    {
+      "category": "Extended Clubnight",
+      "date_iso": "2026-03-28",
+      "date_label": "Sat.28.03.26",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Mia Koden",
+            "Mala",
+            "Blawan"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "DJ Mann",
+            "Ly Sas",
+            "Hidonash"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2026-03-28",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "21:00–06:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2026-03-28"
+    },
+    {
+      "category": "Open Lobby",
+      "date_iso": "2026-04-02",
+      "date_label": "Thu.02.04.26",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Lera Zagrevskaya",
+            "b2b",
+            "Nico Zobel",
+            "Kinan Halabi",
+            "Wasted Lipstick",
+            "HALBTØNE (live)"
+          ],
+          "name": "LOBBY + ANNEX"
+        }
+      ],
+      "id": "2026-04-02",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "20:00–00:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2026-04-02"
+    },
+    {
+      "category": "Clubnight",
+      "date_iso": "2026-04-04",
+      "date_label": "Sat.04.04.26",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Ben Klock"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Separat",
+            "Natascha Kann",
+            "Leo",
+            "b2b",
+            "Elmaskaya"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2026-04-04",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "22:00–07:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2026-04-04"
+    },
+    {
+      "category": "Open Lobby",
+      "date_iso": "2026-04-09",
+      "date_label": "Thu.09.04.26",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Korkut Elbay",
+            "Benedikt Meger"
+          ],
+          "name": "LOBBY + ANNEX"
+        }
+      ],
+      "id": "2026-04-09",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "20:00–00:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2026-04-09"
+    },
+    {
+      "category": "Concert",
+      "date_iso": "2026-04-09",
+      "date_label": "Thu.09.04.26",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Sarah San",
+            "Fact Splitter (live)",
+            "james K (live)",
+            "Phillip Jondo",
+            "b2b",
+            "DJ Brom"
+          ],
+          "name": "FREIFELD"
+        }
+      ],
+      "id": "2026-04-09-spa-in-concert",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "20:00–00:00",
+      "title": "SPA in Concert",
+      "url": "https://www.openground.club/en/schedule/2026-04-09-spa-in-concert"
+    },
+    {
+      "category": "Clubnight",
+      "date_iso": "2026-04-11",
+      "date_label": "Sat.11.04.26",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Elke",
+            "CCL",
+            "Introspekt",
+            "livwutang"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Daniel Wang",
+            "Bell Towers"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2026-04-11",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "22:00–06:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2026-04-11"
+    },
+    {
+      "category": "Open Lobby",
+      "date_iso": "2026-04-16",
+      "date_label": "Thu.16.04.26",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Pitches Brew"
+          ],
+          "name": "LOBBY + ANNEX"
+        }
+      ],
+      "id": "2026-04-16",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "20:00–00:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2026-04-16"
+    },
+    {
+      "category": "Clubnight",
+      "date_iso": "2026-04-18",
+      "date_label": "Sat.18.04.26",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Lux",
+            "Efdemin",
+            "b2b",
+            "Konduku",
+            "Tasha",
+            "b2b",
+            "Victor"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Boyà",
+            "b2b",
+            "Raphael Hansen",
+            "evolpeeD",
+            "Vlizz"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2026-04-18",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "22:00–06:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2026-04-18"
+    },
+    {
+      "category": "Open Lobby",
+      "date_iso": "2026-04-23",
+      "date_label": "Thu.23.04.26",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "coke0",
+            "berkelium",
+            "shrey"
+          ],
+          "name": "LOBBY + ANNEX"
+        }
+      ],
+      "id": "2026-04-23",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "20:00–00:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2026-04-23"
+    },
+    {
+      "category": "Clubnight",
+      "date_iso": "2026-04-25",
+      "date_label": "Sat.25.04.26",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Josey Rebelle",
+            "DVS1"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Pebblle & TV-Tas",
+            "Bear Bones",
+            "Lay Low (live)",
+            "Marathon Man & Fry-Ry"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2026-04-25",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "22:00–07:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2026-04-25"
+    },
+    {
+      "category": "Extended Clubnight",
+      "date_iso": "2026-04-30",
+      "date_label": "Thu.30.04.26",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Fadi Mohem",
+            "Rødhåd"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "tschuncky",
+            "pik",
+            "b2b",
+            "Katana",
+            "Pinky",
+            "Schlaraffel",
+            "makahaun"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2026-04-30",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "22:00–12:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2026-04-30"
+    },
+    {
+      "category": "Concert",
+      "date_iso": "2026-05-01",
+      "date_label": "Fri.01.05.26",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Seefeel"
+          ],
+          "name": "FREIFELD"
+        }
+      ],
+      "id": "2026-05-01",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "20:00–00:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2026-05-01"
+    },
+    {
+      "category": "Clubnight",
+      "date_iso": "2026-05-02",
+      "date_label": "Sat.02.05.26",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Tom Kutsche",
+            "Antal"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "04061",
+            "Obstructor",
+            "Pileta"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2026-05-02",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "22:00–06:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2026-05-02"
+    },
+    {
+      "category": "Open Lobby",
+      "date_iso": "2026-05-07",
+      "date_label": "Thu.07.05.26",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "DJ Ehrenlos",
+            "Henry Stangier",
+            "Philipp Kleinhans",
+            "Tamaa"
+          ],
+          "name": "LOBBY + ANNEX"
+        }
+      ],
+      "id": "2026-05-07",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "20:00–00:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2026-05-07"
+    },
+    {
+      "category": "Extended Clubnight",
+      "date_iso": "2026-05-09",
+      "date_label": "Sat.09.05.26",
+      "detail": null,
+      "floors": [
+        {
+          "artists": [
+            "Kā (live) Gong x Synthesis",
+            "Harman Holiday (opening concert)",
+            "dBridge (ambient set)",
+            "D.K.",
+            "dBridge",
+            "Darwin",
+            "Nono Gigsta"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Andy Martin",
+            "Mama Snake",
+            "Basic Chanel (ambient set)"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2026-05-09-abyss-at-open-ground",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "20:00–07:00",
+      "title": "Abyss at Open Ground",
+      "url": "https://www.openground.club/en/schedule/2026-05-09-abyss-at-open-ground"
+    },
+    {
       "category": "Special Event",
       "date_iso": "2026-05-13",
       "date_label": "Wed.13.05.26",
@@ -1099,5 +7955,5 @@
       "url": "https://www.openground.club/en/schedule/2026-07-11"
     }
   ],
-  "scraped_at": "2026-05-13T07:24:24+00:00"
+  "scraped_at": "2026-05-13T08:11:32+00:00"
 }

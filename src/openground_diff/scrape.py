@@ -107,6 +107,80 @@ def parse_html(html: str) -> list[Event]:
     return events
 
 
+def parse_sidebar(html: str) -> list[Event]:
+    """Parse the schedule sidebar (`a.newschedule__item`).
+
+    The sidebar lists every event the site exposes — both upcoming items and
+    the entries revealed by the "Past Events" toggle. The information per
+    item is a strict subset of what `parse_html` extracts from the homepage
+    blocks (no ticket info, no detail bios), but it is the only place where
+    past events are linked, so we use it to backfill historical events.
+    """
+    soup = BeautifulSoup(html, "lxml")
+    events: list[Event] = []
+    seen: set[str] = set()
+    for item in soup.select("a.newschedule__item"):
+        ev = _parse_sidebar_item(item)
+        if ev is None or ev.id in seen:
+            continue
+        seen.add(ev.id)
+        events.append(ev)
+    events.sort(key=lambda e: (e.date_iso or "", e.id))
+    return events
+
+
+def _parse_sidebar_item(item: Tag) -> Event | None:
+    href = item.get("href")
+    if not href:
+        return None
+    m = SCHEDULE_RE.search(href)
+    if not m:
+        return None
+    slug = m.group("slug")
+    date_match = DATE_RE.match(slug)
+    date_iso = date_match.group("date") if date_match else None
+
+    category = _text(item.select_one(".newschedule__category"))
+    date_label = _text(item.select_one(".newschedule__date"))
+    time = _text(item.select_one(".newschedule__time"))
+    title = _text(item.select_one(".newschedule__title"))
+    # The category is also rendered inside `.newschedule__title` when no
+    # bespoke event title exists; treat that case as a missing title.
+    if title and title == category:
+        title = None
+
+    floors: list[Floor] = []
+    content = item.select_one(".newschedule__content") or item
+    # Floors and artist groups alternate as siblings.
+    current_floor: Floor | None = None
+    for el in content.find_all("div", recursive=True):
+        classes = el.get("class") or []
+        if "newschedule__floor__label" in classes:
+            name = _text(el) or ""
+            if name:
+                current_floor = Floor(name=name, artists=[])
+                floors.append(current_floor)
+        elif "newschedule__artists" in classes and current_floor is not None:
+            raw = el.get_text(",", strip=True)
+            for chunk in raw.split(","):
+                artist = re.sub(r"\s+", " ", chunk).strip().strip(",").strip()
+                if artist:
+                    current_floor.artists.append(artist)
+            current_floor = None
+
+    return Event(
+        id=slug,
+        url=event_page_url(slug),
+        date_iso=date_iso,
+        date_label=date_label,
+        time=time,
+        category=category,
+        title=title,
+        floors=floors,
+        ticket=Ticket(state="none"),
+    )
+
+
 def _parse_block(block: Tag) -> Event | None:
     top = block.select_one("a.newhome-block-box__top")
     if top is None or not top.get("href"):

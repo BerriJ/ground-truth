@@ -62,6 +62,43 @@ def _append_history(path: Path, run_at: str, changes: list[dict[str, Any]]) -> N
         fh.write(line + "\n")
 
 
+def _merge_events(
+    *,
+    rich: list[dict[str, Any]],
+    old: list[dict[str, Any]],
+    sidebar: list[dict[str, Any]],
+) -> list[dict[str, Any]]:
+    """Combine snapshots so events are never silently dropped.
+
+    Precedence per event id: freshly-scraped rich block > previously saved
+    entry > sidebar summary. This keeps detailed records of events that have
+    just rolled off the upcoming list while still backfilling never-before-seen
+    past events from the sidebar.
+    """
+    merged: dict[str, dict[str, Any]] = {}
+    for ev in sidebar:
+        merged[ev["id"]] = ev
+    for ev in old:
+        merged[ev["id"]] = ev
+    for ev in rich:
+        merged[ev["id"]] = ev
+    return sorted(merged.values(), key=lambda e: (e.get("date_iso") or "", e["id"]))
+
+
+def _filter_past_additions(changes: list[Any], today: date) -> list[Any]:
+    """Drop ``added`` change entries whose event date is already in the past.
+
+    The sidebar exposes historical events that the scraper has never seen
+    before; surfacing them as fresh "added" changes would flood the history
+    log on first run without communicating anything new.
+    """
+    today_str = today.isoformat()
+    return [
+        c for c in changes
+        if not (c.kind == "added" and c.date_iso and c.date_iso < today_str)
+    ]
+
+
 def main(argv: list[str] | None = None) -> int:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument(
@@ -101,7 +138,8 @@ def main(argv: list[str] | None = None) -> int:
     if not args.no_details and not args.from_file:
         _attach_details(events, delay=args.detail_delay)
 
-    new_events = _events_to_json(events)
+    rich_events = _events_to_json(events)
+    sidebar_events = _events_to_json(scrape.parse_sidebar(html))
 
     now_utc = datetime.now(timezone.utc).replace(microsecond=0)
     run_at = now_utc.isoformat()
@@ -110,12 +148,17 @@ def main(argv: list[str] | None = None) -> int:
     current_path = args.data_dir / "current.json"
     history_path = args.data_dir / "history.jsonl"
 
-    old_events = _load_current(current_path)
-    changes = compute(old_events, new_events, today_berlin)
-
     is_first_run = not current_path.exists()
+    old_events = _load_current(current_path)
 
-    _write_current(current_path, run_at, new_events)
+    merged_events = _merge_events(
+        rich=rich_events, old=old_events, sidebar=sidebar_events
+    )
+    changes = _filter_past_additions(
+        compute(old_events, merged_events, today_berlin), today_berlin
+    )
+
+    _write_current(current_path, run_at, merged_events)
 
     change_dicts = [asdict(c) for c in changes]
     if change_dicts and not is_first_run:
@@ -130,7 +173,8 @@ def main(argv: list[str] | None = None) -> int:
         )
 
     print(
-        f"scraped {len(new_events)} events, "
+        f"scraped {len(rich_events)} upcoming, {len(sidebar_events)} sidebar, "
+        f"{len(merged_events)} total events, "
         f"{len(changes)} change(s){' [initial run, not logged]' if is_first_run else ''}"
     )
     return 0
