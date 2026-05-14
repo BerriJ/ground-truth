@@ -56,7 +56,7 @@ Configure these repository secrets to enable it:
   joined to the target room, and the room must not be E2EE)
 - `MATRIX_ROOM_ID` — internal room id, e.g. `!abcdef:example.org`
 
-Optional repository variable:
+Optional (configure as a repository variable *not* secret):
 
 - `SITE_URL` — public URL of the deployed site, linked from the message header.
 
