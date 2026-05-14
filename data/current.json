@@ -7894,9 +7894,15 @@
                 "time": null
               },
               {
-                "bio": "The first superstar produced by the breakbeat jungle movement, Goldie popularized drum’n’bass as a form of musical expression just as relevant for living-room contemplation as techno had become by the early ’90s. Goldie became one of the first personalities in British dance music, his gold teeth and b-boy attitude placing him leagues away from the faceless bedroom boffins who had become the norm in intelligent dance music.\n\nA true veteran and leading tastemaker in Doc Scott has been an essential and pivotal figure in D&B scene since before its inception and continues to push things forward with his future beats ethos. Whilst well known for shaping Drum & Bass, he’s equally passionate about links between Detroit Techno and Drum n Bass It all came from the same DNA originally and parallels and bridges between the two worlds still very much exist today.",
-                "city": "London / Coventry",
-                "name": "Goldie b2b Doc Scott",
+                "bio": "The first superstar produced by the breakbeat jungle movement, Goldie popularized drum’n’bass as a form of musical expression just as relevant for living-room contemplation as techno had become by the early ’90s. Goldie became one of the first personalities in British dance music, his gold teeth and b-boy attitude placing him leagues away from the faceless bedroom boffins who had become the norm in intelligent dance music.",
+                "city": "London",
+                "name": "Goldie",
+                "time": null
+              },
+              {
+                "bio": "A true veteran and leading tastemaker in Doc Scott has been an essential and pivotal figure in D&B scene since before its inception and continues to push things forward with his future beats ethos. Whilst well known for shaping Drum & Bass, he’s equally passionate about links between Detroit Techno and Drum n Bass It all came from the same DNA originally and parallels and bridges between the two worlds still very much exist today.",
+                "city": "Coventry",
+                "name": "Doc Scott",
                 "time": null
               }
             ],
@@ -7932,7 +7938,8 @@
         {
           "artists": [
             "Elke",
-            "Goldie b2b Doc Scott"
+            "Goldie",
+            "Doc Scott"
           ],
           "name": "FREIFELD"
         },
@@ -8116,5 +8123,5 @@
       "url": "https://www.openground.club/en/schedule/2026-07-25"
     }
   ],
-  "scraped_at": "2026-05-14T12:58:09+00:00"
+  "scraped_at": "2026-05-14T19:35:44+00:00"
 }
