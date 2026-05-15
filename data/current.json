@@ -8121,7 +8121,679 @@
       "time": "22:00–06:00",
       "title": null,
       "url": "https://www.openground.club/en/schedule/2026-07-25"
+    },
+    {
+      "category": "Clubnight",
+      "date_iso": "2026-08-01",
+      "date_label": "Sat.01.08.26",
+      "detail": {
+        "description": "Admission 20 € / before 23:00 15 €",
+        "floors": [
+          {
+            "name": "FREIFELD",
+            "slots": [
+              {
+                "bio": "The Tottenham London born-and-bred selector grew up on soul and reggae, later becoming a dedicated junglist. First as a resident DJ at the legendary London club Plastic People, she’s built a rep as one of the most effective and interesting DJs around. Playing shape-shifting, genre-bending sets that effortlessly move from classic rare groove and disco records to upfront house and techno, via garage, jungle and whatever else she feels like. With no social media presence, Josey’s reputation is based on selection, passion and authenticity.",
+                "city": "London",
+                "name": "Josey Rebelle",
+                "time": null
+              },
+              {
+                "bio": "Kode9 is a DJ/Producer, artist and writer. He set up the record label Hyperdub in 2004, and in 2019 the sub label Flatlines to focus on audio essays and sonic fiction.From 2017, he co-curated Hyperdub’s monthly event series Ø. He has recorded 4 albums, 2 with the late vocalist The Spaceape; Memories of Future (2006) and Black Sun (2010), and 2 solo albums, Nothing (2015) and Escapology (2022). He has compiled 4 DJ mix compilations, Dubstep Allstars vol.3 (Tempa 2006), DJ Kicks (K7 2011) and Rinse 22 (Rinse 2013), and in 2018, Fabric 100 with Burial. In additional to his record label Hyperdub, he has also released tracks on Aphex Twin’s Rephlex label, Soul Jazz and Rinse and remixed for Mr. Fingers, Lee Scratch Perry, the Junior Boys, Battles and Dabrye/MF Doom among others.",
+                "city": "United Kingdom",
+                "name": "Kode9",
+                "time": null
+              },
+              {
+                "bio": "Using the structures of music as mediums in her multi-media universe, Juliana Huxtable is a DJ and musician singular in her approach. Where her visual art and poetry navigate the complexification of desire in a life increasingly mediated by technology, her music utilizes the sounds of technology itself to construct parallel realities to be inhabited and embodied in rhythm and harmonic tableaux.\n\nHer sets skillfully deploy the notion of sampling and re-blogging as DJ strategies, ecstatically mixing an array of influences that frolic at the boundary of genre-intuition and experimentation. At once an assertion of freedom and an ode to the evolutionary structure of electronic music subcultures, she aspires to the sublime in what can often only be described as witchcraft behind the decks; seance from the stage.",
+                "city": "New York",
+                "name": "J​uliana Huxtable",
+                "time": null
+              }
+            ],
+            "subtitle": null
+          },
+          {
+            "name": "ANNEX",
+            "slots": [
+              {
+                "bio": null,
+                "city": null,
+                "name": "...",
+                "time": null
+              }
+            ],
+            "subtitle": null
+          }
+        ]
+      },
+      "floors": [
+        {
+          "artists": [
+            "Josey Rebelle",
+            "Kode9",
+            "J​uliana Huxtable"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "..."
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2026-08-01",
+      "ticket": {
+        "state": "onsale",
+        "url": "https://shop.weeztix.com/3d871242-33ac-4862-843c-2847322913fc/tickets"
+      },
+      "time": "22:00–06:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2026-08-01"
+    },
+    {
+      "category": "Clubnight",
+      "date_iso": "2026-08-08",
+      "date_label": "Sat.08.08.26",
+      "detail": {
+        "description": "Admission 20 € / before 23:00 15 €",
+        "floors": [
+          {
+            "name": "FREIFELD",
+            "slots": [
+              {
+                "bio": null,
+                "city": "Montreal",
+                "name": "DJ Frog",
+                "time": null
+              },
+              {
+                "bio": null,
+                "city": "Montreal/Berlin",
+                "name": "SnPLO",
+                "time": null
+              },
+              {
+                "bio": "XDB is Kosta Athanassiadis – German by birth and in residence, with Greek parentage. His roots are in the central German town of Göttingen. It was here that he began DJing in the early nineties; where he worked in a record shop; where he ran a radio show for five years; and the base from which he established the Metrolux record label in 2006.\nKosta’s DJ sets draw upon his expansive record collection, playing right across the board of the quality side of electronic music. He has no shortage of technical skill and prefers a 3 decks setup, but despite his mixing skills it’s his selection that truly shines – putting the music itself at the forefront, letting songs breathe when need be, and delivering plenty of head-scratching ‘what the hell is this track?’ moments.",
+                "city": "Göttingen",
+                "name": "XDB",
+                "time": null
+              }
+            ],
+            "subtitle": "Doo & Pin at Open Ground"
+          },
+          {
+            "name": "ANNEX",
+            "slots": [
+              {
+                "bio": null,
+                "city": null,
+                "name": "...",
+                "time": null
+              }
+            ],
+            "subtitle": null
+          }
+        ]
+      },
+      "floors": [
+        {
+          "artists": [
+            "DJ Frog",
+            "SnPLO",
+            "XDB"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "..."
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2026-08-08",
+      "ticket": {
+        "state": "onsale",
+        "url": "https://shop.weeztix.com/230aac67-6d41-4178-a603-50f450f90fe6/tickets"
+      },
+      "time": "22:00–06:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2026-08-08"
+    },
+    {
+      "category": "Extended Clubnight",
+      "date_iso": "2026-08-15",
+      "date_label": "Sat.15.08.26",
+      "detail": {
+        "description": "Admission 40 €",
+        "floors": [
+          {
+            "name": "FREIFELD",
+            "slots": [
+              {
+                "bio": "Sadar Bahar didn’t become a DJ he grew into one. Raised in Chicago when the city was still a living laboratory for house, disco and late-night radio experimentation, he absorbed music as culture before it was industry. Long before international flights and global bookings, there were radio tapes, record stores, basement parties, and an obsession with understanding why certain grooves hit deeper than others.\n​His education didn’t come from charts. It came from dance floors. From the raw energy of early Chicago, from DJs who played with fearless abandon, from a time when the booth wasn’t a stage but a command center. Figures like Ron Hardy weren’t references to name-drop, they were part of the atmosphere that shaped his ear. That foundation built a simple but uncompromising philosophy: music must move the body before it feeds the ego.\n\nA relentless digger and lifelong vinyl collector, Sadar treats record hunting as daily practice. He doesn’t chase rarity for status; he searches for tension, soul, rhythm, and emotional weight. His sets glide through obscure disco, early house, leftfield soul and raw electronics without ever sounding nostalgic.\n\nHis long-running party Soul In The Hole reflects that same ethos: a space where music is physical, communal and uncompromised. The dance floor comes first.\n\nTechnology has evolved. Club culture has shifted. His core hasn’t. Playing vinyl isn’t a retro gesture it’s the format that mirrors his approach: tactile, imperfect, alive. For Sadar, the DJ isn’t a performer chasing attention, but a conduit controlling energy in real time.",
+                "city": "Chicago",
+                "name": "Sadar Bahar",
+                "time": null
+              },
+              {
+                "bio": "Theo Parrish is a Washington D.C.-born, Chicago-raised DJ, producer, selector, arranger, keyboard clunker, machine beater, writer, sculptor, car lover, visual artist, lecturer, and father that loves creativity. Detroit’s creative community has recognized his input since 1995, the era of Buy Rite Records, Saint Andrew’s Hall, the Rhythm Kitchen, and Alvin’s. He started Sound Signature Recordings, which has manufactured vinyl records independently from 1997 to this day — exclusively using the legendary Archer Record Pressing Co. on Davison Avenue. He continues to engage, challenge, and redefine the limits of what we call Black dance music, serving as an example of creative independence. Parrish holds a BFA in sound sculpture from Kansas City Art Institute.",
+                "city": "Washington D.C.",
+                "name": "Theo Parrish",
+                "time": null
+              }
+            ],
+            "subtitle": null
+          },
+          {
+            "name": "ANNEX",
+            "slots": [
+              {
+                "bio": null,
+                "city": null,
+                "name": "...",
+                "time": null
+              }
+            ],
+            "subtitle": null
+          }
+        ]
+      },
+      "floors": [
+        {
+          "artists": [
+            "Sadar Bahar",
+            "Theo Parrish"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "..."
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2026-08-15",
+      "ticket": {
+        "state": "onsale",
+        "url": "https://shop.weeztix.com/74f4d1d2-4f1b-44b2-b549-a3e07ebb7bf4/tickets"
+      },
+      "time": "21:00–06:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2026-08-15"
+    },
+    {
+      "category": "Clubnight",
+      "date_iso": "2026-08-22",
+      "date_label": "Sat.22.08.26",
+      "detail": {
+        "description": "Admission 20 € / before 23:00 15 €",
+        "floors": [
+          {
+            "name": "FREIFELD",
+            "slots": [
+              {
+                "bio": "Kangding Ray is the alias of musician and producer David Letellier, whose work fuses experimentalism and club music. Widely recognized as one of the most innovative voices in contemporary electronic music, he explores the emotional and physical dimensions of sound — from immersive live sets to award-winning film scores and conceptual sound design.",
+                "city": "Berlin",
+                "name": "Kangding Ray",
+                "time": null
+              },
+              {
+                "bio": "Gerard Hanson was born in 1972. He hails from of Dallas, Texas USA. Little is known about this producer who seems to have Scandinavian roots. His productions have reflections with Basic Channel/Chain Reaction sound. His main inspirations are Juan Atkins and Derrick May. His music also has influences from Stefan Robbers, Red Planet and Carl Craig. He found a way where everything came together: Deepness, Minimalism and Soul, the Detroit-Berlin connection. In 1994 Gerard Hanson and Dan Kurzius started ‘Hardsync’, a Magazine dedicated to electronic music reviews and artist interviews. It has been defunct since 1996 as a result of a computer crash. Hard Sync was an outlet for several Texas-based electronic music enthusiasts to reach out to others around the world that shared similar musical interests. He released his first 12″ on Matrix in 1995. From 1995-1997, he released five ep’s, and then only two more in the next six years until 2005. After that some other labels approached him but just wanted more of the same and didn’t really seem to understand his sound. After that he stopped releasing music and produced only for his personal usage. After a couple of years the label Down Low convinced him to pick up his producing again. He is very careful about sharing his music with the rest of the world. In the last decade he only used the aliases Convextion and E.R.P. (Event Related Potential). E.R.P is an electro-edged moniker. Gerard has remained willingly anonymous since his debut in 1995, but he came out of obscurity for a debut European Live performance in London in April 2006.",
+                "city": "Dallas",
+                "name": "Convextion (live)",
+                "time": null
+              },
+              {
+                "bio": "GiGi FM’s selections have charmed bodies on dancefloors across Europe and beyond into states of ecstasy. Techno, bass, breaks and ambient all come to play when she’s in the booth.\nPropelling her audiences from carnal, bass-driven depths to a heady ambient trance in a matter of minutes, she commands the floor with her genre-defying spirit.",
+                "city": "Berlin",
+                "name": "GiGi FM",
+                "time": null
+              }
+            ],
+            "subtitle": null
+          },
+          {
+            "name": "ANNEX",
+            "slots": [
+              {
+                "bio": "The man behind the label funkscapes is releasing fresh grooves across different electronic genres as well as reissuing forgotten disco and boogie funk gems. As a DJ he's blending those 1980s joints with timeless and current house, techno, acid and electro flavors. Musical richness and unexpected turns are guaranteed.",
+                "city": "Düsseldorf",
+                "name": "Benedikt Meger",
+                "time": null
+              },
+              {
+                "bio": "Eoism is a duo from Leipzig and Jena, devoted to electro and Detroit-influenced techno. They are producing, deejaying and playing live on their Electribes, as well as running their label Pulse Drift Recordings since 2016. They are also organizing parties in their area and keep the electro scene alive.\n\nBeside releasing on their own imprint they released on Undersound Recordings, Inch By Inch Records, funkscapes, mindcolormusic and Sounds Benefit among others. By the end of last year they dropped the 'Cellarworx II' EP and their live-set at Golden Pudel Club in Hamburg set the club on fire. Look forward to their live-set at Open Ground!",
+                "city": "Leipzig /Jena",
+                "name": "Eoism (live)",
+                "time": null
+              },
+              {
+                "bio": "For more than a decade Alexander Dorn has shaken electronic sounds, stirring shapes and forms as Credit 00 that adhere to few genre tags.\nBeing sonically socialized through hip hop in the 1990s, graffiti and breakdance were the first outlets for his creativity, music dominating his daily life since a young age. It was through hip hop culture that he realised that you don't need a degree or know how to play an instrument to create your own music.\n\nInspired by the US ghetto music of the 1980s his journey to explore the endless universe of sound had kicked off. Leading him through many phases of musical preferences: classic electro, reggae dancehall, italo disco, Chicago house, Detroit techno, new wave or ghettotech.\n\nAfter concentrating on numerous styles his mission became to combine different influences in DJing and production. Music without genre and boundaries is also the concept of his label Rat Life Records. Since 2014 it is a platform for his own output and those of like-minded artists.\n\nHaving released many EPs, compilations and collaborations on labels like Uncanny Valley, Chiwax, June, Bordello A Parigi, Pinkman, especially his 2017 debut album 'Game Over' shows the many voices of an open minded artist. Even now Credit 00 is always on the lookout for the unknown and seeks to challenge the listener and himself rather than to fulfill expectations.\nFor funkscapes he just contributed a fresh rework to the extended reissue of Pop Projekt's 'Elektrik Boogie'.",
+                "city": "Leipzig",
+                "name": "Credit 00",
+                "time": null
+              }
+            ],
+            "subtitle": "Funkscapes at Open Ground"
+          }
+        ]
+      },
+      "floors": [
+        {
+          "artists": [
+            "Kangding Ray",
+            "Convextion (live)",
+            "GiGi FM"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Benedikt Meger",
+            "Eoism (live)",
+            "Credit 00"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2026-08-22",
+      "ticket": {
+        "state": "onsale",
+        "url": "https://shop.weeztix.com/9db04a0a-4f4b-407d-98d3-044bd6cc0cdb/tickets"
+      },
+      "time": "22:00–06:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2026-08-22"
+    },
+    {
+      "category": "Clubnight",
+      "date_iso": "2026-08-29",
+      "date_label": "Sat.29.08.26",
+      "detail": {
+        "description": "Admission 20 € / before 23:00 15 €",
+        "floors": [
+          {
+            "name": "FREIFELD",
+            "slots": [
+              {
+                "bio": "Erika dreams on the cellular level, or perhaps of transdimensional intelligences moving through strange patterns on celestial objects, working towards a mysterious goal. Her connection to the dreamworld becomes concrete in her approach to music, simultaneously so solid and yet so ethereal.\n\nErika began performing live in Ectomorph in 1997 when she was gifted a TR-606 by BMG and asked to join the group. This grew to her building her own studio, performing solo as Erika, collaborating with people like Jay Ahern and Noncompliant, and performing as a member of Circle of Live. Her depth of thought and clarity of vision has led to her mentoring people on live performance through the In Bloom platform, where she has made a large impact on many up and coming musicians.",
+                "city": "Berlin/Detroit",
+                "name": "Erika",
+                "time": null
+              },
+              {
+                "bio": "Brendan M Gillen is the founder of cult label Interdimensional Transmissions, central figure in Ectomorph, and legendary DJ and live act under his moniker BMG. His multi decade musical vision and near encyclopedic musical knowledge have led him to be one of the key figures and visionaries in contemporary underground dance music. His parties (most famously but not limited to No Way Back and Return to the Source) are the greatest contemporary manifestation of the Detroit party continuum that reaches back to the parties that formed Detroit’s underground roots.",
+                "city": "Detroit",
+                "name": "BMG",
+                "time": null
+              },
+              {
+                "bio": null,
+                "city": null,
+                "name": "Ectomorph",
+                "time": null
+              },
+              {
+                "bio": "Influenced by early Detroit techno and Berlin dub techno, drum'n'bass and IDM, the Berghain resident likes to break the frame as a producer & DJ. Coupled with fast and razor-sharp multi-deck mixing, he continues to develop his DJ sets with forward thrust and pursues the goal of a unity-creating experience on the floor. His productions and sets are united by a constant lookout for groove, flow, reduction and repetition and follow the urge to surrender oneself solely to the music.",
+                "city": "Berlin",
+                "name": "Fadi Mohem",
+                "time": null
+              }
+            ],
+            "subtitle": null
+          },
+          {
+            "name": "ANNEX",
+            "slots": [
+              {
+                "bio": "Paris-born and Cologne-based DJ and curator Sharlie explores a wide range of musical genres within a boundless sonic unity. Her sound is defined by an organic assemblage of industrial textures, acid elements, and concrete basslines—all moving in a constant orbit between all forms of house, amapiano, Afro Tech, world music, and more.",
+                "city": "Cologne",
+                "name": "Sharlipseon",
+                "time": null
+              },
+              {
+                "bio": "Neue Grafik is a House, Jazz and Hip-Hop DJ and producer.\n\nWith only 3 records behind him on esteemed labels like Beat X Changers and S3A Records, producer and DJ Fred Bwelle aka Neue Grafik has quickly risen as one of the most promising acts to come out of the new French and European electronic scene (ask Laurent Garnier, he will confirm). His sound is best described as eclectic and versatile. It’s the product of a mixture of roots and a wide-ranging palette of inspiration. In his music you can hear the sound of Paris (his home-town), its music and cultural legacy, the ethnic sounds of Africa, as well as House, Jazz, Broken Beat and Hip-Hop. Go check him out playing live on his MPCs, you’ll witness what the man is all about.",
+                "city": "London",
+                "name": "Neue Grafik (live)",
+                "time": null
+              },
+              {
+                "bio": "Anna Cainelli is a DJ, radio host and part of the eight-member DJ crew E.P.I.Q. From vibrant housey to UK beats and seductive, rhythmic sounds: She sets herself no genre boundaries and plays whatever her heart desires and won't let her feet stand still.",
+                "city": "Cologne",
+                "name": "Anna Cainelli b2b Nikity",
+                "time": null
+              },
+              {
+                "bio": "DJ Ass Tits is part of @hyperlovecollective and co-founder of the queer music festival @koelnchella. For some time now, Hyperlovecollective has had a residency at Cologne's Jaki Club. They are using this as an opportunity to give queer flinta* artists this stage and create a club night where all participants can feel comfortable. Since April 2026, DJ ASS TITS is co-hosting the show “i hope this finds you well” on @dublab.de, where she expresses her love of ambient music together with paaradoxx and their guests. DJ ASS TITS' sound crosses genres, moving predominantly within a spectrum between breakbeat, electro, acid house, and techno. But it doesn't matter, as long as it gets your a$$es $haking.",
+                "city": "Cologne",
+                "name": "DJ Ass Tits",
+                "time": null
+              }
+            ],
+            "subtitle": "Weekend at Open Ground"
+          }
+        ]
+      },
+      "floors": [
+        {
+          "artists": [
+            "Erika",
+            "BMG",
+            "Ectomorph",
+            "Fadi Mohem"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Sharlipseon",
+            "Neue Grafik (live)",
+            "Anna Cainelli b2b Nikity",
+            "DJ Ass Tits"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2026-08-29",
+      "ticket": {
+        "state": "onsale",
+        "url": "https://shop.weeztix.com/11abf16b-aa80-436b-a804-cae4a20111a2/tickets"
+      },
+      "time": "22:00–06:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2026-08-29"
+    },
+    {
+      "category": "Clubnight",
+      "date_iso": "2026-09-05",
+      "date_label": "Sat.05.09.26",
+      "detail": {
+        "description": "Admission 30 €",
+        "floors": [
+          {
+            "name": "FREIFELD",
+            "slots": [
+              {
+                "bio": "Making waves now for over 2 decades, SP:MC has cemented himself as one of the most respected & busiest MCs on the circuit. Versatility & quality control are guaranteed when SP’s in the building. He cites MCs GQ, Dynamite & Conrad as early influences. SP was crowned ‘Best MC’ at the D&BArena Awards in 2011.",
+                "city": "London",
+                "name": "SP:MC",
+                "time": null
+              },
+              {
+                "bio": "Belgian born Alix Depauw is the face behind production moniker Alix Perez and collaborative duo SHADES (w/ Eprom). Alix released his debut album \"1984\" to critical acclaim in 2009 which is still talked about now as one of the most accomplished Drum and Bass albums of all time.\nFast forward to 2025, his record label 1985 Music stands as one of the most forward thinking platforms in electronic music, host to a number of ground breaking artists and revered releases.\nAlix has worked with some of the foremost names in dance and electronic music including; Noisia, Foreign Beggars, MachineDrum and many more. Following the release of his 2nd album Chroma Chords in 2013, he delivered a BBC Radio 1 Essential Mix, which was shortlisted for essential mix of the year.\nIn 2016 Alix launched his own imprint; 1985 Music. Now in its 9th year since inception, the label is\nregarded as one of the most tasteful audio & visual platforms in the electronic realm. 1985 Music promotes\nmultiple club nights globally.\n​Alix’s high levels of creativity and discipline are the reason he is very much at the forefront of electronic music today. His focus always remains in the art and the music by sticking true to his\nroots and vision.. He is a true artist and a trailblazer in his own right.",
+                "city": null,
+                "name": "Alix Perez",
+                "time": null
+              },
+              {
+                "bio": null,
+                "city": "Bristol",
+                "name": "Cesco",
+                "time": null
+              },
+              {
+                "bio": "Tasha’s DJing style weaves tunes together seamlessly from her bass informed home of the UK alongside four four techno forms born in Berlin and Detroit. With an accomplished and atmospheric hold on the dancefloor expect upfront cuts mixed in with some old gems and other styles in between like D&B / Jungle. In an industry where artists are asked to prioritize their art for social media presence, likes and other vacuous pursuits, Tasha is very much in demand for her ‘music first’ attitude, selection and ability.",
+                "city": "London",
+                "name": "Tasha",
+                "time": null
+              }
+            ],
+            "subtitle": "1985 at Open Ground"
+          },
+          {
+            "name": "ANNEX",
+            "slots": [
+              {
+                "bio": null,
+                "city": null,
+                "name": "...",
+                "time": null
+              }
+            ],
+            "subtitle": null
+          }
+        ]
+      },
+      "floors": [
+        {
+          "artists": [
+            "SP:MC",
+            "Alix Perez",
+            "Cesco",
+            "Tasha"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "..."
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2026-09-05",
+      "ticket": {
+        "state": "onsale",
+        "url": "https://shop.weeztix.com/bbb1b2a3-662a-4a0a-870d-f7124f944900/tickets"
+      },
+      "time": "22:00–06:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2026-09-05"
+    },
+    {
+      "category": "Clubnight",
+      "date_iso": "2026-09-12",
+      "date_label": "Sat.12.09.26",
+      "detail": {
+        "description": "Admission 20 € / before 23:00 15 €",
+        "floors": [
+          {
+            "name": "FREIFELD",
+            "slots": [
+              {
+                "bio": "The British-born, Berlin-based artist Sam Barker has long sought to push the boundaries of electronic music, in and out of the club. Looking beyond the realm of 4/4 techno to explore left-field sound design and rhythmic complexity, the Berghain resident’s string of signature solo releases for the club’s Ostgut Ton imprint and Smalltown Supersound – including Debiasing, Utility, and 2025's Stochastic Drift – have earned widespread acclaim from the underground to the mainstream and everything in between.\n\nBarker’s musical focus continues to be on the peak-time dancefloor potential of ambient music as he works on another album and label. Operating on the periphery of club music, he continues to shift its centre.",
+                "city": "Berlin",
+                "name": "Barker",
+                "time": null
+              },
+              {
+                "bio": "Rene Wise’s approach to writing music and DJing fuses together as one concept; tapping into primal human instinct via rhythm and groove.\nWise portrays a deep sense of knowledge and maturity in his sound, devising atmospheric soundscapes with a raw but modern touch, captivating the listener from beginning to end. His sets demonstrate this to full effect, consistently maintaining a powerful sonic trademark whilst possessing the innate ability to create hip-shaking poly-rhythms and multi-deck layers.",
+                "city": "Lisbon",
+                "name": "Rene Wise",
+                "time": null
+              }
+            ],
+            "subtitle": null
+          },
+          {
+            "name": "ANNEX",
+            "slots": [
+              {
+                "bio": null,
+                "city": null,
+                "name": "...",
+                "time": null
+              }
+            ],
+            "subtitle": null
+          }
+        ]
+      },
+      "floors": [
+        {
+          "artists": [
+            "Barker",
+            "Rene Wise"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "..."
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2026-09-12",
+      "ticket": {
+        "state": "onsale",
+        "url": "https://shop.weeztix.com/62e79f88-a0ee-4baf-9b7d-0464804d2e4c/tickets"
+      },
+      "time": "22:00–06:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2026-09-12"
+    },
+    {
+      "category": "Clubnight",
+      "date_iso": "2026-09-19",
+      "date_label": "Sat.19.09.26",
+      "detail": {
+        "description": "Admission 20 € / before 23:00 15 €",
+        "floors": [
+          {
+            "name": "FREIFELD",
+            "slots": [
+              {
+                "bio": "Errol (@errol.and) is one of the UK's most compelling, contemporary musical voices: DJ, NTS Radio staple, music curator and founder of forward-thinking musical movement, Touching Bass. His DJ sets are known for feeling beautifully loose, searching and soulful; unrestricted by genre and anchored by groove. Underpinning it all is a passion for promoting the eclecticism of Black music as well as the culture and community behind it, with roots firmly anchored in his Caribbean heritage.",
+                "city": "London",
+                "name": "Errol",
+                "time": null
+              },
+              {
+                "bio": "The Tottenham London born-and-bred selector grew up on soul and reggae, later becoming a dedicated junglist. First as a resident DJ at the legendary London club Plastic People, she’s built a rep as one of the most effective and interesting DJs around. Playing shape-shifting, genre-bending sets that effortlessly move from classic rare groove and disco records to upfront house and techno, via garage, jungle and whatever else she feels like. With no social media presence, Josey’s reputation is based on selection, passion and authenticity.",
+                "city": "London",
+                "name": "Josey Rebelle",
+                "time": null
+              },
+              {
+                "bio": "Mali Larrington-Nelson AKA Shy One lives and breathes the eclecticism and diversity of her DJ sets and productions. Having started off DJing on pirate radio as a teenager, Shy One has been exposed to and influenced by the full spectrum of sounds her hometown of London has birthed and nurtured over the years. As with many young Londoners at the time, grime and the wider family of indigenous London club music was what gave Shy One the passion to pursue music as more than a pastime. Obsessively collecting white labels by some of her local production heroes quickly developed into obsessively making beats in Fruity Loops for a handful of local MCs bubbling up in Harrow, the North West London borough she grew up in. Undeterred by those in the scene who called her beats “weird” or “different”, Shy One ploughed on carving out her own sound which eventually caught the ear of Scratcha DVA, who went on to release the Decaffeinated Love EP and her debut LP, Bedknobs and Boomkicks, on his now renowned DVA Music imprint.",
+                "city": "London",
+                "name": "Shy One",
+                "time": null
+              },
+              {
+                "bio": "Viola Klein’s records are supremely earthy and astrally inclined. In her DJ sets, she navigates with harmonies through a music selection that combines experimental house from the US Midwest, West African polyrhythms, and music in the tradition of Can from Cologne. „DJ Viola Klein’s R’nB-infused house cuts had the crowd swooning.“ Crack Magazine",
+                "city": "Cologne",
+                "name": "Viola Klein",
+                "time": null
+              }
+            ],
+            "subtitle": "Touching Bass at Open Ground"
+          },
+          {
+            "name": "ANNEX",
+            "slots": [
+              {
+                "bio": null,
+                "city": null,
+                "name": "...",
+                "time": null
+              }
+            ],
+            "subtitle": null
+          }
+        ]
+      },
+      "floors": [
+        {
+          "artists": [
+            "Errol",
+            "Josey Rebelle",
+            "Shy One",
+            "Viola Klein"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "..."
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2026-09-19",
+      "ticket": {
+        "state": "onsale",
+        "url": "https://shop.weeztix.com/6064aed4-0155-4d38-b8a4-8ddc9d7dcfb7/tickets"
+      },
+      "time": "22:00–06:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2026-09-19"
+    },
+    {
+      "category": "Clubnight",
+      "date_iso": "2026-09-26",
+      "date_label": "Sat.26.09.26",
+      "detail": {
+        "description": "Admission 20 € / before 23:00 15 €",
+        "floors": [
+          {
+            "name": "FREIFELD",
+            "slots": [
+              {
+                "bio": "Luna Ludmila (Utrecht, NL) has spent the past two decades shaping her distinct sound as a DJ and producer. Blending dub-inspired grooves, dusty house records, and intricate tribal rhythms, she crafts hypnotic sonic journeys that captivate dance floors. A staple in the Dutch electronic music scene, Luna has played at renowned clubs and events such as Breakfast Club, Is Burning, VBX, Lofi and De School. Her international presence has taken her to iconic venues like Tresor, Club der Visionaere, Lux Frágil and Macadam. In 2023, she debuted her first-ever live club set at the revered Bassiani, marking a new chapter in her artistic evolution. Since then, she has played live at STOOR at Paradiso, BRET, WAS., and festivals including La Nature (BE) and Drift.\n\nBeyond the dancefloor, Luna Ludmila continues to push artistic boundaries. After earning a degree in composition and sound design at the HKU in 2021, she expanded her focus to ambient/downtempo music, and interdisciplinary collaborations. In November 2024, she premiered her first audiovisual performance with visual artist Grigory Gromov at Podium Victorie in The Netherlands. Another standout moment was her sold out ambient live performance during ZERO BPM at the Thomaskerk in Amsterdam.\n\nWhile performing is a deep passion, Luna spends most of her time in the studio, exploring the nuances of sound design and rhythmic complexity. Her fascination with layering textures and experimenting with intricate beats has led to releases on esteemed labels such as SoHaSo and Berg Audio. Whether behind the decks, crafting ambient journeys, or pushing boundaries with multidisciplinary performances, Luna Ludmila continues to evolve, creating a sound that is both timeless and forward-thinking.",
+                "city": "Utrecht",
+                "name": "Luna Ludmilla",
+                "time": null
+              },
+              {
+                "bio": "“Extremely versatile, endlessly curious about music and machines, yet always modest and self-critical.” That’s how friends and fellow artists often describe Steve Rachmad.\nOver the years, the Amsterdam producer has created a constellation of aliases to reflect the breadth of his musical ideas. Each name represents a different facet of his sound — a way to explore distinct territories within electronic music. Several of these identities have taken on lives of their own in the DJ booth.\n\nOne of the key characters in this universe is Parallel 9. With this alias, Rachmad explores the deeper and more hypnotic edges of electronic music. A Parallel 9 set is a journey through timeless depth — drawing from vintage deep house, dub-infused techno and productions by kindred spirits who share a fascination for the more immersive side of the underground.\n\nParallel 9 reveals yet another dimension of Rachmad’s musical language: subtle, hypnotic and emotionally rich. Whether it’s a decades-old classic or a new production, the music speaks the same vocabulary —depth, honesty and profound love for the craft.\n\nIn 2026, as Steve Rachmad marks 45 years devoted to music, the Parallel 9 alias will appear at selected moments in selected locations. This includes Kynant showcases at Panoramabar in Berlin and Open Ground in Wuppertal, as well as the 9 Years Blitz celebration in Munich.\n\nBritish-Nigerian DJ and curator Richard Akingbehin is the co-founder of Berlin-based radio station Refuge Worldwide, and the founder of techno, dub and experimental label Kynant Records. His DJ sets move between dub techno,house and ambient, with soundsystem culture as the founding influence.",
+                "city": "Amsterdam / Berlin",
+                "name": "Parallel 9 b2b Richard Akingbehin",
+                "time": null
+              },
+              {
+                "bio": "As a DJ, Altinbas is known for Challenging the limits of modern techno. Crafting captivating journeys that explore the common threads and connective tissue between his carefully-selected cuts.\nThrough his mixes, he’s become known for a sound built on layered beats and rapidly shifting dynamics, where even familiar tracks feel fresh in the fabric of his sonic narratives.",
+                "city": "Brussels",
+                "name": "Altinbas",
+                "time": null
+              }
+            ],
+            "subtitle": "Kynant at Open Ground"
+          },
+          {
+            "name": "ANNEX",
+            "slots": [
+              {
+                "bio": null,
+                "city": null,
+                "name": "...",
+                "time": null
+              }
+            ],
+            "subtitle": null
+          }
+        ]
+      },
+      "floors": [
+        {
+          "artists": [
+            "Luna Ludmilla",
+            "Parallel 9 b2b Richard Akingbehin",
+            "Altinbas"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "..."
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2026-09-26",
+      "ticket": {
+        "state": "onsale",
+        "url": "ticketsurl"
+      },
+      "time": "22:00–06:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2026-09-26"
     }
   ],
-  "scraped_at": "2026-05-15T07:28:32+00:00"
+  "scraped_at": "2026-05-15T12:58:26+00:00"
 }
