@@ -8002,6 +8002,12 @@
                 "time": null
               },
               {
+                "bio": "Proud mom of Who's That Girl? and co-mom of Drum N Babes concepts based in Liège, LAURAVIOLI brings her dynamic, boundary-pushing vision into the local club scene. Seamlessly weaving together UKG, bass music, drum n bass and Latin-infused rhythms, her sets are crafted for pure dancefloor energy, with a sprinkle of edits and guilty pleasures.\n\nHer uncompromising dj style and ability to fuse diverse sounds make her a standout, and she broadens her sonic exploration with a bi-monthly residency on Gimic, a fresh Brussels radio station, where she dives into eclectic electronic sounds that might not typically find their way to the club.",
+                "city": "Liège",
+                "name": "LAURAVIOLI",
+                "time": null
+              },
+              {
                 "bio": "Maruhni is Wuppertal based DJ, Producer and co-founder of prude collective. together they give dj workshops, host parties and produce music. as an artist, maruhni's music is hugely influenced by different Bass music genres, like Acid, Dub, Jungle or Trance.\n\npaaradoxx (she/her) is a Cologne-based DJ originally from Wuppertal, where she built a strong following as part of the Mauke club. As co-founder of the PRUDE collective, she hosts workshops, a radio show, and throws parties across Germany. She is also a resident DJ at Gewölbe, spinning a wide spectrum of UK sounds, including Grime, UK Garage, Speedgarage, and DnB. Consider this a warning: paaradoxx is a FLINTA* Flummi on a mission. She's here to disrupt, amplify, and reshape the music scene into a truly equitable space, one bouncy beat at a time. So buckle up, or get bounced.",
                 "city": "Wuppertal / Cologne",
                 "name": "Maruhni b2b Paaradoxx",
@@ -8024,6 +8030,7 @@
         {
           "artists": [
             "DJ Frank",
+            "LAURAVIOLI",
             "Maruhni b2b Paaradoxx"
           ],
           "name": "ANNEX"
@@ -8795,5 +8802,5 @@
       "url": "https://www.openground.club/en/schedule/2026-09-26"
     }
   ],
-  "scraped_at": "2026-05-19T01:20:55+00:00"
+  "scraped_at": "2026-05-19T07:33:37+00:00"
 }
