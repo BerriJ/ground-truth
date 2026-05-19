@@ -7350,14 +7350,30 @@
         "floors": [
           {
             "name": "LOBBY + ANNEX",
-            "slots": [],
+            "slots": [
+              {
+                "bio": "Nils Schuckel ist ein leidenschaftlicher Vinyl-DJ aus Hattingen, der sich bewusst nicht auf ein bestimmtes Genre festlegt. Von Minimal über House bis hin zu Techno und Trance findet sich in seiner Plattensammlung eine große musikalische Vielfalt. Für die Open Lobby präsentiert er jedoch seine minimalistische und housige Seite – mit treibenden Grooves, warmen Sounds und viel Emotion.",
+                "city": "Hattingen",
+                "name": "Nils Schuckel",
+                "time": null
+              },
+              {
+                "bio": "ST.Techno is a Düsseldorf based DJ shaped by the raw energy of the Ruhr area. His sound is dedicated to hypnotic techno, deep, driving and focused on tension, flow and long form progression. His sets unfold through extended blends, subtle shifts and a constant build of pressure, prioritizing atmosphere over speed. The result is an immersive, forward pulling journey for sustained club impact, always with an element of unpredictability and spontaneity. Influenced by the meticulous approach of forward thinking underground club culture and the intensity of long running spaces where music, time and atmosphere merge into one experience, ST.Techno delivers a stripped back, precise and deeply immersive sound built for the dancefloor.",
+                "city": "Sprockhövel / Düsseldorf",
+                "name": "Delle b2b ST.Techno",
+                "time": null
+              }
+            ],
             "subtitle": "Drinks and DJ selections free entry"
           }
         ]
       },
       "floors": [
         {
-          "artists": [],
+          "artists": [
+            "Nils Schuckel",
+            "Delle b2b ST.Techno"
+          ],
           "name": "LOBBY + ANNEX"
         }
       ],
@@ -7912,9 +7928,9 @@
             "name": "ANNEX",
             "slots": [
               {
-                "bio": "late is of great passion for club dancing and music of many styles. playing records for the dance, he frames a house with windows wide open to much & any other style on the beat, from all corners and many niches of space and time, mixing in balance and melting it all down into one jam that is of strength & spice, that might be of surprise, that draws a four onto a floor where ♥︎ is always on the one",
+                "bio": "Viola Klein’s records are supremely earthy and astrally inclined. In her DJ sets, she navigates with harmonies through a music selection that combines experimental house from the US Midwest, West African polyrhythms, and music in the tradition of Can from Cologne. „DJ Viola Klein’s R’nB-infused house cuts had the crowd swooning.“ Crack Magazine",
                 "city": "Cologne",
-                "name": "late DJ",
+                "name": "Viola Klein",
                 "time": null
               },
               {
@@ -7924,9 +7940,9 @@
                 "time": null
               },
               {
-                "bio": "Viola Klein’s records are supremely earthy and astrally inclined. In her DJ sets, she navigates with harmonies through a music selection that combines experimental house from the US Midwest, West African polyrhythms, and music in the tradition of Can from Cologne. „DJ Viola Klein’s R’nB-infused house cuts had the crowd swooning.“ Crack Magazine",
+                "bio": "late is of great passion for club dancing and music of many styles. playing records for the dance, he frames a house with windows wide open to much & any other style on the beat, from all corners and many niches of space and time, mixing in balance and melting it all down into one jam that is of strength & spice, that might be of surprise, that draws a four onto a floor where ♥︎ is always on the one",
                 "city": "Cologne",
-                "name": "Viola Klein",
+                "name": "late",
                 "time": null
               }
             ],
@@ -7945,9 +7961,9 @@
         },
         {
           "artists": [
-            "late DJ",
+            "Viola Klein",
             "K15",
-            "Viola Klein"
+            "late"
           ],
           "name": "ANNEX"
         }
@@ -8802,5 +8818,5 @@
       "url": "https://www.openground.club/en/schedule/2026-09-26"
     }
   ],
-  "scraped_at": "2026-05-19T07:33:37+00:00"
+  "scraped_at": "2026-05-19T13:28:55+00:00"
 }
