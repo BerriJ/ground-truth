@@ -7081,7 +7081,7 @@
             "slots": [
               {
                 "bio": "DJ finsterNiz (BitchesxWitches) moves between bass-heavy and atmospheric sound without sticking to one lane. Her approach is stripped back and precise — broken, slightly shifted rhythms, sharp drums and deep, controlled low-end.\nThe energy doesn’t rely on big drops. It builds steadily, stays present and pulls you in — dark, hypnotic and focused. At the same time, there are moments that open up, creating space to breathe without losing tension.\nMinimal, direct and grounded in a deconstructed, mental approach — made for the heads.\n\nWith a fascination for all things bass & breaks, matildnz likes to play whatever tickles her brain, touches her soul or gets her body moving — preferably all at once. Aiming to create more spaces for unique electronic sounds, the DJ, designer and digital artist has been involved in the local music scene for quite some time now, organizing events as part of IVORY as well as curating the online radio station beton.fm.\n\nMotivated by her passion for dance and deconstructed club music, @sun_ma____ (BitchesxWitches) based in the Ruhr area, takes you on a sonic journey. A mosaic of leftfield electronic music, carried by hypnotic rhythms, glitchy surfaces, driving drums and pulsating bass lines.",
-                "city": "Oberhausen / Germany",
+                "city": "Oberhausen / Witten",
                 "name": "finsterNiz b2b Matildnz b2b Sun_ma",
                 "time": null
               }
@@ -7472,14 +7472,37 @@
         "floors": [
           {
             "name": "LOBBY + ANNEX",
-            "slots": [],
+            "slots": [
+              {
+                "bio": "EPHIE began her career as a DJ in the Ruhr Area eleven years ago. In the beginning she organized many club festivals with up to six floors together with her collective. In 2018, she became a resident DJ at her favorite club, Goethebunker in Essen. Since she is one of those artists who discovered her dedication to techno on the dance floor, you will always recognize her very strong connection to the crowd. EPHIE’s sound can be described as powerful and hypnotic, groove-oriented techno mixed with breakbeats. During her career she played at various venues like Tresor.West in Dortmund, Odonien and Artheater in Cologne, Mensch Meier in Berlin, Fuchs2 in Prague and the infamous Institut fuer Zukunft in Leipzig and played at several festivals including Fusion Festival, Feel Festival and Sa Terza Metari Festival in Sardinia. Her passion for vinyl records grew so strong in the recent years that she was invited to play her first vinyl only set at the Kompakt Recordstore in Cologne in 2025. Since then she has been playing more and more all-vinyl sets – recently at Open Ground in Wuppertal in early 2026. EPHIE recently curated an event for young, upcoming DJs, thereby setting an example for promoting new talents within the club scene.",
+                "city": "Essen",
+                "name": "EPHIE",
+                "time": null
+              },
+              {
+                "bio": "randal1na is a DJ from Bochum, Germany, whose dynamic sets transport listeners through hypnotically driven techno and fast grooves. Her sound combines deep, dark, and atmospheric sounds, with unique percussion textures and purposefully psychedelic moods. As a dedicated member of the FLINTA*4Rave collective, randal1na uses her platform to advocate for greater diversity and equality within the music industry in the Ruhr area. In 2024, she became a resident at Goethebunker in Essen, a renowned underground Club for contemporary dance music. She has played at a variety of venues and events, including Goethebunker in Essen, Tresor.West in Dortmund, Rote Flora in Hamburg or Artheater in Cologne.",
+                "city": "Bochum",
+                "name": "randal1na",
+                "time": null
+              },
+              {
+                "bio": "Raised in Germany’s Ruhr region and rooted in Turkey, Kaya Schwarz found his way into DJing at an early age. Coming from a background in classical music and drumming, he quickly developed a refined sense for rhythm, dynamics, and sound. Based in Berlin since 2014, he has shaped a hybrid sound between hypnotic, groove-oriented techno and polyrhythmic tension. His residency at Goethebunker, alongside appearances in Berlin clubs such as Tresor and his connection to the infamous Baracke Bochum crew, form key reference points in his artistic development. As a sound designer, Kaya combines studio work, club experience, and ongoing musical exchange into sets with a clear signature: raw, precise, and deeply rooted in rhythm.",
+                "city": "Berlin",
+                "name": "Kaya Schwarz",
+                "time": null
+              }
+            ],
             "subtitle": "Drinks and DJ selections free entry"
           }
         ]
       },
       "floors": [
         {
-          "artists": [],
+          "artists": [
+            "EPHIE",
+            "randal1na",
+            "Kaya Schwarz"
+          ],
           "name": "LOBBY + ANNEX"
         }
       ],
@@ -8818,5 +8841,5 @@
       "url": "https://www.openground.club/en/schedule/2026-09-26"
     }
   ],
-  "scraped_at": "2026-05-20T13:19:21+00:00"
+  "scraped_at": "2026-05-20T19:08:02+00:00"
 }
