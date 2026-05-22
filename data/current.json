@@ -7707,14 +7707,37 @@
         "floors": [
           {
             "name": "LOBBY + ANNEX",
-            "slots": [],
+            "slots": [
+              {
+                "bio": "Bastian Sevens, his sets are deep, functional, inspired by hypnotic Detroit sounds, heavy kicks, rolling basslines, energetic, and driving. He focuses on groove, space, and transients. Bastian grew up in Wuppertal. He has been living in Dortmund since 2024. He is a Co-founder of Cluster Events and the founder of the vinyl-only label Anothr World. Through his label, he connects the local scene in North Rhine- Westphalia with the international scene and provocative art. Two releases have been published. The next upcoming releases will be out soon.",
+                "city": "Dortmund",
+                "name": "Bastian Sevens",
+                "time": null
+              },
+              {
+                "bio": "JVX is a Spanish DJ based in Essen. He moves comfortably between genres, exploring the space where di@erent sounds meet. His sets are built around contrast and balance, allowing styles to blend naturally while keeping the dancefloor in motion. Rather than committing to a single genre, he focuses on creating fluid, evolving journeys that respond to the moment and the atmosphere. With an open approach to selection and mixing, he uses musical diversity as a foundation, shaping sessions that feel organic, unforced, and guided by feeling as much as rythm.",
+                "city": "Essen",
+                "name": "JVX",
+                "time": null
+              },
+              {
+                "bio": "Verschwender is known for his uncompromising, raw, and hypnotic techno. Since 2018, he has been a core member of the SEELEN Records label, and as Co-founder of the CLUSTER event series, he demonstrates his instinct for contemporary club culture. His high-energy sets have already taken him to Europe’s most important venues—including the Institut fuer Zukunft (IfZ), about:blank, the Blitz Club, Radion Amsterdam, and Tresor.West. His focus remains sharp: Verschwender is currently working on his next solo EP, which will be released exclusively on vinyl later this year on Anothr World.",
+                "city": "Marl-Sinsen",
+                "name": "Verschwender",
+                "time": null
+              }
+            ],
             "subtitle": "Drinks and DJ selections free entry"
           }
         ]
       },
       "floors": [
         {
-          "artists": [],
+          "artists": [
+            "Bastian Sevens",
+            "JVX",
+            "Verschwender"
+          ],
           "name": "LOBBY + ANNEX"
         }
       ],
@@ -8841,5 +8864,5 @@
       "url": "https://www.openground.club/en/schedule/2026-09-26"
     }
   ],
-  "scraped_at": "2026-05-22T07:33:34+00:00"
+  "scraped_at": "2026-05-22T13:14:03+00:00"
 }
