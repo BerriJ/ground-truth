@@ -7268,22 +7268,22 @@
             "name": "FREIFELD",
             "slots": [
               {
-                "bio": "Pioneer, Icon, Mogul, and Renaissance man are all words that describe Louis Burns a/k/a Lil Louis. An international Artist, Producer, Songwriter, DJ, Author and Director, Lil Louis is credited as being the Founding Father of House Music.\nAs the son of the late great Blues artist Bobby Sims, music became essential in Louis’s adolescent life when at age 8 he begin to play the drums and bass. In 1974, while working at a party organized by his mother Mary to unite Chicago gangs, Louis was asked to play after the DJ fell ill. The acclaim from the crowd birthed the 12-year-old’s career as a DJ, and by many accounts, the birth of House music. Shortly after, he began DJing at adult nightclubs. It was during a police raid at the River’s Edge club, that Louis was given his now renowned stage name “Lil Louis” from a riled, witty police officer.",
-                "city": "Chicago",
-                "name": "Lil Louis",
-                "time": null
-              },
-              {
                 "bio": "Moritz von Oswald is one of electronic music's most quietly influential figures - a composer, producer, and engineer whose work has shaped the sonic language of the last four decades.\n\nTrained as a classical percussionist, von Oswald came of age in the early 1980s avant-garde before co-founding the landmark Basic Channel/Maurizio and Rhythm and Sound project with Mark Ernestus. Together they wrote the blueprint for minimal techno and dub-inflected electronic music, records that remain touchstones across virtually every corner of contemporary club culture. As founder of Berlin's Dubplates & Mastering, he brought the same precision to sound reproduction, setting a benchmark for mastering quality that defined an era.\n\nThe decades since have seen him move fluidly across contexts - from his celebrated Deutsche Grammophon commission with Carl Craig, reinterpreting Ravel and Mussorgsky through an electronic lens, to the Borderland project with Juan Atkins, to The Moritz von Oswald Trio, where jazz improvisation and electronic music are drawn into unpredictable dialogue with collaborators including Vladislav Delay, Laurel Halo, and the late Tony Allen among many other projects.\n\nTechnical mastery and honest curiosity in equal measure - von Oswald remains an artist in constant motion.",
                 "city": "Berlin",
                 "name": "Moritz von Oswald",
-                "time": null
+                "time": "23:00"
               },
               {
                 "bio": null,
                 "city": "Berlin",
                 "name": "Tikiman & Arthur",
-                "time": null
+                "time": "01:30"
+              },
+              {
+                "bio": "Pioneer, Icon, Mogul, and Renaissance man are all words that describe Louis Burns a/k/a Lil Louis. An international Artist, Producer, Songwriter, DJ, Author and Director, Lil Louis is credited as being the Founding Father of House Music.\nAs the son of the late great Blues artist Bobby Sims, music became essential in Louis’s adolescent life when at age 8 he begin to play the drums and bass. In 1974, while working at a party organized by his mother Mary to unite Chicago gangs, Louis was asked to play after the DJ fell ill. The acclaim from the crowd birthed the 12-year-old’s career as a DJ, and by many accounts, the birth of House music. Shortly after, he began DJing at adult nightclubs. It was during a police raid at the River’s Edge club, that Louis was given his now renowned stage name “Lil Louis” from a riled, witty police officer.",
+                "city": "Chicago",
+                "name": "Lil' Louis",
+                "time": "03:00"
               }
             ],
             "subtitle": null
@@ -7295,19 +7295,25 @@
                 "bio": "Agnes‘ vinyl-only sets are atmospheric, with distorted and driving elements and transition into driving Techno. They are characterized by old and new techno tracks, with influences from Detroit and industrial.",
                 "city": "Wuppertal",
                 "name": "Agnes Stark",
-                "time": null
-              },
-              {
-                "bio": "Having spent much of her youth deep in Cologne’s techno scene while staying connected to Georgia’s electronic music culture, Mariami brings a blend of both influences to her sets—carefully built, emotive and textured.\n\nSince 2021, she has been part of the Brutalism label, where she also curates events across West Germany.\n\nHer sound is subtle yet forceful, emotional yet controlled. Long transitions and contrast-driven selections define her approach, moving fluidly between atmospheric rhythms and heavier, percussive elements.",
-                "city": "Cologne",
-                "name": "Mariami",
-                "time": null
+                "time": "22:00"
               },
               {
                 "bio": "Sonae hat keine Scheu vor komplexen Themen, verhandelt sie in mehrstündigen Live-Sets für den Dancefloor, wo sie zweifellos hingehören. Es ist Musik, die trotz clubtauglicher Strukturen nicht nur funktioniert, sondern etwas will, irritiert, eine eigentümliche Sogwirkung hat. Gebilde aus Knistern, geisterhaften Klangfragmenten, Sirenen und Glocken, denen längst die Stimme versagt hat, zeternde Störgeräusche, klapperndes Kleinzeug, zusammengehalten von einem unmissverständlichem Beat—Stolpertechno.",
                 "city": "Berlin",
                 "name": "Sonae (live)",
-                "time": null
+                "time": "23:00"
+              },
+              {
+                "bio": "Agnes‘ vinyl-only sets are atmospheric, with distorted and driving elements and transition into driving Techno. They are characterized by old and new techno tracks, with influences from Detroit and industrial.",
+                "city": "Wuppertal",
+                "name": "Agnes Stark",
+                "time": "01:00"
+              },
+              {
+                "bio": "Having spent much of her youth deep in Cologne’s techno scene while staying connected to Georgia’s electronic music culture, Mariami brings a blend of both influences to her sets—carefully built, emotive and textured.\n\nSince 2021, she has been part of the Brutalism label, where she also curates events across West Germany.\n\nHer sound is subtle yet forceful, emotional yet controlled. Long transitions and contrast-driven selections define her approach, moving fluidly between atmospheric rhythms and heavier, percussive elements.",
+                "city": "Cologne",
+                "name": "Mariami",
+                "time": "03:00"
               }
             ],
             "subtitle": null
@@ -7317,17 +7323,17 @@
       "floors": [
         {
           "artists": [
-            "Lil Louis",
             "Moritz von Oswald",
-            "Tikiman & Arthur"
+            "Tikiman & Arthur",
+            "Lil' Louis"
           ],
           "name": "FREIFELD"
         },
         {
           "artists": [
             "Agnes Stark",
-            "Mariami",
-            "Sonae (live)"
+            "Sonae (live)",
+            "Mariami"
           ],
           "name": "ANNEX"
         }
@@ -8864,5 +8870,5 @@
       "url": "https://www.openground.club/en/schedule/2026-09-26"
     }
   ],
-  "scraped_at": "2026-05-26T07:32:54+00:00"
+  "scraped_at": "2026-05-26T13:23:56+00:00"
 }
