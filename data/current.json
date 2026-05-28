@@ -7614,14 +7614,30 @@
         "floors": [
           {
             "name": "LOBBY + ANNEX",
-            "slots": [],
+            "slots": [
+              {
+                "bio": "Aufgewachsen mit Vocals, Rhythmus und viel Gespür für Groove, steht DJ PLUS PLUS für housige Sets mit Einflüssen aus Chicago House, warmen Basslines und einer starken musikalischen Dynamik.\n\nGeprägt durch Chorgesang, Gesang und autodidaktisches Keyboardspiel entwickelte er früh ein Gefühl für musikalisches Storytelling und Atmosphäre auf dem Dancefloor. Zwischen München und Köln unterwegs, bleibt er dabei eng mit dem blütezeit.kollektiv verbunden.",
+                "city": "Cologne / Munich",
+                "name": "DJ Plus Plus",
+                "time": null
+              },
+              {
+                "bio": "Aus dem Kern von Paella Groove.\nWer den Sound kennt, kennt ihn auch.\n\nZwischen House, Breaks und Electro bewegt sich Dennis Janeczek mit einem Gespür für rohe Grooves, präzise Rhythmen und die Energie des Dancefloors. Keine festen Formeln, kein unnötiges Overthinking — sondern genau das, was im Moment funktioniert.",
+                "city": "Cologne",
+                "name": "Dennis Janeczek",
+                "time": null
+              }
+            ],
             "subtitle": "Drinks and DJ selections free entry"
           }
         ]
       },
       "floors": [
         {
-          "artists": [],
+          "artists": [
+            "DJ Plus Plus",
+            "Dennis Janeczek"
+          ],
           "name": "LOBBY + ANNEX"
         }
       ],
@@ -7848,6 +7864,35 @@
       "url": "https://www.openground.club/en/schedule/2026-06-27"
     },
     {
+      "category": "Open Lobby",
+      "date_iso": "2026-07-02",
+      "date_label": "Thu.02.07.26",
+      "detail": {
+        "description": null,
+        "floors": [
+          {
+            "name": "LOBBY + ANNEX",
+            "slots": [],
+            "subtitle": "Drinks and DJ selections free entry"
+          }
+        ]
+      },
+      "floors": [
+        {
+          "artists": [],
+          "name": "LOBBY + ANNEX"
+        }
+      ],
+      "id": "2026-07-02",
+      "ticket": {
+        "state": "free",
+        "url": null
+      },
+      "time": "20:00–00:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2026-07-02"
+    },
+    {
       "category": "Clubnight",
       "date_iso": "2026-07-04",
       "date_label": "Sat.04.07.26",
@@ -7946,6 +7991,35 @@
       "url": "https://www.openground.club/en/schedule/2026-07-04"
     },
     {
+      "category": "Open Lobby",
+      "date_iso": "2026-07-09",
+      "date_label": "Thu.09.07.26",
+      "detail": {
+        "description": null,
+        "floors": [
+          {
+            "name": "LOBBY + ANNEX",
+            "slots": [],
+            "subtitle": "Drinks and DJ selections free entry"
+          }
+        ]
+      },
+      "floors": [
+        {
+          "artists": [],
+          "name": "LOBBY + ANNEX"
+        }
+      ],
+      "id": "2026-07-09",
+      "ticket": {
+        "state": "free",
+        "url": null
+      },
+      "time": "20:00–00:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2026-07-09"
+    },
+    {
       "category": "Extended Clubnight",
       "date_iso": "2026-07-11",
       "date_label": "Sat.11.07.26",
@@ -8028,6 +8102,35 @@
       "time": "21:00–06:00",
       "title": null,
       "url": "https://www.openground.club/en/schedule/2026-07-11"
+    },
+    {
+      "category": "Open Lobby",
+      "date_iso": "2026-07-16",
+      "date_label": "Thu.16.07.26",
+      "detail": {
+        "description": null,
+        "floors": [
+          {
+            "name": "LOBBY + ANNEX",
+            "slots": [],
+            "subtitle": "Drinks and DJ selections free entry"
+          }
+        ]
+      },
+      "floors": [
+        {
+          "artists": [],
+          "name": "LOBBY + ANNEX"
+        }
+      ],
+      "id": "2026-07-16",
+      "ticket": {
+        "state": "free",
+        "url": null
+      },
+      "time": "20:00–00:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2026-07-16"
     },
     {
       "category": "Clubnight",
@@ -8114,6 +8217,35 @@
       "url": "https://www.openground.club/en/schedule/2026-07-18"
     },
     {
+      "category": "Open Lobby",
+      "date_iso": "2026-07-23",
+      "date_label": "Thu.23.07.26",
+      "detail": {
+        "description": null,
+        "floors": [
+          {
+            "name": "LOBBY + ANNEX",
+            "slots": [],
+            "subtitle": "Drinks and DJ selections free entry"
+          }
+        ]
+      },
+      "floors": [
+        {
+          "artists": [],
+          "name": "LOBBY + ANNEX"
+        }
+      ],
+      "id": "2026-07-23",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "20:00–00:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2026-07-23"
+    },
+    {
       "category": "Clubnight",
       "date_iso": "2026-07-25",
       "date_label": "Sat.25.07.26",
@@ -8196,6 +8328,35 @@
       "time": "22:00–06:00",
       "title": null,
       "url": "https://www.openground.club/en/schedule/2026-07-25"
+    },
+    {
+      "category": "Open Lobby",
+      "date_iso": "2026-07-30",
+      "date_label": "Thu.30.07.26",
+      "detail": {
+        "description": null,
+        "floors": [
+          {
+            "name": "LOBBY + ANNEX",
+            "slots": [],
+            "subtitle": "Drinks and DJ selections free entry"
+          }
+        ]
+      },
+      "floors": [
+        {
+          "artists": [],
+          "name": "LOBBY + ANNEX"
+        }
+      ],
+      "id": "2026-07-30",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "20:00–00:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2026-07-30"
     },
     {
       "category": "Clubnight",
@@ -8863,12 +9024,12 @@
       "id": "2026-09-26",
       "ticket": {
         "state": "onsale",
-        "url": "ticketsurl"
+        "url": "https://shop.weeztix.com/e6b17860-c48e-41b7-b163-6e75b2f8f080/tickets"
       },
       "time": "22:00–06:00",
       "title": null,
       "url": "https://www.openground.club/en/schedule/2026-09-26"
     }
   ],
-  "scraped_at": "2026-05-28T01:14:27+00:00"
+  "scraped_at": "2026-05-28T07:42:26+00:00"
 }
