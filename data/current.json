@@ -8400,13 +8400,25 @@
             "name": "ANNEX",
             "slots": [
               {
-                "bio": null,
-                "city": null,
-                "name": "...",
+                "bio": "Christian Coiffure is an enigmatic artist steadily making his mark on the European electronic scene, with standout releases on the adventurous labels Comic Sans Records and Worst Records, as well as remixes for internationally renowned artists such as Tatyana Jane and Anastasia Kristensen.\n\nA member of the useless seconds label and collective, he refuses to be defined by any single genre, playfully blending styles and tempos while shaping a sound that fuses forward-thinking design, twisted club motifs, and driving grooves. Drawn from years of deep listening and analysis of electronic music, he aspires to shape the sonic landscape of tomorrow by bending and reinterpreting the aesthetics that inspire him.\n\nChristian Coiffure is devoted to refining his craft — both as a DJ and live performer, delivering captivating, transportive sets, and as a producer, where his inventiveness and attention to detail resonate strongly with his listeners.",
+                "city": "Rennes",
+                "name": "C. Coiffure",
+                "time": null
+              },
+              {
+                "bio": "With a fascination for all things bass & breaks, matildnz likes to play whatever tickles her brain, touches her soul or gets her body moving — preferably all at once. Aiming to create more spaces for unique electronic sounds, the DJ, designer and digital artist has been involved in the local music scene for quite some time now, organizing events as part of IVORY as well as curating the online radio station beton.fm.",
+                "city": "Witten",
+                "name": "Matildnz",
+                "time": null
+              },
+              {
+                "bio": "Wuppertal-based artist and head of the Ballett label – crafts immersive, deep-textured soundscapes that blur the lines between dub-infused techno and ambient minimalism. His sets are shaped by warm, grainy rhythms, atmospheric grooves, and an earthy sonic palette that feels both grounded and expansive.\n\nRooted in classic dub aesthetics yet forward-thinking in execution, Mauzius merges analog warmth with precise electronic detail. The result is a sound that is organically fluid yet tightly structured — creating intimate moments between sound and movement.\n\nWhether in the studio or behind the decks, Mauzius curates a dynamic and deeply engaging journey, marked by subtle shifts, hypnotic patterns, and a tactile sense of depth.",
+                "city": "Wuppertal",
+                "name": "Mauzius",
                 "time": null
               }
             ],
-            "subtitle": null
+            "subtitle": "Ballett at Open Ground"
           }
         ]
       },
@@ -8421,7 +8433,9 @@
         },
         {
           "artists": [
-            "..."
+            "C. Coiffure",
+            "Matildnz",
+            "Mauzius"
           ],
           "name": "ANNEX"
         }
@@ -8471,12 +8485,24 @@
             "slots": [
               {
                 "bio": null,
-                "city": null,
-                "name": "...",
+                "city": "Essen",
+                "name": "V.Dietz",
+                "time": null
+              },
+              {
+                "bio": "Cynthia Matisse has always been driven by a passion for vinyl DJing. As a resident at Triebwerk Erfurt she explores a wide spectrum of electronic music – from Techno and House to Bass, Dubstep, DnB. From warm, groovy tunes to rousing, hypnotic atmospheres, or functional, energetic and driving sounds. Her aim is to always take the audience on an unpredictable journey with a heartfully thought out landscape. In her selection she has a very emotional approach to music, focused on creating depth and a captivating energy.",
+                "city": "Weimar",
+                "name": "Cynthia Matisse",
+                "time": null
+              },
+              {
+                "bio": null,
+                "city": "Essen",
+                "name": "Flotze",
                 "time": null
               }
             ],
-            "subtitle": null
+            "subtitle": "Delirium Essen at Open Ground"
           }
         ]
       },
@@ -8491,7 +8517,9 @@
         },
         {
           "artists": [
-            "..."
+            "V.Dietz",
+            "Cynthia Matisse",
+            "Flotze"
           ],
           "name": "ANNEX"
         }
@@ -9038,5 +9066,5 @@
       "url": "https://www.openground.club/en/schedule/2026-09-26"
     }
   ],
-  "scraped_at": "2026-05-29T07:40:34+00:00"
+  "scraped_at": "2026-05-29T13:30:55+00:00"
 }
