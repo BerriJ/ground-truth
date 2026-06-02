@@ -8484,8 +8484,8 @@
             "name": "ANNEX",
             "slots": [
               {
-                "bio": null,
-                "city": "Essen",
+                "bio": "V.Dietz is a chilean DJ and selector currently based in Düsseldorf.\n\nInfluenced by the minimal house scene from Chile and since then evolving into the exploration of electro, acid house, italo and everything in between.\n\nThe philosophy is simple: good music is good music. His selections are united by curiosity, emotion and a commitment to quality sound.",
+                "city": "Düsseldorf",
                 "name": "V.Dietz",
                 "time": null
               },
@@ -8496,7 +8496,7 @@
                 "time": null
               },
               {
-                "bio": null,
+                "bio": "@flotze has steadily built a strong presence in the region’s underground scene over the past few years. Starting from his homebase at the @goethebunker, he has been playing clubs across the area and shaping a sound that feels raw, intense and straight to the point.\n\nHis sets are driven by dark atmospheric elements, rolling rhythms and focused on maintaining flow rather than chasing peaks. The result is a consistent, forward-moving energy on the dancefloor.\n\nAs one of the Co-Founders of @deliriumessen, he is also closely involved in building and strengthening the local scene beyond the DJ booth and pushing the local underground electronic music to new standards.",
                 "city": "Essen",
                 "name": "Flotze",
                 "time": null
@@ -9066,5 +9066,5 @@
       "url": "https://www.openground.club/en/schedule/2026-09-26"
     }
   ],
-  "scraped_at": "2026-06-02T01:28:11+00:00"
+  "scraped_at": "2026-06-02T07:59:38+00:00"
 }
