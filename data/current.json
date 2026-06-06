@@ -7462,8 +7462,8 @@
       ],
       "id": "2026-06-06",
       "ticket": {
-        "state": "onsale",
-        "url": "https://shop.weeztix.com/44ac66e8-9a2b-409e-b132-387de9a301b5"
+        "state": "soldout",
+        "url": null
       },
       "time": "22:00–06:00",
       "title": null,
@@ -9066,5 +9066,5 @@
       "url": "https://www.openground.club/en/schedule/2026-09-26"
     }
   ],
-  "scraped_at": "2026-06-06T12:50:52+00:00"
+  "scraped_at": "2026-06-06T18:45:55+00:00"
 }
