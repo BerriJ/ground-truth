@@ -8460,7 +8460,7 @@
             "name": "FREIFELD",
             "slots": [
               {
-                "bio": null,
+                "bio": "DJ Frog was born, raised, and taught-to-groove in Montreal. Her preference is for the chuggy, chunky, dusty, and loopy ends of house and techno.\nShe’s in a love affair with the FM compressor at CKUT. DJ Frog also makes music and throws parties with her friends at Doo / Greenhouse.",
                 "city": "Montreal",
                 "name": "DJ Frog",
                 "time": null
@@ -9066,5 +9066,5 @@
       "url": "https://www.openground.club/en/schedule/2026-09-26"
     }
   ],
-  "scraped_at": "2026-06-08T01:28:07+00:00"
+  "scraped_at": "2026-06-08T08:07:39+00:00"
 }
