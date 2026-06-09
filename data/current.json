@@ -8789,9 +8789,21 @@
             "name": "FREIFELD",
             "slots": [
               {
-                "bio": null,
-                "city": null,
-                "name": "...",
+                "bio": "Beste Hira is an Istanbul-born, Amsterdam-based artist operating at the intersection of rolling, minimal techno and experimental sound. Classically trained, her sets are marked by a refined sense of structure, texture and control; where she moves fluidly between groove-led rhythms and ambient abstraction. A regular at Berghain since 2022 and a key fixture within the Amsterdam scene, she has steadily established herself as a distinctive and uncompromising voice within the contemporary underground.",
+                "city": "Amsterdam",
+                "name": "Beste Hira",
+                "time": null
+              },
+              {
+                "bio": "Toobris grew up in Munich and later moved to Stuttgart for studies, also spending time in Berlin and Amsterdam. The vibrant musical scenes in these cities played a key role in shaping his sound. Known for embracing randomness, his tracks feature unpredictable elements that come together cohesively when heard as a whole. Toobris’ music is soulful, groovy, and bouncy, with basslines that have rhythmic quality that invites movement, complemented by crisp hi-hats and rich percussive textures. With a minimalist approach and a focus on sound design, Toobris creates a unique sonic landscape that feels both intricate, captivating and sure to make you dance.",
+                "city": "Berlin",
+                "name": "Toobris",
+                "time": null
+              },
+              {
+                "bio": "Freddy K: techno activist. Since the ‘90s Alessio Armeni has been tireless campaigning from the dancefloor, defending vinyl, championing young talents and reinforcing the scene from the shadows. You will know him best for his marathon DJ sets and deviant selections.\nFreddy K sets are characteristically mercurial and 100% tailored for the dance. He plays a “360°-style of techno,” which can include Soft Cell, WestBam or Bronski Beat—when the timing is just right.",
+                "city": "Berlin",
+                "name": "Freddy K",
                 "time": null
               }
             ],
@@ -8814,7 +8826,9 @@
       "floors": [
         {
           "artists": [
-            "..."
+            "Beste Hira",
+            "Toobris",
+            "Freddy K"
           ],
           "name": "FREIFELD"
         },
@@ -9122,5 +9136,5 @@
       "url": "https://www.openground.club/en/schedule/2026-09-26"
     }
   ],
-  "scraped_at": "2026-06-09T07:34:15+00:00"
+  "scraped_at": "2026-06-09T13:19:32+00:00"
 }
