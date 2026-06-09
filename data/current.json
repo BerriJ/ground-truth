@@ -8779,6 +8779,62 @@
       "url": "https://www.openground.club/en/schedule/2026-08-29"
     },
     {
+      "category": "Special Event",
+      "date_iso": "2026-09-04",
+      "date_label": "Fri.04.09.26",
+      "detail": {
+        "description": "Admission 20 € / before 23:00 15 €",
+        "floors": [
+          {
+            "name": "FREIFELD",
+            "slots": [
+              {
+                "bio": null,
+                "city": null,
+                "name": "...",
+                "time": null
+              }
+            ],
+            "subtitle": "Key Vinyl at Open Ground"
+          },
+          {
+            "name": "ANNEX",
+            "slots": [
+              {
+                "bio": null,
+                "city": null,
+                "name": "...",
+                "time": null
+              }
+            ],
+            "subtitle": null
+          }
+        ]
+      },
+      "floors": [
+        {
+          "artists": [
+            "..."
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "..."
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2026-09-04",
+      "ticket": {
+        "state": "onsale",
+        "url": "https://shop.weeztix.com/e9d650ec-bdb7-4182-bc93-f74529439999"
+      },
+      "time": "22:00–06:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2026-09-04"
+    },
+    {
       "category": "Clubnight",
       "date_iso": "2026-09-05",
       "date_label": "Sat.05.09.26",
@@ -9066,5 +9122,5 @@
       "url": "https://www.openground.club/en/schedule/2026-09-26"
     }
   ],
-  "scraped_at": "2026-06-09T01:18:23+00:00"
+  "scraped_at": "2026-06-09T07:34:15+00:00"
 }
