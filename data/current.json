@@ -9043,13 +9043,31 @@
             "name": "ANNEX",
             "slots": [
               {
-                "bio": null,
-                "city": null,
-                "name": "...",
+                "bio": "As Wupperal born native of the 90s, Danyon was not only deeply influenced by his fathers vinyl and electronic music collection, but also the upcoming years of clubbing and DJing from 2013 onwards. His sound most likely be described as percussion-rich, with rumbling base-lines right up to broken beat techno.",
+                "city": "Wuppertal",
+                "name": "Danyon",
+                "time": null
+              },
+              {
+                "bio": "Mexem has been active in Wuppertal’s underground music scene for over a decade. Whether performing in clubs or crafting live sets, his work is defined by a distinctive approach to sound design, groove, and the dynamic tension between melancholy and euphoria. His sets weave together ambient textures, deep dubstep, and intricate shades of jungle and drum & bass—always grounded in his unmistakable sonic identity, with deep, driving techno as the foundation. Mexem’s music draws listeners into a trance-like state and guides them through a rich, transformative journey.",
+                "city": "Wuppertal",
+                "name": "Mexem (live)",
+                "time": null
+              },
+              {
+                "bio": "Rosa, now based in Rotterdam, found creative ways to thrive at night in her former hometown by organizing free outdoor parties and founding the collective Rooibosch. She later started Draaisessies in Tilburg: a community hub offering free music production and DJ lessons to local youth. Rosa’s musical style blends diverse rhythms and genres; focusing on bass-heavy, percussion-driven tracks in club settings, while her radio show Work in Progress on Operator features warm, experimental music for relaxed listening.",
+                "city": "Rotterdam",
+                "name": "Rosa",
+                "time": null
+              },
+              {
+                "bio": "KØKØ, born and based in Wuppertal, draws inspiration from the atmospheric styles of the 2010s techno scene.\n\nHis sound is a fusion of deep, ambient textures and driving beats, influenced by immersive, hypnotic and dynamic elements. His style binds the essence of both introspective soundscapes and raw energy, creating a unique auditory experience that reflects his roots and artistic evolution.",
+                "city": "Wuppertal",
+                "name": "Køkø",
                 "time": null
               }
             ],
-            "subtitle": null
+            "subtitle": "Sequence at Open Ground"
           }
         ]
       },
@@ -9065,7 +9083,10 @@
         },
         {
           "artists": [
-            "..."
+            "Danyon",
+            "Mexem (live)",
+            "Rosa",
+            "Køkø"
           ],
           "name": "ANNEX"
         }
@@ -9150,5 +9171,5 @@
       "url": "https://www.openground.club/en/schedule/2026-09-26"
     }
   ],
-  "scraped_at": "2026-06-10T07:49:31+00:00"
+  "scraped_at": "2026-06-10T13:33:09+00:00"
 }
