@@ -8889,13 +8889,25 @@
             "name": "ANNEX",
             "slots": [
               {
-                "bio": null,
-                "city": null,
-                "name": "...",
+                "bio": "Paulita is a young selector with an old soul, known for bringing an infectious, high-vibrational energy and a raw, physical presence to the booth. Born in LA, shaped by her Chilean heritage, and now based in Berlin, she is a DJ who leads by example—dancing as hard as the front row to a deep-dug blend of Brazilian gems, deep-cut funk, raw disco, and slow-burning soulful house. For Paulita, the dance floor is a space of freedom and legacy. With a decade of record collecting behind her, she specializes in finding the \"real music\"—the soulful, unexpected tracks you never knew you needed. This commitment to sound extends beyond the booth through her work with independent labels and her own creative outlets, CACTUS and Sobremesa Sounds. Whether she’s headlining an underground room or a sun-drenched terrace, Paulita strips away the pressure of the \"boom\" to bring the soul, the sweat, and a genuine human connection back to the center of the room.",
+                "city": "Berlin",
+                "name": "Paulita",
+                "time": null
+              },
+              {
+                "bio": "Craig White’s love affair with house music began in the early 2000s, inspired by the sounds of New York. Over a decade ago he launched his career with a four-year London residency, playing venues like Number 90 Hackney, The Cause, and 93 Feet East. Since relocating to Berlin in 2018, he has become a fixture of the city’s underground scene with sets at Paloma, Sisyphos, and Renate, alongside appearances in Amsterdam (RadioRadio, Garage Noord) and in-store sessions at Rush Hour Amsterdam and BBE London.\n\nCraig’s sets weave a rich tapestry of grooves from true masters of the craft, allowing him to build journeys, create moments, and let the music breathe as intended.\n\nHe is also the driving force behind Mister Bear Records—a Berlin-based party of seven years and a label two years strong—featuring releases from Jimpster, Kai Alcé, Vick Lavender, and Alton Miller. With editions in Berlin, London, Amsterdam, and New York, Mister Bear has grown into an internationally recognized event.\n\nWhether behind the decks or through his label, Craig stays true to the deep, raw essence of house music.",
+                "city": "Cologne",
+                "name": "Craig White",
+                "time": null
+              },
+              {
+                "bio": "The son of Colombian and Mexican immigrants, Zapata was born in New York, and grew up on a diet of salsa, jazz, rock, and hip-hop. After playing jazz trombone when he was young, he began DJing after falling in love with the kind of jazz-infused house that much of 90’s New York was all about. He discovered deeper sounds (from Detroit, Chicago, and back to NYC) the more he dug, moving through a lot of the dreamier, chordier house that defines much of his musical output. You can expect anything from disco, deep, salsa, afro-house, hip-house, hip-hop, and tons of jams with live elements when he plays DJ sets.\n\nZapata is all about diversity and genuineness. This outlook can be seen when he spins at DiscoDisco, a party which he co-founded, alongside Nils Nilsson and Agha B, at Berlin’s underground Repeat Bar—a monthly get-down which encourages DJs to break the four-to-the-floor mould by playing funk, jazz, afro, salsa, and anything else that falls in between. Music always stands the test of time—that’s why it’s important to really believe in the records you play. There should be no such thing as fillers, he believes. Play only what you really love, and be real with it!",
+                "city": "Berlin",
+                "name": "Zapata",
                 "time": null
               }
             ],
-            "subtitle": null
+            "subtitle": "Mister Bear at Open Ground"
           }
         ]
       },
@@ -8911,7 +8923,9 @@
         },
         {
           "artists": [
-            "..."
+            "Paulita",
+            "Craig White",
+            "Zapata"
           ],
           "name": "ANNEX"
         }
@@ -9136,5 +9150,5 @@
       "url": "https://www.openground.club/en/schedule/2026-09-26"
     }
   ],
-  "scraped_at": "2026-06-10T01:23:38+00:00"
+  "scraped_at": "2026-06-10T07:49:31+00:00"
 }
