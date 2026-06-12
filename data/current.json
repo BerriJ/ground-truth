@@ -9135,13 +9135,25 @@
             "name": "ANNEX",
             "slots": [
               {
-                "bio": null,
-                "city": null,
-                "name": "...",
+                "bio": "Phonetisch Athletisch startet as a radio session on dublab DE and follows the idea of staying musically open and flexible - somewhere between Disco, Boogie and Funk and whatever feels right at the time.\n\nChiara is a DJ based in Cologne and part of the dublab team. Drawn to textured, atmospheric grooves, she also enjoys exploring a wide range of musical directions. Her sets are shaped by the mood of a space, translating moments and emotions into sound.\n\nRuben Nicolas has been part of the dublab.de community for years. With roots in Funk, Disco, Jazz and Hip Hop, his musical perspective has gradually expanded towards late-'90s and early-2000s Electronica, Downtempo and Organic House. Drawn to grooves, textures and timeless rhythms, he enjoys connecting different musical worlds and finding unexpected links between the familiar and the overlooked. His selections move fluidly between warm, soulful moments and deeper electronic excursions, always guided by curiosity and a sense of flow.",
+                "city": "Cologne",
+                "name": "Prima Gentle Phonetics",
+                "time": null
+              },
+              {
+                "bio": "Only a handful of years in, and Mankiyan is already taking Belgium by storm.\n\nA sure favourite of the scene, this powerhouse of the new generation is marking her territory.\n\nMankiyan’s mixes are full of depth, spatiality and intuition, spanning across heady dub, rave, UK bass and grime.\n\nShe toys with complex rhythm sequences and easily switches genres, with healthy splashes of bright twists – but always with an impeccable sense of pace and flow.\n\nMankiyan is injecting community-driven, unpretentious and unadulterated love for rave culture back into nightlife.",
+                "city": "Brussels",
+                "name": "Mankiyan",
+                "time": null
+              },
+              {
+                "bio": "For over 10 years, Cologne-based C U SOON has been spinning the decks. Before that, he spent years playing in brass ensembles – from orchestras and quintets to solo performances – which led him to try out DJing after his first experiences at electronic parties. Through creating parties and working with different projects in DUS/AC/CGN, he has found diverse styles for different occasions – from ambient and OG house beats to techy electronic drives. Always surprising – mostly delighting.\n\nFlorian, aka Ghiro, is a Cologne-based filmmaker, DJ and member of the community radio station dublab.de. Back in 2017, he co-founded the bass music event series Basskombüse in Mönchengladbach — at a time when bass music felt far from the spotlight. With roots in soulful and deep Drum & Bass, his musical language has gradually opened up towards Jungle, Dubstep, Dub Techno, House, and more experimental forms of electronic music. A strong sense of storytelling also shapes his approach to DJing. His sets bring together pulse, warmth, and subtle shifts in energy, balancing organic sounds with unexpected turns and long-form flow.",
+                "city": "Cologne",
+                "name": "C U SOON b2b Ghiro",
                 "time": null
               }
             ],
-            "subtitle": null
+            "subtitle": "Dublab at Open Ground"
           }
         ]
       },
@@ -9156,7 +9168,9 @@
         },
         {
           "artists": [
-            "..."
+            "Prima Gentle Phonetics",
+            "Mankiyan",
+            "C U SOON b2b Ghiro"
           ],
           "name": "ANNEX"
         }
@@ -9171,5 +9185,5 @@
       "url": "https://www.openground.club/en/schedule/2026-09-26"
     }
   ],
-  "scraped_at": "2026-06-12T07:57:49+00:00"
+  "scraped_at": "2026-06-12T13:29:49+00:00"
 }
