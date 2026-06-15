@@ -8562,13 +8562,19 @@
             "name": "ANNEX",
             "slots": [
               {
-                "bio": null,
-                "city": null,
-                "name": "...",
+                "bio": "JASSS is a Spanish sound artist, producer, and DJ with releases on labels such as AD-93, Ostgut Ton, and Never Sleep, aside from a residency in Herrensauna. Her retrofuturist style foregrounds bass and percussion, approaching but denying a techno orientation by embracing atmospheres of industrial pop, nu-metal distortion, and fuzzed-out R&B. Her sound is always rooted in full-flavour, high-impact stuff that is brilliantly compelling and strobe lit throughout, whether stepping at half time or falling over itself in a race to the end.",
+                "city": "Berlin",
+                "name": "JASSS",
+                "time": null
+              },
+              {
+                "bio": "Joe Cotch is a music curator, researcher, A&R, DJ and producer. Starting his journey as club promoter and DJ in Granada, Spain in his late teens, Joe moved back to his birthplace of London, ultimately playing a key role at Peckham-based record shop / night club / community hub Rye Wax. Alongside that, he co-founded and A&R’d the Cotch International record label and event series, which has been a key part of London nightlife for over 10 years, showcasing and platforming emerging talent from all corners of the globe.\n\nA dedicated digger and student of global soundsystem culture, his polyrhythm-heavy sets stretch across all BPMs, joining the dots between interconnected global subcultures, united by a sense of urgency and visceral club beats, and served up through a distinctly LDN 'pirate radio' lens. This outlook is displayed on his monthly NTS Radio show 'Platos Combinados', which has included guests as varied as Nick Leon, DJ Lag and Simo Cell, to Moonchild Sanelly, Novelist and Rennan Da Penha. Alongside this, he has continued his A&R work, co-curating the 'Amapiano Now' compilation for NTS Records, and curating South African artists for the recent 'Black Panther: Wakanda Forever Soundtrack', amongst many other projects.",
+                "city": "London",
+                "name": "Joe Cotch",
                 "time": null
               }
             ],
-            "subtitle": null
+            "subtitle": "Cotch International presents at Open Ground"
           }
         ]
       },
@@ -8582,7 +8588,8 @@
         },
         {
           "artists": [
-            "..."
+            "JASSS",
+            "Joe Cotch"
           ],
           "name": "ANNEX"
         }
@@ -9185,5 +9192,5 @@
       "url": "https://www.openground.club/en/schedule/2026-09-26"
     }
   ],
-  "scraped_at": "2026-06-15T08:30:48+00:00"
+  "scraped_at": "2026-06-15T14:28:38+00:00"
 }
