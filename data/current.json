@@ -8563,7 +8563,7 @@
             "slots": [
               {
                 "bio": "JASSS is a Spanish sound artist, producer, and DJ with releases on labels such as AD-93, Ostgut Ton, and Never Sleep, aside from a residency in Herrensauna. Her retrofuturist style foregrounds bass and percussion, approaching but denying a techno orientation by embracing atmospheres of industrial pop, nu-metal distortion, and fuzzed-out R&B. Her sound is always rooted in full-flavour, high-impact stuff that is brilliantly compelling and strobe lit throughout, whether stepping at half time or falling over itself in a race to the end.",
-                "city": null,
+                "city": "Berlin",
                 "name": "JASSS",
                 "time": null
               },
@@ -9192,5 +9192,5 @@
       "url": "https://www.openground.club/en/schedule/2026-09-26"
     }
   ],
-  "scraped_at": "2026-06-18T08:02:41+00:00"
+  "scraped_at": "2026-06-18T13:30:39+00:00"
 }
