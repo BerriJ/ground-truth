@@ -7879,14 +7879,44 @@
         "floors": [
           {
             "name": "LOBBY + ANNEX",
-            "slots": [],
+            "slots": [
+              {
+                "bio": "Kyohara and ÆKO, founders of Kontur, create hypnosis through repetition and subtle movement. With sharing the same perspective on sound their live sets are built on improvisation, reacting to the moment rather than following a fixed plan. Each performance unfolds naturally, shaped by the space and the energy in the room.",
+                "city": "Düsseldorf",
+                "name": "ÆKO",
+                "time": null
+              },
+              {
+                "bio": "Funkhaus is a techno artist with a passion for electronic music and the culture that surrounds it. Through driving rhythms and carefully crafted sounds, he creates music that is meant to be enjoyed on and off the dancefloor. Always exploring new ideas, Funkhaus sees music as a way to share energy, emotion, and creativity with others.",
+                "city": "Langenfeld",
+                "name": "Funkhaus",
+                "time": null
+              },
+              {
+                "bio": "Kyohara and ÆKO, founders of Kontur, create hypnosis through repetition and subtle movement. With sharing the same perspective on sound their live sets are built on improvisation, reacting to the moment rather than following a fixed plan. Each performance unfolds naturally, shaped by the space and the energy in the room.",
+                "city": "Cologne",
+                "name": "Kyohara",
+                "time": null
+              },
+              {
+                "bio": "Rather than relying on dramatic drops or quick peaks, Nick builds tension through deliberate pacing and timing. Energy is guided carefully, layer by layer, until the room settles into a steady, immersive momentum.\n\nNick performs hybrid DJ sets, combining digital with hardware and live elements. He works with stems, drum machines and hands-on processing to reshape elements in real time. This allows him to go beyond traditional mixing, creating variations, extended transitions and dynamic shifts that make each set unique and unrepeatable.\n\nIn his view, a DJ set is not about being seen, but about holding a focused space — observing, responding and guiding the room through shifts in energy and awareness. Setting the focus on long-term depth and continuity, his sets are designed to unfold over time, guiding the crowd into a focused, collective flow state. The result is a sound that feels raw, controlled and deeply connected to the physicality of the dancefloor.",
+                "city": "Düsseldorf",
+                "name": "Nick Deeken",
+                "time": null
+              }
+            ],
             "subtitle": "Drinks and DJ selections free entry"
           }
         ]
       },
       "floors": [
         {
-          "artists": [],
+          "artists": [
+            "ÆKO",
+            "Funkhaus",
+            "Kyohara",
+            "Nick Deeken"
+          ],
           "name": "LOBBY + ANNEX"
         }
       ],
@@ -8294,7 +8324,7 @@
               },
               {
                 "bio": "Kyohara and ÆKO, founders of Kontur, create hypnosis through repetition and subtle movement. With sharing the same perspective on sound their live sets are built on improvisation, reacting to the moment rather than following a fixed plan. Each performance unfolds naturally, shaped by the space and the energy in the room.\n\nKyohara and ÆKO, founders of Kontur, create hypnosis through repetition and subtle movement. With sharing the same perspective on sound their live sets are built on improvisation, reacting to the moment rather than following a fixed plan. Each performance unfolds naturally, shaped by the space and the energy in the room.",
-                "city": "Düsseldorf",
+                "city": "Düsseldorf / Cologne",
                 "name": "ÆKO b2b Kyohara",
                 "time": null
               },
@@ -8820,13 +8850,31 @@
             "name": "ANNEX",
             "slots": [
               {
-                "bio": null,
-                "city": null,
-                "name": "...",
+                "bio": "Scherwin Hosseini is an independent curator, community organizer, and founder of BLENDHAUS* — a space for culture, creative collaboration, and community in Germany’s Ruhr region. Their work focuses on interdisciplinary projects, creative education formats, and amplifying queer and marginalized perspectives. As a DJ, they play a mix of heavy bass and SWANA-infused rhythms, guided by the mood and atmosphere of the moment rather than fixed genres.",
+                "city": "Dortmund",
+                "name": "scherwin hosseini",
+                "time": null
+              },
+              {
+                "bio": "BIM discovered his passion for electronic dance music at an early age when he sneaked into clubs using his friends’ IDs. During his brief trip into producing, he realized that selecting and compiling listenable music fulfills him the most. Expect a mix of bass, breaks, and technoid stuff, preferably played on vinyl and always ready for a change in form. Rooted in the Ruhr region, he is part of the collectives Ivory and Baracke.",
+                "city": "Gelsenkirchen",
+                "name": "BIM",
+                "time": null
+              },
+              {
+                "bio": "Januar bewegt sich musikalisch zwischen treibender Rhythmik und atmosphärischer Detailarbeit. Organische Klangflächen, rollende Basslines und psychedelische Strukturen verweben Einflüsse aus Techno, Trance und IDM zu einem eigenständigen, cluborientierten Sound.\n\nDer Bochumer DJ ist in der lokalen Szene aktiv und Teil des IVORY Kollektivs. Er kuratiert die Mix-Reihe Spiral Sonic, zu der er verschiedenste Künstler:innen eingeladen hat, die seine Sound-Vision teilen.",
+                "city": "Bochum",
+                "name": "Januar",
+                "time": null
+              },
+              {
+                "bio": "Coco Cobra is a DJ shaped by movement—between places, sounds, and the the ongoing process of learning her practice. Born in China and raised in Hannover, she explores the spaces between bass, breaks, and leftfield rhythms, blending them with a curious touch. Her sets are less about pushing boundaries than about listening closely and letting the music evolve, one transition at a time. Drawing from multiple geographies and influences, she approaches club culture as an open, continually shifting landscape, inviting dancers into a sound that grows with her.",
+                "city": "Hannover",
+                "name": "Coco Cobra",
                 "time": null
               }
             ],
-            "subtitle": null
+            "subtitle": "Ivory at Open Ground"
           }
         ]
       },
@@ -8841,7 +8889,10 @@
         },
         {
           "artists": [
-            "..."
+            "scherwin hosseini",
+            "BIM",
+            "Januar",
+            "Coco Cobra"
           ],
           "name": "ANNEX"
         }
@@ -9192,5 +9243,5 @@
       "url": "https://www.openground.club/en/schedule/2026-09-26"
     }
   ],
-  "scraped_at": "2026-06-19T08:15:08+00:00"
+  "scraped_at": "2026-06-19T13:30:37+00:00"
 }
