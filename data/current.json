@@ -8371,18 +8371,34 @@
       "date_iso": "2026-07-30",
       "date_label": "Thu.30.07.26",
       "detail": {
-        "description": null,
+        "description": "WAXWORX ist ein Projekt von LØBER und KLEYN aus Koblenz, entstanden aus der gemeinsamen Leidenschaft für Vinylkultur und die Kunst des DJings.\n\nIhr Sound verbindet Generationen. Roher, hypnotischer Techno mit Wurzeln in den 2020ern, geprägt von der Energie, den Texturen und der Ästhetik der 90er und frühen 2000er.\n\nIm Fokus stehen kompromisslose Selektion, präzises Mixing und lange, treibende Übergänge.\n\nSorgfältig ausgewählte Schallplatten, musikalisches Storytelling über lange Spannungsbögen und ein kompromissloser Fokus auf den Dancefloor.\n\nErwartet tiefe Grooves, rohe Energie und eine Selektion, die für massive Soundsysteme gemacht ist.",
         "floors": [
           {
             "name": "LOBBY + ANNEX",
-            "slots": [],
+            "slots": [
+              {
+                "bio": "KLEYN ist ein in Koblenz geborener und aufgewachsener Künstler, der aktuell in Frankfurt am Main lebt. Er hatte schon immer eine starke Verbindung zur Musik; im Alter von fünf Jahren begann er mit dem Klavierspielen und lernte später noch einige weitere Instrumente. Anfang der 2010er-Jahre entdeckte er die elektronische Musik für sich und um das Jahr 2015 begann er, die Underground-Techno-Szene zu entdecken und sich in ihr zu bewegen.\n\nIm Jahr 2020 fand KLEYN seine Leidenschaft für das Auflegen. Er verbrachte Jahre damit, digitale Sets zu mixen und einen tiefen, hypnotischen Sound zu spielen. Auf der Suche nach einer neuen Herausforderung wechselte er zu Vinyl und entdeckte dabei eine völlig neue Leidenschaft für das Handwerk des Plattenmixens. Heute ist sein Sound sehr organisch, hypnotisch und darauf ausgelegt, das Publikum von Anfang bis Ende auf eine energiegeladene Reise mitzunehmen.",
+                "city": "Frankfurt",
+                "name": "KLEYN",
+                "time": null
+              },
+              {
+                "bio": "LØBER stammt aus Koblenz und ist seit den 2010er Jahren tief in der Techno-Kultur verwurzelt. Was als Leidenschaft für elektronische Musik begann, entwickelte sich im selben Jahr auch hinter den Decks weiter. Seitdem prägt ein kompromissloser Fokus auf hypnotischen, treibenden Techno seinen Sound.\n\nMit der eigenen Partyreihe FOKUS setzte LØBER über Jahre hinweg ein Zeichen für authentische Clubkultur und schuf einen Raum für Musik, die fernab von kurzlebigen Trends funktioniert.\n\nHeute spielt LØBER ausschließlich Vinyl. Für ihn ist das mehr als nur ein Format – es ist eine bewusste Entscheidung für Handwerk, Selektion und einen organischen Flow. Seine Sets stehen für Tiefe, Spannung und eine sorgfältig kuratierte Reise durch die facettenreiche Welt des Techno.",
+                "city": "Koblenz",
+                "name": "LØBER",
+                "time": null
+              }
+            ],
             "subtitle": "Drinks and DJ selections free entry"
           }
         ]
       },
       "floors": [
         {
-          "artists": [],
+          "artists": [
+            "KLEYN",
+            "LØBER"
+          ],
           "name": "LOBBY + ANNEX"
         }
       ],
@@ -9243,5 +9259,5 @@
       "url": "https://www.openground.club/en/schedule/2026-09-26"
     }
   ],
-  "scraped_at": "2026-06-26T07:37:13+00:00"
+  "scraped_at": "2026-06-26T13:01:22+00:00"
 }
