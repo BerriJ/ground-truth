@@ -8036,14 +8036,37 @@
         "floors": [
           {
             "name": "LOBBY + ANNEX",
-            "slots": [],
+            "slots": [
+              {
+                "bio": "Die (/diː/) Jane (aka Jaymeera), founder of Out of System collective, stands for genre-fluid music culture beyond conventional structures. With bouncing rhythms, nostalgic hip-hop and pop samples, and a healthy dose of chaos, she gets every crowd dancing — because with Die Jane, everyone's shaking their booty.",
+                "city": "Cologne",
+                "name": "die jane.",
+                "time": null
+              },
+              {
+                "bio": "For E-Fiyah E, being a DJ is about creating a sense of community on the dancefloor. They invite listeners to step out of their minds and into their bodies, even if it's just for the night. Rooted in House but shaped by a range of influences, her sound moves fluidly across time. This approach also defines her Callshop Radio show, strange familiarity. Known for her genre-bending sets, E-Fiyah E seamlessly weaves creative transitions with unexpected beats.",
+                "city": "Düsseldorf",
+                "name": "E-Fiyah E",
+                "time": null
+              },
+              {
+                "bio": "Essen-based artist Kid Velour finds self-expression in various forms, whether in genrefluid DJ sets, photography, film, or original music. Their sets are always a walk through their musical brain, ranging from global bass, hard groove and house to hip hop, perreo and salsa.",
+                "city": "Essen",
+                "name": "Kid Velour",
+                "time": null
+              }
+            ],
             "subtitle": "Drinks and DJ selections free entry"
           }
         ]
       },
       "floors": [
         {
-          "artists": [],
+          "artists": [
+            "die jane.",
+            "E-Fiyah E",
+            "Kid Velour"
+          ],
           "name": "LOBBY + ANNEX"
         }
       ],
@@ -9259,5 +9282,5 @@
       "url": "https://www.openground.club/en/schedule/2026-09-26"
     }
   ],
-  "scraped_at": "2026-06-29T13:48:11+00:00"
+  "scraped_at": "2026-06-29T19:00:09+00:00"
 }
