@@ -8285,14 +8285,44 @@
         "floors": [
           {
             "name": "LOBBY + ANNEX",
-            "slots": [],
+            "slots": [
+              {
+                "bio": "Roman fell in love with electronic music and record players during his time in Cologne. His love for never-ending grooves explains his long-standing commitment as a party organiser. In 2025 he co-founded the event series 48kHz. Most recently, he has been captivated by various other musical niches especially those originated in the UK. His sets are characterized by a high degree of musical diversity and can never be summarized under one heading.",
+                "city": "Cologne",
+                "name": "Roman",
+                "time": null
+              },
+              {
+                "bio": "JFR is the founder of Rhythm Eight, an electronic music collective based in Aachen. Driven by a passion for electronic music in all its forms, Jan refuses to be confined by genre. If his sound could be described in a single word, it would be deep. His sets weave together deep house, dub-infused grooves, hypnotic textures, and classic techno.",
+                "city": "Aachen",
+                "name": "JFR",
+                "time": null
+              },
+              {
+                "bio": "Lysander is a techno producer and DJ originally from Mülheim an der Ruhr, now based in Trier, Germany. With releases on Suara and Planet Rhythm, he has established a name for himself in the European underground scene. His sound is rooted in the driving, percussive energy of early 2000s techno.",
+                "city": "Trier",
+                "name": "Lysander",
+                "time": null
+              },
+              {
+                "bio": "YESMAFRIEND, founder of the label MACH ACHT, has cultivated a distinctive style that spans from techno from the 90s/early 2000s, dub techno, and house to tribal influenced hypnotic techno. His sets are characterized by a playful approach to mixing that keep the dance floor present.",
+                "city": "Münster",
+                "name": "DJ YESMAFRIEND",
+                "time": null
+              }
+            ],
             "subtitle": "Drinks and DJ selections free entry"
           }
         ]
       },
       "floors": [
         {
-          "artists": [],
+          "artists": [
+            "Roman",
+            "JFR",
+            "Lysander",
+            "DJ YESMAFRIEND"
+          ],
           "name": "LOBBY + ANNEX"
         }
       ],
@@ -9066,12 +9096,30 @@
             "slots": [
               {
                 "bio": null,
+                "city": "Barcelona",
+                "name": "Alien Trackers (live)",
+                "time": null
+              },
+              {
+                "bio": null,
+                "city": "Leipzig",
+                "name": "Disrupt (live)",
+                "time": null
+              },
+              {
+                "bio": "Originally hailing from South London, Tapes made his debut release on esteemed 8-bit digital reggae label Jahtari in 2009 with the “Hissing Theatricals” EP. In the 15 years since, a wide variety of releases continued on a host of acclaimed labels: Soon after, a spate of releases and appearances continued on labels such as Honest\nJons, Sextags, Astro:dynamics,Meeuw Musak, Porridge Bullet, EM Records, Research Records, Good Morning Tapes and Cav Empt. He has also toured as a DJ and Live performer extensively world wide and hosts regular “all night long” sessions in Tallinn, where he now resides.\n\nRecently, and in cellebration of the labels 20th anniversary, Tapes returned to Jahtari with “Photos of my Frog EP“. The records four amphibious instrumental scorchers with two accompanying 8-bit versions have become the bed-rock of his current live sets, mixing these up with other unreleased dubplate versions of Tapes tunes new and old.\n\nTapes is a musician who continues to follow his own eccentric compass – guided by tape hiss, digital ghosts, and an unshakable fascination with the small, strange beauties of the everyday.",
+                "city": "Tallinn",
+                "name": "Tapes (live)",
+                "time": null
+              },
+              {
+                "bio": null,
                 "city": null,
-                "name": "...",
+                "name": "Jahtari DJs",
                 "time": null
               }
             ],
-            "subtitle": null
+            "subtitle": "Jahtari at Open Ground"
           }
         ]
       },
@@ -9085,7 +9133,10 @@
         },
         {
           "artists": [
-            "..."
+            "Alien Trackers (live)",
+            "Disrupt (live)",
+            "Tapes (live)",
+            "Jahtari DJs"
           ],
           "name": "ANNEX"
         }
@@ -9282,5 +9333,5 @@
       "url": "https://www.openground.club/en/schedule/2026-09-26"
     }
   ],
-  "scraped_at": "2026-06-30T07:37:27+00:00"
+  "scraped_at": "2026-06-30T13:01:01+00:00"
 }
