@@ -7940,22 +7940,22 @@
             "name": "FREIFELD",
             "slots": [
               {
-                "bio": "DJ Lag’s superb production skills have played a big part in transforming a sub-genre of house – one that began by soundtracking taxi trips around Durban – to an enviably innovative participant in the global scene. It's a stunning rise and DJ Lag is ready to put in the work required to make sure Gqom is remembered forever.",
-                "city": "Durban",
-                "name": "DJ Lag",
-                "time": null
-              },
-              {
                 "bio": "Shannen SP is a London based creative hybrid. Her high energy DJ sets explore the vanguard of the global club underground, while her style delves into the darker, edgier side of non Western electronic music. As a DJ, she has supported Arca, Batu, and Jamie XX, with recent tours in East Asia and India. Behind the scenes her A&R work spans Hyperdub, NTS, and Spitfire Audio. Described as “quietly prolific” by Crack Magazine, she has held radio residencies with NTS and Rinse FM, with mixes for Dekmantel, DJ Mag, and Fact. She has performed across international clubs and festivals including Berghain, Oil Shenzhen, Fabric, Nyege Nyege, Glastonbury, and Dekmantel Selectors.",
                 "city": "London",
                 "name": "Shannen SP",
-                "time": null
+                "time": "23:00"
+              },
+              {
+                "bio": "DJ Lag’s superb production skills have played a big part in transforming a sub-genre of house – one that began by soundtracking taxi trips around Durban – to an enviably innovative participant in the global scene. It's a stunning rise and DJ Lag is ready to put in the work required to make sure Gqom is remembered forever.",
+                "city": "Durban",
+                "name": "DJ Lag",
+                "time": "01:30"
               },
               {
                 "bio": "State OFFF, Zimbabwe-born and Amsterdam-based, has been igniting dancefloors worldwide with his bold productions and high-energy sets, earning a spot on Mixmag’s \"Top 25 Artists to Watch in 2025.\"\n\nHis journey began with GQOM TODAY (2022), a debut EP that showcased his forward- thinking approach to Gqom. In 2024, State OFFF cemented his reputation with Simulacra and The Offering, two standout releases blending Gqom, Baile Funk, and other global sounds, alongside EDITSSS, his viral remix series that seamlessly reworks pop, R&B, and hip hop for the club. These projects have racked up millions of views and critical acclaim, positioning him as one of the most innovative producers of the moment.\n\nAs a DJ, State OFFF’s command of the dancefloor is unrivaled.",
                 "city": "Amsterdam",
                 "name": "State OFFF",
-                "time": null
+                "time": "03:30"
               }
             ],
             "subtitle": "Mzansi Bass at Open Ground"
@@ -7964,34 +7964,40 @@
             "name": "ANNEX",
             "slots": [
               {
-                "bio": "Andras_2020 is a rising figure in Europe’s burgeoning electronic music scene. Their sound combines the sonorous ripples of their Latin America with experimental pop, deconstructed club music and avant-garde. With influences that range from Brazilian funk to hyperpop, Andras’ music features lyrics that encompass explicitness, clashing with hard hitting drums and their soft falsetto.\n\nOriginally from Brazil, the artist garnered a dedicated following after releasing their intricate and textured debut EP, “Cuerpo Temperamental (acting in concert),” in 2021 and their multiple features on the Mutants Mixtape Compilation, initiated by Venezuelan pioneer Arca. This success was followed by the Cuerpo Tour, which saw Andras enthralling audiences across Europe and the UK for nearly two years. As a live performer, Andras’ work amalgamates contemporary dance and club culture. Their performances fuse the visceral materiality of the body, violent screams, and poetry, exploring themes of survival and physical transformation, contrasted with the gentleness of soft pop live aesthetics.\n\nMotivated by a desire and natural ability to fuse personal experiences with creative expression, Andras released “Blowhole” for Rest Now! (Berlin) in October, 2024. The title candidly contrasts the concept of inhaling and exhaling through a hole, like cetaceans, with anal pleasure and its associations with queerness and discomfort.",
-                "city": "Düsseldorf",
-                "name": "Andras_2020 (live)",
-                "time": null
-              },
-              {
-                "bio": "Miserere Mei originated as a side project of Wuppertal raised and Vienna based artist Ungemach @ungemach000 to condense his passion for the remote sides of electronic music into an appropriate shape. With crooked soundscapes and merciless cascades, Miserere Mei traverses borrowings from industrial, noise, UK bass and deconstructed club, without ever being firmly placed in one of these genres. Despite all the brute force, the idea that gave birth to this project is never lost sight of: Joy. As vicious as its expression may be.",
-                "city": "Vienna",
-                "name": "Miserere Mei (live)",
-                "time": null
+                "bio": "B3CKI’s sets are driven by heavy bass, breaks, and bouncy kicks. Always playful, melodic, and rooted in her Indonesian background, with influences from pop, hip-hop, and global club sounds",
+                "city": "Berlin",
+                "name": "B3CKI",
+                "time": "22:00"
               },
               {
                 "bio": "STI ZOI is driven by a fascination with the ever-evolving Zeitgeist and shaped by a rich multicultural perspective. She seeks to create a unique crossroads where music, culture, and identity converge— where genres shift and blend, and each mix becomes an immersive, emotionally textured experience that lives in the in-between spaces.",
                 "city": "Düsseldorf",
                 "name": "STI ZOI",
-                "time": null
+                "time": "23:30"
+              },
+              {
+                "bio": "Andras_2020 is a rising figure in Europe’s burgeoning electronic music scene. Their sound combines the sonorous ripples of their Latin America with experimental pop, deconstructed club music and avant-garde. With influences that range from Brazilian funk to hyperpop, Andras’ music features lyrics that encompass explicitness, clashing with hard hitting drums and their soft falsetto.\n\nOriginally from Brazil, the artist garnered a dedicated following after releasing their intricate and textured debut EP, “Cuerpo Temperamental (acting in concert),” in 2021 and their multiple features on the Mutants Mixtape Compilation, initiated by Venezuelan pioneer Arca. This success was followed by the Cuerpo Tour, which saw Andras enthralling audiences across Europe and the UK for nearly two years. As a live performer, Andras’ work amalgamates contemporary dance and club culture. Their performances fuse the visceral materiality of the body, violent screams, and poetry, exploring themes of survival and physical transformation, contrasted with the gentleness of soft pop live aesthetics.\n\nMotivated by a desire and natural ability to fuse personal experiences with creative expression, Andras released “Blowhole” for Rest Now! (Berlin) in October, 2024. The title candidly contrasts the concept of inhaling and exhaling through a hole, like cetaceans, with anal pleasure and its associations with queerness and discomfort.",
+                "city": "Düsseldorf",
+                "name": "Andras_2020 (live)",
+                "time": "01:00"
+              },
+              {
+                "bio": "Miserere Mei originated as a side project of Wuppertal raised and Vienna based artist Ungemach @ungemach000 to condense his passion for the remote sides of electronic music into an appropriate shape. With crooked soundscapes and merciless cascades, Miserere Mei traverses borrowings from industrial, noise, UK bass and deconstructed club, without ever being firmly placed in one of these genres. Despite all the brute force, the idea that gave birth to this project is never lost sight of: Joy. As vicious as its expression may be.",
+                "city": "Vienna",
+                "name": "Miserere Mei (live)",
+                "time": "01:30"
               },
               {
                 "bio": "MYEN can be broken down as a project of audio hyperstition, sonic tulpamancy and self described funeral music. His music is often driven by immersive and cinematic sound design, heavy distortion and an overall feeling of suspense. He is currently based in Leipzig, Germany, has worked on collaborative projects with Raiika, Sissy Misfit and KAVARI and recently self-released his EP \"MARTYRDOM\".",
                 "city": "Leipzig",
                 "name": "MYEN",
-                "time": null
+                "time": "02:30"
               },
               {
                 "bio": "B3CKI’s sets are driven by heavy bass, breaks, and bouncy kicks. Always playful, melodic, and rooted in her Indonesian background, with influences from pop, hip-hop, and global club sounds",
                 "city": "Berlin",
-                "name": "B3CKI",
-                "time": null
+                "name": "B3CKI b2b Andras_2020",
+                "time": "03:30"
               }
             ],
             "subtitle": "Echidna x Subtle Wreck at Open Ground"
@@ -8001,19 +8007,20 @@
       "floors": [
         {
           "artists": [
-            "DJ Lag",
             "Shannen SP",
+            "DJ Lag",
             "State OFFF"
           ],
           "name": "FREIFELD"
         },
         {
           "artists": [
+            "B3CKI",
+            "STI ZOI",
             "Andras_2020 (live)",
             "Miserere Mei (live)",
-            "STI ZOI",
             "MYEN",
-            "B3CKI"
+            "B3CKI b2b Andras_2020"
           ],
           "name": "ANNEX"
         }
@@ -8093,19 +8100,19 @@
                 "bio": "Berlin-based DJ and radio host Elke radiates high energy – whether through playful electro, garage, and jungle or via percussive techno, bassy rollers, and stone-cold drumfunk.",
                 "city": "Berlin",
                 "name": "Elke",
-                "time": null
+                "time": "21:00"
               },
               {
                 "bio": "The first superstar produced by the breakbeat jungle movement, Goldie popularized drum’n’bass as a form of musical expression just as relevant for living-room contemplation as techno had become by the early ’90s. Goldie became one of the first personalities in British dance music, his gold teeth and b-boy attitude placing him leagues away from the faceless bedroom boffins who had become the norm in intelligent dance music.",
                 "city": "London",
                 "name": "Goldie",
-                "time": null
+                "time": "00:00"
               },
               {
                 "bio": "A true veteran and leading tastemaker in Doc Scott has been an essential and pivotal figure in D&B scene since before its inception and continues to push things forward with his future beats ethos. Whilst well known for shaping Drum & Bass, he’s equally passionate about links between Detroit Techno and Drum n Bass It all came from the same DNA originally and parallels and bridges between the two worlds still very much exist today.",
                 "city": "Coventry",
                 "name": "Doc Scott",
-                "time": null
+                "time": "00:00"
               }
             ],
             "subtitle": null
@@ -8117,19 +8124,19 @@
                 "bio": "Viola Klein’s records are supremely earthy and astrally inclined. In her DJ sets, she navigates with harmonies through a music selection that combines experimental house from the US Midwest, West African polyrhythms, and music in the tradition of Can from Cologne. „DJ Viola Klein’s R’nB-infused house cuts had the crowd swooning.“ Crack Magazine",
                 "city": "Cologne",
                 "name": "Viola Klein",
-                "time": null
+                "time": "22:00"
               },
               {
                 "bio": "To K15, music is about expression and challenge, a space where fun meets friction and an opportunity to make music from living, not a living from music. His ability to craft music has seen him cultivate a loyal cohort of listeners and made him well respected among peers. He's DJ’d and made music for over 20 years and continues to create - but still wouldn't consider himself a musician.\n\nHe has collaborated on various projects with Simbad, Kuniyuki, Mr.G, Earl Jeffers and with Emeson as part of Profusion, as well as producing and remixing music for Children of Zeus, Nubya Garcia and Yelfris Valdés His most recent release is a collaborative EP with Detroit’s finest Kyle Hall. Whether he's K15 or Culross Close, the approach is always the same - make music that's honest of the time.",
                 "city": "London",
                 "name": "K15",
-                "time": null
+                "time": "00:00"
               },
               {
                 "bio": "late is of great passion for club dancing and music of many styles. playing records for the dance, he frames a house with windows wide open to much & any other style on the beat, from all corners and many niches of space and time, mixing in balance and melting it all down into one jam that is of strength & spice, that might be of surprise, that draws a four onto a floor where ♥︎ is always on the one",
                 "city": "Cologne",
                 "name": "late",
-                "time": null
+                "time": "03:00"
               }
             ],
             "subtitle": "Bring Your Ass at Open Ground"
@@ -8206,19 +8213,19 @@
                 "bio": "Born in Norilsk, raised between Ukraine and Germany, now based in Dortmund.\n\nThe approach is simple: read the room, don’t force a concept. Dychromatic´s DJ sets move between techno, house, minimal, electro, breaks, and trance.\n\nRooted in DIY and off grid environments, he can usually be found at the edges of the night, beeing a resident DJ at Tresor.West.",
                 "city": "Dortmund",
                 "name": "Dychromatic",
-                "time": null
+                "time": "22:00"
               },
               {
                 "bio": "Nørbak’s crucial role in today’s techno environment derives from a strong sense of commitment and hard working attitude which he guides towards his musical passion. The Portuguese artist makes use of a thorough knowledge of classic techno and fuses it with modern sound design, the result of which is a signature sound that has seen worldwide support from tier-1 artists and mammoth labels such as Soma Records, Warm Up Recordings and Mord.",
                 "city": "Porto",
                 "name": "Nørbak (live)",
-                "time": null
+                "time": "02:00"
               },
               {
                 "bio": "Based in Bochum, his connection to electronic music began early, around the age of 12, shaped by the raw energy of drum & bass and dubstep.\n\nFor a period, his attention shifted toward hip hop, where he started to lay down an important foundation, influencing the way he approaches rhythm and space in his music today.\n\nReturning to electronic music with a clearer direction, he moved into techno with a focus on dance floor functionality. Over time, that perspective has evolved into a more restrained and deeper sound. His current work is rooted in detailed sound design, with an emphasis on low-end movement.\n\nRather than creating purely functional club tools, his tracks aim to balance usability with depth—music that works within a dance floor context but also invites a more attentive listening experience\n\nBorn into a family of musicians and artists, Steuert's path led from classical piano to techno – a genre that revealed itself as his natural form of expression, further deepened through his time with the Open Ground Crew and their profound understanding of club culture. His approach to DJing resembles storytelling through rhythm, creating moments in which the dancefloor connects with something primal. Although techno forms the centre of his sound, he draws from a wide range of genres to transform individual dancers into a collectively pulsating unity, moving under the spell of hypnotic beats – always in search of the ancient instinct of collective movement.",
                 "city": "Bochum / Wuppertal",
                 "name": "Loris Erdmann b2b Steuert",
-                "time": null
+                "time": "03:00"
               }
             ],
             "subtitle": "Recaved at Open Ground"
@@ -8230,19 +8237,19 @@
                 "bio": "DJ Frank doesn’t do boxes. While the Wuppertal based DJ and producer has carried this philosophy throughout her entire life, weaving it into her art is what is now making her an exciting face in the electronic music landscape. With a sound as deep as it is driving and as carefully curated as it is playful, she proves that it’s not just contrast that makes her music so captivating. Exploring the emotional spectrum of electronic music, she blends groovy percussion, textured synth work, and emotional depth into a sound made to move – but also to feel.\n​Refining her craft in such a meticulous way over time has also put her in touch with her vision for nightlife: a barrier-free celebration of talent and creativity, which she furthers as a founder of the collective Prude, supplying and curating events & workshops to make space for upcoming talent.",
                 "city": "Wuppertal",
                 "name": "DJ Frank",
-                "time": null
+                "time": "22:00"
               },
               {
                 "bio": "Proud mom of Who's That Girl? and co-mom of Drum N Babes concepts based in Liège, LAURAVIOLI brings her dynamic, boundary-pushing vision into the local club scene. Seamlessly weaving together UKG, bass music, drum n bass and Latin-infused rhythms, her sets are crafted for pure dancefloor energy, with a sprinkle of edits and guilty pleasures.\n\nHer uncompromising dj style and ability to fuse diverse sounds make her a standout, and she broadens her sonic exploration with a bi-monthly residency on Gimic, a fresh Brussels radio station, where she dives into eclectic electronic sounds that might not typically find their way to the club.",
                 "city": "Liège",
                 "name": "LAURAVIOLI",
-                "time": null
+                "time": "01:00"
               },
               {
                 "bio": "Maruhni is Wuppertal based DJ, Producer and co-founder of prude collective. together they give dj workshops, host parties and produce music. as an artist, maruhni's music is hugely influenced by different Bass music genres, like Acid, Dub, Jungle or Trance.\n\npaaradoxx (she/her) is a Cologne-based DJ originally from Wuppertal, where she built a strong following as part of the Mauke club. As co-founder of the PRUDE collective, she hosts workshops, a radio show, and throws parties across Germany. She is also a resident DJ at Gewölbe, spinning a wide spectrum of UK sounds, including Grime, UK Garage, Speedgarage, and DnB. Consider this a warning: paaradoxx is a FLINTA* Flummi on a mission. She's here to disrupt, amplify, and reshape the music scene into a truly equitable space, one bouncy beat at a time. So buckle up, or get bounced.",
                 "city": "Wuppertal / Cologne",
                 "name": "Maruhni b2b Paaradoxx",
-                "time": null
+                "time": "03:00"
               }
             ],
             "subtitle": "Prude at Open Ground"
@@ -8349,19 +8356,19 @@
                 "bio": "Nada Formosa and C.A. Ramirez are Cologne DJs made by and for the dancefloor, shaped early on by disco and house in all their facets and united by a lifelong pursuit of the groove. Genre-fluid and deeply sound-driven, they blend euphoric highs with deeper, driving passages into a continuous flow of warm energy.\n\nTogether, they fill the room with their love for music—creating a vibrant, soulful journey that becomes an inevitable invitation to connection, ecstasy, and collective release. All power to the dancefloor!\n\nNada Formosa and C.A. Ramirez are Cologne DJs made by and for the dancefloor, shaped early on by disco and house in all their facets and united by a lifelong pursuit of the groove. Genre-fluid and deeply sound-driven, they blend euphoric highs with deeper, driving passages into a continuous flow of warm energy.\n\nTogether, they fill the room with their love for music—creating a vibrant, soulful journey that becomes an inevitable invitation to connection, ecstasy, and collective release. All power to the dancefloor!",
                 "city": "Cologne",
                 "name": "C.A.Ramirez b2b Nada Formosa",
-                "time": null
+                "time": "22:00"
               },
               {
                 "bio": "There’s a humble power about Kai Alce (pronounced al-SAY). Perhaps it’s a combination of his Haitian roots, his youth spent in St. Croix, and his New York City upbringing. It is evident when he steps behind the turntables or CDJs, where he is at once clearly comfortable and believe it or not, just a tad bit nervous and after more than 20 years in the business, yes; “The Kaizer” still gets butterflies. That’s probably what makes Kai Alce (pronounced al-SAY) such a force: He doesn’t settle down, blend in or go along. That integrity comes through in every gig he’s worked – from his early days at Detroit’s Music Institute when he was just teenager, to the 10-year-long DEEP legacy at MJQ that he co-founded, to the production company, NDATL, that he created in 2008. What’s good is that, just like always, Alce is ready to put in work – staying true to house music, DJing for DJing’s sake, pushing himself … and us on the dance floor. Whether it’s after a night of intense dancing at the club, a session in the booth or studio, or any other creative endeavor, as long as it’s done with truth and sincerity.",
                 "city": "New York",
                 "name": "Kai Alcé",
-                "time": null
+                "time": "01:00"
               },
               {
                 "bio": "Wuppertal-based DJ duo FKK & Van der Bolt met nine years ago and bonded over a shared love for design, music and club culture. As Kiosk Force, they are known for their playful style and have developed a groovy electronic rooted sound with raw club vibes and danceable rhythms – often driven by acid-influenced basslines. Their sets mean to captivate and ground listeners in the present moment.",
                 "city": "Wuppertal",
                 "name": "Kioskforce",
-                "time": null
+                "time": "04:00"
               }
             ],
             "subtitle": null
@@ -8373,19 +8380,19 @@
                 "bio": "Based in the Ruhr Area and with a residency at Tresor.West, medea navigates the deeper ends of techno with a focus on texture and control.\n\nHer sound is rooted in rolling, dub-leaning structures and atmospheric layering, occasionally tracing back to Detroit without leaning on nostalgia. Sets unfold patiently, favouring continuity over impact, and are shaped with a strong awareness for space, timing and system response.",
                 "city": "Dortmund",
                 "name": "medea",
-                "time": null
+                "time": "22:00"
               },
               {
                 "bio": "Kyohara and ÆKO, founders of Kontur, create hypnosis through repetition and subtle movement. With sharing the same perspective on sound their live sets are built on improvisation, reacting to the moment rather than following a fixed plan. Each performance unfolds naturally, shaped by the space and the energy in the room.\n\nKyohara and ÆKO, founders of Kontur, create hypnosis through repetition and subtle movement. With sharing the same perspective on sound their live sets are built on improvisation, reacting to the moment rather than following a fixed plan. Each performance unfolds naturally, shaped by the space and the energy in the room.",
                 "city": "Düsseldorf / Cologne",
-                "name": "ÆKO b2b Kyohara",
-                "time": null
+                "name": "ÆKO b2b Kyohara (live)",
+                "time": "01:00"
               },
               {
                 "bio": "Balance within contrasts.\nShe approaches art through the belief that balance can only emerge from opposition — harmony is born through dynamics. A dialogue between softness and force, control and surrender — a dance of tension and release.\nGuided by psychoacoustic intuition, she sculpts textures that blur the edge of consciousness. The low end anchors, the highs cut, the mids breathe. Rolling drums create a constant motion — a rhythmic ground that nourishes the magnetic midrange elements shaping the narrative.\nWhat connects it all is the pursuit of perpetual balance: a continuous loop between pressure and relief, clarity and blur, chaos and control — a living tension that never fully resolves, yet keeps the body in motion and the mind awake.",
                 "city": "Berlin",
                 "name": "Mara Menace",
-                "time": null
+                "time": "02:00"
               }
             ],
             "subtitle": "Rau.ton at Open Ground"
@@ -8404,7 +8411,7 @@
         {
           "artists": [
             "medea",
-            "ÆKO b2b Kyohara",
+            "ÆKO b2b Kyohara (live)",
             "Mara Menace"
           ],
           "name": "ANNEX"
@@ -9095,13 +9102,13 @@
             "name": "ANNEX",
             "slots": [
               {
-                "bio": null,
+                "bio": "Alien Trackers is a live dub project by cosmic trumpet specialist Pablo Volt and Jahtari space ship mechanic disrupt, landing right in the sweet spot between soulful Black Ark-warmth, digital Firehouse dancehall hitters and Jahtarian Dub psychedelics. Multi-instrumentalist and producer Pablo Volt is closely linked to the contemporary improvisational music scene in Barcelona and has explored DIY production at all levels. As a dub and jazz trumpet expert he relased a string of LPs, incl. classic albums with local Dub legends STA. He also has a duo with J.G.G, another with Tomás Spicolli and a trio with Mark Cunningham, among many other projects.",
                 "city": "Barcelona",
                 "name": "Alien Trackers (live)",
                 "time": null
               },
               {
-                "bio": null,
+                "bio": "With a background in breakcore, weirdo electronic music and a love for video game soundtracks disrupt and a trashy laptop set out on a mission to unite bits and bytes with the goodness of DUB back in 2003. Since then the Jahtari label has been spreading its distinctive brand of heavyweight 8-bit digi-dub from Leipzig all over the world. Deep, Tuff…but not-too-serious at the same time, the label's “digital laptop reggae” sound has gone on to become a sub genre within the sound system sphere in itself.\n\ndisrupt brings his Gameboy and Laptop to run riddims King Jammy style for an extended dubbed out live session.",
                 "city": "Leipzig",
                 "name": "Disrupt (live)",
                 "time": null
@@ -9333,5 +9340,5 @@
       "url": "https://www.openground.club/en/schedule/2026-09-26"
     }
   ],
-  "scraped_at": "2026-07-01T01:25:51+00:00"
+  "scraped_at": "2026-07-01T07:50:41+00:00"
 }
