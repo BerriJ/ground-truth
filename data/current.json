@@ -8179,14 +8179,30 @@
         "floors": [
           {
             "name": "LOBBY + ANNEX",
-            "slots": [],
+            "slots": [
+              {
+                "bio": "Chiral delivers techno stripped to its essentials - raw, hypnotic, and relentlessly driving. Rooted in minimalism and shaped by repeating structures, her sound rejects excess in favor of pure rhythm, tension, and movement. Rather than chasing climaxes, she builds immersive journeys where subtle shifts gradually transform the atmosphere and every element morphs into something new.\n\nHer sets unfold through long-form, patient mixing: layers blend seamlessly and transitions dissolve boundaries between tracks. The result is a fluid, continuously transforming flow where groove and repetition become tools for deep immersion.",
+                "city": "Dortmund",
+                "name": "Chiral",
+                "time": null
+              },
+              {
+                "bio": "KØKØ, born and based in Wuppertal, is one of the founders of the Sequence Collective. He draws inspiration from the atmospheric styles of the techno scene of the 2010s. His sound is a fusion of deep, ambient textures and driving beats, influenced by immersive, hypnotic and dynamic elements.",
+                "city": "Wuppertal",
+                "name": "Køkø",
+                "time": null
+              }
+            ],
             "subtitle": "Drinks and DJ selections free entry"
           }
         ]
       },
       "floors": [
         {
-          "artists": [],
+          "artists": [
+            "Chiral",
+            "Køkø"
+          ],
           "name": "LOBBY + ANNEX"
         }
       ],
@@ -8560,7 +8576,7 @@
       "date_iso": "2026-08-08",
       "date_label": "Sat.08.08.26",
       "detail": {
-        "description": "The night begins with house-oriented and electro-leaning selections before gradually moving towards bass-heavy, faster and heavier sounds.\n\nDelirium is a collective based in Essen, with members from across the Ruhr region and Düsseldorf. Over the years, we have hosted club nights, collaborated with like-minded collectives and cultural institutions, and contributed to a network of artists and organisers across NRW.\n\nPlaying at Open Ground offers a chance to focus entirely on the musical side of Delirium. Made up of people with different musical backgrounds and interests, Delirium has never been tied to a single sound. That diversity is reflected in this lineup.\n\nAdmission 20 € / before 23:00 15 €",
+        "description": "Freifeld: Pin and Doo go way back, and SnPLO (PLO Man, DJ Spence, Sentena) are pleased to join with Doo Montreal studio mate DJ Frog and special guest XDB at Open Ground to DJ party music for people to turn up to in their own way. It’s always hard to describe music with words but basically it’s party music and it’s deep too. Pin and Doo party the same way where we’re trying to be aware of what is going on in the room and get the loop going into something that rolls on its own. But there’s so much more to want from a party and a space.. What will the strengths be? But at the same time we want it to feel like a house party if that’s right. We don’t need it too formal despite all the angles in there. We’re going to be lugging some new records on the train - come early if you want to buy one and chat?…..\n​Hopefully it can be the kind of thing where someone can come on their own and have fun, or feel like it wouldn’t be weird to come get in the mix. We’ll be out there too. Like in a way we’ll dissolve, like gatorade powder in water. But also really we’ll all just show up and do our thing because that’s all we can do.\nAnnex: The night begins with house-oriented and electro-leaning selections before gradually moving towards bass-heavy, faster and heavier sounds.\n\nDelirium is a collective based in Essen, with members from across the Ruhr region and Düsseldorf. Over the years, we have hosted club nights, collaborated with like-minded collectives and cultural institutions, and contributed to a network of artists and organisers across NRW.\n\nPlaying at Open Ground offers a chance to focus entirely on the musical side of Delirium. Made up of people with different musical backgrounds and interests, Delirium has never been tied to a single sound. That diversity is reflected in this lineup.\n\nAdmission 20 € / before 23:00 15 €",
         "floors": [
           {
             "name": "FREIFELD",
@@ -8572,7 +8588,7 @@
                 "time": null
               },
               {
-                "bio": null,
+                "bio": "SnPLO is a project from the Pin label stitching together music for the love of the game. in the studio we plug away like some sleepy fisherman waiting until something cool happens and we can yank. at Open Ground it’s a little different we’re there to shake some shit up and have some fun.",
                 "city": "Montreal/Berlin",
                 "name": "SnPLO",
                 "time": null
@@ -9216,7 +9232,7 @@
                 "time": null
               },
               {
-                "bio": "KØKØ, born and based in Wuppertal, draws inspiration from the atmospheric styles of the 2010s techno scene.\n\nHis sound is a fusion of deep, ambient textures and driving beats, influenced by immersive, hypnotic and dynamic elements. His style binds the essence of both introspective soundscapes and raw energy, creating a unique auditory experience that reflects his roots and artistic evolution.",
+                "bio": "KØKØ, born and based in Wuppertal, is one of the founders of the Sequence Collective. He draws inspiration from the atmospheric styles of the techno scene of the 2010s. His sound is a fusion of deep, ambient textures and driving beats, influenced by immersive, hypnotic and dynamic elements.",
                 "city": "Wuppertal",
                 "name": "Køkø",
                 "time": null
@@ -9340,5 +9356,5 @@
       "url": "https://www.openground.club/en/schedule/2026-09-26"
     }
   ],
-  "scraped_at": "2026-07-06T04:41:52+00:00"
+  "scraped_at": "2026-07-06T11:05:58+00:00"
 }
