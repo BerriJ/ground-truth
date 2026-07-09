@@ -8572,6 +8572,44 @@
       "url": "https://www.openground.club/en/schedule/2026-08-01"
     },
     {
+      "category": "Open Lobby",
+      "date_iso": "2026-08-06",
+      "date_label": "Thu.06.08.26",
+      "detail": {
+        "description": null,
+        "floors": [
+          {
+            "name": "LOBBY + ANNEX",
+            "slots": [
+              {
+                "bio": null,
+                "city": null,
+                "name": "...",
+                "time": null
+              }
+            ],
+            "subtitle": "Drinks and DJ selections free entry"
+          }
+        ]
+      },
+      "floors": [
+        {
+          "artists": [
+            "..."
+          ],
+          "name": "LOBBY + ANNEX"
+        }
+      ],
+      "id": "2026-08-06",
+      "ticket": {
+        "state": "free",
+        "url": null
+      },
+      "time": "20:00–00:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2026-08-06"
+    },
+    {
       "category": "Clubnight",
       "date_iso": "2026-08-08",
       "date_label": "Sat.08.08.26",
@@ -8656,6 +8694,58 @@
       "url": "https://www.openground.club/en/schedule/2026-08-08"
     },
     {
+      "category": "Open Lobby",
+      "date_iso": "2026-08-13",
+      "date_label": "Thu.13.08.26",
+      "detail": {
+        "description": "BEREKET bedeutet Segen, Fülle, Liebe und Harmonie.\nEntstanden aus der Überzeugung, dass Vielfalt nicht trennen, sondern verbinden sollte, versteht sich BEREKET als Raum für Begegnung, Resonanz und Gemeinschaft.\n\nBEREKET knüpft an diese Idee an.\nDurch Musik, Austausch und gemeinsames Erleben entstehen Räume, in denen Menschen sich begegnen können, unabhängig von Herkunft, Identität oder Erfahrung.\nFür die Open Lobby präsentiert BEREKET einen Vinyl-Abend mit Moehr und Rudi Plattenschwester. Gemeinsam gestalten sie einen Raum,\nder von Offenheit, Verbindung und der Liebe zur Musik getragen wird.\n\nA space for connection, not separation.\nA place where all colors can shine.",
+        "floors": [
+          {
+            "name": "LOBBY + ANNEX",
+            "slots": [
+              {
+                "bio": "Moehr spielt auf Vinyl einen reduzierten, hypnotischen Techno, der durch rhythmische Tiefe, subtile Polyrhythmik und eine kontinuierlich aufgebaute Spannung geprägt ist.\n\nDer Sound entfaltet einen tiefen Sog und zieht das Publikum in einen kontinuierlichen Flow. Er baut sich langsam auf und hält die Tanzfläche in Bewegung. Im Mittelpunkt stehen sorgfältig ausgewählte Tracks, die sich organisch verbinden und eine klare, hypnotische Dramaturgie formen.",
+                "city": "Cologne",
+                "name": "moehr",
+                "time": null
+              },
+              {
+                "bio": "Rudi Plattenschwester steht für Liebe zur Musik und Leidenschaft für den Mix. Meist analog, manchmal auch digital. Dabei ist das musikalische Spektrum breit, hauptsache es grooved und nimmt einen mit. Von Minimal über housiges bis Techno – Experimentieren macht Freude und das Setting bestimmt was geht. Den Weg zur Musik fand Rudi über Schlagwerk und Percussion und so wird aufgelegt was mitreißt und funky Grooves, percussive Sounds oder organische Klänge zu bieten hat.",
+                "city": "Dortmund",
+                "name": "Rudi Plattenschwester",
+                "time": null
+              },
+              {
+                "bio": "Plumitaa is a versatile artist: DJ, vocalist and musician. For years, she has shaped her creative journey as a freelance artist, inspired by her life motto: \"We are Colorful\". This motto stands for the conviction that we are all – just like music – unique and beautiful in our diversity.\n\nThis vibrancy and depth is reflected in their DJ sets: pulsating basses merge with spherical sounds, while hypnotic, psychedelic elements unfold a captivating, driving dynamic. Plumitaa's sound transforms dance floors into vibrant sources of energy that take audiences on a colorful journey into the depths of electronic music.",
+                "city": "Dortmund",
+                "name": "Plumitaa",
+                "time": null
+              }
+            ],
+            "subtitle": null
+          }
+        ]
+      },
+      "floors": [
+        {
+          "artists": [
+            "moehr",
+            "Rudi Plattenschwester",
+            "Plumitaa"
+          ],
+          "name": "LOBBY + ANNEX"
+        }
+      ],
+      "id": "2026-08-13",
+      "ticket": {
+        "state": "free",
+        "url": null
+      },
+      "time": "20:00–00:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2026-08-13"
+    },
+    {
       "category": "Extended Clubnight",
       "date_iso": "2026-08-15",
       "date_label": "Sat.15.08.26",
@@ -8724,6 +8814,58 @@
       "time": "21:00–06:00",
       "title": null,
       "url": "https://www.openground.club/en/schedule/2026-08-15"
+    },
+    {
+      "category": "Open Lobby",
+      "date_iso": "2026-08-20",
+      "date_label": "Thu.20.08.26",
+      "detail": {
+        "description": null,
+        "floors": [
+          {
+            "name": "LOBBY + ANNEX",
+            "slots": [
+              {
+                "bio": "Softburn crafts DJ sets that move bodies while deepening the head-to-heart connection. Spacious and weighty, his selections are fueled by emotive deep cuts, slow burns, and freezing cold basslines veiled in ambient haze. Rooted in Dubstep and UK Soundsystem culture, his sound reflects over a decade of exploration behind the decks. From dubbed-out post-rave meditations to percussion-driven club experiments, Softburn blends bass traditions with forward thinking textures - always in search of deeper vibrations.",
+                "city": "Aachen",
+                "name": "softburn",
+                "time": null
+              },
+              {
+                "bio": "Driven by curiosity and experimentation, Glitza crafts dynamic DJ sets that move across genres, tempos, and textures. His mixes shift from bass and left-field techno to IDM and jungle, forming an unpredictable yet grounded sound shaped by UK club culture and soundsystem music.",
+                "city": "Cologne",
+                "name": "Glitza",
+                "time": null
+              },
+              {
+                "bio": "esc from F5 führt Audiocollagen zusammen um düsterere Bereiche des Klangs zu erkunden. Aufbauend auf seiner Jugend in der Kölner Punk- und Noise-Szene verweben seine Sets dichte perkussive Elemente, Noise und gebrochene Rhythmen.",
+                "city": "Cologne",
+                "name": "esc from F5",
+                "time": null
+              }
+            ],
+            "subtitle": "Drinks and DJ selections free entry"
+          }
+        ]
+      },
+      "floors": [
+        {
+          "artists": [
+            "softburn",
+            "Glitza",
+            "esc from F5"
+          ],
+          "name": "LOBBY + ANNEX"
+        }
+      ],
+      "id": "2026-08-20",
+      "ticket": {
+        "state": "free",
+        "url": null
+      },
+      "time": "20:00–00:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2026-08-20"
     },
     {
       "category": "Clubnight",
@@ -8808,6 +8950,44 @@
       "time": "22:00–06:00",
       "title": null,
       "url": "https://www.openground.club/en/schedule/2026-08-22"
+    },
+    {
+      "category": "Open Lobby",
+      "date_iso": "2026-08-27",
+      "date_label": "Thu.27.08.26",
+      "detail": {
+        "description": null,
+        "floors": [
+          {
+            "name": "LOBBY + ANNEX",
+            "slots": [
+              {
+                "bio": null,
+                "city": null,
+                "name": "...",
+                "time": null
+              }
+            ],
+            "subtitle": "Drinks and DJ selections free entry"
+          }
+        ]
+      },
+      "floors": [
+        {
+          "artists": [
+            "..."
+          ],
+          "name": "LOBBY + ANNEX"
+        }
+      ],
+      "id": "2026-08-27",
+      "ticket": {
+        "state": "free",
+        "url": null
+      },
+      "time": "20:00–00:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2026-08-27"
     },
     {
       "category": "Clubnight",
@@ -9356,5 +9536,5 @@
       "url": "https://www.openground.club/en/schedule/2026-09-26"
     }
   ],
-  "scraped_at": "2026-07-09T09:59:38+00:00"
+  "scraped_at": "2026-07-09T15:35:47+00:00"
 }
