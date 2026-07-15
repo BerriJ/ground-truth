@@ -9534,7 +9534,301 @@
       "time": "22:00–06:00",
       "title": null,
       "url": "https://www.openground.club/en/schedule/2026-09-26"
+    },
+    {
+      "category": "Special Event",
+      "date_iso": "2026-10-02",
+      "date_label": "Fri.02.10.26",
+      "detail": {
+        "description": "A special collaboration between Open Ground and YAYA.\nFreifeld: COSMO Club is back at Open Ground, this time again in the intimate and bass heavy setting of Annex. The clubnight of public radio station COSMO has ever since operated on the frontier of global dance music regularly introducing bubbling styles from the southern hemisphere for the first time to Germany. Be prepared for a night with the COSMO djs and their guests straight from the heart of innovative music communities worldwide full of suprises, new riddims and an unmatched energy on the dancefloor.\nAdmission 20 €",
+        "floors": [
+          {
+            "name": "FREIFELD",
+            "slots": [
+              {
+                "bio": "CHUTE (@chute.cgn) will make sure that not only your ears will guide you to the dancefloor - the place where Lina has felt most at self. Forever thankful for these moments of body and music aligned, CHUTE invites you to flow, groove, move and shake some valuable body parts to a sound fluidly manoeuvring through a selection of Deep House, Breakbeat, UK Garage, Global Bass and experimental Polyrhythms - at times queer-feminist vocals sprinkled on top. CHUTE owns a playful approach to the art of mixing and aims for an empowering, energetic, if you need emotionally enthralling experience. Bring IT to the floor and take with you whatever you need.",
+                "city": "Cologne",
+                "name": "Chute",
+                "time": null
+              },
+              {
+                "bio": "Drawing from her classical guitar training and eclectic musical influences spanning RnB, HipHop, and Rock, Gîn seamlessly merges genres in her sets and productions. Her sonic palette knows no bounds, encompassing Bass, South American Techno, Jungle, Moombahton, HipHop, Classical, Deconstructed Club, Grime, Industrial, and Kurdish Pop.\n\nno:elia made her debut in the club scene in late 2022. With a background in hip hop, soul and R&B, she uses rhythm-based beats, UK Bass and percussive elements to energise her audiences. She leans towards artists whose backgrounds and lifestyles mirror her own ideals.",
+                "city": "Wuppertal / Berlin",
+                "name": "Gîn Bali b2b no:elia",
+                "time": null
+              },
+              {
+                "bio": "Crate digging from both the internet and the archive, DJ Swisha’s sound is a high-energy, intertextual exploration of club music history — a playful fusion that cuts across aggressive footwork, Jersey club, soundcloud rap, house, jungle and techno, pulling these strands into a cohesive, dancefloor‐ready sound.",
+                "city": "New York City",
+                "name": "DJ Swisha",
+                "time": null
+              },
+              {
+                "bio": "it was only six years ago that ALBA went on to conquer the dj scene in nuernberg, her home town. aside from many dj gigs at many cultural city hotspots she also founded her own club night there: GOODIES. ALBA is now based in munich and works there part time as a music journalist and as a DJ. she plays gigs all over germany and has a monthly show at the community radio radio80000. ALBAs selection is diverse: her style goes from house to baile to bass to breakbeats to afro to baltimore club - but everything is always connected with and through hiphop/rnb, her musical heart and home. ALBAs energy behind the decks is impeccable and translates easy to her listeners.",
+                "city": "Munich",
+                "name": "Alba",
+                "time": null
+              }
+            ],
+            "subtitle": "YAYAcrew at Open Ground"
+          },
+          {
+            "name": "ANNEX",
+            "slots": [
+              {
+                "bio": "24/7 diggin’ into music cultures around the globe - at daytime she works as a music journalist and radio presenter, at night she becomes A-Lo behind the decks. A dj with a true passion and an mindbending range from bailefunk to guarachaton, neoperreo and various cumbia styles.",
+                "city": "Germany",
+                "name": "A-Lo",
+                "time": null
+              },
+              {
+                "bio": "DJ, music-curator and host of the COSMO DJ Sessions – since two decades Daferwa has played global electronic music with a contemporary twist. With a keen sense of rhythmic diversity and cultural influences he unites the sounds of the transatlantic diaspora on the dancefloor.",
+                "city": "Cologne",
+                "name": "Daferwa",
+                "time": null
+              },
+              {
+                "bio": "Best known for his intense and uplifting sets in the clubs of Cologne Uh-Young Kim interweaves funky riddims with deep grooves and timeless rave signals. Under the moniker Dub Kimski he traces dance music culture back to its origins in Jamaican studios and embraces its sonic offsprings from Detroit via London to Durban building up any floor into a blissful frenzy.",
+                "city": "Cologne",
+                "name": "Dub Kimski",
+                "time": null
+              },
+              {
+                "bio": "With co-signings from some of Europe’s most influential venues, platforms and labels, including Düsseldorf’s Salon des Amateurs and London’s NTS Radio, Cologne-based artist Phillip Jondo has garnered a reputation as a first-class DJ and producer since many years.\nHis debut EP Little Princess for Dekmantel (2021), featured knockout collaborations with Maxwell Sterling, DJ Plead and Moa Pillar. Jondo’s latest BISQU EP feat. Xzavier Stone and DJ Plead will be released via his own imprint SPA Recordings and treads a similarly weighty path. The label SPA was launched in 2018 by Jondo and his friends DJ Brom and Friday Dunard.\nSince 2014 Phillip has been regularly hosting shows on NTS and inviting international guests to deliver forward thinking and creative selections. His sets cover everything from grime, house, footwork, jungle, rap, dancehall, R&B, disco to bass-heavy techno. Jondo’s passion for experimentation made him a unique selector, who has been able to seamlessly connect the dots between various styles through thoughtful layering and creative mixing skills.\nWith highlight shows including festivals and clubs like Draaimolen, Meakusma, Dekmantel, Dekmantel Selectors, Melt, Robert Johnson and De School, Jondo has presented his distinctive sound to a variety of audiences across Europe.",
+                "city": "Cologne",
+                "name": "Phillip Jondo",
+                "time": null
+              },
+              {
+                "bio": "Amsterdam-based DJ and producer T.NO blends his Surinamese roots with global club influences, crafting a distinctive sound driven by rhythm and energy.\n\nDrawing from styles such as gqom, grime, kawina, bubbling, kuduro, and funk carioca, his sets and productions combine raw percussion with deep bass and dynamic flow. With releases on labels including Club Djembe and re:lax,\nT.NO\nis quickly establishing himself as one of Amsterdam’s most promising new talents. This rise has been picked up by DJ Mag recently, who tagged him as one of the artists to watch for 2026.",
+                "city": "Amsterdam",
+                "name": "T.NO",
+                "time": null
+              }
+            ],
+            "subtitle": "COSMO Club at Open Ground"
+          }
+        ]
+      },
+      "floors": [
+        {
+          "artists": [
+            "Chute",
+            "Gîn Bali b2b no:elia",
+            "DJ Swisha",
+            "Alba"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "A-Lo",
+            "Daferwa",
+            "Dub Kimski",
+            "Phillip Jondo",
+            "T.NO"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2026-10-02",
+      "ticket": {
+        "state": "onsale",
+        "url": "https://shop.weeztix.com/646ee0d2-c052-4ec9-a5ac-1490bcb2157d"
+      },
+      "time": "22:00–06:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2026-10-02"
+    },
+    {
+      "category": "Extended Clubnight",
+      "date_iso": "2026-10-03",
+      "date_label": "Sat.03.10.26",
+      "detail": {
+        "description": "Annex: For the first time ever, DJ Firmeza and DJ Nigga Fox go back-to-back at Open Ground on Saturday 3 October. This night gets to the heart of Lisbon's thriving Afro-Portuguese dance music scene with two masters of batida — the kuduro-born club sound forged in the city's Quinta do Mocho estate. DJ Nigga Fox is the avant-garde producer whose debut record O Meu Estilo put Príncipe on the international map, (and he carries a restless, high-voltage sound) and whose DJ sets are celebrated as psychedelic literature for the dancefloor. DJ Firmeza is a master of a unique, percussive-heavy, trance-inducing approach to the art of mixing. Expect raw, unrelenting batida and a stack of unreleased weapons.\n\nBoth artists have a home at Príncipe Discos one of Europe’s most exciting record labels. The label's co-founder José Moura says batida blew his mind the first time he heard it: \"We couldn't pinpoint it. We thought, this is really something we've never heard before. It's not techno, it's not house, it's nothing that we know about.” Originating in Luanda, Angola, it evolved into a vibrant underground movement in the suburbs of Lisbon, Portugal, driven by 140 BPM rhythms blending traditional Angolan and Cape Verdean styles (like kuduro, tarraxinha, funaná, and semba) with modern techno and house production.\n\nAdmission 30 €",
+        "floors": [
+          {
+            "name": "FREIFELD",
+            "slots": [
+              {
+                "bio": "Kaifeng-born, now London-based Yu Su is a musician, DJ, sound artist and occasional chef. As one of the most prominent Chinese artists with a highly unique voice working across the globe in the last 5 years, her output covers all the ground you’d expect and more. Her multiple critically acclaimed records on UK’s Technicolor (Ninja Tune), Netherlands’s Music from Memory and China’s own Bie Records has seen her nominated for Canada’s Polaris Prize. She has co-produced music with John Carroll Kirby, Duval Timothy and is known for remix works for Parquet Courts, King Gizzard and The Lizard Wizard, and many more. As a DJ, she is unpredictable, idiosyncratic; just “casually having the dance floor transfixed” have put her on the spotlights at clubs and festivals internationally like Dekmantel, Glastonbury, Boiler Room, iii Points, Nuits Sonores, Rainbow Disco Club, Phonox and so on. She has also recently been featured on the cover of Mixmag magazine, marking the first Chinese cover star. She has composed for feature films and fashion brands like Sacai, Jimmy Choo and London/Shanghai based SAMUEL GUÌ YANG.",
+                "city": "London",
+                "name": "Yu Su",
+                "time": null
+              },
+              {
+                "bio": "Unconfined by genre but with a warm, soulful streak permeating across his work, London’s IZCO has become a highly sought-after producer & DJ and is co-founder of the Brighter Days Family collective.",
+                "city": "London",
+                "name": "IZCO",
+                "time": null
+              },
+              {
+                "bio": "Since his first release in 2011, Dan Snaith's Daphni alias has become a fixture in the world of underground dance music.\n\nHe has released 3 albums (‘Jiaolong’ (2012), ‘Joli Mai’ (2017) and ‘Cherry’ (2022)) and 2019’s ‘Sizzling’ EP. Daphni tracks have populated the DJ sets of many of dance music's most forward thinking DJs.\n\nAs a DJ himself, Dan has gained a reputation for varied and extended DJ sets in some of the world's finest clubs - Fabric, Panorama Bar, Nowadays, Warehouse Project, Nitsa, Printworks, etc. - and euphoric headline DJ sets at festivals the world over.",
+                "city": "London",
+                "name": "Daphni",
+                "time": null
+              }
+            ],
+            "subtitle": null
+          },
+          {
+            "name": "ANNEX",
+            "slots": [
+              {
+                "bio": "Frau Beji brings a unique blend of North African roots and Afro-electronic music to the stage. Living and working in Dortmund as a DJ, Frau Beji aims to take her audience on a journey, conveying emotions and inspiring healing through her music.Deeply connected to Afro-electronic music, Frau Beji enjoys genres such as Afrohouse, Afrotech, and Melodic -House & Techno. Her sets are not only known for their musical diversity, but also for their spiritual atmosphere. Frau Beji aims to create a sense of connection and community through her music, providing an unforgettable experience.\n\nHer North African heritage plays an important role in her music. By combining her roots with modern sounds, she creates a unique musical vision. Through her music, she aims to build bridges between cultures and bring people together.",
+                "city": "Dortmund",
+                "name": "Frau Beji",
+                "time": null
+              },
+              {
+                "bio": "Piccell is a DJ, producer, and the founder of Barulho, a collective pushing Afro-electronic music and local club culture in Germany. His sound blends AfroTech, Gqom, Kuduro, and Hardgroove, fueled by live elements and his signature MPC. With deep roots in Angola and Germany, Piccell’s sets and productions reflect a unique cultural fusion. Through Barulho, he’s building a label and creating spaces for artists and audiences to connect, while redefining what the local scene can be.",
+                "city": "Dortmund",
+                "name": "Piccell",
+                "time": null
+              },
+              {
+                "bio": "DJ Firmeza proudly herald's from Quinta do Mocho in the periphery of Lisbon, a social housing bairro home to a diversely disfranchised afro-portuguese and lusophone immigrant community specially know for its OGs Dj Nervoso and Dj Marfox. Firmeza (aka Fifaz) is a revered and unmatchable DJ among the youth culture who live and shape the afrodiasporic post-kuduro ecosystem. Master of a unique percussive-heavy trance-inducing style to the art of mixing, he has been playing out in a wide amplitude of contexts and settings, from a Berlin's Schinkel Pavillon terrace party to a Bienne's geodesic compound in the woods, from a wrap up party at Germany’s pavilion at the Venice Biennale to a memorable performance in Lowlands festival, besides a couple of US & Canada visits and touring lyf in Beijing, Shenzhen and Seoul.\n\nHe co-founded the super-group O Ghettão, along with Danifox and Dj Nigga Fox.\n\nDJ Nigga Fox is one of electronic music’s more enigmatic artists and a linchpin of a thriving Afro-Portuguese music scene with its home in Lisbon, Portugal. A visionary producer with a unique style that combines his African heritage with the rhythms of innovative underground electronic music. Within his work, the composer, producer and DJ draws on kinetic electronics, batida rhythms and house-rooted grooves resulting in a propulsive, syncopated sound that consistently guarantees high-octane dancefloor heat.",
+                "city": "Porto",
+                "name": "DJ Firmeza b2b DJ Nigga Fox",
+                "time": null
+              }
+            ],
+            "subtitle": "Principe 15th Anniversary & Barulho World at Open Ground"
+          }
+        ]
+      },
+      "floors": [
+        {
+          "artists": [
+            "Yu Su",
+            "IZCO",
+            "Daphni"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Frau Beji",
+            "Piccell",
+            "DJ Firmeza b2b DJ Nigga Fox"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2026-10-03",
+      "ticket": {
+        "state": "onsale",
+        "url": "https://shop.weeztix.com/d547d1a8-83b1-4f53-8bf6-ba736197d7fc/tickets"
+      },
+      "time": "20:00–06:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2026-10-03"
+    },
+    {
+      "category": "Extended Clubnight",
+      "date_iso": "2026-10-10",
+      "date_label": "Sat.10.10.26",
+      "detail": {
+        "description": "Rupture has spent the last 20 years becoming London's home for deep, underground jungle and drum & bass - built on community and a refusal to commercialise the culture.\nFounded in 2006 by Mantra and Double O the night was created to push the more experimental side of jungle and drum & bass.\n​\nBy 2012 it had expanded into a record label, releasing music from artists such as Spirit, dBridge, Tim Reaper, Sully and Forest Drive West, Djinn and many more.\nRupture is widely regarded as one of London's best underground D&B nights, consistently pushing forward-thinking lineups whilst keeping community and inclusivity at its core. As the movement has evolved so has the need to double down on the essence of what it means to rave: intentional gatherings built around amazing sound systems, paying homage to the foundations of jungle and d&b whilst always looking at new ways to push the sound forward and create pathways for emerging artists.\nViva la Rave!",
+        "floors": [
+          {
+            "name": "FREIFELD",
+            "slots": [
+              {
+                "bio": "Born in France to English parents, Beatrice M. creates a signature blend of syncopated UK-genres (mainly dubstep), with trancy technoïd groovers, and balances old school elements with crisp and contemporary sound design. The Bait label head aims to push and merge these same sonics through their imprint, which results in an output of snare heavy bass music and immersive psychedelic techno.",
+                "city": "London/Paris",
+                "name": "Beatrice M.",
+                "time": null
+              },
+              {
+                "bio": "Heavily influenced by hip hop, Pop, funk, soul, jazz and reggae and dub, Blackeye uses his knowledge of music to craft his art. Inclined to deliver his deep vocals, not on top of the music as a major focal point, but with a complimentary approach, Blackeye exudes presence enough to touch the music with his deep, soulful tones.\n\nOver the last couple of decades, while developing his skills on the circuit, be it small intimate gigs or pirate stations, Blackeye has amassed some prime residencies over the years, as well as a lengthy outing with a weekly show on Life FM in the early 2000s. Blackeye was now starting to take centre stage before teaming up with Double O and Mantra to host the formidable Rupture jungle events, fast becoming the voice of the night.\n\nHis tireless drive and passion for the music has seen bookings for Blackeye coming in thick and fast taking him to events up and down the country and beyond to international regard.\n\nWorking regularly with many of the scenes pioneers such as Digital & Spirit, Seba, Stretch and label events such as Rupture, Technicality, AKO, Hardware and Metalheadz. Blackeye has crafted his own niche, playing in his own lane to secure the well-earned trust of DJs who can expect Blackeye to enhance any set he hosts",
+                "city": "London",
+                "name": "Blackeye MC",
+                "time": null
+              },
+              {
+                "bio": "Breakage aka James Boyle is never been one to be pigeonholed. Moving effortlessly through styles from drum and bass to dubstep, Breakage has proved himself to be one of the most versatile operators in either scene to date. A prodigious talent, he already has a number of classic releases under his belt but continues to develop his sound. Combining rich tones and a sense of spaciousness in the mix, Breakage’s music is both subtle yet devastatingly effective. Never afraid to make an impact, he burst onto the drum and bass scene back in 2000, announcing his arrival with a raucous remix of a hardcore classic, Nasty Habit’s ‘Here Come the Drums’ on Reinforced.",
+                "city": "London",
+                "name": "Breakage",
+                "time": null
+              },
+              {
+                "bio": "Double O (formerly known as 007) is easily one of the most respected heads in Jungle and Drum’n’Bass with a career spanning over 25 years.\n\nToday, Double O’s most known for being the co-founder of club night and label Rupture, which he’s been running since 2006 with partner in crime DJ Mantra.\n\nMusic has enabled Double O to travel the globe, playing to and meeting like-minded people who share a deep love for that underground sound. Known, but not limited to, being a Jungle / DNB DJ, he also produces and selects a banging selection of Acid and Detroit Techno and Roots Reggae. Double O is one of the most driven yet humble OGs you’ll ever meet - making him an ideal role model to inspire the future generation of muscians. If you know, you know!",
+                "city": "London",
+                "name": "Double O",
+                "time": null
+              },
+              {
+                "bio": "Known for her deep, emotive sets that push the boundaries of drum and bass while still paying homage to its foundation, Mantra brings an intense passion into her selection, striking just the right balance between dark and uplifting. Having played in clubs across London and Europe, Mantra’s talent, skill and passion for promoting diversity in dance music have landed her features in both DJ Mag and Mixmag.\n\nFar more than just a DJ and producer, Mantra’s work developing, curating, and promoting the Rupture brand, as a label and as jungle’s premier event, speak to how deeply drum and bass culture influences her life. Community work has played a vital role in her life and in December 2018 she started the initiative EQ50 to mentor and support women within the heavily male dominated drum and bass genre.",
+                "city": "London",
+                "name": "Mantra",
+                "time": null
+              },
+              {
+                "bio": "Dev Pandya is a certified breakbeat addict with a vinyl production career spanning 30 years. Having first released back in 1992, he’s since amassed a back catalogue of 10 vinyl albums and 200 12” singles on leading drum and bass labels including Moving Shadow, 4 Hero’s Reinforced, LTJ Bukem’s Good Looking, Hospital and Goldie’s Metalheadz.\n\nThe musical career of Dev Pandya dates back to 1990 when Mixrace was formed with partner DJ Trax. From their first vinyl releases in 1992 on leading hardcore label Moving Shadow, the pair went on to set-up and record for their own label before Dev’s two alter-ego guise’s emerged in 1996.\nExploding across the scene with a string of 12″ releases on Timeless and Renegade Hardware, Total Science’s CIA, the seminal Certificate 18 and Reinforced Records Alaska and Paradox soon became a name synonymous with deep atmospherics and intricate breaks.\n\nHis Alaska alias appeared at the same time yet focused on more ambient productions, releasing on labels such as Good Looking, Renegade Recordings, Vibez, Blame’s 720 Degrees and Tayla’s Nexus label.\nProducing alone under the names Paradox and Alaska, he also collaborates with the likes of Seba and Nucleus, as well as vocalists including Kirsty Hawkshaw and Robert Manos.\n\nDev is the only Jungle artist invited to collaborate with the legendary Herbie Hancock for a dnb-jazz fusion piece and was personally invited by Richard D James to perform alongside Aphex Twin.\n\nThe live-on-stage aspect is a big part of the Paradox ethos and Dev recently travelled to war-torn Kyiv to perform for President Zelensky’s United24 charity. Whilst air raid sirens are still a daily occurrence, Paradox performed to boost Ukranian morale and contribute towards the rebuild of children’s hospitals destroyed by the war.\n​2026 see’s Seba & Paradox return to their METASP series on Metalheadz, plus a special Paradox 200th vinyl release on Paradox Music. Dev will be touring Europe and USA along his trusty 1992 Commodore drum sequencer - unravelling bpm tempos from Breakbeat to Jungle.",
+                "city": "Vilnius",
+                "name": "Paradox (live)",
+                "time": null
+              }
+            ],
+            "subtitle": "20 Years of Rupture at Open Ground"
+          },
+          {
+            "name": "ANNEX",
+            "slots": [
+              {
+                "bio": "mokeyanju is a DJ/vinyl selector, interdisciplinary artist and radio host. Influenced by Hip Hop culture, Fújì, Ndombolo, House and percussion-based music, her sets bring together sounds from Africa, the Caribbean and diverse diasporic musical traditions. An avid crate digger since 2016, she draws from a record collection spanning Nigeria, Tanzania, Kenya, Congo, Brazil and Trinidad & Tobago, connecting Highlife, Calypso, Benga, Soukous, Rumba and Electronica. As a regular host of Refuge Worldwide’s Breakfast Show, mokeyanju is known for genre-fluid selections marked by polyrhythmic energy, unexpected combinations and a deep love of dance floors. She has performed internationally for Dekmantel Selectors and EGWÚ Records, and supported artists including The Cavemen and Blinky Bill. Her selections have been heard in Lagos, Nairobi, Bahia, Zanzibar, Point Fortin (Trinidad) and beyond.",
+                "city": "Berlin",
+                "name": "Mokeyanju",
+                "time": null
+              },
+              {
+                "bio": "PARISSA CHARGHI is an Iranian curator, creative producer, vinyl selecta, and founder of HEAVY FEELINGS, based in Cologne, Germany. Working at the intersection of music, visual arts, cultural production, and artist development, she creates environments where creative identities can grow through collaboration, storytelling, and independent creation.\n\nDeeply rooted in global underground music cultures, PARISSA approaches every project through curation. Her practice brings together music, visual identity, and storytelling to develop artists and their creative worlds through long-term collaboration and collective creation.\n\nAlongside her work behind the scenes, PARISSA is an internationally active Vinyl Selector. Her sets move fluidly across Jazz, Reggae, Dub, Afrocentric sounds, Beats, and rhythm-driven electronic music, guided by storytelling, cultural context, and the belief that music carries memory. Every record is selected with intention, revealing unexpected connections between genres, histories, and communities while creating immersive listening experiences that extend beyond the dancefloor.\n\nAcross every",
+                "city": "Cologne",
+                "name": "Parissa",
+                "time": null
+              },
+              {
+                "bio": "Sticky Dub the Liverpool born ‘international dread’ brings so much more to the music than what meets the ear. Something intangible is present in his works that seems to resonates deeply withe people. His bushman meets rudebwoi energy, unique rhythms and lyrical expression electrify the dance floor every time.\n\n‘Sticks’ began his musical journey as a member of the HipHop trio ‘Nutribe’ who performed at the 1st ‘We Out Here’ festival as part of the Brownswood Future Bubblers. He later went solo and solidified himself with his debut EP ‘Reasonin’ which went on to open doors for him to connect with veteran in the game. following that release Sticky worked with staples in the Broken Beat Scene such as Dance Regular, IG Culture & more releases gems that got his name echoing on dance floors across the UK.\n\nHis most recent release ‘ Never Give Weapons To A Man Who Can’t Dance’ released on Eglo Records 2024, has quickly become a cult classic. His unique style and approach has brought a fresh energy to the scene, somehow merging broken beat, hiphop, reggae, soul and house. Both his label and independent releases are thriving on radio stations, club nights and his live shows are establishing themselves new brand of bruk & jazz!",
+                "city": "Liverpool",
+                "name": "Sticky Dub",
+                "time": null
+              }
+            ],
+            "subtitle": "Heavy Feelings at Open Ground"
+          }
+        ]
+      },
+      "floors": [
+        {
+          "artists": [
+            "Beatrice M.",
+            "Blackeye MC",
+            "Breakage",
+            "Double O",
+            "Mantra",
+            "Paradox (live)"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Mokeyanju",
+            "Parissa",
+            "Sticky Dub"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2026-10-10",
+      "ticket": {
+        "state": "onsale",
+        "url": "https://shop.weeztix.com/d8ac1fe6-7936-4f0e-9baf-e8a86d04d255/tickets"
+      },
+      "time": "20:00–06:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2026-10-10"
     }
   ],
-  "scraped_at": "2026-07-15T08:37:42+00:00"
+  "scraped_at": "2026-07-15T14:13:53+00:00"
 }
