@@ -8488,15 +8488,21 @@
       "url": "https://www.openground.club/en/schedule/2026-07-30"
     },
     {
-      "category": "Clubnight",
+      "category": "Extended Clubnight",
       "date_iso": "2026-08-01",
       "date_label": "Sat.01.08.26",
       "detail": {
-        "description": "Annex: Join Wuppertals young Label Ballett at its next event at Open Ground, with an atmospheric Night diving deep into bass related music.\nLocal hero Matildnz will open the night with a tactile sense for touching bass sounds. Next up is C. Coiffure from Rennes, whose broad, forward-thinking approach to electronic music has made him one of the scene’s most exciting selectors. Closing the night is Ballett’s own Mauzius, bringing the label’s third club night at Open Ground to an atmospheric finish.\nJoin us in the intimate setting where the project first took shape.\n\nAdmission 20 € / before 23:00 15 €",
+        "description": "Doors open at 19:00\nFrom 19:30-20:30 A Talk by Steve Goodman (aka Kode9) - The Sub / Politics of Vibration - developed from his 2009 book Sonic Warfare and drawing from his forthcoming book, Notes on the Third Ear.\nFrom 21:00 the music will start in the Freifeld with, Josey Rebelle, Depth Charge (live), Kode9, J​uliana Huxtable and will run until 06:00.\nThe music in the Annex begins from 22:00.\nAdmission 30 €",
         "floors": [
           {
             "name": "FREIFELD",
             "slots": [
+              {
+                "bio": "Depth Charge is a dynamic live performance and a series of classic compilation albums by the legendary Detroit techno collective Underground Resistance (UR). Founded by \"Mad\" Mike Banks and usually featuring Mark Flash, the Depth Charge live show delivers a high-energy hybrid of Detroit techno and electro using classic drum machines and synthesizers.\n​\nThe name is also famously tied to a series of seminal compilation albums and releases on the Submerge Distribution imprint. These records serve as a crucial entry point for fans of Detroit techno, featuring heavy-hitting UR classics like \"The Final Frontier,\" \"Jupiter Jazz,\" and various other space-themed techno tracks.",
+                "city": "Detroit",
+                "name": "Underground Resistance presents Depth Charge (live)",
+                "time": null
+              },
               {
                 "bio": "The Tottenham London born-and-bred selector grew up on soul and reggae, later becoming a dedicated junglist. First as a resident DJ at the legendary London club Plastic People, she’s built a rep as one of the most effective and interesting DJs around. Playing shape-shifting, genre-bending sets that effortlessly move from classic rare groove and disco records to upfront house and techno, via garage, jungle and whatever else she feels like. With no social media presence, Josey’s reputation is based on selection, passion and authenticity.",
                 "city": "London",
@@ -8522,15 +8528,15 @@
             "name": "ANNEX",
             "slots": [
               {
-                "bio": "Christian Coiffure is an enigmatic artist steadily making his mark on the European electronic scene, with standout releases on the adventurous labels Comic Sans Records and Worst Records, as well as remixes for internationally renowned artists such as Tatyana Jane and Anastasia Kristensen.\n\nA member of the useless seconds label and collective, he refuses to be defined by any single genre, playfully blending styles and tempos while shaping a sound that fuses forward-thinking design, twisted club motifs, and driving grooves. Drawn from years of deep listening and analysis of electronic music, he aspires to shape the sonic landscape of tomorrow by bending and reinterpreting the aesthetics that inspire him.\n\nChristian Coiffure is devoted to refining his craft — both as a DJ and live performer, delivering captivating, transportive sets, and as a producer, where his inventiveness and attention to detail resonate strongly with his listeners.",
-                "city": "Rennes",
-                "name": "C. Coiffure",
-                "time": null
-              },
-              {
                 "bio": "With a fascination for all things bass & breaks, matildnz likes to play whatever tickles her brain, touches her soul or gets her body moving — preferably all at once. Aiming to create more spaces for unique electronic sounds, the DJ, designer and digital artist has been involved in the local music scene for quite some time now, organizing events as part of IVORY as well as curating the online radio station beton.fm.",
                 "city": "Witten",
                 "name": "Matildnz",
+                "time": null
+              },
+              {
+                "bio": "Christian Coiffure is an enigmatic artist steadily making his mark on the European electronic scene, with standout releases on the adventurous labels Comic Sans Records and Worst Records, as well as remixes for internationally renowned artists such as Tatyana Jane and Anastasia Kristensen.\n\nA member of the useless seconds label and collective, he refuses to be defined by any single genre, playfully blending styles and tempos while shaping a sound that fuses forward-thinking design, twisted club motifs, and driving grooves. Drawn from years of deep listening and analysis of electronic music, he aspires to shape the sonic landscape of tomorrow by bending and reinterpreting the aesthetics that inspire him.\n\nChristian Coiffure is devoted to refining his craft — both as a DJ and live performer, delivering captivating, transportive sets, and as a producer, where his inventiveness and attention to detail resonate strongly with his listeners.",
+                "city": "Rennes",
+                "name": "C. Coiffure",
                 "time": null
               },
               {
@@ -8547,6 +8553,7 @@
       "floors": [
         {
           "artists": [
+            "Underground Resistance presents Depth Charge (live)",
             "Josey Rebelle",
             "Kode9",
             "J​uliana Huxtable"
@@ -8555,8 +8562,8 @@
         },
         {
           "artists": [
-            "C. Coiffure",
             "Matildnz",
+            "C. Coiffure",
             "Mauzius"
           ],
           "name": "ANNEX"
@@ -8567,7 +8574,7 @@
         "state": "onsale",
         "url": "https://shop.weeztix.com/3d871242-33ac-4862-843c-2847322913fc/tickets"
       },
-      "time": "22:00–06:00",
+      "time": "19:00–06:00",
       "title": null,
       "url": "https://www.openground.club/en/schedule/2026-08-01"
     },
@@ -9830,5 +9837,5 @@
       "url": "https://www.openground.club/en/schedule/2026-10-10"
     }
   ],
-  "scraped_at": "2026-07-16T03:41:10+00:00"
+  "scraped_at": "2026-07-16T08:37:07+00:00"
 }
