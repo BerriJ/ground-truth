@@ -8589,9 +8589,15 @@
             "name": "LOBBY + ANNEX",
             "slots": [
               {
-                "bio": null,
-                "city": null,
-                "name": "...",
+                "bio": "Paul, also known as Augustus, was born in Wuppertal and is deeply rooted in the local music scene. For him, vinyl is far more than just a medium – it is the way he understands DJing. Not out of nostalgia, but out of conviction. He sees playing with records as a conscious and deliberate process that goes far beyond simply mixing tracks: from constantly discovering new music and carefully curating his record collection to connecting different subgenres into a coherent and immersive whole. With every set, he aims to contribute to keeping the culture of vinyl DJing alive.\n\nHis sound moves between hypnotic, minimalistic techno and organic sonic landscapes. Warm textures meet precise, bleep-driven sounds and machine-like rhythms, creating an atmosphere in which individual elements merge together like a living organism. Augustus views his sets as a continuous journey, where groove, tension, and atmosphere always remain at the center.",
+                "city": "Wuppertal",
+                "name": "AUGUSTUS",
+                "time": null
+              },
+              {
+                "bio": "Finn S. is a vinyl-only DJ based in southwest Germany, known for his deep musical sensibility and carefully curated selections. Influenced by a music-loving family, Finn’s sets are driven by a profound passion for sound and\nan instinct for atmosphere.\n​\nHis musical range spans from raw, underground techno to cinematic ambient soundscapes, always with a focus on storytelling and flow. Whether in a club, on a meadow, or in an intimate setting, Finn S. creates sonic journeys that\nresonate with emotion and energy.\n\nWith an unerring commitment to vinyl, he brings warmth, texture, and a distinct character to every performance — chasing not just the perfect track, but the perfect moment.",
+                "city": "Pforzheim",
+                "name": "Finn S.",
                 "time": null
               }
             ],
@@ -8602,7 +8608,8 @@
       "floors": [
         {
           "artists": [
-            "..."
+            "AUGUSTUS",
+            "Finn S."
           ],
           "name": "LOBBY + ANNEX"
         }
@@ -9837,5 +9844,5 @@
       "url": "https://www.openground.club/en/schedule/2026-10-10"
     }
   ],
-  "scraped_at": "2026-08-03T03:57:26+00:00"
+  "scraped_at": "2026-08-03T10:07:34+00:00"
 }
