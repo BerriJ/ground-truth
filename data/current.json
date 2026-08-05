@@ -8637,19 +8637,19 @@
                 "bio": "DJ Frog was born, raised, and taught-to-groove in Montreal. Her preference is for the chuggy, chunky, dusty, and loopy ends of house and techno.\nShe’s in a love affair with the FM compressor at CKUT. DJ Frog also makes music and throws parties with her friends at Doo / Greenhouse.",
                 "city": "Montreal",
                 "name": "DJ Frog",
-                "time": null
+                "time": "22:00"
               },
               {
-                "bio": "SnPLO is a project from the Pin label stitching together music for the love of the game. in the studio we plug away like some sleepy fisherman waiting until something cool happens and we can yank. at Open Ground it’s a little different we’re there to shake some shit up and have some fun.",
-                "city": "Montreal/Berlin",
-                "name": "SnPLO",
-                "time": null
+                "bio": "XDB is Kosta Athanassiadis – German by birth and in residence, with Greek parentage. His roots are in the central German town of Göttingen. It was here that he began DJing in the early nineties; where he worked in a record shop; where he ran a radio show for five years; and the base from which he established the Metrolux record label in 2006.\nKosta’s DJ sets draw upon his expansive record collection, playing right across the board of the quality side of electronic music. He has no shortage of technical skill and prefers a 3 decks setup, but despite his mixing skills it’s his selection that truly shines – putting the music itself at the forefront, letting songs breathe when need be, and delivering plenty of head-scratching ‘what the hell is this track?’ moments.\n\nCo-operator and representative of ACTING PRESS, a project engineering audiovisual works since 2015. AP is home to solo [PLO’] and collaborative music [with C3D-E, INTe*ra, Globex, CC Not].\n\nIn-game DJ experience [Europe, N.A, Asia, Oceania]: ballpark 15 years. Currently based in Berlin.\n\nOne-time host of PLO Radio, aired on the now defunct Berlin Community Radio from 2013 – 2019. Transmission has since come by way of Lot Radio, Refuge Worldwide,\nRinse.fm\n, IDA, NTS, etc.\n\nFor DJ recordings, kindly refer to sessions archived and distributed on tape [most recently Cav Empt, CESAR35, CESAR08], CD [ACTING PRESS, Terraforma], and Web [Youtube].",
+                "city": "Göttingen / Berlin",
+                "name": "XDB b2b PLO Man",
+                "time": "00:30"
               },
               {
-                "bio": "XDB is Kosta Athanassiadis – German by birth and in residence, with Greek parentage. His roots are in the central German town of Göttingen. It was here that he began DJing in the early nineties; where he worked in a record shop; where he ran a radio show for five years; and the base from which he established the Metrolux record label in 2006.\nKosta’s DJ sets draw upon his expansive record collection, playing right across the board of the quality side of electronic music. He has no shortage of technical skill and prefers a 3 decks setup, but despite his mixing skills it’s his selection that truly shines – putting the music itself at the forefront, letting songs breathe when need be, and delivering plenty of head-scratching ‘what the hell is this track?’ moments.",
-                "city": "Göttingen",
-                "name": "XDB",
-                "time": null
+                "bio": null,
+                "city": null,
+                "name": "Sentena b2b Spence",
+                "time": "03:00"
               }
             ],
             "subtitle": "Doo & Pin at Open Ground"
@@ -8661,19 +8661,19 @@
                 "bio": "V.Dietz is a chilean DJ and selector currently based in Düsseldorf.\n\nInfluenced by the minimal house scene from Chile and since then evolving into the exploration of electro, acid house, italo and everything in between.\n\nThe philosophy is simple: good music is good music. His selections are united by curiosity, emotion and a commitment to quality sound.",
                 "city": "Düsseldorf",
                 "name": "V.Dietz",
-                "time": null
+                "time": "22:00"
               },
               {
                 "bio": "Cynthia Matisse has always been driven by a passion for vinyl DJing. As a resident at Triebwerk Erfurt she explores a wide spectrum of electronic music – from Techno and House to Bass, Dubstep, DnB. From warm, groovy tunes to rousing, hypnotic atmospheres, or functional, energetic and driving sounds. Her aim is to always take the audience on an unpredictable journey with a heartfully thought out landscape. In her selection she has a very emotional approach to music, focused on creating depth and a captivating energy.",
                 "city": "Weimar",
                 "name": "Cynthia Matisse",
-                "time": null
+                "time": "01:00"
               },
               {
                 "bio": "@flotze has steadily built a strong presence in the region’s underground scene over the past few years. Starting from his homebase at the @goethebunker, he has been playing clubs across the area and shaping a sound that feels raw, intense and straight to the point.\n\nHis sets are driven by dark atmospheric elements, rolling rhythms and focused on maintaining flow rather than chasing peaks. The result is a consistent, forward-moving energy on the dancefloor.\n\nAs one of the Co-Founders of @deliriumessen, he is also closely involved in building and strengthening the local scene beyond the DJ booth and pushing the local underground electronic music to new standards.",
                 "city": "Essen",
                 "name": "Flotze",
-                "time": null
+                "time": "03:00"
               }
             ],
             "subtitle": "Delirium Essen at Open Ground"
@@ -8684,8 +8684,8 @@
         {
           "artists": [
             "DJ Frog",
-            "SnPLO",
-            "XDB"
+            "XDB b2b PLO Man",
+            "Sentena b2b Spence"
           ],
           "name": "FREIFELD"
         },
@@ -9844,5 +9844,5 @@
       "url": "https://www.openground.club/en/schedule/2026-10-10"
     }
   ],
-  "scraped_at": "2026-08-05T09:08:08+00:00"
+  "scraped_at": "2026-08-05T14:36:05+00:00"
 }
