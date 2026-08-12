@@ -10188,7 +10188,7 @@
               },
               {
                 "bio": null,
-                "city": null,
+                "city": "Detroit",
                 "name": "Limited Network",
                 "time": null
               }
@@ -10255,5 +10255,5 @@
       "url": "https://www.openground.club/en/schedule/2026-10-31"
     }
   ],
-  "scraped_at": "2026-08-11T19:27:50+00:00"
+  "scraped_at": "2026-08-12T02:47:14+00:00"
 }
