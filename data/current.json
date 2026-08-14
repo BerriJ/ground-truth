@@ -8985,7 +8985,37 @@
               {
                 "bio": null,
                 "city": null,
-                "name": "...",
+                "name": "Dornen",
+                "time": null
+              },
+              {
+                "bio": null,
+                "city": null,
+                "name": "Jacqueline Butzinger",
+                "time": null
+              },
+              {
+                "bio": "Lomi is a musician who explores the intersection of sound and architecture. Since co-founding BRUTALISM in 2015, he uses the label as a cultural research platform that explores sonic forms through materials, textures and structure. His approach combines electronic composition with a data-driven exploration of visual media and spatial aesthetics.",
+                "city": "Berlin",
+                "name": "Lomi",
+                "time": null
+              },
+              {
+                "bio": null,
+                "city": null,
+                "name": "Moritz Riesenbeck",
+                "time": null
+              },
+              {
+                "bio": null,
+                "city": null,
+                "name": "Planar",
+                "time": null
+              },
+              {
+                "bio": "\"Rainy Miller is the solo project of Preston-born, Manchester-based artist, producer and label head Jack Bowes. Focused on putting the spotlight onto the vibrant emerging scene of the North West of England, Rainy founded his label FIXED ABODE in 2020 as a platform to showcase the wealth of local talent, whilst producing for and collaborating with local highly-tipped artists Blackhaine, Iceboy Violet, Hyperdawn amongst others.\n​\nCreating deeply personal music that marries fragile, delicate moments with visceral, aggressive energy, Rainy is creating his own path to recognition. Following up his debut project ‘Desquamation’ (2022), Rainy released the critically acclaimed full-length via his own Fixed Abode imprint - ‘A Grisaille Wedding’ (2023) - featuring collaborations from the likes of Mica Levi, Coby Sey, Voice Actor, amongst others.\"",
+                "city": "Manchester",
+                "name": "Rainy Miller",
                 "time": null
               }
             ],
@@ -8996,7 +9026,12 @@
       "floors": [
         {
           "artists": [
-            "..."
+            "Dornen",
+            "Jacqueline Butzinger",
+            "Lomi",
+            "Moritz Riesenbeck",
+            "Planar",
+            "Rainy Miller"
           ],
           "name": "LOBBY + ANNEX"
         }
@@ -10073,7 +10108,7 @@
       "id": "2026-10-17",
       "ticket": {
         "state": "onsale",
-        "url": "https://shop.weeztix.com/bab5204b-de8b-42ca-87aa-fa0440102045"
+        "url": "https://shop.weeztix.com/ba62e5e5-32fa-4cd1-9798-2ee7490f2417"
       },
       "time": "21:00–06:00",
       "title": null,
@@ -10255,5 +10290,5 @@
       "url": "https://www.openground.club/en/schedule/2026-10-31"
     }
   ],
-  "scraped_at": "2026-08-14T02:48:25+00:00"
+  "scraped_at": "2026-08-14T07:54:15+00:00"
 }
