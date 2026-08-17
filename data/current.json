@@ -8983,15 +8983,9 @@
             "name": "LOBBY + ANNEX",
             "slots": [
               {
-                "bio": null,
-                "city": null,
+                "bio": "Dornen works with modular synthesizers, field recordings and noise to shape raw, sculptural\nsound objects. With a direct and minimalist approach, he manipulates analog, pure frequencies\nand explores the boundaries of sound as both material and medium.",
+                "city": "Cologne",
                 "name": "Dornen",
-                "time": null
-              },
-              {
-                "bio": null,
-                "city": null,
-                "name": "Jacqueline Butzinger",
                 "time": null
               },
               {
@@ -9001,14 +8995,14 @@
                 "time": null
               },
               {
-                "bio": null,
-                "city": null,
+                "bio": "Moritz Riesenbeck (*1991) is an artist based in Düsseldorf. His work investigates the layers of meaning associated with objects and places, in particular their influence on memory, identity, and physical presence. He is interested in how spaces and objects function as carriers of stories and emotions, and how they shape our sense of self. His interdisciplinary practice spans various media, with a focus on site-specific approaches and the use of theatrical methods to stage non-art spaces. He is particularly concerned with sites where individual and collective experiences overlap, as well as contexts in which art directly engages with and becomes effective within social reality.\n\nwww.moritzriesenbeck.com\n,\nInstagram",
+                "city": "Düsseldorf",
                 "name": "Moritz Riesenbeck",
                 "time": null
               },
               {
-                "bio": null,
-                "city": null,
+                "bio": "Planar approaches electronic music as a continuously evolving material where sound is constantly shifting through repetition and resonance. Drawing inspiration from the interplay between physical and digital spaces, the project explores how subtle transformations can alter perception without ever breaking the flow. Deep synth textures, intricate rhythmic patterns and selected field recordings merge into hypnotic structures that drift between tension and release. Rooted in ambient and dub techno influences, his music treats the loop as a living process, where subtle variation gives rise to new forms.",
+                "city": "Berlin",
                 "name": "Planar",
                 "time": null
               },
@@ -9027,7 +9021,6 @@
         {
           "artists": [
             "Dornen",
-            "Jacqueline Butzinger",
             "Lomi",
             "Moritz Riesenbeck",
             "Planar",
@@ -10290,5 +10283,5 @@
       "url": "https://www.openground.club/en/schedule/2026-10-31"
     }
   ],
-  "scraped_at": "2026-08-17T07:18:00+00:00"
+  "scraped_at": "2026-08-17T13:08:37+00:00"
 }
