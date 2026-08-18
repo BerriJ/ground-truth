@@ -8977,15 +8977,15 @@
       "date_iso": "2026-08-27",
       "date_label": "Thu.27.08.26",
       "detail": {
-        "description": null,
+        "description": "Lobby (Sound Installations)\n\nDan Moufang\n\nDaniel Lythgoe\n\nDornen & Vesna Kat\n\nRainy Miller",
         "floors": [
           {
             "name": "LOBBY + ANNEX",
             "slots": [
               {
-                "bio": "Dornen works with modular synthesizers, field recordings and noise to shape raw, sculptural\nsound objects. With a direct and minimalist approach, he manipulates analog, pure frequencies\nand explores the boundaries of sound as both material and medium.",
+                "bio": "MAENDI is co-founder of the Munich based @radio80000. Her love for music is anchored in her extroversion and outgoing nature; dark bass and hard dubstep are as much a part of her repertoire as rave and trance influences. She has a special affection for rnb, the music she has always listened to and grown up with. That’s all very loud and progressive, but it wouldn’t be MAENDI’s special taste if she didn’t sometimes let the shy girl hang out with experimental, emotional, partly melancholic sound evasions, which she cleverly incorporates into her club sets.",
                 "city": "Cologne",
-                "name": "Dornen",
+                "name": "Amanda",
                 "time": null
               },
               {
@@ -9005,12 +9005,6 @@
                 "city": "Berlin",
                 "name": "Planar",
                 "time": null
-              },
-              {
-                "bio": "\"Rainy Miller is the solo project of Preston-born, Manchester-based artist, producer and label head Jack Bowes. Focused on putting the spotlight onto the vibrant emerging scene of the North West of England, Rainy founded his label FIXED ABODE in 2020 as a platform to showcase the wealth of local talent, whilst producing for and collaborating with local highly-tipped artists Blackhaine, Iceboy Violet, Hyperdawn amongst others.\n​\nCreating deeply personal music that marries fragile, delicate moments with visceral, aggressive energy, Rainy is creating his own path to recognition. Following up his debut project ‘Desquamation’ (2022), Rainy released the critically acclaimed full-length via his own Fixed Abode imprint - ‘A Grisaille Wedding’ (2023) - featuring collaborations from the likes of Mica Levi, Coby Sey, Voice Actor, amongst others.\"",
-                "city": "Manchester",
-                "name": "Rainy Miller",
-                "time": null
               }
             ],
             "subtitle": "Drinks and DJ selections free entry"
@@ -9020,11 +9014,10 @@
       "floors": [
         {
           "artists": [
-            "Dornen",
+            "Amanda",
             "Lomi",
             "Moritz Riesenbeck",
-            "Planar",
-            "Rainy Miller"
+            "Planar"
           ],
           "name": "LOBBY + ANNEX"
         }
@@ -10283,5 +10276,5 @@
       "url": "https://www.openground.club/en/schedule/2026-10-31"
     }
   ],
-  "scraped_at": "2026-08-18T07:06:42+00:00"
+  "scraped_at": "2026-08-18T13:10:40+00:00"
 }
