@@ -8977,10 +8977,10 @@
       "date_iso": "2026-08-27",
       "date_label": "Thu.27.08.26",
       "detail": {
-        "description": "Lobby (Sound Installations)\n\nDan Moufang\n\nDaniel Lythgoe\n\nDornen & Vesna Kat\n\nRainy Miller",
+        "description": null,
         "floors": [
           {
-            "name": "LOBBY + ANNEX",
+            "name": "ANNEX",
             "slots": [
               {
                 "bio": "MAENDI is co-founder of the Munich based @radio80000. Her love for music is anchored in her extroversion and outgoing nature; dark bass and hard dubstep are as much a part of her repertoire as rave and trance influences. She has a special affection for rnb, the music she has always listened to and grown up with. That’s all very loud and progressive, but it wouldn’t be MAENDI’s special taste if she didn’t sometimes let the shy girl hang out with experimental, emotional, partly melancholic sound evasions, which she cleverly incorporates into her club sets.",
@@ -9007,7 +9007,37 @@
                 "time": null
               }
             ],
-            "subtitle": "Drinks and DJ selections free entry"
+            "subtitle": "DJ selections"
+          },
+          {
+            "name": "LOBBY",
+            "slots": [
+              {
+                "bio": "Dan Moufang is a Düsseldorf-based artist working across ambient music, field recording, glitch and experimental sound. His practice explores the form and materiality of creative processes themselves, tracing connections to everyday situations and occasional phenomena through improvisation, film and generative art.",
+                "city": "Düsseldorf",
+                "name": "Dan Moufang",
+                "time": null
+              },
+              {
+                "bio": "Daniel Lythgoe (dak) is an artist, musician, and architect, making intermedia performances, acousmatic sound works, and installations. Recent projects range from algorithmic interpretations of graphic scores to experiments in light-sound transduction, spatial compositions, and discrete-time feedback systems: work that stays in the in-between, where meaning is not given but has to be continually re-negotiated.",
+                "city": "Karlsruhe",
+                "name": "Daniel Lythgoe",
+                "time": null
+              },
+              {
+                "bio": "Dornen works with modular synthesizers, field recordings and noise to shape raw, sculptural\nsound objects. With a direct and minimalist approach, he manipulates analog, pure frequencies\nand explores the boundaries of sound as both material and medium.\n\nVesna Kat is a composer, sound artist, and vocalist based in Cologne. In her artistic practice, she explores sound and music as forms of speculative storytelling, drawing on the sonic aesthetics of possible pasts and futures. She combines experimental electroacoustic soundscapes, voice, and choral singing with narrative forms drawn from folk traditions, fables, and fairy tales. Vesna Kat’s work is deeply inspired by the landscapes and cultural contexts of her place of origin. She develops her projects through a research-led production process in which photographic sketches, site-specific research, and field recordings serve as starting points for her compositional and improvisational practice. Through this approach, her works open up relational perspectives on environment, experience, and community, offering alternative ways of imagining beyond hegemonic narratives of societal progress.",
+                "city": "Cologne",
+                "name": "Dornen & Vesna Kat",
+                "time": null
+              },
+              {
+                "bio": "\"Rainy Miller is the solo project of Preston-born, Manchester-based artist, producer and label head Jack Bowes. Focused on putting the spotlight onto the vibrant emerging scene of the North West of England, Rainy founded his label FIXED ABODE in 2020 as a platform to showcase the wealth of local talent, whilst producing for and collaborating with local highly-tipped artists Blackhaine, Iceboy Violet, Hyperdawn amongst others.\n​\nCreating deeply personal music that marries fragile, delicate moments with visceral, aggressive energy, Rainy is creating his own path to recognition. Following up his debut project ‘Desquamation’ (2022), Rainy released the critically acclaimed full-length via his own Fixed Abode imprint - ‘A Grisaille Wedding’ (2023) - featuring collaborations from the likes of Mica Levi, Coby Sey, Voice Actor, amongst others.\"",
+                "city": "Manchester",
+                "name": "Rainy Miller",
+                "time": null
+              }
+            ],
+            "subtitle": "Sound Installations"
           }
         ]
       },
@@ -9019,7 +9049,16 @@
             "Moritz Riesenbeck",
             "Planar"
           ],
-          "name": "LOBBY + ANNEX"
+          "name": "ANNEX"
+        },
+        {
+          "artists": [
+            "Dan Moufang",
+            "Daniel Lythgoe",
+            "Dornen & Vesna Kat",
+            "Rainy Miller"
+          ],
+          "name": "LOBBY"
         }
       ],
       "id": "2026-08-27",
@@ -10276,5 +10315,5 @@
       "url": "https://www.openground.club/en/schedule/2026-10-31"
     }
   ],
-  "scraped_at": "2026-08-18T13:10:40+00:00"
+  "scraped_at": "2026-08-18T18:58:32+00:00"
 }
