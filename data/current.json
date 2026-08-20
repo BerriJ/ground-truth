@@ -9179,9 +9179,9 @@
             "name": "LOBBY + ANNEX",
             "slots": [
               {
-                "bio": null,
-                "city": null,
-                "name": "...",
+                "bio": "Chesney Tropicale from Cologne is a culinary and vinyl globetrotter for over twenty years. He`s a founding part of KALAKUTA SOUL RECORDS\n\nand is playing all over Europe, Canada and Hong Kong. Together with Ugly Drums, Chesney released on labels such as Kolour LTD, Faces Records, Quintessentials, Midnight Riot, Fifty Fathoms Deep, City Fly, Polyfon and Big Bait Records.",
+                "city": "Cologne",
+                "name": "Chesney Tropicale",
                 "time": null
               }
             ],
@@ -9192,7 +9192,7 @@
       "floors": [
         {
           "artists": [
-            "..."
+            "Chesney Tropicale"
           ],
           "name": "LOBBY + ANNEX"
         }
@@ -9962,7 +9962,7 @@
       "date_iso": "2026-10-10",
       "date_label": "Sat.10.10.26",
       "detail": {
-        "description": "Rupture has spent the last 20 years becoming London's home for deep, underground jungle and drum & bass - built on community and a refusal to commercialise the culture.\nFounded in 2006 by Mantra and Double O the night was created to push the more experimental side of jungle and drum & bass.\n​\nBy 2012 it had expanded into a record label, releasing music from artists such as Spirit, dBridge, Tim Reaper, Sully and Forest Drive West, Djinn and many more.\nRupture is widely regarded as one of London's best underground D&B nights, consistently pushing forward-thinking lineups whilst keeping community and inclusivity at its core. As the movement has evolved so has the need to double down on the essence of what it means to rave: intentional gatherings built around amazing sound systems, paying homage to the foundations of jungle and d&b whilst always looking at new ways to push the sound forward and create pathways for emerging artists.\nViva la Rave!",
+        "description": "Freifeld: Rupture has spent the last 20 years becoming London's home for deep, underground jungle and drum & bass - built on community and a refusal to commercialise the culture.\nFounded in 2006 by Mantra and Double O the night was created to push the more experimental side of jungle and drum & bass.\n​\nBy 2012 it had expanded into a record label, releasing music from artists such as Spirit, dBridge, Tim Reaper, Sully and Forest Drive West, Djinn and many more.\nRupture is widely regarded as one of London's best underground D&B nights, consistently pushing forward-thinking lineups whilst keeping community and inclusivity at its core. As the movement has evolved so has the need to double down on the essence of what it means to rave: intentional gatherings built around amazing sound systems, paying homage to the foundations of jungle and d&b whilst always looking at new ways to push the sound forward and create pathways for emerging artists.\nViva la Rave!\n\nAnnex: For the fourth time, HEAVY FEELINGS returns to the ANNEX at Open Ground, bringing together STICKY DUB from Liverpool, MOKEYANJU from Berlin and Parissa Chargi from Cologne.\n\nCologne-based independent platform HEAVY FEELINGS creates spaces for music, collaboration and cultural exchange. Founded by curator and creative producer PARISSA, the platform brings together artists, selectors, producers and other creative practitioners through events, radio, publishing and long-term collaborations. Rooted in DIY culture and independent artistic practice, HEAVY FEELINGS is driven by a deep belief in music as a space for connection, exchange and collective discovery.\n\nAt the centre of the lineup is Sticky Dub, a producer, MC and selector rooted in\nHip Hop\nand\nUK soundsystem culture\n. His work moves through\nBroken Beat, Dub, UK Garage, House and electronic music\n, with a strong rhythmic instinct and a playful approach to genre. His releases on Eglo Records have made him a distinctive voice within the wider UK beat landscape, connecting club music, soundsystem culture and Hip Hop through his own production and selection.\n\nMokeyanju was part of the early circle around HEAVY FEELINGS in Cologne and returns for this edition from Berlin. A DJ, vinyl selector, interdisciplinary artist and radio host, she has developed a distinctive practice across DJing, vinyl selection, radio and interdisciplinary work. Her record collection spans Nigeria, Tanzania, Kenya, Congo, Brazil and Trinidad & Tobago, connecting\nFújì, Highlife, Benga, Soukous, Rumba, Calypso, Ndombolo, House and Electronica\n. Alongside her work at Refuge Worldwide, her involvement with POETRY MEETS reflects her ongoing engagement with music, language and cultural exchange.\n\nCompleting the lineup is PARISSA, founder and curator of HEAVY FEELINGS and a Vinyl Only Selector. Her selections move through\nJazz, Dub, Afro-diasporic rhythms and electronic music\n, drawing on years of digging, listening and collecting across different musical worlds. Her sets are an extension of the wider HEAVY FEELINGS practice: deeply personal selections shaped by context, curiosity and the connections between records, artists and the people in the room.",
         "floors": [
           {
             "name": "FREIFELD",
@@ -10315,5 +10315,5 @@
       "url": "https://www.openground.club/en/schedule/2026-10-31"
     }
   ],
-  "scraped_at": "2026-08-20T07:08:53+00:00"
+  "scraped_at": "2026-08-20T13:13:42+00:00"
 }
