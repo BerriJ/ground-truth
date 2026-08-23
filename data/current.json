@@ -9430,59 +9430,7 @@
       "category": "Clubnight",
       "date_iso": "2026-09-12",
       "date_label": "Sat.12.09.26",
-      "detail": {
-        "description": "Annex: The Jahtari label returns to the Annex with an epic all-night session: riddims and live Dubs by label founder disrupt, Jackson Bailey aka Tapes on decks and delays - plus a super special live performance by the new Alien Trackers project!\n\nWith a home base in Leipzig, but working with artists from all over the globe, Jahtari has been uniting bits & bytes with the source code of Dub and Dancehall since 2004. Starting out in the early netlabel scene in 2005 the label soon gained an underground following with it's DIY approach and a raw, 8bit-flavoured take on modern Dub, releasing classics like \"Hissing Theatricals\" by Tapes, \"Karma No Kusari\" by Kiki Hitomi or the Jahtarian Dubbers compilation series.\n\nAdmission 20 € / before 23:00 15 €",
-        "floors": [
-          {
-            "name": "FREIFELD",
-            "slots": [
-              {
-                "bio": "The British-born, Berlin-based artist Sam Barker has long sought to push the boundaries of electronic music, in and out of the club. Looking beyond the realm of 4/4 techno to explore left-field sound design and rhythmic complexity, the Berghain resident’s string of signature solo releases for the club’s Ostgut Ton imprint and Smalltown Supersound – including Debiasing, Utility, and 2025's Stochastic Drift – have earned widespread acclaim from the underground to the mainstream and everything in between.\n\nBarker’s musical focus continues to be on the peak-time dancefloor potential of ambient music as he works on another album and label. Operating on the periphery of club music, he continues to shift its centre.",
-                "city": "Berlin",
-                "name": "Barker",
-                "time": null
-              },
-              {
-                "bio": "Rene Wise’s approach to writing music and DJing fuses together as one concept; tapping into primal human instinct via rhythm and groove.\nWise portrays a deep sense of knowledge and maturity in his sound, devising atmospheric soundscapes with a raw but modern touch, captivating the listener from beginning to end. His sets demonstrate this to full effect, consistently maintaining a powerful sonic trademark whilst possessing the innate ability to create hip-shaking poly-rhythms and multi-deck layers.",
-                "city": "Lisbon",
-                "name": "Rene Wise",
-                "time": null
-              }
-            ],
-            "subtitle": null
-          },
-          {
-            "name": "ANNEX",
-            "slots": [
-              {
-                "bio": "Alien Trackers is a live dub project by cosmic trumpet specialist Pablo Volt and Jahtari space ship mechanic disrupt, landing right in the sweet spot between soulful Black Ark-warmth, digital Firehouse dancehall hitters and Jahtarian Dub psychedelics. Multi-instrumentalist and producer Pablo Volt is closely linked to the contemporary improvisational music scene in Barcelona and has explored DIY production at all levels. As a dub and jazz trumpet expert he relased a string of LPs, incl. classic albums with local Dub legends STA. He also has a duo with J.G.G, another with Tomás Spicolli and a trio with Mark Cunningham, among many other projects.",
-                "city": "Barcelona",
-                "name": "Alien Trackers (live)",
-                "time": null
-              },
-              {
-                "bio": "With a background in breakcore, weirdo electronic music and a love for video game soundtracks disrupt and a trashy laptop set out on a mission to unite bits and bytes with the goodness of DUB back in 2003. Since then the Jahtari label has been spreading its distinctive brand of heavyweight 8-bit digi-dub from Leipzig all over the world. Deep, Tuff…but not-too-serious at the same time, the label's “digital laptop reggae” sound has gone on to become a sub genre within the sound system sphere in itself.\n\ndisrupt brings his Gameboy and Laptop to run riddims King Jammy style for an extended dubbed out live session.",
-                "city": "Leipzig",
-                "name": "Disrupt (live)",
-                "time": null
-              },
-              {
-                "bio": "Originally hailing from South London, Tapes made his debut release on esteemed 8-bit digital reggae label Jahtari in 2009 with the “Hissing Theatricals” EP. In the 15 years since, a wide variety of releases continued on a host of acclaimed labels: Soon after, a spate of releases and appearances continued on labels such as Honest\nJons, Sextags, Astro:dynamics,Meeuw Musak, Porridge Bullet, EM Records, Research Records, Good Morning Tapes and Cav Empt. He has also toured as a DJ and Live performer extensively world wide and hosts regular “all night long” sessions in Tallinn, where he now resides.\n\nRecently, and in cellebration of the labels 20th anniversary, Tapes returned to Jahtari with “Photos of my Frog EP“. The records four amphibious instrumental scorchers with two accompanying 8-bit versions have become the bed-rock of his current live sets, mixing these up with other unreleased dubplate versions of Tapes tunes new and old.\n\nTapes is a musician who continues to follow his own eccentric compass – guided by tape hiss, digital ghosts, and an unshakable fascination with the small, strange beauties of the everyday.",
-                "city": "Tallinn",
-                "name": "Tapes (live)",
-                "time": null
-              },
-              {
-                "bio": null,
-                "city": null,
-                "name": "Jahtari DJs",
-                "time": null
-              }
-            ],
-            "subtitle": "Jahtari at Open Ground"
-          }
-        ]
-      },
+      "detail": null,
       "floors": [
         {
           "artists": [
@@ -10315,5 +10263,5 @@
       "url": "https://www.openground.club/en/schedule/2026-10-31"
     }
   ],
-  "scraped_at": "2026-08-23T07:03:41+00:00"
+  "scraped_at": "2026-08-23T13:08:56+00:00"
 }
