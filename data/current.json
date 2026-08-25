@@ -9302,7 +9302,7 @@
       "date_iso": "2026-09-05",
       "date_label": "Sat.05.09.26",
       "detail": {
-        "description": "Freifeld: 1986 music’s core is essentially rooted in the Drum and Bass but since its inception, it has grown freely, breaking down genre barriers and inviting cross pollination.\nThe essence of the collective encourages artists to experiment in areas they may not be familiar with, allowing for the spectrum to be broad and open. This is reflected in our label events with DJ sets covering many angles whilst retaining our identity. Playing those weird records, testing that new idea….\nOur sound is modern and focussed on low end frequencies. What better way to hear those on one of the most reputable spaces in Europe? The primary focus in the space being sound reflects our ethos and we’re excited to experience that with everyone in the room.\nHaving longer sets on the night will allow each artist to really dig deep and treat the night as a journey.\nSP joins us for a DJ set, bringing his own take on UK Garage / 2step, moving in and out of those lines. Alongside, we have Cesco who blurs genres with his minimalist productions and eclectic sets. A regular at Open Ground and 1985 events, Tasha returns with her genre defying sets tinged in Jungle, D&B, Techno and more. Last but not least, Alix debuts at Open Ground for a mixed set that motions through a hybrid collection of Dubstep/Garage/Techno infused tracks, as well as deep, soulful and rolling Drum and Bass that he is primarily known for.\n​Annex: At Mister Bear you can expect a night built on disco, funk, Latin and Afro rhythms that gradually deepen into soulful, deep house grooves. Paulita digs up raw disco, Brazilian funk, and slow-burning soulful house. Craig follows with deep, New York and Chicago-rooted Disco and House. Zapata brings his salsa, afro-house, and deeper pulsing house rhythms, layered with live elements and jazzy, chordier grooves.\n​\nAdmission 30 €",
+        "description": "Freifeld: 1985 music’s core is essentially rooted in the Drum and Bass but since its inception, it has grown freely, breaking down genre barriers and inviting cross pollination.\nThe essence of the collective encourages artists to experiment in areas they may not be familiar with, allowing for the spectrum to be broad and open. This is reflected in our label events with DJ sets covering many angles whilst retaining our identity. Playing those weird records, testing that new idea….\nOur sound is modern and focussed on low end frequencies. What better way to hear those on one of the most reputable spaces in Europe? The primary focus in the space being sound reflects our ethos and we’re excited to experience that with everyone in the room.\nHaving longer sets on the night will allow each artist to really dig deep and treat the night as a journey.\nSP joins us for a DJ set, bringing his own take on UK Garage / 2step, moving in and out of those lines. Alongside, we have Cesco who blurs genres with his minimalist productions and eclectic sets. A regular at Open Ground and 1985 events, Tasha returns with her genre defying sets tinged in Jungle, D&B, Techno and more. Last but not least, Alix debuts at Open Ground for a mixed set that motions through a hybrid collection of Dubstep/Garage/Techno infused tracks, as well as deep, soulful and rolling Drum and Bass that he is primarily known for.\n​Annex: At Mister Bear you can expect a night built on disco, funk, Latin and Afro rhythms that gradually deepen into soulful, deep house grooves. Paulita digs up raw disco, Brazilian funk, and slow-burning soulful house. Craig follows with deep, New York and Chicago-rooted Disco and House. Zapata brings his salsa, afro-house, and deeper pulsing house rhythms, layered with live elements and jazzy, chordier grooves.\n​\nAdmission 30 €",
         "floors": [
           {
             "name": "FREIFELD",
@@ -9401,7 +9401,13 @@
               {
                 "bio": null,
                 "city": null,
-                "name": "...",
+                "name": "Løisa",
+                "time": null
+              },
+              {
+                "bio": "Jonas is a DJ from Wuppertal, delivering sets built around detailed sound design with a broad stylistic range.\n\nHis core is founded on tracks with complex textures—layered percussion, shifting atmospheres, and punchy low-ends that evolve over time—spanning the full spectrum of techno’s depths and drives.\n\nHe ranges from patient builds with deep bass and fine details, to ramping up density for sustained intensity, always adapting to the room's flow without forcing the pace.",
+                "city": "Wuppertal",
+                "name": "Jonas",
                 "time": null
               }
             ],
@@ -9412,7 +9418,8 @@
       "floors": [
         {
           "artists": [
-            "..."
+            "Løisa",
+            "Jonas"
           ],
           "name": "LOBBY + ANNEX"
         }
@@ -10315,5 +10322,5 @@
       "url": "https://www.openground.club/en/schedule/2026-10-31"
     }
   ],
-  "scraped_at": "2026-08-25T07:10:35+00:00"
+  "scraped_at": "2026-08-25T13:13:26+00:00"
 }
