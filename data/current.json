@@ -8983,15 +8983,15 @@
             "name": "ANNEX",
             "slots": [
               {
-                "bio": "MAENDI is co-founder of the Munich based @radio80000. Her love for music is anchored in her extroversion and outgoing nature; dark bass and hard dubstep are as much a part of her repertoire as rave and trance influences. She has a special affection for rnb, the music she has always listened to and grown up with. That’s all very loud and progressive, but it wouldn’t be MAENDI’s special taste if she didn’t sometimes let the shy girl hang out with experimental, emotional, partly melancholic sound evasions, which she cleverly incorporates into her club sets.",
-                "city": "Cologne",
-                "name": "Amanda",
-                "time": null
-              },
-              {
                 "bio": "Lomi is a musician who explores the intersection of sound and architecture. Since co-founding BRUTALISM in 2015, he uses the label as a cultural research platform that explores sonic forms through materials, textures and structure. His approach combines electronic composition with a data-driven exploration of visual media and spatial aesthetics.",
                 "city": "Berlin",
                 "name": "Lomi",
+                "time": null
+              },
+              {
+                "bio": "It’s hard to pin down MAENDI’s sound, since her taste reaches from her oldschool RnB knowledge to dubstep, drum n’ bass and experimental stuff, while ranging between cheesy and dark. Her sets are always a surprise, breaking styles, unwilling to commit to a specific genre or sound.\nNow based in Cologne, she is a substantial part of Radio 80000, a project and ongoing community work that meanwhile influences the scene of electronic and non-electronic music far beyond Munich.",
+                "city": "Cologne",
+                "name": "MAENDI",
                 "time": null
               },
               {
@@ -9044,8 +9044,8 @@
       "floors": [
         {
           "artists": [
-            "Amanda",
             "Lomi",
+            "MAENDI",
             "Moritz Riesenbeck",
             "Planar"
           ],
@@ -9400,7 +9400,7 @@
             "slots": [
               {
                 "bio": null,
-                "city": null,
+                "city": "Wuppertal",
                 "name": "Løisa",
                 "time": null
               },
@@ -10322,5 +10322,5 @@
       "url": "https://www.openground.club/en/schedule/2026-10-31"
     }
   ],
-  "scraped_at": "2026-08-26T02:00:31+00:00"
+  "scraped_at": "2026-08-26T07:10:49+00:00"
 }
