@@ -10019,7 +10019,7 @@
               {
                 "bio": "mokeyanju is a DJ/vinyl selector, interdisciplinary artist and radio host. Influenced by Hip Hop culture, Fújì, Ndombolo, House and percussion-based music, her sets bring together sounds from Africa, the Caribbean and diverse diasporic musical traditions. An avid crate digger since 2016, she draws from a record collection spanning Nigeria, Tanzania, Kenya, Congo, Brazil and Trinidad & Tobago, connecting Highlife, Calypso, Benga, Soukous, Rumba and Electronica. As a regular host of Refuge Worldwide’s Breakfast Show, mokeyanju is known for genre-fluid selections marked by polyrhythmic energy, unexpected combinations and a deep love of dance floors. She has performed internationally for Dekmantel Selectors and EGWÚ Records, and supported artists including The Cavemen and Blinky Bill. Her selections have been heard in Lagos, Nairobi, Bahia, Zanzibar, Point Fortin (Trinidad) and beyond.",
                 "city": "Berlin",
-                "name": "Mokeyanju",
+                "name": "mokeyanju",
                 "time": null
               },
               {
@@ -10053,7 +10053,7 @@
         },
         {
           "artists": [
-            "Mokeyanju",
+            "mokeyanju",
             "Sticky Dub",
             "Parissa"
           ],
@@ -10322,5 +10322,5 @@
       "url": "https://www.openground.club/en/schedule/2026-10-31"
     }
   ],
-  "scraped_at": "2026-08-26T20:05:18+00:00"
+  "scraped_at": "2026-08-27T09:54:44+00:00"
 }
