@@ -9399,7 +9399,7 @@
             "name": "LOBBY + ANNEX",
             "slots": [
               {
-                "bio": null,
+                "bio": "Wuppertal-based DJ and former percussionist Løisa has a particular affinity for minimal sounds. In her sets, she combines atmospheric textures and repetitive rhythms into a hypnotic flow, shaped by subtle and almost unnoticeable changes. Moving between ambient and hypnotic techno, her sets create a space to get lost in the music and the details of the sound.",
                 "city": "Wuppertal",
                 "name": "Løisa",
                 "time": null
@@ -9528,9 +9528,21 @@
             "name": "LOBBY + ANNEX",
             "slots": [
               {
-                "bio": null,
-                "city": null,
-                "name": "...",
+                "bio": "„We’re always out dancing - feeling the music, getting lost in the strobe lights and deep basslines. It’s the same feeling that made us start playing together in the first place.\nWe’re not doing it for the people, but with them. It’s about creating a collective energy through music and dancing.\nWe want to explore a wide spectrum of electronic music and always try to keep things unpredictable.“",
+                "city": "Hagen",
+                "name": "binario eléctrico",
+                "time": null
+              },
+              {
+                "bio": "DRAW is part of the Wuppertal based Mogol Soundsystem Crew, who organize DIY Parties with a focus on bass heavy music of many different genres. Her sound is influenced heavily by hip hop and dubstep. Blending all sorts of broken beats and leftfield sounds into a journey through rhythms and bass. // afraid of the comfort zone",
+                "city": "Bochum",
+                "name": "DRAW",
+                "time": null
+              },
+              {
+                "bio": "Shard is the musical alias of Bochum-based artist Raphael Kromhout, inspired by soundsystem culture and everything that advanced out of the Dub scene.\nHis alias is part of the Mogol Soundsystem Crew and revolves around percussive rhythms, and heavy basslines, blending experimental textures with a background in techno.",
+                "city": "Bochum",
+                "name": "Shard",
                 "time": null
               }
             ],
@@ -9541,7 +9553,9 @@
       "floors": [
         {
           "artists": [
-            "..."
+            "binario eléctrico",
+            "DRAW",
+            "Shard"
           ],
           "name": "LOBBY + ANNEX"
         }
@@ -9665,8 +9679,8 @@
             "slots": [
               {
                 "bio": null,
-                "city": null,
-                "name": "...",
+                "city": "Berlin",
+                "name": "Philipp Olf",
                 "time": null
               }
             ],
@@ -9677,7 +9691,7 @@
       "floors": [
         {
           "artists": [
-            "..."
+            "Philipp Olf"
           ],
           "name": "LOBBY + ANNEX"
         }
@@ -10320,7 +10334,133 @@
       "time": "22:00–06:00",
       "title": null,
       "url": "https://www.openground.club/en/schedule/2026-10-31"
+    },
+    {
+      "category": "Extended Clubnight",
+      "date_iso": "2026-11-07",
+      "date_label": "Sat.07.11.26",
+      "detail": {
+        "description": "Admision 40 €",
+        "floors": [
+          {
+            "name": "FREIFELD",
+            "slots": [
+              {
+                "bio": null,
+                "city": null,
+                "name": "...",
+                "time": null
+              }
+            ],
+            "subtitle": null
+          },
+          {
+            "name": "ANNEX",
+            "slots": [
+              {
+                "bio": null,
+                "city": null,
+                "name": "...",
+                "time": null
+              }
+            ],
+            "subtitle": null
+          }
+        ]
+      },
+      "floors": [
+        {
+          "artists": [
+            "..."
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "..."
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2026-11-07-deep-medi-at-open-ground",
+      "ticket": {
+        "state": "onsale",
+        "url": "https://shop.weeztix.com/c23cac58-fb71-48a5-8dab-98c59f211ff9/tickets"
+      },
+      "time": "18:00–06:00",
+      "title": "Deep Medi at Open Ground",
+      "url": "https://www.openground.club/en/schedule/2026-11-07-deep-medi-at-open-ground"
+    },
+    {
+      "category": "Clubnight",
+      "date_iso": "2026-11-14",
+      "date_label": "Sat.14.11.26",
+      "detail": {
+        "description": "Admission 20 € / before 23:00 15 €",
+        "floors": [
+          {
+            "name": "FREIFELD",
+            "slots": [
+              {
+                "bio": null,
+                "city": null,
+                "name": "...",
+                "time": null
+              }
+            ],
+            "subtitle": "Neighbourhood at Open Ground"
+          },
+          {
+            "name": "ANNEX",
+            "slots": [
+              {
+                "bio": "Growing up surrounded by music, Alrauni's path from guitar in various bands to electronic music naturally shaped his personal approach to sound. When he discovered DJing at 16, he developed a deep connection to vinyl that became the foundation of his artistic expression. The warm character of analog sound continues to influence both his selection process and mixing style, as his sets flow effortlessly through electronic music's different shades. From techno and ambient to breaks and bass: Alrauni treats each performance as sound exploration, where forgotten B-sides meet contemporary elements to create captivating musical journeys.\n\nEmilio, alias bb89, is a DJ/Producer from Hagen, NRW. Inspired by the environment he grew up in, surrounded by concrete and wood, he shaped his own, unique sound. While wrapping you in atmospheric soundscapes, raw beats and heavy hitting frequencies, he skillfully guides the moment at all times, putting you in a climatic hypnosis and igniting the dancefloor with pure energy.\n\nAs co-founder of recaved.collective he actively contributes to the culture, striving to give his local scene places to meet, connect and dance. Look out for this one, or better: listen.",
+                "city": "Gevelsberg / Hagen",
+                "name": "Alrauni b2b bb89",
+                "time": null
+              },
+              {
+                "bio": "Josiane is a Berlin-based DJ with roots in the Democratic Republic of Congo. Her sets are guided by feeling rather than genre, immersive, groove-led and emotionally precise. Through subtle, intentional mixing, she builds space, flow and atmosphere, while focusing on long-form storytelling.\nGrounded in a strong sense of direction, Josiane moves through the scene with curiosity and confidence. Her range spans from hypnotic, percussive club energy and softer, expansive narratives, taking her from Berlin institutions such as Tresor, Else, Sisyphos, Kater Blau and Renate to venues like objekt klein a in Dresden and many more.",
+                "city": "Berlin",
+                "name": "Josiane",
+                "time": null
+              },
+              {
+                "bio": "Patrick Gräser, better known as Answer Code Request, has carved out a distinctive nichein the techno landscape with his hybrid musical style. His innovative approach,characterized by a fusion of pad-driven harmonies, intricate breaks, and an industrialtone, has set him apart since his emergence on the esteemed Ostgut Ton label in 2012.\nThis breakthrough led to a prestigious residency at Berghain, further cementing hisinfluence in the scene. Gräser’s work, including various releases and remixes for notablelabels such as Ostgut Ton, MDR, Dolly Deluxe, and Monkeytown Records, has garneredwidespread acclaim.\nBorn in the East German town of Fürstenwalde, Gräser's musical roots were planted deepduring a transformative era marked by the fall of the Berlin Wall when he was just 9 yearsold. This period ignited his passion for diverse genres, ranging from hip-hop and acid toearly UK hardcore. Growing up alongside Marcel Dettmann and Marcel Fengler, heexplored Berlin’s dynamic post-reunification club scene. This varied and rich musicalenvironment, coupled with his early career as a carpenter, provided a broad palette ofinfluences that shaped his signature sound.\nGräser's journey from a forest workshop near his hometown to the forefront of techno ismarked by his wide-ranging musical tastes. His nights, spent mixing records from Hardwax and Delirium, contributed to the development of his characteristic sound, ablend that includes elements of jungle, drum 'n' bass, Detroit, IDM, and UK bass. Thisunique amalgamation of styles is evident in his early releases on Music Man and his ownACR imprint, showcasing a talent that transcends traditional techno boundaries.",
+                "city": null,
+                "name": "Answer Code Request",
+                "time": null
+              }
+            ],
+            "subtitle": "Recaved at Open Ground"
+          }
+        ]
+      },
+      "floors": [
+        {
+          "artists": [
+            "..."
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Alrauni b2b bb89",
+            "Josiane",
+            "Answer Code Request"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2026-11-14",
+      "ticket": {
+        "state": "onsale",
+        "url": "https://shop.weeztix.com/904e6749-e076-40a5-b27c-8fc8b57a137f/tickets"
+      },
+      "time": "22:00–06:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2026-11-14"
     }
   ],
-  "scraped_at": "2026-08-27T22:18:30+00:00"
+  "scraped_at": "2026-08-28T11:28:40+00:00"
 }
