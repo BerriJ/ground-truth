@@ -9521,7 +9521,35 @@
       "category": "Open Lobby",
       "date_iso": "2026-09-17",
       "date_label": "Thu.17.09.26",
-      "detail": null,
+      "detail": {
+        "description": null,
+        "floors": [
+          {
+            "name": "LOBBY + ANNEX",
+            "slots": [
+              {
+                "bio": "„We’re always out dancing - feeling the music, getting lost in the strobe lights and deep basslines. It’s the same feeling that made us start playing together in the first place.\nWe’re not doing it for the people, but with them. It’s about creating a collective energy through music and dancing.\nWe want to explore a wide spectrum of electronic music and always try to keep things unpredictable.“",
+                "city": "Hagen",
+                "name": "binario eléctrico",
+                "time": null
+              },
+              {
+                "bio": "DRAW is part of the Wuppertal based Mogol Soundsystem Crew, who organize DIY Parties with a focus on bass heavy music of many different genres. Her sound is influenced heavily by hip hop and dubstep. Blending all sorts of broken beats and leftfield sounds into a journey through rhythms and bass. // afraid of the comfort zone",
+                "city": "Bochum",
+                "name": "DRAW",
+                "time": null
+              },
+              {
+                "bio": "Shard is the musical alias of Bochum-based artist Raphael Kromhout, inspired by soundsystem culture and everything that advanced out of the Dub scene.\nHis alias is part of the Mogol Soundsystem Crew and revolves around percussive rhythms, and heavy basslines, blending experimental textures with a background in techno.",
+                "city": "Bochum",
+                "name": "Shard",
+                "time": null
+              }
+            ],
+            "subtitle": "Drinks and DJ selections Free entry"
+          }
+        ]
+      },
       "floors": [
         {
           "artists": [
@@ -10434,5 +10462,5 @@
       "url": "https://www.openground.club/en/schedule/2026-11-14"
     }
   ],
-  "scraped_at": "2026-09-01T11:48:27+00:00"
+  "scraped_at": "2026-09-01T16:42:43+00:00"
 }
