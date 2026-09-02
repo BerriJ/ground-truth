@@ -9253,15 +9253,15 @@
                 "time": "23:30"
               },
               {
-                "bio": "Januar bewegt sich musikalisch zwischen treibender Rhythmik und atmosphärischer Detailarbeit. Organische Klangflächen, rollende Basslines und psychedelische Strukturen verweben Einflüsse aus Techno, Trance und IDM zu einem eigenständigen, cluborientierten Sound.\n\nDer Bochumer DJ ist in der lokalen Szene aktiv und Teil des IVORY Kollektivs. Er kuratiert die Mix-Reihe Spiral Sonic, zu der er verschiedenste Künstler:innen eingeladen hat, die seine Sound-Vision teilen.",
-                "city": "Bochum",
-                "name": "Januar",
-                "time": "01:00"
-              },
-              {
                 "bio": "Coco Cobra is a DJ shaped by movement—between places, sounds, and the the ongoing process of learning her practice. Born in China and raised in Hannover, she explores the spaces between bass, breaks, and leftfield rhythms, blending them with a curious touch. Her sets are less about pushing boundaries than about listening closely and letting the music evolve, one transition at a time. Drawing from multiple geographies and influences, she approaches club culture as an open, continually shifting landscape, inviting dancers into a sound that grows with her.",
                 "city": "Hannover",
                 "name": "Coco Cobra",
+                "time": "01:00"
+              },
+              {
+                "bio": "Januar bewegt sich musikalisch zwischen treibender Rhythmik und atmosphärischer Detailarbeit. Organische Klangflächen, rollende Basslines und psychedelische Strukturen verweben Einflüsse aus Techno, Trance und IDM zu einem eigenständigen, cluborientierten Sound.\n\nDer Bochumer DJ ist in der lokalen Szene aktiv und Teil des IVORY Kollektivs. Er kuratiert die Mix-Reihe Spiral Sonic, zu der er verschiedenste Künstler:innen eingeladen hat, die seine Sound-Vision teilen.",
+                "city": "Bochum",
+                "name": "Januar",
                 "time": "03:00"
               }
             ],
@@ -9282,8 +9282,8 @@
           "artists": [
             "scherwin hosseini",
             "BIM",
-            "Januar",
-            "Coco Cobra"
+            "Coco Cobra",
+            "Januar"
           ],
           "name": "ANNEX"
         }
@@ -9678,7 +9678,7 @@
             "name": "LOBBY + ANNEX",
             "slots": [
               {
-                "bio": null,
+                "bio": "Having spent half his life in Berlin, Philipp has been collecting records for 18 years and occasionally DJing in clubs and bars, driven by a genuine passion for music. His selections are characterized by deep, dubby and warm sounds. What matters is a good groove - regardless of genre, era or place of origin.",
                 "city": "Berlin",
                 "name": "Philipp Olf",
                 "time": null
@@ -9806,9 +9806,9 @@
                 "time": null
               },
               {
-                "bio": "Drawing from her classical guitar training and eclectic musical influences spanning RnB, HipHop, and Rock, Gîn seamlessly merges genres in her sets and productions. Her sonic palette knows no bounds, encompassing Bass, South American Techno, Jungle, Moombahton, HipHop, Classical, Deconstructed Club, Grime, Industrial, and Kurdish Pop.\n\nno:elia made her debut in the club scene in late 2022. With a background in hip hop, soul and R&B, she uses rhythm-based beats, UK Bass and percussive elements to energise her audiences. She leans towards artists whose backgrounds and lifestyles mirror her own ideals.",
-                "city": "Wuppertal / Berlin",
-                "name": "Gîn Bali b2b no:elia",
+                "bio": "no:elia made her debut in the club scene in late 2022. With a background in hip hop, soul and R&B, she uses rhythm-based beats, UK Bass and percussive elements to energise her audiences. She leans towards artists whose backgrounds and lifestyles mirror her own ideals.",
+                "city": "Berlin",
+                "name": "Gîn Balî b2b no:elia",
                 "time": null
               },
               {
@@ -9868,7 +9868,7 @@
         {
           "artists": [
             "Chute",
-            "Gîn Bali b2b no:elia",
+            "Gîn Balî b2b no:elia",
             "DJ Swisha",
             "Alba"
           ],
@@ -10462,5 +10462,5 @@
       "url": "https://www.openground.club/en/schedule/2026-11-14"
     }
   ],
-  "scraped_at": "2026-09-02T04:40:28+00:00"
+  "scraped_at": "2026-09-02T11:23:52+00:00"
 }
