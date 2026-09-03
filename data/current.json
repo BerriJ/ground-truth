@@ -9790,6 +9790,44 @@
       "url": "https://www.openground.club/en/schedule/2026-09-26"
     },
     {
+      "category": "Open Lobby",
+      "date_iso": "2026-10-01",
+      "date_label": "Thu.01.10.26",
+      "detail": {
+        "description": null,
+        "floors": [
+          {
+            "name": "LOBBY + ANNEX",
+            "slots": [
+              {
+                "bio": null,
+                "city": null,
+                "name": "...",
+                "time": null
+              }
+            ],
+            "subtitle": "Drinks and DJ selections Free Entry"
+          }
+        ]
+      },
+      "floors": [
+        {
+          "artists": [
+            "..."
+          ],
+          "name": "LOBBY + ANNEX"
+        }
+      ],
+      "id": "2026-10-01",
+      "ticket": {
+        "state": "free",
+        "url": null
+      },
+      "time": "20:00–00:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2026-10-01"
+    },
+    {
       "category": "Special Event",
       "date_iso": "2026-10-02",
       "date_label": "Fri.02.10.26",
@@ -9979,6 +10017,44 @@
       "url": "https://www.openground.club/en/schedule/2026-10-03"
     },
     {
+      "category": "Open Lobby",
+      "date_iso": "2026-10-08",
+      "date_label": "Thu.08.10.26",
+      "detail": {
+        "description": null,
+        "floors": [
+          {
+            "name": "LOBBY + ANNEX",
+            "slots": [
+              {
+                "bio": null,
+                "city": null,
+                "name": "...",
+                "time": null
+              }
+            ],
+            "subtitle": "Drinks and DJ selections Free entry"
+          }
+        ]
+      },
+      "floors": [
+        {
+          "artists": [
+            "..."
+          ],
+          "name": "LOBBY + ANNEX"
+        }
+      ],
+      "id": "2026-10-08",
+      "ticket": {
+        "state": "free",
+        "url": null
+      },
+      "time": "20:00–00:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2026-10-08"
+    },
+    {
       "category": "Extended Clubnight",
       "date_iso": "2026-10-10",
       "date_label": "Sat.10.10.26",
@@ -10084,6 +10160,44 @@
       "url": "https://www.openground.club/en/schedule/2026-10-10"
     },
     {
+      "category": "Open Lobby",
+      "date_iso": "2026-10-15",
+      "date_label": "Thu.15.10.26",
+      "detail": {
+        "description": null,
+        "floors": [
+          {
+            "name": "LOBBY + ANNEX",
+            "slots": [
+              {
+                "bio": null,
+                "city": null,
+                "name": "...",
+                "time": null
+              }
+            ],
+            "subtitle": "Drinks and DJ selections Free entry"
+          }
+        ]
+      },
+      "floors": [
+        {
+          "artists": [
+            "..."
+          ],
+          "name": "LOBBY + ANNEX"
+        }
+      ],
+      "id": "2026-10-15",
+      "ticket": {
+        "state": "free",
+        "url": null
+      },
+      "time": "20:00–00:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2026-10-15"
+    },
+    {
       "category": "Extended Clubnight",
       "date_iso": "2026-10-17",
       "date_label": "Sat.17.10.26",
@@ -10159,6 +10273,44 @@
       "time": "21:00–06:00",
       "title": null,
       "url": "https://www.openground.club/en/schedule/2026-10-17"
+    },
+    {
+      "category": "Open Lobby",
+      "date_iso": "2026-10-22",
+      "date_label": "Thu.22.10.26",
+      "detail": {
+        "description": null,
+        "floors": [
+          {
+            "name": "LOBBY + ANNEX",
+            "slots": [
+              {
+                "bio": null,
+                "city": null,
+                "name": "...",
+                "time": null
+              }
+            ],
+            "subtitle": "Drinks and DJ selections Free entry"
+          }
+        ]
+      },
+      "floors": [
+        {
+          "artists": [
+            "..."
+          ],
+          "name": "LOBBY + ANNEX"
+        }
+      ],
+      "id": "2026-10-22",
+      "ticket": {
+        "state": "free",
+        "url": null
+      },
+      "time": "20:00–00:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2026-10-22"
     },
     {
       "category": "Clubnight",
@@ -10250,6 +10402,44 @@
       "time": "22:00–06:00",
       "title": null,
       "url": "https://www.openground.club/en/schedule/2026-10-24"
+    },
+    {
+      "category": "Open Lobby",
+      "date_iso": "2026-10-29",
+      "date_label": "Thu.29.10.26",
+      "detail": {
+        "description": null,
+        "floors": [
+          {
+            "name": "LOBBY + ANNEX",
+            "slots": [
+              {
+                "bio": null,
+                "city": null,
+                "name": "...",
+                "time": null
+              }
+            ],
+            "subtitle": "Drinks and DJ selections Free entry"
+          }
+        ]
+      },
+      "floors": [
+        {
+          "artists": [
+            "..."
+          ],
+          "name": "LOBBY + ANNEX"
+        }
+      ],
+      "id": "2026-10-29",
+      "ticket": {
+        "state": "free",
+        "url": null
+      },
+      "time": "20:00–00:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2026-10-29"
     },
     {
       "category": "Clubnight",
@@ -10462,5 +10652,5 @@
       "url": "https://www.openground.club/en/schedule/2026-11-14"
     }
   ],
-  "scraped_at": "2026-09-03T04:37:30+00:00"
+  "scraped_at": "2026-09-03T11:20:30+00:00"
 }
