@@ -10650,7 +10650,140 @@
       "time": "22:00–06:00",
       "title": null,
       "url": "https://www.openground.club/en/schedule/2026-11-14"
+    },
+    {
+      "category": "Clubnight",
+      "date_iso": "2026-11-21",
+      "date_label": "Sat.21.11.26",
+      "detail": {
+        "description": "Admission 20 € / before 23:00 15 €",
+        "floors": [
+          {
+            "name": "FREIFELD",
+            "slots": [
+              {
+                "bio": null,
+                "city": null,
+                "name": "...",
+                "time": null
+              }
+            ],
+            "subtitle": "Timedance at Open Ground"
+          },
+          {
+            "name": "ANNEX",
+            "slots": [
+              {
+                "bio": "Ananda priori is a DJ from Cologne and resident at Tresor West in Dortmund since 2024. Having played in and around the city, ananda has built a solid reputation in Cologne’s scene. Musically, ananda moves between techno, dub and progressive house, whether it’s old-school or new-school.",
+                "city": "Cologne",
+                "name": "ananda priori",
+                "time": null
+              },
+              {
+                "bio": "Coming from a diverse musical background, South African artist Deano was immersed in his local music scene from a young age. Having experienced live music and nightlife in different forms, the scope of his output has organically expanded with time. As something of a creative chameleon, his productions and DJ sets span house, techno and the unique crevices in-between.\n\nFrom running a label and events series, to curating and designing most of his own visual content, his ethos has always been firmly rooted in DIY. He has numerous solo EPs and singles under his belt on a diversity of labels such as Hayes, Hardgroove, Symbolism, Sungate and Khidi, some of which have included an equally diverse array of remixes from the likes of Mark Broom, Luke Hess, Tripeo, Deniro and more.",
+                "city": "Cape Town",
+                "name": "Deano",
+                "time": null
+              },
+              {
+                "bio": "Hailing from Berlin, FForm is an upcoming DJ and producer and a member of instinkt lab. As an emerging artist, he is shaping a personal sound rooted in analog synthesis, focusing on depth, texture, and hypnotic progression. His productions are characterized by a strong affinity for analog synthesizers, resulting in rich textures, organic depth, and a raw yet refined minimalistic sound aesthetic. In his DJ sets, he dives into deep and hypnotic territories,\ncarefully shaping energy through a dynamic interplay of tension and release.",
+                "city": "Berlin",
+                "name": "FForm",
+                "time": null
+              }
+            ],
+            "subtitle": "Instinkt Lab at Open Ground"
+          }
+        ]
+      },
+      "floors": [
+        {
+          "artists": [
+            "..."
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "ananda priori",
+            "Deano",
+            "FForm"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2026-11-21",
+      "ticket": {
+        "state": "onsale",
+        "url": "https://shop.weeztix.com/5fe457d7-5f98-4027-bf7a-d8f6992bf422/tickets"
+      },
+      "time": "22:00–06:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2026-11-21"
+    },
+    {
+      "category": "Clubnight",
+      "date_iso": "2026-11-28",
+      "date_label": "Sat.28.11.26",
+      "detail": {
+        "description": "Admission 20 € / before 23:00 15 €",
+        "floors": [
+          {
+            "name": "FREIFELD",
+            "slots": [
+              {
+                "bio": null,
+                "city": null,
+                "name": "...",
+                "time": null
+              }
+            ],
+            "subtitle": null
+          },
+          {
+            "name": "ANNEX",
+            "slots": [
+              {
+                "bio": "GHOST DUBS gained international recognition in 2024 with the album Damaged, released on The Bug's PRESSURE label. He crafted a wholly original fusion of low-end pressure, live dub techniques, and industrial sound aesthetics, which was also inspired by traditional dub, roots, dub techno, shoegaze, and drone, and captured many listeners' attention with futuristic sound design and mesmerising, slow-mo dubbed gyrations. Continuing this evolution, his follow-up album Oblique will arrive in September 2026, likewise on Pressure Records.",
+                "city": null,
+                "name": "Ghost Dubs (live)",
+                "time": null
+              },
+              {
+                "bio": "Mogol Soundsystem Crew is the connection between DIY soundsystem culture and electronic underground club sound. The project started out with the idea to open up the local bass music scene in Wuppertal by building a precise and sub-oriented system and doing parties with it, connecting the scene. Over time, a solid crew of regular selectors formed around the system, each one with their own distinctive approach to the art of selection - ranging from deep dub and heavyweight steppers to broken UK rhythms, experimental electronics, and driving 4x4 basslines, always rooted in soundsystem culture and a shared love for low frequencies.\n\nSince the construcion of the first speaker in early 2024, the Soundsystem was featured at multiple cultural hotspots of Wuppertal and the surrounding area, delivering proper sound to the city, while creating a community for like-minded people. The selectors came together at several occasions to host parties in the city and did events at local spots like bars, Loch, the Café23 or at Open Ground Clubnights.",
+                "city": "Wuppertal",
+                "name": "Mogol Soundsystem Crew",
+                "time": null
+              }
+            ],
+            "subtitle": "Mogol Soundsystem at Open Ground"
+          }
+        ]
+      },
+      "floors": [
+        {
+          "artists": [
+            "..."
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Ghost Dubs (live)",
+            "Mogol Soundsystem Crew"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2026-11-28",
+      "ticket": {
+        "state": "onsale",
+        "url": "https://shop.weeztix.com/1cae2976-8e2e-4839-b27b-40b342571660/tickets"
+      },
+      "time": "22:00–06:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2026-11-28"
     }
   ],
-  "scraped_at": "2026-09-04T04:39:22+00:00"
+  "scraped_at": "2026-09-04T11:23:29+00:00"
 }
