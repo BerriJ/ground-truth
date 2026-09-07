@@ -9447,13 +9447,13 @@
                 "bio": "The British-born, Berlin-based artist Sam Barker has long sought to push the boundaries of electronic music, in and out of the club. Looking beyond the realm of 4/4 techno to explore left-field sound design and rhythmic complexity, the Berghain resident’s string of signature solo releases for the club’s Ostgut Ton imprint and Smalltown Supersound – including Debiasing, Utility, and 2025's Stochastic Drift – have earned widespread acclaim from the underground to the mainstream and everything in between.\n\nBarker’s musical focus continues to be on the peak-time dancefloor potential of ambient music as he works on another album and label. Operating on the periphery of club music, he continues to shift its centre.",
                 "city": "Berlin",
                 "name": "Barker",
-                "time": null
+                "time": "23:00"
               },
               {
                 "bio": "Rene Wise’s approach to writing music and DJing fuses together as one concept; tapping into primal human instinct via rhythm and groove.\nWise portrays a deep sense of knowledge and maturity in his sound, devising atmospheric soundscapes with a raw but modern touch, captivating the listener from beginning to end. His sets demonstrate this to full effect, consistently maintaining a powerful sonic trademark whilst possessing the innate ability to create hip-shaking poly-rhythms and multi-deck layers.",
                 "city": "Lisbon",
                 "name": "Rene Wise",
-                "time": null
+                "time": "02:00"
               }
             ],
             "subtitle": null
@@ -9462,28 +9462,34 @@
             "name": "ANNEX",
             "slots": [
               {
+                "bio": null,
+                "city": null,
+                "name": "Jahtari DJs",
+                "time": "22:00"
+              },
+              {
                 "bio": "Alien Trackers is a\nlive dub project\nby cosmic trumpet specialist Pablo Volt and Jahtari space ship mechanic disrupt, landing right in the sweet spot between soulful Black Ark-warmth, digital Firehouse dancehall hitters and Jahtarian Dub psychedelics. Multi-instrumentalist and producer Pablo Volt is closely linked to the contemporary improvisational music scene in Barcelona and has explored DIY production at all levels. As a dub and jazz trumpet expert he relased a string of LPs, incl. classic albums with local Dub legends STA. He also has a duo with J.G.G, another with Tomás Spicolli and a trio with Mark Cunningham, among many other projects.",
                 "city": "Barcelona",
                 "name": "Alien Trackers (live)",
-                "time": null
-              },
-              {
-                "bio": "With a background in breakcore, weirdo electronic music and a love for video game soundtracks disrupt and a trashy laptop set out on a mission to unite bits and bytes with the goodness of DUB back in 2003. Since then the Jahtari label has been spreading its distinctive brand of heavyweight 8-bit digi-dub from Leipzig all over the world. Deep, Tuff…but not-too-serious at the same time, the label's “digital laptop reggae” sound has gone on to become a sub genre within the sound system sphere in itself.\n\ndisrupt brings his Gameboy and Laptop to run riddims King Jammy style for an extended dubbed out live session.",
-                "city": "Leipzig",
-                "name": "Disrupt (live)",
-                "time": null
+                "time": "01:00"
               },
               {
                 "bio": "Originally hailing from South London, Tapes made his debut release on esteemed 8-bit digital reggae label Jahtari in 2009 with the “Hissing Theatricals” EP. In the 15 years since, a wide variety of releases continued on a host of acclaimed labels: Soon after, a spate of releases and appearances continued on labels such as Honest\nJons, Sextags, Astro:dynamics,Meeuw Musak, Porridge Bullet, EM Records, Research Records, Good Morning Tapes and Cav Empt. He has also toured as a DJ and Live performer extensively world wide and hosts regular “all night long” sessions in Tallinn, where he now resides.\n\nRecently, and in cellebration of the labels 20th anniversary, Tapes returned to Jahtari with “Photos of my Frog EP“. The records four amphibious instrumental scorchers with two accompanying 8-bit versions have become the bed-rock of his current live sets, mixing these up with other unreleased dubplate versions of Tapes tunes new and old.\n\nTapes is a musician who continues to follow his own eccentric compass – guided by tape hiss, digital ghosts, and an unshakable fascination with the small, strange beauties of the everyday.",
                 "city": "Tallinn",
                 "name": "Tapes (live)",
-                "time": null
+                "time": "02:00"
+              },
+              {
+                "bio": "With a background in breakcore, weirdo electronic music and a love for video game soundtracks disrupt and a trashy laptop set out on a mission to unite bits and bytes with the goodness of DUB back in 2003. Since then the Jahtari label has been spreading its distinctive brand of heavyweight 8-bit digi-dub from Leipzig all over the world. Deep, Tuff…but not-too-serious at the same time, the label's “digital laptop reggae” sound has gone on to become a sub genre within the sound system sphere in itself.\n\ndisrupt brings his Gameboy and Laptop to run riddims King Jammy style for an extended dubbed out live session.",
+                "city": "Leipzig",
+                "name": "Disrupt (live)",
+                "time": "03:00"
               },
               {
                 "bio": null,
                 "city": null,
                 "name": "Jahtari DJs",
-                "time": null
+                "time": "04:00"
               }
             ],
             "subtitle": "Jahtari at Open Ground"
@@ -9500,10 +9506,10 @@
         },
         {
           "artists": [
+            "Jahtari DJs",
             "Alien Trackers (live)",
-            "Disrupt (live)",
             "Tapes (live)",
-            "Jahtari DJs"
+            "Disrupt (live)"
           ],
           "name": "ANNEX"
         }
@@ -9583,25 +9589,25 @@
                 "bio": "Errol is one of the UK's most compelling, contemporary musical voices: DJ, NTS Radio staple, cultural curator, community builder and founder of forward-thinking musical movement, Touching Bass.\n\nAs a DJ, he's known for his beautifully loose, searching and soulful sets; unrestricted by genre and anchored by groove. Stepping into 2026 with a blossoming reputation for fostering thoughtful, soulful experiences; both on the dancefloor and across world-renowned cultural spaces. From residencies at Corsica Studios/The Carpet Shop, moments at Open Ground, Panorama Bar, Nowadays and Public Records to his curatorial prowess at the Barbican Centre (an ongoing residency), Frieze Week, Lisson Gallery and Le Guess Who? Festival to name a few.\n\nAll this while Touching Bass — the London-based musical movement encompassing an award-nominated record label, club night, concert series, staple NTS Radio show and curatorial studio — continues to slow cook. Internationally known for its dedication to tastemaking musical eclecticism, intention and community spirit.",
                 "city": "London",
                 "name": "Errol",
-                "time": null
-              },
-              {
-                "bio": "The Tottenham London born-and-bred selector grew up on soul and reggae, later becoming a dedicated junglist. First as a resident DJ at the legendary London club Plastic People, she’s built a rep as one of the most effective and interesting DJs around. Playing shape-shifting, genre-bending sets that effortlessly move from classic rare groove and disco records to upfront house and techno, via garage, jungle and whatever else she feels like. With no social media presence, Josey’s reputation is based on selection, passion and authenticity.",
-                "city": "London",
-                "name": "Josey Rebelle",
-                "time": null
-              },
-              {
-                "bio": "Mali Larrington-Nelson AKA Shy One lives and breathes the eclecticism and diversity of her DJ sets and productions. Having started off DJing on pirate radio as a teenager, Shy One has been exposed to and influenced by the full spectrum of sounds her hometown of London has birthed and nurtured over the years. As with many young Londoners at the time, grime and the wider family of indigenous London club music was what gave Shy One the passion to pursue music as more than a pastime. Obsessively collecting white labels by some of her local production heroes quickly developed into obsessively making beats in Fruity Loops for a handful of local MCs bubbling up in Harrow, the North West London borough she grew up in. Undeterred by those in the scene who called her beats “weird” or “different”, Shy One ploughed on carving out her own sound which eventually caught the ear of Scratcha DVA, who went on to release the Decaffeinated Love EP and her debut LP, Bedknobs and Boomkicks, on his now renowned DVA Music imprint.",
-                "city": "London",
-                "name": "Shy One",
-                "time": null
+                "time": "22:00"
               },
               {
                 "bio": "Viola Klein’s records are supremely earthy and astrally inclined. In her DJ sets, she navigates with harmonies through a music selection that combines experimental house from the US Midwest, West African polyrhythms, and music in the tradition of Can from Cologne. „DJ Viola Klein’s R’nB-infused house cuts had the crowd swooning.“ Crack Magazine",
                 "city": "Cologne",
                 "name": "Viola Klein",
-                "time": null
+                "time": "00:00"
+              },
+              {
+                "bio": "Mali Larrington-Nelson AKA Shy One lives and breathes the eclecticism and diversity of her DJ sets and productions. Having started off DJing on pirate radio as a teenager, Shy One has been exposed to and influenced by the full spectrum of sounds her hometown of London has birthed and nurtured over the years. As with many young Londoners at the time, grime and the wider family of indigenous London club music was what gave Shy One the passion to pursue music as more than a pastime. Obsessively collecting white labels by some of her local production heroes quickly developed into obsessively making beats in Fruity Loops for a handful of local MCs bubbling up in Harrow, the North West London borough she grew up in. Undeterred by those in the scene who called her beats “weird” or “different”, Shy One ploughed on carving out her own sound which eventually caught the ear of Scratcha DVA, who went on to release the Decaffeinated Love EP and her debut LP, Bedknobs and Boomkicks, on his now renowned DVA Music imprint.",
+                "city": "London",
+                "name": "Shy One",
+                "time": "02:00"
+              },
+              {
+                "bio": "The Tottenham London born-and-bred selector grew up on soul and reggae, later becoming a dedicated junglist. First as a resident DJ at the legendary London club Plastic People, she’s built a rep as one of the most effective and interesting DJs around. Playing shape-shifting, genre-bending sets that effortlessly move from classic rare groove and disco records to upfront house and techno, via garage, jungle and whatever else she feels like. With no social media presence, Josey’s reputation is based on selection, passion and authenticity.",
+                "city": "London",
+                "name": "Josey Rebelle",
+                "time": "04:00"
               }
             ],
             "subtitle": "Touching Bass at Open Ground"
@@ -9613,25 +9619,25 @@
                 "bio": "As Wupperal born native of the 90s, Danyon was not only deeply influenced by his fathers vinyl and electronic music collection, but also the upcoming years of clubbing and DJing from 2013 onwards. His sound most likely be described as percussion-rich, with rumbling base-lines right up to broken beat techno.",
                 "city": "Wuppertal",
                 "name": "Danyon",
-                "time": null
+                "time": "22:00"
               },
               {
                 "bio": "Mexem has been active in Wuppertal’s underground music scene for over a decade. Whether performing in clubs or crafting live sets, his work is defined by a distinctive approach to sound design, groove, and the dynamic tension between melancholy and euphoria. His sets weave together ambient textures, deep dubstep, and intricate shades of jungle and drum & bass—always grounded in his unmistakable sonic identity, with deep, driving techno as the foundation. Mexem’s music draws listeners into a trance-like state and guides them through a rich, transformative journey.",
                 "city": "Wuppertal",
                 "name": "Mexem (live)",
-                "time": null
+                "time": "00:00"
               },
               {
                 "bio": "Rosa, now based in Rotterdam, found creative ways to thrive at night in her former hometown by organizing free outdoor parties and founding the collective Rooibosch. She later started Draaisessies in Tilburg: a community hub offering free music production and DJ lessons to local youth. Rosa’s musical style blends diverse rhythms and genres; focusing on bass-heavy, percussion-driven tracks in club settings, while her radio show Work in Progress on Operator features warm, experimental music for relaxed listening.",
                 "city": "Rotterdam",
                 "name": "Rosa",
-                "time": null
+                "time": "01:00"
               },
               {
                 "bio": "KØKØ, born and based in Wuppertal, is one of the founders of the Sequence Collective. He draws inspiration from the atmospheric styles of the techno scene of the 2010s. His sound is a fusion of deep, ambient textures and driving beats, influenced by immersive, hypnotic and dynamic elements.",
                 "city": "Wuppertal",
                 "name": "Køkø",
-                "time": null
+                "time": "03:00"
               }
             ],
             "subtitle": "Sequence at Open Ground"
@@ -9642,9 +9648,9 @@
         {
           "artists": [
             "Errol",
-            "Josey Rebelle",
+            "Viola Klein",
             "Shy One",
-            "Viola Klein"
+            "Josey Rebelle"
           ],
           "name": "FREIFELD"
         },
@@ -9719,19 +9725,19 @@
                 "bio": "Luna Ludmila (Utrecht, NL) has spent the past two decades shaping her distinct sound as a DJ and producer. Blending dub-inspired grooves, dusty house records, and intricate tribal rhythms, she crafts hypnotic sonic journeys that captivate dance floors. A staple in the Dutch electronic music scene, Luna has played at renowned clubs and events such as Breakfast Club, Is Burning, VBX, Lofi and De School. Her international presence has taken her to iconic venues like Tresor, Club der Visionaere, Lux Frágil and Macadam. In 2023, she debuted her first-ever live club set at the revered Bassiani, marking a new chapter in her artistic evolution. Since then, she has played live at STOOR at Paradiso, BRET, WAS., and festivals including La Nature (BE) and Drift.\n\nBeyond the dancefloor, Luna Ludmila continues to push artistic boundaries. After earning a degree in composition and sound design at the HKU in 2021, she expanded her focus to ambient/downtempo music, and interdisciplinary collaborations. In November 2024, she premiered her first audiovisual performance with visual artist Grigory Gromov at Podium Victorie in The Netherlands. Another standout moment was her sold out ambient live performance during ZERO BPM at the Thomaskerk in Amsterdam.\n\nWhile performing is a deep passion, Luna spends most of her time in the studio, exploring the nuances of sound design and rhythmic complexity. Her fascination with layering textures and experimenting with intricate beats has led to releases on esteemed labels such as SoHaSo and Berg Audio. Whether behind the decks, crafting ambient journeys, or pushing boundaries with multidisciplinary performances, Luna Ludmila continues to evolve, creating a sound that is both timeless and forward-thinking.",
                 "city": "Utrecht",
                 "name": "Luna Ludmila",
-                "time": null
+                "time": "22:00"
               },
               {
                 "bio": "“Extremely versatile, endlessly curious about music and machines, yet always modest and self-critical.” That’s how friends and fellow artists often describe Steve Rachmad.\nOver the years, the Amsterdam producer has created a constellation of aliases to reflect the breadth of his musical ideas. Each name represents a different facet of his sound — a way to explore distinct territories within electronic music. Several of these identities have taken on lives of their own in the DJ booth.\n\nOne of the key characters in this universe is Parallel 9. With this alias, Rachmad explores the deeper and more hypnotic edges of electronic music. A Parallel 9 set is a journey through timeless depth — drawing from vintage deep house, dub-infused techno and productions by kindred spirits who share a fascination for the more immersive side of the underground.\n\nParallel 9 reveals yet another dimension of Rachmad’s musical language: subtle, hypnotic and emotionally rich. Whether it’s a decades-old classic or a new production, the music speaks the same vocabulary —depth, honesty and profound love for the craft.\n\nIn 2026, as Steve Rachmad marks 45 years devoted to music, the Parallel 9 alias will appear at selected moments in selected locations. This includes Kynant showcases at Panoramabar in Berlin and Open Ground in Wuppertal, as well as the 9 Years Blitz celebration in Munich.\n\nBritish-Nigerian DJ and curator Richard Akingbehin is the co-founder of Berlin-based radio station Refuge Worldwide, and the founder of techno, dub and experimental label Kynant Records. His DJ sets move between dub techno,house and ambient, with soundsystem culture as the founding influence.",
                 "city": "Amsterdam / Berlin",
                 "name": "Parallel 9 b2b Richard Akingbehin",
-                "time": null
+                "time": "00:30"
               },
               {
                 "bio": "As a DJ, Altinbas is known for Challenging the limits of modern techno. Crafting captivating journeys that explore the common threads and connective tissue between his carefully-selected cuts.\nThrough his mixes, he’s become known for a sound built on layered beats and rapidly shifting dynamics, where even familiar tracks feel fresh in the fabric of his sonic narratives.",
                 "city": "Brussels",
                 "name": "Altinbas",
-                "time": null
+                "time": "03:30"
               }
             ],
             "subtitle": "Kynant at Open Ground"
@@ -9743,19 +9749,19 @@
                 "bio": "Phonetisch Athletisch startet as a radio session on dublab DE and follows the idea of staying musically open and flexible - somewhere between Disco, Boogie and Funk and whatever feels right at the time.\n\nChiara is a DJ based in Cologne and part of the dublab team. Drawn to textured, atmospheric grooves, she also enjoys exploring a wide range of musical directions. Her sets are shaped by the mood of a space, translating moments and emotions into sound.\n\nRuben Nicolas has been part of the dublab.de community for years. With roots in Funk, Disco, Jazz and Hip Hop, his musical perspective has gradually expanded towards late-'90s and early-2000s Electronica, Downtempo and Organic House. Drawn to grooves, textures and timeless rhythms, he enjoys connecting different musical worlds and finding unexpected links between the familiar and the overlooked. His selections move fluidly between warm, soulful moments and deeper electronic excursions, always guided by curiosity and a sense of flow.",
                 "city": "Cologne",
                 "name": "Prima Gentle Phonetics",
-                "time": null
+                "time": "22:00"
               },
               {
                 "bio": "Only a handful of years in, and Mankiyan is already taking Belgium by storm.\n\nA sure favourite of the scene, this powerhouse of the new generation is marking her territory.\n\nMankiyan’s mixes are full of depth, spatiality and intuition, spanning across heady dub, rave, UK bass and grime.\n\nShe toys with complex rhythm sequences and easily switches genres, with healthy splashes of bright twists – but always with an impeccable sense of pace and flow.\n\nMankiyan is injecting community-driven, unpretentious and unadulterated love for rave culture back into nightlife.",
                 "city": "Brussels",
                 "name": "Mankiyan",
-                "time": null
+                "time": "00:30"
               },
               {
                 "bio": "For over 10 years, Cologne-based C U SOON has been spinning the decks. Before that, he spent years playing in brass ensembles – from orchestras and quintets to solo performances – which led him to try out DJing after his first experiences at electronic parties. Through creating parties and working with different projects in DUS/AC/CGN, he has found diverse styles for different occasions – from ambient and OG house beats to techy electronic drives. Always surprising – mostly delighting.\n\nFlorian, aka Ghiro, is a Cologne-based filmmaker, DJ and member of the community radio station dublab.de. Back in 2017, he co-founded the bass music event series Basskombüse in Mönchengladbach — at a time when bass music felt far from the spotlight. With roots in soulful and deep Drum & Bass, his musical language has gradually opened up towards Jungle, Dubstep, Dub Techno, House, and more experimental forms of electronic music. A strong sense of storytelling also shapes his approach to DJing. His sets bring together pulse, warmth, and subtle shifts in energy, balancing organic sounds with unexpected turns and long-form flow.",
                 "city": "Cologne",
                 "name": "C U SOON b2b Ghiro",
-                "time": null
+                "time": "03:00"
               }
             ],
             "subtitle": "Dublab at Open Ground"
@@ -10785,5 +10791,5 @@
       "url": "https://www.openground.club/en/schedule/2026-11-28"
     }
   ],
-  "scraped_at": "2026-09-07T04:48:11+00:00"
+  "scraped_at": "2026-09-07T12:40:22+00:00"
 }
