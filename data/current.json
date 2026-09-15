@@ -9800,7 +9800,7 @@
       "date_iso": "2026-10-01",
       "date_label": "Thu.01.10.26",
       "detail": {
-        "description": null,
+        "description": "We are looking for rising and beginner DJs and selectors from NRW and surrounding areas to be part of our upcoming\nOpen\nLobby on Thursday, October 1st.\nDrop us a few lines and tell us a little about yourself, your background, and what motivates you. And don’t forget to share some of your mixes with us too!\nWe’re accepting submissions\nuntil Friday, September 25th.\nopenlobby@openground.club",
         "floors": [
           {
             "name": "LOBBY + ANNEX",
@@ -9808,7 +9808,7 @@
               {
                 "bio": null,
                 "city": null,
-                "name": "...",
+                "name": "Open Call",
                 "time": null
               }
             ],
@@ -9819,7 +9819,7 @@
       "floors": [
         {
           "artists": [
-            "..."
+            "Open Call"
           ],
           "name": "LOBBY + ANNEX"
         }
@@ -10021,6 +10021,24 @@
       "time": "21:00–06:00",
       "title": null,
       "url": "https://www.openground.club/en/schedule/2026-10-03"
+    },
+    {
+      "category": "Workshop",
+      "date_iso": "2026-10-03",
+      "date_label": "Sat.03.10.26",
+      "detail": {
+        "description": "Creative Process & Sonic Storytelling in Ableton Live\n\nWorkshop with Piccell (Barulho World)\n\nIn this artist-led workshop, Piccell offers an insight into his creative process, sharing the workflows and techniques behind his productions in Ableton Live. Through live demonstrations, he will explore his approach to composition, arrangement and sound design, showing how ideas evolve into finished tracks.\n\nThe session focuses on developing a personal creative practice through experimentation, intuition and sonic storytelling, while offering practical tools that participants can apply to their own music-making.\nWe will also have a couple of Ableton Move there for participants to try.\nRegistration via the sign-up form:\nhttps://forms.gle/ypCoackMAMxzviZSA\nSupported by Ableton",
+        "floors": []
+      },
+      "floors": [],
+      "id": "2026-10-03-creative-process-und-sonic-storytelling-in-ableton",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": "19:15–20:45",
+      "title": "Creative Process & Sonic Storytelling in Ableton Live",
+      "url": "https://www.openground.club/en/schedule/2026-10-03-creative-process-und-sonic-storytelling-in-ableton"
     },
     {
       "category": "Open Lobby",
@@ -10791,5 +10809,5 @@
       "url": "https://www.openground.club/en/schedule/2026-11-28"
     }
   ],
-  "scraped_at": "2026-09-15T04:59:35+00:00"
+  "scraped_at": "2026-09-15T11:51:46+00:00"
 }
