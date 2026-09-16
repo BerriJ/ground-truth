@@ -10341,7 +10341,7 @@
       "date_iso": "2026-10-24",
       "date_label": "Sat.24.10.26",
       "detail": {
-        "description": "Admission 20 € / before 23:00 15 €",
+        "description": "Freifeld:\n\n„I'm super excited to announce that my label Kapsela (@kapselarecords) will be hosting a label night at @openground.club on 24 October, with Djrum, Sepehr and me playing alongside Open Ground resident Elke. The Illusion crew will be hosting the Annex room.\n\nOpen Ground is the real deal - it's an incredible space with a wonderful team behind it, and hearing that soundsystem is a quasi-religious experience that fully lives up to the hype. I was blown away when I played there last year and can't wait to come back with some Kapsela friends and check out its latest iteration (which by all accounts is better still).“ -Objekt\n\nAdmission 20 € / before 23:00 15 €",
         "floors": [
           {
             "name": "FREIFELD",
@@ -10598,8 +10598,8 @@
       ],
       "id": "2026-11-07-deep-medi-at-open-ground",
       "ticket": {
-        "state": "onsale",
-        "url": "https://shop.weeztix.com/c23cac58-fb71-48a5-8dab-98c59f211ff9/tickets"
+        "state": "soldout",
+        "url": null
       },
       "time": "18:00–06:00",
       "title": "Deep Medi at Open Ground",
@@ -10809,5 +10809,5 @@
       "url": "https://www.openground.club/en/schedule/2026-11-28"
     }
   ],
-  "scraped_at": "2026-09-16T04:53:59+00:00"
+  "scraped_at": "2026-09-16T11:42:11+00:00"
 }
