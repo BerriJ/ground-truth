@@ -10616,9 +10616,15 @@
             "name": "FREIFELD",
             "slots": [
               {
-                "bio": null,
-                "city": null,
-                "name": "...",
+                "bio": "Josh Caffe has spent the last decade on a breathless trip through the fringes of London’s shifting house and techno continuum. As a DJ, singer/songwriter, producer and activist of British-Ugandan descent, Caffe’s influence has been felt everywhere from institutions such as Panorama bar and Adonis to his own Love Child party, curated at Fabric, where Caffe holds an influential residency.\nHaving forged an intimate connection with dancers across the sphere of underground house and techno, whether on the dancefloor and on record, on the mic or in the booth, in the grimiest of clubs or owning festival stages, Josh Caffe’s attitude and talent continues to inspire radical freedom.\n\nTasha’s DJing style weaves tunes together seamlessly from her bass informed home of the UK alongside four four techno forms born in Berlin and Detroit. With an accomplished and atmospheric hold on the dancefloor expect upfront cuts mixed in with some old gems and other styles in between like D&B / Jungle. In an industry where artists are asked to prioritize their art for social media presence, likes and other vacuous pursuits, Tasha is very much in demand for her ‘music first’ attitude, selection and ability.",
+                "city": "London",
+                "name": "Josh Caffé b2b Tasha",
+                "time": null
+              },
+              {
+                "bio": "Co-operator and representative of ACTING PRESS, a project engineering audiovisual works since 2015. AP is home to solo [PLO’] and collaborative music [with C3D-E, INTe*ra, Globex, CC Not].\n\nIn-game DJ experience [Europe, N.A, Asia, Oceania]: ballpark 15 years. Currently based in Berlin.\n\nOne-time host of PLO Radio, aired on the now defunct Berlin Community Radio from 2013 – 2019. Transmission has since come by way of Lot Radio, Refuge Worldwide,\nRinse.fm\n, IDA, NTS, etc.\n\nFor DJ recordings, kindly refer to sessions archived and distributed on tape [most recently Cav Empt, CESAR35, CESAR08], CD [ACTING PRESS, Terraforma], and Web [Youtube].\n\nBryan Müller has consistently produced some of the most inspired electronic music around over the past decade.\n\nHis 4 albums and 10 EPs, released on Ilian Tape, and countless remixes have become part of the lineage of electronic music thanks to Müller’s natural ability to bring new energy to what has gone before.\n\nSkee Mask’s clean and surgical yet immersive and deep production and his eclectic, genre-crossing DJ sets have positioned him as one of the most intriguing and sought-after artists in the electronic music scene.\n\nSkee Mask’s approach to both production and DJing brings a sensitivity and authenticity which hits a sweet spot, as noted in Pitchfork’s review of his incredible 2018 album Compro:\n\n“For a young talent like Munich producer Bryan Müller (aka Skee Mask), a challenge emerged: how to engage with the beloved, vast ’90s dance canon of hardcore music, Amen breaks, and ambient techno, without resorting to facile nostalgia. The best Skee Mask songs do exactly this; they don’t sound quite like anything else”",
+                "city": "Berlin / Munich",
+                "name": "PLO Man b2b Skee Mask",
                 "time": null
               }
             ],
@@ -10653,7 +10659,8 @@
       "floors": [
         {
           "artists": [
-            "..."
+            "Josh Caffé b2b Tasha",
+            "PLO Man b2b Skee Mask"
           ],
           "name": "FREIFELD"
         },
@@ -10756,9 +10763,21 @@
             "name": "FREIFELD",
             "slots": [
               {
-                "bio": null,
-                "city": null,
-                "name": "...",
+                "bio": "The Tottenham London born-and-bred selector grew up on soul and reggae, later becoming a dedicated junglist. First as a resident DJ at the legendary London club Plastic People, she’s built a rep as one of the most effective and interesting DJs around. Playing shape-shifting, genre-bending sets that effortlessly move from classic rare groove and disco records to upfront house and techno, via garage, jungle and whatever else she feels like. With no social media presence, Josey’s reputation is based on selection, passion and authenticity.",
+                "city": "London",
+                "name": "Josey Rebelle",
+                "time": null
+              },
+              {
+                "bio": "Robert Bergman, also known as ‘Chu-hi master’ in some parts of the planet, has spentwell over a decade and a half collecting and playing out records. Mixing differentmuzique with disregard for genre or style, all the good things are good to him. This approach has seen him do shows on all different places on the planet such as Detroit, Los Angeles, Japan, Berlin, Australia and throughout all of Europe.",
+                "city": "Amsterdam",
+                "name": "Robert Bergman (live)",
+                "time": null
+              },
+              {
+                "bio": "ROD is the techno alias of Rotterdam artist Benny Rodrigues.",
+                "city": "Rotterdam",
+                "name": "ROD",
                 "time": null
               }
             ],
@@ -10787,7 +10806,9 @@
       "floors": [
         {
           "artists": [
-            "..."
+            "Josey Rebelle",
+            "Robert Bergman (live)",
+            "ROD"
           ],
           "name": "FREIFELD"
         },
@@ -10809,5 +10830,5 @@
       "url": "https://www.openground.club/en/schedule/2026-11-28"
     }
   ],
-  "scraped_at": "2026-09-17T04:57:23+00:00"
+  "scraped_at": "2026-09-17T11:47:27+00:00"
 }
