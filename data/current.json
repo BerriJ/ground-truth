@@ -9838,7 +9838,7 @@
       "date_iso": "2026-10-02",
       "date_label": "Fri.02.10.26",
       "detail": {
-        "description": "A special collaboration between Open Ground and YAYA.\nAnnex: COSMO Club is back at Open Ground, this time again in the intimate and bass heavy setting of Annex. The clubnight of public radio station COSMO has ever since operated on the frontier of global dance music regularly introducing bubbling styles from the southern hemisphere for the first time to Germany. Be prepared for a night with the COSMO djs and their guests straight from the heart of innovative music communities worldwide full of suprises, new riddims and an unmatched energy on the dancefloor.\nAdmission 20 €",
+        "description": "Freifeld: YAYA is a collective and formation founded in Wuppertal and living all over NRW.\n\nFor the past eight years, the crew has been evolving and creating their own formats to give a platform to artists who are less represented in the cultural sector.\n\nYAYAs share a commitment to creating music and art events in a safer environment, with lots of care for the people we invite, the people who come and the music we love.\n\nYAYA spaces live through mutual respect, empathy and understanding among everyone present.\n\nCome cute, come kind.\n\nLive laugh love the YAYA life :)\n\nAnnex: COSMO Club is back at Open Ground, this time again in the intimate and bass heavy setting of Annex. The clubnight of public radio station COSMO has ever since operated on the frontier of global dance music regularly introducing bubbling styles from the southern hemisphere for the first time to Germany.\n\nBe prepared for a night with the COSMO djs and their guests straight from the heart of innovative music communities worldwide full of suprises, new riddims and an unmatched energy on the dancefloor.\nAdmission 20 €",
         "floors": [
           {
             "name": "FREIFELD",
@@ -9847,25 +9847,25 @@
                 "bio": "CHUTE (@chute.cgn) will make sure that not only your ears will guide you to the dancefloor - the place where Lina has felt most at self. Forever thankful for these moments of body and music aligned, CHUTE invites you to flow, groove, move and shake some valuable body parts to a sound fluidly manoeuvring through a selection of Deep House, Breakbeat, UK Garage, Global Bass and experimental Polyrhythms - at times queer-feminist vocals sprinkled on top. CHUTE owns a playful approach to the art of mixing and aims for an empowering, energetic, if you need emotionally enthralling experience. Bring IT to the floor and take with you whatever you need.",
                 "city": "Cologne",
                 "name": "Chute",
-                "time": null
+                "time": "22:00"
               },
               {
                 "bio": "Drawing from her classical guitar training and eclectic musical influences spanning RnB, HipHop, and Rock, Gîn seamlessly merges genres in her sets and productions. Her sonic palette knows no bounds, encompassing Bass, South American Techno, Jungle, Moombahton, HipHop, Classical, Deconstructed Club, Grime, Industrial, and Kurdish Pop.\n\nno:elia made her debut in the club scene in late 2022. With a background in hip hop, soul and R&B, she uses rhythm-based beats, UK Bass and percussive elements to energise her audiences. She leans towards artists whose backgrounds and lifestyles mirror her own ideals.",
                 "city": "Wuppertal / Berlin",
                 "name": "Gîn Balî b2b no:elia",
-                "time": null
+                "time": "23:30"
               },
               {
                 "bio": "Crate digging from both the internet and the archive, DJ Swisha’s sound is a high-energy, intertextual exploration of club music history — a playful fusion that cuts across aggressive footwork, Jersey club, soundcloud rap, house, jungle and techno, pulling these strands into a cohesive, dancefloor‐ready sound.",
                 "city": "New York City",
                 "name": "DJ Swisha",
-                "time": null
+                "time": "02:00"
               },
               {
                 "bio": "it was only six years ago that ALBA went on to conquer the dj scene in nuernberg, her home town. aside from many dj gigs at many cultural city hotspots she also founded her own club night there: GOODIES. ALBA is now based in munich and works there part time as a music journalist and as a DJ. she plays gigs all over germany and has a monthly show at the community radio radio80000. ALBAs selection is diverse: her style goes from house to baile to bass to breakbeats to afro to baltimore club - but everything is always connected with and through hiphop/rnb, her musical heart and home. ALBAs energy behind the decks is impeccable and translates easy to her listeners.",
                 "city": "Munich",
                 "name": "Alba",
-                "time": null
+                "time": "04:00"
               }
             ],
             "subtitle": "YAYAcrew at Open Ground"
@@ -9874,34 +9874,34 @@
             "name": "ANNEX",
             "slots": [
               {
-                "bio": "24/7 diggin’ into music cultures around the globe - at daytime she works as a music journalist and radio presenter, at night she becomes A-Lo behind the decks. A dj with a true passion and an mindbending range from bailefunk to guarachaton, neoperreo and various cumbia styles.",
-                "city": "Germany",
-                "name": "A-Lo",
-                "time": null
-              },
-              {
-                "bio": "DJ, music-curator and host of the COSMO DJ Sessions – since two decades Daferwa has played global electronic music with a contemporary twist. With a keen sense of rhythmic diversity and cultural influences he unites the sounds of the transatlantic diaspora on the dancefloor.",
-                "city": "Cologne",
-                "name": "Daferwa",
-                "time": null
-              },
-              {
-                "bio": "Best known for his intense and uplifting sets in the clubs of Cologne Uh-Young Kim interweaves funky riddims with deep grooves and timeless rave signals. Under the moniker Dub Kimski he traces dance music culture back to its origins in Jamaican studios and embraces its sonic offsprings from Detroit via London to Durban building up any floor into a blissful frenzy.",
-                "city": "Cologne",
-                "name": "Dub Kimski",
-                "time": null
+                "bio": "24/7 diggin’ into music cultures around the globe - at daytime she works as a music journalist and radio presenter, at night she becomes A-Lo behind the decks. A dj with a true passion and an mindbending range from bailefunk to guarachaton, neoperreo and various cumbia styles.\n\nDJ, music-curator and host of the COSMO DJ Sessions – since two decades Daferwa has played global electronic music with a contemporary twist. With a keen sense of rhythmic diversity and cultural influences he unites the sounds of the transatlantic diaspora on the dancefloor.",
+                "city": "Germany / Cologne",
+                "name": "A-Lo b2b Daferwa",
+                "time": "22:00"
               },
               {
                 "bio": "With co-signings from some of Europe’s most influential venues, platforms and labels, including Düsseldorf’s Salon des Amateurs and London’s NTS Radio, Cologne-based artist Phillip Jondo has garnered a reputation as a first-class DJ and producer since many years.\nHis debut EP Little Princess for Dekmantel (2021), featured knockout collaborations with Maxwell Sterling, DJ Plead and Moa Pillar. Jondo’s latest BISQU EP feat. Xzavier Stone and DJ Plead will be released via his own imprint SPA Recordings and treads a similarly weighty path. The label SPA was launched in 2018 by Jondo and his friends DJ Brom and Friday Dunard.\nSince 2014 Phillip has been regularly hosting shows on NTS and inviting international guests to deliver forward thinking and creative selections. His sets cover everything from grime, house, footwork, jungle, rap, dancehall, R&B, disco to bass-heavy techno. Jondo’s passion for experimentation made him a unique selector, who has been able to seamlessly connect the dots between various styles through thoughtful layering and creative mixing skills.\nWith highlight shows including festivals and clubs like Draaimolen, Meakusma, Dekmantel, Dekmantel Selectors, Melt, Robert Johnson and De School, Jondo has presented his distinctive sound to a variety of audiences across Europe.",
                 "city": "Cologne",
                 "name": "Phillip Jondo",
-                "time": null
+                "time": "00:00"
               },
               {
                 "bio": "Amsterdam-based DJ and producer T.NO blends his Surinamese roots with global club influences, crafting a distinctive sound driven by rhythm and energy.\n\nDrawing from styles such as gqom, grime, kawina, bubbling, kuduro, and funk carioca, his sets and productions combine raw percussion with deep bass and dynamic flow. With releases on labels including Club Djembe and re:lax,\nT.NO\nis quickly establishing himself as one of Amsterdam’s most promising new talents. This rise has been picked up by DJ Mag recently, who tagged him as one of the artists to watch for 2026.",
                 "city": "Amsterdam",
                 "name": "T.NO",
-                "time": null
+                "time": "01:00"
+              },
+              {
+                "bio": "Best known for his intense and uplifting sets in the clubs of Cologne Uh-Young Kim interweaves funky riddims with deep grooves and timeless rave signals. Under the moniker Dub Kimski he traces dance music culture back to its origins in Jamaican studios and embraces its sonic offsprings from Detroit via London to Durban building up any floor into a blissful frenzy.",
+                "city": "Cologne",
+                "name": "Dub Kimski",
+                "time": "03:00"
+              },
+              {
+                "bio": "24/7 diggin’ into music cultures around the globe - at daytime she works as a music journalist and radio presenter, at night she becomes A-Lo behind the decks. A dj with a true passion and an mindbending range from bailefunk to guarachaton, neoperreo and various cumbia styles.\n\nDJ, music-curator and host of the COSMO DJ Sessions – since two decades Daferwa has played global electronic music with a contemporary twist. With a keen sense of rhythmic diversity and cultural influences he unites the sounds of the transatlantic diaspora on the dancefloor.\n\nBest known for his intense and uplifting sets in the clubs of Cologne Uh-Young Kim interweaves funky riddims with deep grooves and timeless rave signals. Under the moniker Dub Kimski he traces dance music culture back to its origins in Jamaican studios and embraces its sonic offsprings from Detroit via London to Durban building up any floor into a blissful frenzy.\n\nWith co-signings from some of Europe’s most influential venues, platforms and labels, including Düsseldorf’s Salon des Amateurs and London’s NTS Radio, Cologne-based artist Phillip Jondo has garnered a reputation as a first-class DJ and producer since many years.\nHis debut EP Little Princess for Dekmantel (2021), featured knockout collaborations with Maxwell Sterling, DJ Plead and Moa Pillar. Jondo’s latest BISQU EP feat. Xzavier Stone and DJ Plead will be released via his own imprint SPA Recordings and treads a similarly weighty path. The label SPA was launched in 2018 by Jondo and his friends DJ Brom and Friday Dunard.\nSince 2014 Phillip has been regularly hosting shows on NTS and inviting international guests to deliver forward thinking and creative selections. His sets cover everything from grime, house, footwork, jungle, rap, dancehall, R&B, disco to bass-heavy techno. Jondo’s passion for experimentation made him a unique selector, who has been able to seamlessly connect the dots between various styles through thoughtful layering and creative mixing skills.\nWith highlight shows including festivals and clubs like Draaimolen, Meakusma, Dekmantel, Dekmantel Selectors, Melt, Robert Johnson and De School, Jondo has presented his distinctive sound to a variety of audiences across Europe.",
+                "city": "Germany / Cologne",
+                "name": "A-Lo b2b Daferwa b2b Dub Kimski b2b Phillip Jondo",
+                "time": "04:00"
               }
             ],
             "subtitle": "COSMO Club at Open Ground"
@@ -9920,11 +9920,11 @@
         },
         {
           "artists": [
-            "A-Lo",
-            "Daferwa",
-            "Dub Kimski",
+            "A-Lo b2b Daferwa",
             "Phillip Jondo",
-            "T.NO"
+            "T.NO",
+            "Dub Kimski",
+            "A-Lo b2b Daferwa b2b Dub Kimski b2b Phillip Jondo"
           ],
           "name": "ANNEX"
         }
@@ -9952,19 +9952,19 @@
                 "bio": "Kaifeng-born, now London-based Yu Su is a musician, DJ, sound artist and occasional chef. As one of the most prominent Chinese artists with a highly unique voice working across the globe in the last 5 years, her output covers all the ground you’d expect and more. Her multiple critically acclaimed records on UK’s Technicolor (Ninja Tune), Netherlands’s Music from Memory and China’s own Bie Records has seen her nominated for Canada’s Polaris Prize. She has co-produced music with John Carroll Kirby, Duval Timothy and is known for remix works for Parquet Courts, King Gizzard and The Lizard Wizard, and many more. As a DJ, she is unpredictable, idiosyncratic; just “casually having the dance floor transfixed” have put her on the spotlights at clubs and festivals internationally like Dekmantel, Glastonbury, Boiler Room, iii Points, Nuits Sonores, Rainbow Disco Club, Phonox and so on. She has also recently been featured on the cover of Mixmag magazine, marking the first Chinese cover star. She has composed for feature films and fashion brands like Sacai, Jimmy Choo and London/Shanghai based SAMUEL GUÌ YANG.",
                 "city": "London",
                 "name": "Yu Su",
-                "time": null
+                "time": "21:00"
               },
               {
                 "bio": "Unconfined by genre but with a warm, soulful streak permeating across his work, London’s IZCO has become a highly sought-after producer & DJ and is co-founder of the Brighter Days Family collective.",
                 "city": "London",
                 "name": "IZCO",
-                "time": null
+                "time": "00:00"
               },
               {
                 "bio": "Last year’s late-night set left the room changed and it turns out the feeling was mutual. Dan Snaith, known to the world as Caribou and, under his club alias, as Daphni, has named that very night at Open Ground among the defining influences behind his new album Butterfly, released this February. In interviews, Snaith described the club as close to his ideal listening room a space built with obsessive care for sound, and for the people in it.\nThat night is woven into Butterfly itself: sixteen tracks that blur the line between his two aliases more than ever before, driven by pure dancefloor instinct. Now Daphni comes back to the club that helped shape the record a full-circle set, built for the room that inspired it.",
                 "city": "London",
                 "name": "Daphni",
-                "time": null
+                "time": "02:00"
               }
             ],
             "subtitle": null
@@ -9976,19 +9976,19 @@
                 "bio": "Frau Beji brings a unique blend of North African roots and Afro-electronic music to the stage. Living and working in Dortmund as a DJ, Frau Beji aims to take her audience on a journey, conveying emotions and inspiring healing through her music.Deeply connected to Afro-electronic music, Frau Beji enjoys genres such as Afrohouse, Afrotech, and Melodic -House & Techno. Her sets are not only known for their musical diversity, but also for their spiritual atmosphere. Frau Beji aims to create a sense of connection and community through her music, providing an unforgettable experience.\n\nHer North African heritage plays an important role in her music. By combining her roots with modern sounds, she creates a unique musical vision. Through her music, she aims to build bridges between cultures and bring people together.",
                 "city": "Dortmund",
                 "name": "Frau Beji",
-                "time": null
+                "time": "21:00"
               },
               {
                 "bio": "Piccell is a DJ, producer, and the founder of Barulho, a collective pushing Afro-electronic music and local club culture in Germany. His sound blends AfroTech, Gqom, Kuduro, and Hardgroove, fueled by live elements and his signature MPC. With deep roots in Angola and Germany, Piccell’s sets and productions reflect a unique cultural fusion. Through Barulho, he’s building a label and creating spaces for artists and audiences to connect, while redefining what the local scene can be.",
                 "city": "Dortmund",
                 "name": "Piccell",
-                "time": null
+                "time": "23:00"
               },
               {
                 "bio": "DJ Firmeza proudly herald's from Quinta do Mocho in the periphery of Lisbon, a social housing bairro home to a diversely disfranchised afro-portuguese and lusophone immigrant community specially know for its OGs Dj Nervoso and Dj Marfox. Firmeza (aka Fifaz) is a revered and unmatchable DJ among the youth culture who live and shape the afrodiasporic post-kuduro ecosystem. Master of a unique percussive-heavy trance-inducing style to the art of mixing, he has been playing out in a wide amplitude of contexts and settings, from a Berlin's Schinkel Pavillon terrace party to a Bienne's geodesic compound in the woods, from a wrap up party at Germany’s pavilion at the Venice Biennale to a memorable performance in Lowlands festival, besides a couple of US & Canada visits and touring lyf in Beijing, Shenzhen and Seoul.\n\nHe co-founded the super-group O Ghettão, along with Danifox and Dj Nigga Fox.\n\nDJ Nigga Fox is one of electronic music’s more enigmatic artists and a linchpin of a thriving Afro-Portuguese music scene with its home in Lisbon, Portugal. A visionary producer with a unique style that combines his African heritage with the rhythms of innovative underground electronic music. Within his work, the composer, producer and DJ draws on kinetic electronics, batida rhythms and house-rooted grooves resulting in a propulsive, syncopated sound that consistently guarantees high-octane dancefloor heat.",
                 "city": "Porto",
                 "name": "DJ Firmeza b2b DJ Nigga Fox",
-                "time": null
+                "time": "01:00"
               }
             ],
             "subtitle": "Principe 15th Anniversary & Barulho World at Open Ground"
@@ -10606,6 +10606,85 @@
       "url": "https://www.openground.club/en/schedule/2026-11-07-deep-medi-at-open-ground"
     },
     {
+      "category": "Listening Session",
+      "date_iso": "2026-11-08",
+      "date_label": "Sun.08.11.26",
+      "detail": {
+        "description": "First released in Jamaica in late 1972, Upsetters 14 Dub Black Board Jungle – produced by\nLee “Scratch” Perry\nand mixed by\nKing Tubby\n– is widely regarded as one of the first full-length dub albums and a true landmark in reggae history. It established dub as a genre defined by creative studio intervention. Now, 54 years later, Cologne-based label Week-End Records is excited to re-release this monumental album in its original version featuring all 14 tracks.\n\nThe album’s newly restored master will be presented in its entirety during an album listening session on the club’s Freifeld floor.\nDavid Katz\n, Lee “Scratch” Perry’s biographer and author of Dub Revolution, will give an introduction, followed by a Q&A.\n\nWith\nU14DBBJ\n, a group of musicians led by composer and arranger\nJorik Bergman\nwill perform selected tracks of this iconic album live, and our dear friend\nOlaf Karnik\nwill play a DJ-set, framing the afternoon.\n\nWeek-End Records carries forward the artistic vision and musical ethos of the annual Week-End Fest, which celebrates its 15th anniversary this year from November 5-7.\n\nAdmission 10 €",
+        "floors": [
+          {
+            "name": "FREIFELD",
+            "slots": [
+              {
+                "bio": "Olaf Karnik works primarily as an author, journalist and critic for the press and radio in Cologne. He has published books and book chapters on topics including African-American pop music, reggae in Germany and music videos; he curates music and lecture events; and has been a lecturer at various universities since 2009. He has played in several bands and has been DJing since 1985.",
+                "city": "Cologne",
+                "name": "Olaf Karnik",
+                "time": "17:00"
+              },
+              {
+                "bio": "David Katz, an author born in San Francisco who has lived in London since the 1980s, is best known for his in-depth biographies (Lee ‘Scratch’ Perry’s *People Funny Boy*) and historical accounts of Jamaican music history (*Dub Revolution*). He also works as a documentary filmmaker, photographer and original reggae vinyl DJ.",
+                "city": "London",
+                "name": "David Katz (introduction)",
+                "time": "18:30"
+              },
+              {
+                "bio": null,
+                "city": null,
+                "name": "Upsetters 14 Dub Black Board Jungle",
+                "time": "18:45"
+              },
+              {
+                "bio": null,
+                "city": null,
+                "name": "(album)",
+                "time": null
+              },
+              {
+                "bio": null,
+                "city": null,
+                "name": "David Katz (Q&A)",
+                "time": "19:45"
+              },
+              {
+                "bio": "The project was conceived specifically for this event. Jorik Bergman, a composer and arranger from the Netherlands, has been associated with the Week-End Fest festival for five years and therefore needed to bring a wide variety of projects to the stage, including, amongst others, a tribute to pioneering Studio 54-era disco tracks by Arthur Russell, a work by the New York-based contemporary composer Julius Eastman, and a collaboration with the Brazilian feminist icon Joyce, for whom she wrote string arrangements. For this event, she is putting together a band especially for the occasion and will accompany them as a flautist to perform a selection of tracks from the iconic album.",
+                "city": "Cologne",
+                "name": "U14DBBJ (live)",
+                "time": "20:00"
+              },
+              {
+                "bio": "Olaf Karnik works primarily as an author, journalist and critic for the press and radio in Cologne. He has published books and book chapters on topics including African-American pop music, reggae in Germany and music videos; he curates music and lecture events; and has been a lecturer at various universities since 2009. He has played in several bands and has been DJing since 1985.",
+                "city": "Cologne",
+                "name": "Olaf Karnik",
+                "time": "20:30"
+              }
+            ],
+            "subtitle": "Upsetters 14 Dub Black Board Jungle at Open Ground"
+          }
+        ]
+      },
+      "floors": [
+        {
+          "artists": [
+            "Olaf Karnik",
+            "David Katz (introduction)",
+            "Upsetters 14 Dub Black Board Jungle",
+            "(album)",
+            "David Katz (Q&A)",
+            "U14DBBJ (live)"
+          ],
+          "name": "FREIFELD"
+        }
+      ],
+      "id": "2026-11-08",
+      "ticket": {
+        "state": "onsale",
+        "url": "https://shop.weeztix.com/346a4965-7be7-4b50-9438-a0784a119cd6/tickets"
+      },
+      "time": "17:00–22:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2026-11-08"
+    },
+    {
       "category": "Clubnight",
       "date_iso": "2026-11-14",
       "date_label": "Sat.14.11.26",
@@ -10830,5 +10909,5 @@
       "url": "https://www.openground.club/en/schedule/2026-11-28"
     }
   ],
-  "scraped_at": "2026-09-23T04:49:37+00:00"
+  "scraped_at": "2026-09-23T11:43:46+00:00"
 }
