@@ -10201,9 +10201,21 @@
             "name": "LOBBY + ANNEX",
             "slots": [
               {
-                "bio": null,
-                "city": null,
-                "name": "...",
+                "bio": "Cristiano Ferragamo grew up in a large Italian family, where he was exposed to many different musical genres due to his siblings. His pronounced love of music and his insatiable interest in different musical genres have given him a broad and deep understanding of music. Added to this are the influences from Detroit, which shaped the techno scene and never let him go. He taught himself to DJ, initially working with vinyl and later playing on other media as digitalization progressed.\n\nHis career began in 2005 at small events and parties, and he was later able to secure residencies at well-known clubs such as Butan. He has also played at clubs such as Odonien, Silq and Westend Club in Essen and many more.\n\nHe has also performed at major festivals, including Ruhr in Love and Nature One Camp. Or the Taktlos Festival. He has been a resident at Druck Fabrik Events since 2022 and is represented in the booking agency of the same name. He released his first own track \"Rave up\" on his own label OMAGA, which he founded in early 2023. With Macro Mono he has set another milestone and founded the Uptown Records Vinyl Bus.\n\nDopaminus is a versatile DJ and producer from Düsseldorf whose passion for electronic music is deeply rooted in his childhood.\n\nFor more than five years, he has combined the craft of DJing with digital performance and vinyl, developing a style that is deeply connected to the raw essence of Techno.\n\nHis sound is hypnotic, driving and uncompromising. Behind the decks, Dopaminus creates intense musical journeys built on tension, energy and precision. Away from the decks, he is constantly working in the studio on his own productions and EPs, shaping a distinctive sound with a signature that is unmistakably his own.\n\nFor Dopaminus, Techno is far more than a passing trend. It is a culture, a connection and a way of expression. Every set is an energetic statement — a relentless journey designed to pull the crowd deeper into the music.\n\nThis is Dopaminus.",
+                "city": "Düsseldorf",
+                "name": "Christiano Ferragamo b2b Dopaminus",
+                "time": null
+              },
+              {
+                "bio": "AKA DANIEL GARUS, IS KNOWN IN THE TECHNO SCENE FOR HIS INFECTIOUS SOUND. WITH ENERGETIC DJ SETS CHARACTERIZED BY HYPNOTIC BEATS AND POWERFUL BASS LINES, TO DRIVING LOCKED GROOVES AND HARD TECHNO SOUNDS, HE ALWAYS MANAGES TO CREATE A EUPHORIC ATMOSPHERE AND INSPIRE THE AUDIENCE WITH HIS PASSION FOR TECHNO AND HIS INCOMPARABLE ENERGY.\n\n\"MUSIC FOR ME IS EXPRESSION AND COMMUNICATION. WHEN I DJ, I WANT TO REACH PEOPLE WITH MY MUSIC AND PUT THEM IN A STATE OF ABSOLUTE ECSTASY. IT'S ABOUT CREATING MOMENTS THEY WILL NEVER FORGET.\"\nWITH MORE THAN 25 YEARS OF EXPERIENCE IN THE TECHNO SCENE, G.A.R.O.S. IS A VETERAN WHO HAS WITNESSED THE CHANGE AND EVOLUTION OF TECHNO MUSIC FIRSTHAND. THROUGH HIS CLUB APPEARANCES AND OWN EVENTS IN AND AROUND MÖNCHENGLADBACH, HE HAS MANAGED TO DEVELOP HIS OWN STYLE AND CONSTANTLY REINVENT HIMSELF TO MEET THE CHANGING NEEDS OF THE AUDIENCE.\n\nENJOY THE JOURNEY!",
+                "city": "Wuppertal",
+                "name": "G.A.R.O.S.",
+                "time": null
+              },
+              {
+                "bio": "Seit 2024 ist MAQZ fester Bestandteil des URVB Main Teams und steht für einen kompromisslosen, hypnotischen Zugang zu Techno.\n\nIn Wuppertal aufgewachsen, ist MAQZ eng mit der lokalen Szene verbunden. Die Stadt und ihre Underground-Kultur pragen seinen musikalischen Weg bis heute. Durch seine langjahrige Verbindung zur Wuppertaler Szene kennt er ihre Strukturen, Menschen und Orte und ist tief in deren musikalischem Umfeld verwurzelt.\n\nMAQZ bewegt sich durch die tiefen, treibenden Ebenen des Sounds. Druckvolle Grooves, organische Strukturen und fein aufgebaute Spannungsbögen prägen seine Sets, die sich bewusst Zeit nehmen, um sich Stück für Stück zu entfalten und stetig an Intensität zu gewinnen.\n\nZwischen rohem Druck und schwebender Energie entstehen dynamische Klangräume, die den Dancefloor nicht einfach beschallen, sondern ihn auf eine kontinuierliche Reise mitnehmen. Dabei verbindet MAQZ hypnotische Tiefe mit einem ausgeprägten Gespür für Groove, Dynamik und den richtigen Moment.",
+                "city": "Wuppertal",
+                "name": "MAQZ",
                 "time": null
               }
             ],
@@ -10214,7 +10226,9 @@
       "floors": [
         {
           "artists": [
-            "..."
+            "Christiano Ferragamo b2b Dopaminus",
+            "G.A.R.O.S.",
+            "MAQZ"
           ],
           "name": "LOBBY + ANNEX"
         }
@@ -10316,9 +10330,9 @@
             "name": "LOBBY + ANNEX",
             "slots": [
               {
-                "bio": null,
-                "city": null,
-                "name": "...",
+                "bio": "Essen-based dj duo such a blurrr moves freely through the borderlands of club music and beyond — from dubby echoes to different shades of house and techno with a psychedelic drift. Before the project took its current shape, Mi and Markus contributed significantly to the Ruhr area’s underground culture through their nights at Goethebunker, Golzheim and Mischanlage. Today, as residents of Düsseldorf’s Callshop Radio and recurring guests on Brussels’ Kiosk Radio, they channel that history into vibrant sets built from years of digging, booking and playing together. Their signature sound is loose, curious and beautifully off‑centre, hopping across genre borders. Music is the key.",
+                "city": "Essen",
+                "name": "such a blurrr",
                 "time": null
               }
             ],
@@ -10329,7 +10343,7 @@
       "floors": [
         {
           "artists": [
-            "..."
+            "such a blurrr"
           ],
           "name": "LOBBY + ANNEX"
         }
@@ -10916,5 +10930,5 @@
       "url": "https://www.openground.club/en/schedule/2026-11-28"
     }
   ],
-  "scraped_at": "2026-09-28T05:29:28+00:00"
+  "scraped_at": "2026-09-28T14:02:36+00:00"
 }
