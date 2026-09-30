@@ -9806,9 +9806,21 @@
             "name": "LOBBY + ANNEX",
             "slots": [
               {
-                "bio": null,
-                "city": null,
-                "name": "Open Call",
+                "bio": "Philipp Wehr aka Akademixer is a Mönchengladbach based DJ and Producer. His musical world moves between ambient, dub, bass and experimental electronic music – always with a strong focus on atmosphere, space and the feeling of the moment.\n\nAs a resident of Callshop Radio, Akademixer hosts the monthly Yoga Session together with his buddy Ha2unke. Their show explores the space between ambient, downtempo, dub and bass music – music for listening, drifting, dancing, or simply getting lost in the sound.\n\nHe is also part of the local dub culture, hosting a monthly Dub Session at Nonsense Bar in Mönchengladbach together with friends and the JahWahBoom Soundsystem. For Akademixer, a DJ set is less about sticking to a genre and more about creating a journey. Expect deep bass, warm dub textures, spacious ambient passages and hypnotic rhythms.",
+                "city": "Mönchengladbach",
+                "name": "Akademixer",
+                "time": null
+              },
+              {
+                "bio": "Pinaw plays house and related sounds, with a focus on groove and movement. Coming from house dance, she is part of House Roots Crew and organizes the House Roots party series. Her approach to DJing is tied to house dance culture and its roots, shaped through sessions, battles, club nights and community spaces across NRW. Her sets are dancefloor-focused, moving through deep, driving and percussion-led sounds.",
+                "city": "Düsseldorf",
+                "name": "Pinaw",
+                "time": null
+              },
+              {
+                "bio": "Foudjo, a DJ and producer with Congolese roots, blending the rhythms of Batida, Deephouse, and UK Funky House in my sets. Based in Dortmund, I am part of the Barulho World collective, where I strive to highlight the rich and diverse possibilities of Afro-electronic music. Since 2022, I have been working closely with Omar Jatta, an emerging Afrobeats artist from Germany, crafting fresh sounds and innovative collaborations. As the curator of a guest mix series on SoundCloud and the head of Barulho Records, I aim to create a platform that encourages listeners to explore and embrace the vibrant world of Afrocentric/ Afroelectronic music.",
+                "city": "Cologne",
+                "name": "Foudjo",
                 "time": null
               }
             ],
@@ -9819,7 +9831,9 @@
       "floors": [
         {
           "artists": [
-            "Open Call"
+            "Akademixer",
+            "Pinaw",
+            "Foudjo"
           ],
           "name": "LOBBY + ANNEX"
         }
@@ -10051,9 +10065,15 @@
             "name": "LOBBY + ANNEX",
             "slots": [
               {
-                "bio": null,
-                "city": null,
-                "name": "...",
+                "bio": "A music selector and event curator behind HAUZ. Based in Düsseldorf, his journey began as a bar owner in his hometown, where he immersed himself in the breadth of underground sound. After more than a decade behind the curtain shaping spaces for the scene, Alek now steps forward to present his own refined musical selection rooted in deep, jazzy house, cultivated through years of collaboration with fellow artists.",
+                "city": "Düsseldorf",
+                "name": "Alek Srbin",
+                "time": null
+              },
+              {
+                "bio": "A DJ and music selector from Macedonia, based in Cologne. His connection to electronic music began through his uncle’s record collection and years of exploring different sounds, records and the culture behind them. Shaped by underground club culture, his sound moves between disco, house and techno, guided by groove, atmosphere and a deep connection to timeless music and the people around it. He is also part of HAUZ, a collective built around music, connection and community.",
+                "city": "Cologne",
+                "name": "Danne Mandzikosky",
                 "time": null
               }
             ],
@@ -10064,7 +10084,8 @@
       "floors": [
         {
           "artists": [
-            "..."
+            "Alek Srbin",
+            "Danne Mandzikosky"
           ],
           "name": "LOBBY + ANNEX"
         }
@@ -10461,7 +10482,13 @@
               {
                 "bio": null,
                 "city": null,
-                "name": "...",
+                "name": "N:in",
+                "time": null
+              },
+              {
+                "bio": null,
+                "city": null,
+                "name": "Vroomfondel b2b Luis Tischer",
                 "time": null
               }
             ],
@@ -10472,7 +10499,8 @@
       "floors": [
         {
           "artists": [
-            "..."
+            "N:in",
+            "Vroomfondel b2b Luis Tischer"
           ],
           "name": "LOBBY + ANNEX"
         }
@@ -10569,6 +10597,44 @@
       "time": "22:00–06:00",
       "title": null,
       "url": "https://www.openground.club/en/schedule/2026-10-31"
+    },
+    {
+      "category": "Open Lobby",
+      "date_iso": "2026-11-05",
+      "date_label": "Thu.05.11.26",
+      "detail": {
+        "description": null,
+        "floors": [
+          {
+            "name": "LOBBY + ANNEX",
+            "slots": [
+              {
+                "bio": null,
+                "city": null,
+                "name": "Open Call",
+                "time": null
+              }
+            ],
+            "subtitle": "Drinks and DJ selections Free entry"
+          }
+        ]
+      },
+      "floors": [
+        {
+          "artists": [
+            "Open Call"
+          ],
+          "name": "LOBBY + ANNEX"
+        }
+      ],
+      "id": "2026-11-05",
+      "ticket": {
+        "state": "free",
+        "url": null
+      },
+      "time": "20:00–00:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2026-11-05"
     },
     {
       "category": "Extended Clubnight",
@@ -10949,7 +11015,302 @@
       "time": "22:00–06:00",
       "title": null,
       "url": "https://www.openground.club/en/schedule/2026-11-28"
+    },
+    {
+      "category": "Clubnight",
+      "date_iso": "2026-12-05",
+      "date_label": "Sat.05.12.26",
+      "detail": {
+        "description": "Annex: Back to Open Ground on December 5th, once again in the simply perfect Annex room, featuring a DJ set by opo, live sets by Tropa Macaca and Rudi J, plus some warm-up action by the Meakusma DJs. This night celebrates the release of a 10inch by Tropa Macaca on Meakusma.\n\nAnd yes, there will once again be a shuttle bus, leaving from Brussels, stopping in Eupen, and then going straight to Open Ground. And back the morning after, of course.\n\nAdmission 25 €",
+        "floors": [
+          {
+            "name": "FREIFELD",
+            "slots": [
+              {
+                "bio": "'Ogazón is an artist that truly embodies the spirit of the music she plays. Releasing all inhibitions, she pours herself totally into her performances. Her approach is one of careful consideration, with the audience's journey at its heart. Deeply sensitive to the subtle and contextual nature of electronic music, she is equally adept at presenting both house and techno, often rendering the perceived boundary between non-existent.\n\nWith forward-facing music that propels, she's able to make creative progress in an already well-established art form while remaining true to its fundamentals -the mark of a student truly passionate about their subject matter.’",
+                "city": "Berlin",
+                "name": "Christian AB b2b Ogazón",
+                "time": null
+              },
+              {
+                "bio": "As enamoured as Peter Kremeier was with the new sounds he was hearing, he was a soul boy at heart, sensitive to the emotional sway of earlier RnB and soul he now found beating at the electronic heart of boogie, garage, and subsequently house music. Even as a whole generation fell under the seductive spell of sequencers and synthesis, Kremeier still felt the funk guiding his assured steps forward in this strange new realm.\n\nSuch is the nature of his hypnotic effect, you might easily lose yourself in one of these long-form jams, find yourself dancing away from the funk of the track in a dislocated fashion, only to come to and find yourself back in the groove anyway – in Losoul's hands, the groove is never just one-dimensional. Equal parts an expressive dreamer and a studious preacher, Losoul has metabolized the funk in an inimitable style that is still unique, and that continues to bear new fruit to this day.\n\nFrom his initial alias Don Disco to his now firmly-established Losoul guise, Kremeier has remained dedicated to the musical roots behind the electronic music wave, both as a producer and on stage.\n\n\"Four beats, two claps – from there you can go everywhere.\" (Losoul, 1999)",
+                "city": null,
+                "name": "Losoul (live)",
+                "time": null
+              }
+            ],
+            "subtitle": null
+          },
+          {
+            "name": "ANNEX",
+            "slots": [
+              {
+                "bio": "The Meakusma DJs will warm up the night, playing some of the extremely diverse music that makes the collective tick.",
+                "city": "Eupen",
+                "name": "Meakusma DJs",
+                "time": null
+              },
+              {
+                "bio": "opo plays with music, sounds, images, and DIY technology, focusing on improvisation, experimentation, and collaboration. opo is a member of the Jokkoo Collective, founded in Barcelona in 2017, that explores and amplifies contemporary electronic and avant-garde sounds from the African continent and its diaspora. opo recently released 666ridims on Meakusma, a minimalist dive into strange meters, polyrhythm, and the transcendence of ideas. Fast, slow. Exhilarating.",
+                "city": "Barcelona",
+                "name": "opo",
+                "time": null
+              },
+              {
+                "bio": "Rudi J, formerly known as Weird Dust and one half of Tav Exotic, honors dub’s revolutionary spirit, deconstructs reggae, and adds a 90s take on library music. His live sets delve deeply and encompassingly into the full spectrum of sound system culture, paying tribute to never-ending nights and daily surrealism. He will release a 7inch on Meakusma in the near future.",
+                "city": "Brussels",
+                "name": "Rudi J (live)",
+                "time": null
+              },
+              {
+                "bio": "Tropa Macaca is a project run by André Abel and Joana da Conceição, a Lisbon-based duo working in electronic contemporary composition. Their music has always been long, cathartic, and deeply poetic, as if looking for unfound places or trying to speak unknown languages. It is a ritualistic experience, where secrets unfold, and mysteries are forever shattered. Pure sonic hypnosis, filtering and crossing countless branches of experimental music.",
+                "city": "Lisbon",
+                "name": "Tropa Macaca (live)",
+                "time": null
+              }
+            ],
+            "subtitle": "Meakusma at Open Ground"
+          }
+        ]
+      },
+      "floors": [
+        {
+          "artists": [
+            "Christian AB b2b Ogazón",
+            "Losoul (live)"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Meakusma DJs",
+            "opo",
+            "Rudi J (live)",
+            "Tropa Macaca (live)"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2026-12-05",
+      "ticket": {
+        "state": "onsale",
+        "url": "https://shop.weeztix.com/bf323d1c-1d19-498c-a849-8f3f79272e84/tickets"
+      },
+      "time": "22:00–06:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2026-12-05"
+    },
+    {
+      "category": "Express Bus",
+      "date_iso": "2026-12-05",
+      "date_label": "Sat.05.12.26",
+      "detail": {
+        "description": "Meakusma is back at Open Ground!\nIncluding shuttle service from Brussels via Eupen to Wuppertal and back.\nBrussels: 6 PM at the entrance of Parc Royal closest to the Kiosk Radio Studio.\nMeeting point is the Kiosk Radio Studio at 5.45 PM.\nEupen: 7.30 PM at the Eupen Trade Center.\nWuppertal: Arrival at Open Ground around 9 PM.\nThe return trip is at 6 AM sunday morning when the club closes.\nAdmission 65 € (Bus + Clubnight)",
+        "floors": []
+      },
+      "floors": [],
+      "id": "2026-12-05-express-bus",
+      "ticket": {
+        "state": "onsale",
+        "url": "https://shop.weeztix.com/ba9569ee-b90c-41eb-b13f-ac3ba3ce756f/tickets"
+      },
+      "time": "18:00–06:00",
+      "title": "Express Bus",
+      "url": "https://www.openground.club/en/schedule/2026-12-05-express-bus"
+    },
+    {
+      "category": "Clubnight",
+      "date_iso": "2026-12-12",
+      "date_label": "Sat.12.12.26",
+      "detail": {
+        "description": "Admission 30 €",
+        "floors": [
+          {
+            "name": "FREIFELD",
+            "slots": [
+              {
+                "bio": "A leader in global dance music, Louie Vega has painted an award-winning career from a palette mixed with everything from house, salsa and afro-beat, to jazz, hip hop, gospel and soul.\n\nWhat distinguishes the Grammy winner and 7-time nominee as one of the best living house music deejays is his ability to evolve alongside the times, distill the current musical landscape through his unique taste and put his own timeless spin on all the music he creates.",
+                "city": "New York City",
+                "name": "Louie Vega",
+                "time": null
+              },
+              {
+                "bio": "Tom Kutsche is a Cologne-born, Berlin-based DJ, selector, label owner, and music lover whose sound is deeply rooted in disco, boogie, funk, and house music.\n\nHis musical journey began in his early teenage years and continues to be inspired by the same energy and sound that first captivated him.\n\nIn a community-minded perspective, bringing people together and uplifting them through music are the drivers behind his party series cologne is for lovers and the beloved LOVEDANCIN' Party in Berlin.\n\nAs the founder of kickin‘ up dust, Tom has put out releases from artists such as George Davis and Sound On Sound, along with remixes by Kai Alcé and Roy Davis Jr. Through the label, he channels his passion for soulful music into every release.",
+                "city": "Cologne",
+                "name": "Tom Kutsche",
+                "time": null
+              }
+            ],
+            "subtitle": "LOVEDANCIN' at Open Ground"
+          },
+          {
+            "name": "ANNEX",
+            "slots": [
+              {
+                "bio": null,
+                "city": null,
+                "name": "...",
+                "time": null
+              }
+            ],
+            "subtitle": null
+          }
+        ]
+      },
+      "floors": [
+        {
+          "artists": [
+            "Louie Vega",
+            "Tom Kutsche"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "..."
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2026-12-12",
+      "ticket": {
+        "state": "onsale",
+        "url": "https://shop.weeztix.com/36fb6c02-8dce-4258-afa1-8c749acb2475/tickets"
+      },
+      "time": "22:00–06:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2026-12-12"
+    },
+    {
+      "category": "Extended Clubnight",
+      "date_iso": "2026-12-19",
+      "date_label": "Sat.19.12.26",
+      "detail": {
+        "description": null,
+        "floors": []
+      },
+      "floors": [],
+      "id": "2026-12-19",
+      "ticket": {
+        "state": "none",
+        "url": null
+      },
+      "time": null,
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2026-12-19"
+    },
+    {
+      "category": "Clubnight",
+      "date_iso": "2026-12-26",
+      "date_label": "Sat.26.12.26",
+      "detail": {
+        "description": "Admission 20 € / before 23:00 15 €",
+        "floors": [
+          {
+            "name": "FREIFELD",
+            "slots": [
+              {
+                "bio": null,
+                "city": null,
+                "name": "...",
+                "time": null
+              }
+            ],
+            "subtitle": null
+          },
+          {
+            "name": "ANNEX",
+            "slots": [
+              {
+                "bio": null,
+                "city": null,
+                "name": "...",
+                "time": null
+              }
+            ],
+            "subtitle": null
+          }
+        ]
+      },
+      "floors": [
+        {
+          "artists": [
+            "..."
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "..."
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2026-12-26-friends-and-residents",
+      "ticket": {
+        "state": "onsale",
+        "url": "https://shop.weeztix.com/89ef85f6-2be9-435d-a906-51e91138e104/tickets"
+      },
+      "time": "22:00–06:00",
+      "title": "Friends and Residents",
+      "url": "https://www.openground.club/en/schedule/2026-12-26-friends-and-residents"
+    },
+    {
+      "category": "Clubnight",
+      "date_iso": "2026-12-31",
+      "date_label": "Thu.31.12.26",
+      "detail": {
+        "description": "Admission 40 €",
+        "floors": [
+          {
+            "name": "FREIFELD",
+            "slots": [
+              {
+                "bio": null,
+                "city": null,
+                "name": "...",
+                "time": null
+              }
+            ],
+            "subtitle": null
+          },
+          {
+            "name": "ANNEX",
+            "slots": [
+              {
+                "bio": null,
+                "city": null,
+                "name": "...",
+                "time": null
+              }
+            ],
+            "subtitle": null
+          }
+        ]
+      },
+      "floors": [
+        {
+          "artists": [
+            "..."
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "..."
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2026-12-31-new-years-eve",
+      "ticket": {
+        "state": "onsale",
+        "url": "https://shop.weeztix.com/14012266-41ba-40bc-8466-5abe24e34a87/tickets"
+      },
+      "time": "22:00–07:00",
+      "title": "New Years Eve",
+      "url": "https://www.openground.club/en/schedule/2026-12-31-new-years-eve"
     }
   ],
-  "scraped_at": "2026-09-30T05:37:49+00:00"
+  "scraped_at": "2026-09-30T12:41:12+00:00"
 }
