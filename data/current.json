@@ -11250,7 +11250,7 @@
               },
               {
                 "bio": "Tom Kutsche is a Cologne-born, Berlin-based DJ, selector, label owner, and music lover whose sound is deeply rooted in disco, boogie, funk, and house music.\n\nHis musical journey began in his early teenage years and continues to be inspired by the same energy and sound that first captivated him.\n\nIn a community-minded perspective, bringing people together and uplifting them through music are the drivers behind his party series cologne is for lovers and the beloved LOVEDANCIN' Party in Berlin.\n\nAs the founder of kickin‘ up dust, Tom has put out releases from artists such as George Davis and Sound On Sound, along with remixes by Kai Alcé and Roy Davis Jr. Through the label, he channels his passion for soulful music into every release.",
-                "city": "Cologne",
+                "city": "Berlin",
                 "name": "Tom Kutsche",
                 "time": null
               }
@@ -11416,6 +11416,62 @@
           "name": "ANNEX"
         }
       ],
+      "id": "2026-12-31-new-year-s-eve",
+      "ticket": {
+        "state": "onsale",
+        "url": "https://shop.weeztix.com/14012266-41ba-40bc-8466-5abe24e34a87/tickets"
+      },
+      "time": "22:00–07:00",
+      "title": "New Year's Eve",
+      "url": "https://www.openground.club/en/schedule/2026-12-31-new-year-s-eve"
+    },
+    {
+      "category": "Clubnight",
+      "date_iso": "2026-12-31",
+      "date_label": "Thu.31.12.26",
+      "detail": {
+        "description": "Admission 40 €",
+        "floors": [
+          {
+            "name": "FREIFELD",
+            "slots": [
+              {
+                "bio": null,
+                "city": null,
+                "name": "...",
+                "time": null
+              }
+            ],
+            "subtitle": null
+          },
+          {
+            "name": "ANNEX",
+            "slots": [
+              {
+                "bio": null,
+                "city": null,
+                "name": "...",
+                "time": null
+              }
+            ],
+            "subtitle": null
+          }
+        ]
+      },
+      "floors": [
+        {
+          "artists": [
+            "..."
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "..."
+          ],
+          "name": "ANNEX"
+        }
+      ],
       "id": "2026-12-31-new-years-eve",
       "ticket": {
         "state": "onsale",
@@ -11426,5 +11482,5 @@
       "url": "https://www.openground.club/en/schedule/2026-12-31-new-years-eve"
     }
   ],
-  "scraped_at": "2026-10-05T05:47:48+00:00"
+  "scraped_at": "2026-10-05T14:48:07+00:00"
 }
