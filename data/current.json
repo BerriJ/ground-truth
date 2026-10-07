@@ -10277,19 +10277,19 @@
                 "bio": "Her approach may seem studious, but JakoJako uses this fluency in the language of sound to convey emotion. Each track is an experiment, with success based on the intensity of feeling it creates. JakoJako’s future, it seems, is akin to modular synthesis: sonically endless, full of opportunity, and with boundaries yet to be pushed.",
                 "city": "Berlin",
                 "name": "JakoJako",
-                "time": null
+                "time": "21:00"
               },
               {
                 "bio": "The Tottenham London born-and-bred selector grew up on soul and reggae, later becoming a dedicated junglist. First as a resident DJ at the legendary London club Plastic People, she’s built a rep as one of the most effective and interesting DJs around. Playing shape-shifting, genre-bending sets that effortlessly move from classic rare groove and disco records to upfront house and techno, via garage, jungle and whatever else she feels like. With no social media presence, Josey’s reputation is based on selection, passion and authenticity.",
                 "city": "London",
                 "name": "Josey Rebelle",
-                "time": null
+                "time": "00:00"
               },
               {
                 "bio": "Quelza, counts as one of the most satisfyingly mature young guns to emerge out the new wave of techno artists that’s been unfurling in recent times, with an exquisitely panoramic view into his mental multiverse. Championing layered techno wares laced with a breaksy, IDM-informed touch that packs a punch, the Frenchman keeps on carving out a truly distinctive, shape-shifting signature, switching scopes and angles as he ups the rhythmic pressure with every next sequence.",
                 "city": "Berlin",
                 "name": "Quelza",
-                "time": null
+                "time": "03:00"
               }
             ],
             "subtitle": null
@@ -10301,13 +10301,13 @@
                 "bio": "Tiago, is an eclectic underground DJ and producer from Lisbon, Portugal. As a DJ he is acclaimed for his blend between all kinds of music, and his love for long sets with a solid base in house, techno, and left-field music mixed with a punk ethos.\nOne half of the duo Scam Dust (w/ his friend Shcuro from Paraiso Records), he has been producing music under numerous aliases, while doing remixes and collaborations.\nHe also runs various labels releasing his own material in a constant unpredictable flow.\nAs a producer, DJ and musician, Tiago and his extensive discography have played a significant role in the reawakening of love and interest in the various shades of leftfield dance music over the last decade across the world. He's been a resident DJ at club Lux Frágil since 1998.",
                 "city": "Lisbon",
                 "name": "Tiago",
-                "time": null
+                "time": "22:00"
               },
               {
                 "bio": "Thomas Bullock, a fixture of underground dance music for over three decades, from late-’80s London warehouses through psychedelic San Francisco afterhours and deep into New York City dancefloors is a founding force behind Tonka, Wicked, Rub N Tug, and later A.R.E. Weapons. He’s spent years shaping scenes from the inside rather than chasing the spotlight.\n\nSince landing in New York in the mid-’90s, Bullock has become one of downtown’s true cult figures — equally at home playing all-night cosmic house sets, blown-out post-punk, dub mutations, or total psychedelic chaos. His projects as Tom of England, Laughing Light of Plenty, Mirror Boys, and Map of Africa (with DJ Harvey) all carry the same raw, unpredictable energy that’s made him a favorite among dancers, heads, and fellow selectors alike.\n\nWhether through releases on L.I.E.S. Trilogy Tapes or his own STD label, or behind the decks in dark rooms around the world, Bullock’s approach has always been intuitive, strange, emotional, and deeply rooted in the communal spirit of underground music culture.\n\nExpect a night that moves between ritual, sleaze, beauty, noise, euphoria, and the unknown.",
                 "city": "New York City",
                 "name": "Tom of England",
-                "time": null
+                "time": "22:00"
               }
             ],
             "subtitle": null
@@ -10929,7 +10929,7 @@
       "date_iso": "2026-11-21",
       "date_label": "Sat.21.11.26",
       "detail": {
-        "description": "Admission 20 € / before 23:00 15 €",
+        "description": "Freifeld: A year on from the first time Timedance at Open Ground, the Bristol label returns to Wuppertal for round two. Call Super, livwutang and i-sha join Batu in the fabled west German bunker.\nFour selectors who don’t sit still in any one lane. The only guarantee: bass pressure all night long.\nAdmission 20 € / before 23:00 15 €",
         "floors": [
           {
             "name": "FREIFELD",
@@ -11482,5 +11482,5 @@
       "url": "https://www.openground.club/en/schedule/2026-12-31-new-years-eve"
     }
   ],
-  "scraped_at": "2026-10-07T06:06:01+00:00"
+  "scraped_at": "2026-10-07T13:31:21+00:00"
 }
