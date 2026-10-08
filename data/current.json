@@ -10929,7 +10929,7 @@
       "date_iso": "2026-11-21",
       "date_label": "Sat.21.11.26",
       "detail": {
-        "description": "Freifeld: A year on from the first time Timedance at Open Ground, the Bristol label returns to Wuppertal for round two. Call Super, livwutang and i-sha join Batu in the fabled west German bunker.\nFour selectors who don’t sit still in any one lane. The only guarantee: bass pressure all night long.\nAdmission 20 € / before 23:00 15 €",
+        "description": "Freifeld: A year on from the first time\nTimedance\nat Open Ground, the Bristol label returns to Wuppertal for round two. Call Super, livwutang and i-sha join Batu in the fabled west German bunker.\nFour selectors who don’t sit still in any one lane. The only guarantee:\nbass pressure all night long.\n\nAnnex:\ninstinkt lab\nreturns to annex bringing our long-term collaborators and residents to Open Ground.\n\nDeano — a friend and a recent contributor to the instinkt catalog, Cape Town’s very own boss of Knowledge Imprint, makes his Wuppertal debut as a part of his busy EU schedule following his phenomenal EP on Hayes. ananda priori, close friend of the platform and a resident of Tresor West hailing from Cologne opens the floor with her signature blend between techno, dub and progressive house. FForm — Berlin-based producer and DJ, essential part of instinkt lab roster, will close the night bringing his textural and hypnotising selection to Open Ground for the first time.\n\nAdmission 20 € / before 23:00 15 €",
         "floors": [
           {
             "name": "FREIFELD",
@@ -11300,16 +11300,54 @@
       "date_iso": "2026-12-19",
       "date_label": "Sat.19.12.26",
       "detail": {
-        "description": null,
-        "floors": []
+        "description": "Admission 35 €",
+        "floors": [
+          {
+            "name": "FREIFELD",
+            "slots": [
+              {
+                "bio": null,
+                "city": null,
+                "name": "...",
+                "time": null
+              }
+            ],
+            "subtitle": "Klockworks at Open Ground"
+          },
+          {
+            "name": "ANNEX",
+            "slots": [
+              {
+                "bio": null,
+                "city": null,
+                "name": "...",
+                "time": null
+              }
+            ],
+            "subtitle": null
+          }
+        ]
       },
-      "floors": [],
+      "floors": [
+        {
+          "artists": [
+            "..."
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "..."
+          ],
+          "name": "ANNEX"
+        }
+      ],
       "id": "2026-12-19",
       "ticket": {
-        "state": "none",
-        "url": null
+        "state": "onsale",
+        "url": "https://shop.weeztix.com/d07c308e-f7ee-4c6c-bfc8-837b734199e2/tickets"
       },
-      "time": null,
+      "time": "22:00–10:00",
       "title": null,
       "url": "https://www.openground.club/en/schedule/2026-12-19"
     },
@@ -11482,5 +11520,5 @@
       "url": "https://www.openground.club/en/schedule/2026-12-31-new-years-eve"
     }
   ],
-  "scraped_at": "2026-10-08T06:11:22+00:00"
+  "scraped_at": "2026-10-08T13:36:49+00:00"
 }
