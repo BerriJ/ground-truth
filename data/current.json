@@ -10375,7 +10375,7 @@
       "date_iso": "2026-10-24",
       "date_label": "Sat.24.10.26",
       "detail": {
-        "description": "Freifeld:\n\n„I'm super excited to announce that my label Kapsela (@kapselarecords) will be hosting a label night at @openground.club on 24 October, with Djrum, Sepehr and me playing alongside Open Ground resident Elke. The Illusion crew will be hosting the Annex room.\n\nOpen Ground is the real deal - it's an incredible space with a wonderful team behind it, and hearing that soundsystem is a quasi-religious experience that fully lives up to the hype. I was blown away when I played there last year and can't wait to come back with some Kapsela friends and check out its latest iteration (which by all accounts is better still).“ -Objekt\n\nAnnex:\n\nIn 2016, aphasit, Magnus, mmara and Ole B/P joined forces and were later completed by Ada Luvv to start their own series, Illusion. Beyond their friendship, they were brought together by a shared curiosity for a wide range of aesthetics: from banging and twisted rave energies to heartwarming house grooves, and, their particular craft and pleasure, all forms of sound system culture and its many related genres.\n\nAlongside the dancefloor, their “Soft Illusion” listening series creates spaces for non-dance formats, making room for the weird, the experimental and the soothing sides of ambient music.\n\nOver the years, Illusion has welcomed acts including Batu, Object Blue, Bruce, Ben UFO, Upsammy, Objekt, Toumba and OKO DJ, among many others.\n\nTen years have passed, and to celebrate their anniversary, Illusion returns with Kapsela label head honcho Objekt, who will be curating Freifeld for the night. Illusion will share the booth at Annex with Mika Oki.\n\nAdmission 20 € / before 23:00 15 €",
+        "description": "Freifeld\n: „I'm super excited to announce that my label\nKapsela\n(@kapselarecords) will be hosting a label night at @openground.club on 24 October, with\nDjrum\n,\nSepehr\nand me playing alongside\nOpen Ground resident Elke\n. The Illusion crew will be hosting the Annex room.\n\nOpen Ground is the real deal - it's an incredible space with a wonderful team behind it, and hearing that soundsystem is a quasi-religious experience that fully lives up to the hype. I was blown away when I played there last year and can't wait to come back with some Kapsela friends and check out its latest iteration (which by all accounts is better still).“ -\nObjekt\n\nAnnex\n: In 2016,\naphasit\n,\nMagnus\n,\nmmara\nand\nOle B/P\njoined forces and were later completed by\nAda Luvv\nto start their own series,\nIllusion\n. Beyond their friendship, they were brought together by a shared curiosity for a wide range of aesthetics: from\nbanging and twisted rave energies\nto\nheartwarming house grooves\n, and, their particular craft and pleasure,\nall forms of sound system culture and its many related genres.\n\nAlongside the dancefloor, their “Soft Illusion” listening series creates spaces for non-dance formats, making room for the weird, the experimental and the soothing sides of ambient music.\n\nOver the years, Illusion has welcomed acts including Batu, Object Blue, Bruce, Ben UFO, Upsammy, Objekt, Toumba and OKO DJ, among many others.\n\nTen years have passed, and to celebrate their anniversary, Illusion returns with Kapsela label head honcho Objekt, who will be curating Freifeld for the night.\nIllusion will share the booth at Annex with Mika Oki.\n\nAdmission 20 € / before 23:00 15 €",
         "floors": [
           {
             "name": "FREIFELD",
@@ -10523,9 +10523,27 @@
                 "time": null
               },
               {
-                "bio": null,
+                "bio": "Emerging from the underground music communities of New York, Detroit, and Los Angeles, Julien P will be making his Wuppertal solo debut ahead of his forthcoming release on Limited Network with longtime collaborator Max Watts.\n\nChanneling the raw spirit and ethos of North American techno, Julien P’s approach to production pays homage to the past while extending its legacy into the future.",
+                "city": "Brooklyn",
+                "name": "Julien P. (live)",
+                "time": null
+              },
+              {
+                "bio": "Studio enginologue and psychonaut. Lifelong sonic obsessive and music-maker. Her solo EP LN017 “Phonomaton” is fresh off the press and features two ten minute tracks that she’ll be breaking for our ears first.",
                 "city": "Detroit",
-                "name": "Limited Network",
+                "name": "Sugar",
+                "time": null
+              },
+              {
+                "bio": "Using the true old school methodology of recording, Max Watts and Mario Zepf have been cranking out tunes like mad men, with LN-018 being the first of the bunch to be released for the masses. Out of a connection they made from a shared passion for quality of sound over status quo, their dub projekt BX-5 was born.",
+                "city": "Detroit/Berlin",
+                "name": "BX-5 (live)",
+                "time": null
+              },
+              {
+                "bio": null,
+                "city": "Detroit/Los Angeles",
+                "name": "The D-linkuents (live)",
                 "time": null
               }
             ],
@@ -10567,7 +10585,10 @@
         {
           "artists": [
             "Surgeon",
-            "Limited Network"
+            "Julien P. (live)",
+            "Sugar",
+            "BX-5 (live)",
+            "The D-linkuents (live)"
           ],
           "name": "FREIFELD"
         },
@@ -10921,7 +10942,7 @@
       "date_iso": "2026-11-21",
       "date_label": "Sat.21.11.26",
       "detail": {
-        "description": "Freifeld: A year on from the first time\nTimedance\nat Open Ground, the Bristol label returns to Wuppertal for round two. Call Super, livwutang and i-sha join Batu in the fabled west German bunker.\nFour selectors who don’t sit still in any one lane. The only guarantee:\nbass pressure all night long.\n\nAnnex:\ninstinkt lab\nreturns to annex bringing our long-term collaborators and residents to Open Ground.\n\nDeano — a friend and a recent contributor to the instinkt catalog, Cape Town’s very own boss of Knowledge Imprint, makes his Wuppertal debut as a part of his busy EU schedule following his phenomenal EP on Hayes. ananda priori, close friend of the platform and a resident of Tresor West hailing from Cologne opens the floor with her signature blend between techno, dub and progressive house. FForm — Berlin-based producer and DJ, essential part of instinkt lab roster, will close the night bringing his textural and hypnotising selection to Open Ground for the first time.\n\nAdmission 20 € / before 23:00 15 €",
+        "description": "Freifeld\n: A year on from the first time\nTimedance\nat Open Ground, the Bristol label returns to Wuppertal for round two. Call Super, livwutang and i-sha join Batu in the fabled west German bunker.\nFour selectors who don’t sit still in any one lane. The only guarantee:\nbass pressure all night long.\n\nAnnex:\ninstinkt lab\nreturns to annex bringing our long-term collaborators and residents to Open Ground.\n\nDeano — a friend and a recent contributor to the instinkt catalog, Cape Town’s very own boss of Knowledge Imprint, makes his Wuppertal debut as a part of his busy EU schedule following his phenomenal EP on Hayes.\nananda priori, close friend of the platform and a resident of Tresor West hailing from Cologne opens the floor with her signature blend between techno, dub and progressive house.\nFForm — Berlin-based producer and DJ, essential part of instinkt lab roster, will close the night bringing his textural and hypnotising selection to Open Ground for the first time.\nAdmission 20 € / before 23:00 15 €",
         "floors": [
           {
             "name": "FREIFELD",
@@ -11050,7 +11071,7 @@
       "date_iso": "2026-11-28",
       "date_label": "Sat.28.11.26",
       "detail": {
-        "description": "Freifeld: Resident DJ\nJosey Rebelle\nsets the tone for the night, opening the clubnight with her genre-defying selections.\nRobert Bergman\nfollows with a live set, before\nROD\n— the techno alias of Rotterdam aritst\nBenny Rodrigues\n— takes over for the final stretch and closes the night with a driving dose of techno.\nAnnex: The\nMogol Soundsystem Crew\nfrom Wuppertal teams up with\nGhost Dubs\n, whose distinct take on\ndub\ncombines deep low-end with hazy textures, spacious echoes and stripped-back rhythms. The evening brings together a\nwide spectrum\nof soundsystem music\nfrom the crew alongside a\nlive\nset\nfrom Ghost Dubs.\nAdmission 20 € / before 23:00 15 €",
+        "description": "Freifeld\n: Resident DJ\nJosey Rebelle\nsets the tone for the night, opening the clubnight with her genre-defying selections.\nRobert Bergman\nfollows with a live set, before\nROD\n— the techno alias of Rotterdam aritst\nBenny Rodrigues\n— takes over for the final stretch and closes the night with a driving dose of techno.\nAnnex\n: The\nMogol Soundsystem Crew\nfrom Wuppertal teams up with\nGhost Dubs\n, whose distinct take on\ndub\ncombines deep low-end with hazy textures, spacious echoes and stripped-back rhythms. The evening brings together a\nwide spectrum\nof soundsystem music\nfrom the crew alongside a\nlive\nset\nfrom Ghost Dubs.\nAdmission 20 € / before 23:00 15 €",
         "floors": [
           {
             "name": "FREIFELD",
@@ -11127,7 +11148,7 @@
       "date_iso": "2026-12-05",
       "date_label": "Sat.05.12.26",
       "detail": {
-        "description": "Annex: Back to Open Ground on December 5th, once again in the simply perfect Annex room, featuring a DJ set by opo, live sets by Tropa Macaca and Rudi J, plus some warm-up action by the Meakusma DJs. This night celebrates the release of a 10inch by Tropa Macaca on Meakusma.\n\nAnd yes, there will once again be a shuttle bus, leaving from Brussels, stopping in Eupen, and then going straight to Open Ground. And back the morning after, of course.\n\nAdmission 25 €",
+        "description": "Annex\n: Back to Open Ground on December 5th, once again in the simply perfect Annex room, featuring a DJ set by opo, live sets by Tropa Macaca and Rudi J, plus some warm-up action by the Meakusma DJs. This night celebrates the release of a 10inch by Tropa Macaca on Meakusma.\n\nAnd yes, there will once again be a\nshuttle bus\n, leaving from Brussels, stopping in Eupen, and then going straight to Open Ground. And back the morning after, of course.\n\nAdmission 25 €",
         "floors": [
           {
             "name": "FREIFELD",
@@ -11512,5 +11533,5 @@
       "url": "https://www.openground.club/en/schedule/2026-12-31-new-years-eve"
     }
   ],
-  "scraped_at": "2026-10-12T06:04:34+00:00"
+  "scraped_at": "2026-10-12T15:34:37+00:00"
 }
