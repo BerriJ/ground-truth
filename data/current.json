@@ -10752,9 +10752,9 @@
                 "time": "20:00"
               },
               {
-                "bio": "Olaf Karnik works primarily as an author, journalist and critic for the press and radio in Cologne. He has published books and book chapters on topics including African-American pop music, reggae in Germany and music videos; he curates music and lecture events; and has been a lecturer at various universities since 2009. He has played in several bands and has been DJing since 1985.",
-                "city": "Cologne",
-                "name": "Olaf Karnik",
+                "bio": "Danniella Dee is a DJ & Producer from Coventry, UK. She is one-third of Sisters In Dub, a female-led Roots Reggae + Dub sound system collective.\n\nDanniella grew up on Roots music, with her father Trevor 'E.T. Rockers' Evans founding Coventry's first sound system Jah Baddis in the 70s, before becoming tour DJ for the legendary 2-Tone band The Specials. Danniella now proudly carries on her father's sound system legacy, solo & with Sisters In Dub.",
+                "city": "Coventry",
+                "name": "Danniella Dee",
                 "time": "20:30"
               }
             ],
@@ -10770,7 +10770,8 @@
             "Upsetters 14 Dub Black Board Jungle",
             "(album)",
             "David Katz (Q&A)",
-            "U14DBBJ (live)"
+            "U14DBBJ (live)",
+            "Danniella Dee"
           ],
           "name": "FREIFELD"
         }
@@ -10795,9 +10796,9 @@
             "name": "LOBBY + ANNEX",
             "slots": [
               {
-                "bio": null,
-                "city": null,
-                "name": "Niche (Live)",
+                "bio": "Studio Niche is a studio collective based in Wuppertal’s Luisenviertel. Eight artists currently share the space, with connection through electronic music at the heart of the project. They regularly jam and produce together in an open-ended, genre-fluid process, driven by what happens when different musical minds meet in one room.\nFor Open Lobby, Studio Niche brings this way of working out of the studio and into Open Ground. Joining forces this time are Maruhni, Als420 and Mexem, each bringing their favourite machines. A session unfolds live, offering a direct look into the collective’s process as tracks are built, broken down and reshaped in real time.",
+                "city": "Wuppertal",
+                "name": "Studio Niche (live)",
                 "time": null
               }
             ],
@@ -10808,7 +10809,7 @@
       "floors": [
         {
           "artists": [
-            "Niche (Live)"
+            "Studio Niche (live)"
           ],
           "name": "LOBBY + ANNEX"
         }
@@ -11561,5 +11562,5 @@
       "url": "https://www.openground.club/en/schedule/2026-12-31-new-years-eve"
     }
   ],
-  "scraped_at": "2026-10-14T11:59:07+00:00"
+  "scraped_at": "2026-10-14T17:16:24+00:00"
 }
