@@ -10789,7 +10789,7 @@
       "date_iso": "2026-11-12",
       "date_label": "Thu.12.11.26",
       "detail": {
-        "description": null,
+        "description": "Studio Niche is a studio collective based in Wuppertal’s Luisenviertel. Eight artists currently share the space, with connection through electronic music at the heart of the project. They regularly jam and produce together in an open-ended, genre-fluid process, driven by what happens when different musical minds meet in one room.\n\nFor Open Lobby, Studio Niche brings this way of working out of the studio and into Open Ground. Joining forces this time are Maruhni, Als420 and Mexem, each bringing their favourite machines. A session unfolds live, offering a direct look into the collective’s process as tracks are built, broken down and reshaped in real time.",
         "floors": [
           {
             "name": "LOBBY + ANNEX",
@@ -10797,7 +10797,7 @@
               {
                 "bio": null,
                 "city": null,
-                "name": "...",
+                "name": "Niche (Live)",
                 "time": null
               }
             ],
@@ -10808,7 +10808,7 @@
       "floors": [
         {
           "artists": [
-            "..."
+            "Niche (Live)"
           ],
           "name": "LOBBY + ANNEX"
         }
@@ -11033,15 +11033,39 @@
       "date_iso": "2026-11-26",
       "date_label": "Thu.26.11.26",
       "detail": {
-        "description": null,
+        "description": "Spooky Surf Club is a 2025 founded collective of fellas who share the passion for underground house music. By sharing sets of like-minded selectors and organizing events in and around Dusseldorf they pursue the goal of bringing people together and push the sound that Spooky Surf stands for.",
         "floors": [
           {
             "name": "LOBBY + ANNEX",
             "slots": [
               {
                 "bio": null,
-                "city": null,
-                "name": "...",
+                "city": "Düsseldorf",
+                "name": "helena",
+                "time": null
+              },
+              {
+                "bio": null,
+                "city": "Düsseldorf",
+                "name": "dj flatbeat",
+                "time": null
+              },
+              {
+                "bio": null,
+                "city": "Düsseldorf",
+                "name": "wellness west",
+                "time": null
+              },
+              {
+                "bio": null,
+                "city": "Düsseldorf",
+                "name": "Phantomas",
+                "time": null
+              },
+              {
+                "bio": null,
+                "city": "Düsseldorf",
+                "name": "FLXKLTT",
                 "time": null
               }
             ],
@@ -11052,7 +11076,11 @@
       "floors": [
         {
           "artists": [
-            "..."
+            "helena",
+            "dj flatbeat",
+            "wellness west",
+            "Phantomas",
+            "FLXKLTT"
           ],
           "name": "LOBBY + ANNEX"
         }
@@ -11533,5 +11561,5 @@
       "url": "https://www.openground.club/en/schedule/2026-12-31-new-years-eve"
     }
   ],
-  "scraped_at": "2026-10-14T04:59:05+00:00"
+  "scraped_at": "2026-10-14T11:59:07+00:00"
 }
