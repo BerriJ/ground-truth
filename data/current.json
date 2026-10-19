@@ -10660,6 +10660,12 @@
             "name": "FREIFELD",
             "slots": [
               {
+                "bio": "South London’s Mala played a pioneering role in UK music since the turn of the century: Stirring dubstep’s musical melting pot before it even had a name. His DJ sets and parties invite spiritual explorers to come - meditate on bass weight - by unleashing a concentration of dubwise vibrations and UK rawness that demands to be played on heavyweight sound systems for the full experience.",
+                "city": "London",
+                "name": "Mala",
+                "time": null
+              },
+              {
                 "bio": null,
                 "city": null,
                 "name": "...",
@@ -10685,6 +10691,7 @@
       "floors": [
         {
           "artists": [
+            "Mala",
             "..."
           ],
           "name": "FREIFELD"
@@ -11562,5 +11569,5 @@
       "url": "https://www.openground.club/en/schedule/2026-12-31-new-years-eve"
     }
   ],
-  "scraped_at": "2026-10-19T04:47:12+00:00"
+  "scraped_at": "2026-10-19T13:25:30+00:00"
 }
