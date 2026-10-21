@@ -10384,25 +10384,25 @@
                 "bio": "Berlin-based DJ and radio host Elke radiates high energy – whether through playful electro, garage, and jungle or via percussive techno, bassy rollers, and stone-cold drumfunk.",
                 "city": "Berlin",
                 "name": "Elke",
-                "time": null
+                "time": "22:00"
               },
               {
                 "bio": "Sepehr is an Iranian-American live act, DJ, and sonic maverick based in New York City. The Bay area native is an electronic music pariah who enjoys disintegrating and destroying dance music tropes through bizarre and wonderful sound potions. These auditory libations have been released on labels like Dark Entries, Planet Euphorique, Osare Editions and Steﬃ’s Klakson label.\n\nHis DJ sets move from enchanted steppers and psychedelic-but-not-boring techno, to haute electro, aphrodisiac acid and freaky jakbeat music. In late 2017 he began performing live PA sets, sonically ranging from potent drum cocktails to psychedelic and oxygenated soundscapes. Sepehr is the label head of Shaytoon Records, an imprint focused on Middle Eastern underground electronic music.",
                 "city": "New York City",
                 "name": "Sepehr (live)",
-                "time": null
+                "time": "00:00"
               },
               {
                 "bio": "Objekt is TJ Hertz, a producer and DJ living in Berlin. He first became known for head-turning club records. In parallel, Objekt has built a reputation as one of the must-see DJs of his generation. Selected as Mixmag’s DJ of the Year in 2018, he thrives in festival tents and sweatbox basements alike. His DJing style is equal parts wild and laser-focused, making full use of technique and technology to surprise and entertain, while paying little heed to genre or BPM and feeding off spontaneity and crowd connection.",
                 "city": "Berlin",
                 "name": "Objekt",
-                "time": null
+                "time": "01:30"
               },
               {
                 "bio": "Genre fluidity has always been a big part of Djrum's music, the list of genres he touches on here is extensive: Techno, Ambient, Modern Classical, Jazz, Electronica, Broken Beat, Samba, Dubstep, Jungle, Footwork, DnB, Triphop, Gabber and Electro.",
                 "city": "London",
                 "name": "Djrum",
-                "time": null
+                "time": "03:30"
               }
             ],
             "subtitle": "Kapsela at Open Ground"
@@ -10411,22 +10411,22 @@
             "name": "ANNEX",
             "slots": [
               {
-                "bio": "Ada Luvv is a North Rhine–Westphalia–based dancefloor enthusiast and crossword master. Rooted somewhere in that no-name land between niche and classy club music, she feels especially drawn to anything percussive, pulsating, spacious and delightfully quirky. While striving to channel her eclectic taste into mixes that are diverse yet inherently consistent, her deeper intention remains simple: to gather people, connect through music with like-minded souls, and create intense moments of collective spark.\n\nYears spent as a record dealer profoundly shaped Aphasit’s (fka Low Ki) musical identity and his approach to DJing. He thrives on tailoring the right sound to any room while consistently pushing the boundaries of the crowd’s comfort zone. With high technical standards, his mixing seamlessly connects the dots between UK-influenced club music, driving House grooves, twisted Techno, and immersive non-dance-music layers.\n\nAs a core member of the Cologne-based 'Illusion' crew, he has been championing both dance and listening events since 2016. In 2025, he launched his own project, \"supersoft\", further exploring the intersection of electronic club culture and deep listening music & different approaches of consuming music.",
-                "city": "Cologne",
-                "name": "Ada Luvv b2b Aphasit",
-                "time": null
-              },
-              {
                 "bio": "With his new alias „mmara\", formerly known as Max Scholpp, the Cologne-based DJ, Producer, and Live-Performer embarks on a journey to introduce a newly formed, yet constantly evolving, musical vision. Embracing experimentation and innovation, pushing the boundaries of traditional genres and blending elements from diverse musical influences.\n\nOle B/P is a Wuppertal-born and Cologne-based DJ. His DJ sets aim at balancing functionality with curiosity, maintaining a keen sense of context and curation.As co-founder of Illusion he has been an active part of the Cologne music scene for almost a decade, playing alongside artists like upsammy, Bambounou, OKO DJ and others.",
                 "city": "Cologne",
                 "name": "mmara b2b Ole B/P",
-                "time": null
+                "time": "22:00"
               },
               {
                 "bio": "Brussels-based Mika Oki is a polymath of the arts, seamlessly blending her background in sculpture and electro-acoustic music to craft immersive experiences that defy conventional boundaries. Her journey as a visual artist, DJ, and producer has been marked by an exploration of intangible spaces and emotional landscapes, manifested through A/V installations, music compositions, and captivating mixes.",
                 "city": "Brussels",
                 "name": "Mika Oki",
-                "time": null
+                "time": "01:00"
+              },
+              {
+                "bio": "Ada Luvv is a North Rhine–Westphalia–based dancefloor enthusiast and crossword master. Rooted somewhere in that no-name land between niche and classy club music, she feels especially drawn to anything percussive, pulsating, spacious and delightfully quirky. While striving to channel her eclectic taste into mixes that are diverse yet inherently consistent, her deeper intention remains simple: to gather people, connect through music with like-minded souls, and create intense moments of collective spark.\n\nYears spent as a record dealer profoundly shaped Aphasit’s (fka Low Ki) musical identity and his approach to DJing. He thrives on tailoring the right sound to any room while consistently pushing the boundaries of the crowd’s comfort zone. With high technical standards, his mixing seamlessly connects the dots between UK-influenced club music, driving House grooves, twisted Techno, and immersive non-dance-music layers.\n\nAs a core member of the Cologne-based 'Illusion' crew, he has been championing both dance and listening events since 2016. In 2025, he launched his own project, \"supersoft\", further exploring the intersection of electronic club culture and deep listening music & different approaches of consuming music.",
+                "city": "Cologne",
+                "name": "Ada Luvv b2b Aphasit",
+                "time": "02:30"
               }
             ],
             "subtitle": "10 years of Illusion at Open Ground"
@@ -10445,9 +10445,9 @@
         },
         {
           "artists": [
-            "Ada Luvv b2b Aphasit",
             "mmara b2b Ole B/P",
-            "Mika Oki"
+            "Mika Oki",
+            "Ada Luvv b2b Aphasit"
           ],
           "name": "ANNEX"
         }
@@ -11569,5 +11569,5 @@
       "url": "https://www.openground.club/en/schedule/2026-12-31-new-years-eve"
     }
   ],
-  "scraped_at": "2026-10-21T11:56:32+00:00"
+  "scraped_at": "2026-10-21T17:16:23+00:00"
 }
