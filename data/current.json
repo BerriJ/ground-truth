@@ -10520,31 +10520,31 @@
                 "bio": "“Over the course of his career, the Birmingham resident has perfected a unique and uncommonly effective production style. His is a tough techno sound with an industrial murk about it but also plenty of funk, swing and a sophisticated sense of dub-space learned in part from his Chain Reaction contemporaries in Berlin. Proving that hard can also be smart, sensuous and danceable, the influence of Surgeon on the current Ostgut/Berghain sound – DJs/producers like Marcel Dettmann, Shed et al – is substantial”. (Fact Magazine)\n\nSurgeon is a selector of some skill and one of the most inventive, intuitive DJs out there. Using techno as a vehicle to carry his artistic message, he also mixes up everything from contemporary bass music to Rephlex-esque electronica to create a coherent, intense and righteously banging whole. More recently live improvisation has become a more important part of all of his performances.",
                 "city": "Birmingham",
                 "name": "Surgeon",
-                "time": null
+                "time": "23:00"
               },
               {
                 "bio": "Emerging from the underground music communities of New York, Detroit, and Los Angeles, Julien P will be making his Wuppertal solo debut ahead of his forthcoming release on Limited Network with longtime collaborator Max Watts.\n\nChanneling the raw spirit and ethos of North American techno, Julien P’s approach to production pays homage to the past while extending its legacy into the future.",
                 "city": "Brooklyn",
                 "name": "Julien P. (live)",
-                "time": null
+                "time": "02:00"
               },
               {
                 "bio": "Studio enginologue and psychonaut. Lifelong sonic obsessive and music-maker. Her solo EP LN017 “Phonomaton” is fresh off the press and features two ten minute tracks that she’ll be breaking for our ears first.",
                 "city": "Detroit",
                 "name": "Sugar",
-                "time": null
+                "time": "03:00"
               },
               {
                 "bio": "Using the true old school methodology of recording, Max Watts and Mario Zepf have been cranking out tunes like mad men, with LN-018 being the first of the bunch to be released for the masses. Out of a connection they made from a shared passion for quality of sound over status quo, their dub projekt BX-5 was born.",
                 "city": "Detroit/Berlin",
                 "name": "BX-5 (live)",
-                "time": null
+                "time": "04:00"
               },
               {
                 "bio": null,
                 "city": "Detroit/Los Angeles",
                 "name": "The D-linkuents (live)",
-                "time": null
+                "time": "05:00"
               }
             ],
             "subtitle": null
@@ -10553,28 +10553,28 @@
             "name": "ANNEX",
             "slots": [
               {
-                "bio": "DJ Brom aka FRANCE ’98 is a musician, DJ and graphic artist based in Cologne. As a co-founder of SPA Recordings he shaped their sonic identity right from the 2019 debut release 'safe needing attention'.\n\nSince more than a decade DJ Brom hosts regular shows on renowed platforms such as NTS or Kiosk Radio.\nTouring through Germany & Europe, DJ Brom is known for immersive sets that seamlessly bridge avant-garde electronic music with rich, globally sourced rhythms.",
-                "city": "Cologne",
-                "name": "DJ Brom",
-                "time": null
-              },
-              {
-                "bio": "Berlin-based Eleftheria operates within the city’s underground, shaping DJ sets that balance function with unpredictability. On her Noods Radio show III DIM, her mixes drift through dub mutations, riddims, designer electronics, and loosely noise-related music, unfolding as fluid, narrative-driven forms without fixed genres, but with a clear affinity for gritty system music.\nHer practice extends into curation through hub, a roaming event series hosted in venues such as Volksbühne’s Roter Salon. The series focuses on the more exploratory edges of dub-related music and creates intimate setting for Berlin live-set debuts and special collaborations between artists.\nAlongside her regular broadcasts, her mixes have appeared on Kiosk Radio, Rinse France, Radio Alhara, Radio Lola, LYL radio, dublab, Carhartt Radio, Drift, and eos radio. Venues and events she has performed at span from Sonic Acts Biennale, Volksbühne, and Salon des Amateurs to OHM, Berghain Säule, and Golden Pudel Club.",
-                "city": "Berlin",
-                "name": "Eleftheria",
-                "time": null
-              },
-              {
                 "bio": "Friday Dunard has taken the edge off trance, written a prayer for the Rhine, and helped build the\nCologne-based label SPA.\nHis most recent release was “On Fridays (ReBirth),” a hybrid of a remix compilation and a fanzine about online music culture in the 2000s. With the ears of that era taking him all the way to 2026, DJ Duni navigates a broad spectrum of genres, driven by a need for connection, hypnosis, and euphoria.",
                 "city": "Cologne",
                 "name": "Friday Dunard",
-                "time": null
+                "time": "22:00"
               },
               {
                 "bio": "luxxuryproblems is the moniker of M. Sékou, self-described „assembler, betrachter, collaborateur,\nhoarder & gatherer\".\nluxxuryproblems' productions are inspired by cultural artifacts and the peripheral realms of electronic music, while his essays of visual artworks focus around archives, appropriation, re-assembling and deconstruction of of language, drawing from a diverse array of influences.",
                 "city": null,
                 "name": "luxxuryproblems (live)",
-                "time": null
+                "time": "00:30"
+              },
+              {
+                "bio": "Berlin-based Eleftheria operates within the city’s underground, shaping DJ sets that balance function with unpredictability. On her Noods Radio show III DIM, her mixes drift through dub mutations, riddims, designer electronics, and loosely noise-related music, unfolding as fluid, narrative-driven forms without fixed genres, but with a clear affinity for gritty system music.\nHer practice extends into curation through hub, a roaming event series hosted in venues such as Volksbühne’s Roter Salon. The series focuses on the more exploratory edges of dub-related music and creates intimate setting for Berlin live-set debuts and special collaborations between artists.\nAlongside her regular broadcasts, her mixes have appeared on Kiosk Radio, Rinse France, Radio Alhara, Radio Lola, LYL radio, dublab, Carhartt Radio, Drift, and eos radio. Venues and events she has performed at span from Sonic Acts Biennale, Volksbühne, and Salon des Amateurs to OHM, Berghain Säule, and Golden Pudel Club.",
+                "city": "Berlin",
+                "name": "Eleftheria",
+                "time": "01:30"
+              },
+              {
+                "bio": "DJ Brom aka FRANCE ’98 is a musician, DJ and graphic artist based in Cologne. As a co-founder of SPA Recordings he shaped their sonic identity right from the 2019 debut release 'safe needing attention'.\n\nSince more than a decade DJ Brom hosts regular shows on renowed platforms such as NTS or Kiosk Radio.\nTouring through Germany & Europe, DJ Brom is known for immersive sets that seamlessly bridge avant-garde electronic music with rich, globally sourced rhythms.",
+                "city": "Cologne",
+                "name": "DJ Brom",
+                "time": "03:15"
               }
             ],
             "subtitle": "SPA Recording at Open Ground"
@@ -10594,10 +10594,10 @@
         },
         {
           "artists": [
-            "DJ Brom",
-            "Eleftheria",
             "Friday Dunard",
-            "luxxuryproblems (live)"
+            "luxxuryproblems (live)",
+            "Eleftheria",
+            "DJ Brom"
           ],
           "name": "ANNEX"
         }
@@ -11569,5 +11569,5 @@
       "url": "https://www.openground.club/en/schedule/2026-12-31-new-years-eve"
     }
   ],
-  "scraped_at": "2026-10-22T04:55:42+00:00"
+  "scraped_at": "2026-10-22T11:59:04+00:00"
 }
