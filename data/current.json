@@ -10454,8 +10454,8 @@
       ],
       "id": "2026-10-24",
       "ticket": {
-        "state": "onsale",
-        "url": "https://shop.weeztix.com/df13e064-b810-4209-bc19-a2b3531188c2/tickets"
+        "state": "soldout",
+        "url": null
       },
       "time": "22:00–06:00",
       "title": null,
@@ -11569,5 +11569,5 @@
       "url": "https://www.openground.club/en/schedule/2026-12-31-new-years-eve"
     }
   ],
-  "scraped_at": "2026-10-24T11:08:22+00:00"
+  "scraped_at": "2026-10-24T16:00:48+00:00"
 }
