@@ -10654,7 +10654,7 @@
       "date_iso": "2026-11-07",
       "date_label": "Sat.07.11.26",
       "detail": {
-        "description": "A limited number of additional tickets will go online this Thursday, 29 October, at 13:00 CET.\n\nAdmision 40 €",
+        "description": "Admision 40 €",
         "floors": [
           {
             "name": "FREIFELD",
@@ -11632,5 +11632,5 @@
       "url": "https://www.openground.club/en/schedule/2026-12-31-new-years-eve"
     }
   ],
-  "scraped_at": "2026-10-29T05:53:30+00:00"
+  "scraped_at": "2026-10-29T13:09:05+00:00"
 }
