@@ -10975,15 +10975,21 @@
       "date_iso": "2026-11-19",
       "date_label": "Thu.19.11.26",
       "detail": {
-        "description": null,
+        "description": "LOOT at Open Lobby\n\nLOOT is an artistic project and platform between performance art, sound, and politically emancipatory party culture. At its center is the queer SWANA diaspora (Southwest Asia and North Africa) with its diverse experiences, histories, and lived realities.\n\nFor LOOT, SWANA is not a fixed entity but a region full of languages, sounds, and forms of belonging, constantly changing through migration, diaspora, and social upheaval. Sound is more than accompaniment: it is power. It carries memory, occupies space, and brings people into relation. Through body, DJing, and performance, LOOT looks for ways to make this diversity and its transformation audible and tangible.\n\nStarting from the question of how community can emerge between different historical experiences, languages, and positions of power without flattening differences, LOOT understands club and nightlife not as spaces of consumption but as sites of reclaiming: somatic and performative spaces for gathering, resistance, and solidarity-building.\n\nLOOT works from a decolonial and queer-feminist perspective and is based in North Rhine-Westphalia. Coming together without being the same: this is the starting point for exchange, networking, and collective action.",
         "floors": [
           {
             "name": "LOBBY + ANNEX",
             "slots": [
               {
-                "bio": null,
-                "city": null,
-                "name": "...",
+                "bio": "Born in Egypt and based in Germany, Aaro’s path is one of dedication and profound passion for music. As a Transfem Egyptian DJ, music producer, performer and co-founder of @adhd_records, Aaro has been crafting her distinct space in the music world since 2011. Her DJ journey started in 2019 and it shows!\n\nHer sets blend genres into a sound that pushes the floor forward without letting up.\n\nAaro’s production work is a showcase of their artistic breadth. Her latest single, “Skinny Human,” merges breakbeats with eery and soothing vocals, creating a compelling track that leaves listeners craving more",
+                "city": "Cologne",
+                "name": "Aaro",
+                "time": null
+              },
+              {
+                "bio": "BABY.LONIAX is a multimedia Performance Artist from the SWANA region, based in bochum&cologne. Their DJ sets draw from a wide spectrum of electronic\n\nmusic and diverse influences from SWANA soundscape. She weaves bass, dnb/dabkhe, techno-acid, deep and extravagant basslines into sets that blend the familiar with\n\nthe unexpected rhythms and harmonics.",
+                "city": "Cologne",
+                "name": "BABY.LONIAX",
                 "time": null
               }
             ],
@@ -10994,7 +11000,8 @@
       "floors": [
         {
           "artists": [
-            "..."
+            "Aaro",
+            "BABY.LONIAX"
           ],
           "name": "LOBBY + ANNEX"
         }
@@ -11632,5 +11639,5 @@
       "url": "https://www.openground.club/en/schedule/2026-12-31-new-years-eve"
     }
   ],
-  "scraped_at": "2026-10-30T05:55:03+00:00"
+  "scraped_at": "2026-10-30T13:01:43+00:00"
 }
