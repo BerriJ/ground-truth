@@ -11475,7 +11475,7 @@
       "date_iso": "2026-12-26",
       "date_label": "Sat.26.12.26",
       "detail": {
-        "description": "Admission 20 € / before 23:00 15 €",
+        "description": "On December 26th, our Friends & Residents Clubnight returns for another night of music and familiar faces. Featuring artists who have been part of our journey throughout the year, we’re coming together on the dancefloors.\nLooking forward to seeing you all there!\nAdmission 20 € / before 23:00 15 €",
         "floors": [
           {
             "name": "FREIFELD",
@@ -11531,7 +11531,7 @@
       "date_iso": "2026-12-31",
       "date_label": "Thu.31.12.26",
       "detail": {
-        "description": "Admission 40 €",
+        "description": "New Year’s Eve at Open Ground\nWe’re looking forward to closing out the year together and welcoming 2027 on the dancefloor.\nAn audio portrait of different musical histories, connected through sound. Moving through the deeper ends of dub, house, techno and bass music, exploring the spaces in between.\nA night shaped by music and the people who bring it all together.\nMore details coming soon.\n\nAdmission 40 €",
         "floors": [
           {
             "name": "FREIFELD",
@@ -11639,5 +11639,5 @@
       "url": "https://www.openground.club/en/schedule/2026-12-31-new-years-eve"
     }
   ],
-  "scraped_at": "2026-11-02T06:15:05+00:00"
+  "scraped_at": "2026-11-02T16:13:31+00:00"
 }
