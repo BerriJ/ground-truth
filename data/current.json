@@ -10622,9 +10622,21 @@
             "name": "LOBBY + ANNEX",
             "slots": [
               {
-                "bio": null,
-                "city": null,
-                "name": "Open Call",
+                "bio": "Moi will make her debut at Open Ground's lobby event on 5 November. She will serve some 90s house, deep house and funky tunes. As an active member of the 'Kollektiv Barrieren Sprengen', she fights for, and advocates, more inclusive and accessible bookings of disabled artists in club and festival contexts. Recently, she has worked on implementing inclusion and accessibility concepts at festivals such as 'Tarmac' and 'Blechsonne'. Club culture should be accessible to everyone, whether they are behind the decks, involved in production, or attending as a guest.",
+                "city": "Dortmund",
+                "name": "Moi",
+                "time": null
+              },
+              {
+                "bio": "Greta Perola, born and raised in Bochum, is part of a new wave of selectors emerging\nfrom the Ruhr area’s electronic music scene.\n\nBelieving that anything can resonate when placed in the right moment, breaking\nboundaries and exploring genres are key parts of her musical identity.\nHer sound blends old-school influences with contemporary club energy, moving through\nall kinds of house into electro and breaks, driven by a passion for acid and synthesizers.\n\nComing straight from the heart, made for the floor!",
+                "city": "Bochum",
+                "name": "Greta Perola",
+                "time": null
+              },
+              {
+                "bio": "Café del Borsig is a DJ collective formed by Ramon Ramirez and Jay Ulrich in 2019, later joined by Sammy Danne. Since its beginnings, the collective has been sharing music through its joint SoundCloud profile, documenting a musical journey shaped by curiosity and an openness to a broad spectrum of electronic music. What began with drum & bass, progressive sounds and techno has gradually evolved into a sound that moves freely across the landscape of dance music. Today, their selections draw from minimal, house, deep house, UK garage, acid and techno, with house at their core.",
+                "city": "Cologne/Dortmund",
+                "name": "Café del Borsig",
                 "time": null
               }
             ],
@@ -10635,7 +10647,9 @@
       "floors": [
         {
           "artists": [
-            "Open Call"
+            "Moi",
+            "Greta Perola",
+            "Café del Borsig"
           ],
           "name": "LOBBY + ANNEX"
         }
@@ -11639,5 +11653,5 @@
       "url": "https://www.openground.club/en/schedule/2026-12-31-new-years-eve"
     }
   ],
-  "scraped_at": "2026-11-03T14:23:01+00:00"
+  "scraped_at": "2026-11-03T23:27:14+00:00"
 }
