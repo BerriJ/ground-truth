@@ -11446,18 +11446,6 @@
               }
             ],
             "subtitle": "Klockworks at Open Ground"
-          },
-          {
-            "name": "ANNEX",
-            "slots": [
-              {
-                "bio": null,
-                "city": null,
-                "name": "...",
-                "time": null
-              }
-            ],
-            "subtitle": null
           }
         ]
       },
@@ -11467,12 +11455,6 @@
             "..."
           ],
           "name": "FREIFELD"
-        },
-        {
-          "artists": [
-            "..."
-          ],
-          "name": "ANNEX"
         }
       ],
       "id": "2026-12-19",
@@ -11653,5 +11635,5 @@
       "url": "https://www.openground.club/en/schedule/2026-12-31-new-years-eve"
     }
   ],
-  "scraped_at": "2026-11-04T06:31:58+00:00"
+  "scraped_at": "2026-11-04T19:49:23+00:00"
 }
