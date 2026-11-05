@@ -11446,6 +11446,36 @@
               }
             ],
             "subtitle": "Klockworks at Open Ground"
+          },
+          {
+            "name": "ANNEX",
+            "slots": [
+              {
+                "bio": "DJ Brom aka FRANCE ’98 is a musician, DJ and graphic artist based in Cologne. As a co-founder of SPA Recordings he shaped their sonic identity right from the 2019 debut release 'safe needing attention'.\n\nSince more than a decade DJ Brom hosts regular shows on renowed platforms such as NTS or Kiosk Radio.\nTouring through Germany & Europe, DJ Brom is known for immersive sets that seamlessly bridge avant-garde electronic music with rich, globally sourced rhythms.",
+                "city": "Cologne",
+                "name": "DJ Brom",
+                "time": null
+              },
+              {
+                "bio": "Emma dj is a Finnish-born Paris based sound artist and dj with a rapidly growing catalogue of releases as well as impromptu SoundCloud mixtapes which gained early support from the likes of Radiohead frontman Thom Yorke, Virgil Abhol and Travis Scott amongst others. Forging an aesthetic of his own combining experimental electronics, dance and trap, his productions display a clear penchant for harder, grittier and ever indescribable sounds translating directly into his dj sets. His music collaborations go from Biennale installation scoring for Pol Taburet to producing rappers like Jeune Morty while collaborating with electronic artists like Rainy Miller, VTSS and Europa leaving a wide gap of sound explorations for everything in between.",
+                "city": "Paris",
+                "name": "Emma dj",
+                "time": null
+              },
+              {
+                "bio": "KAVARI is a British artist, DJ, and clothing designer currently based in Scotland. Renowned for her innovative productions, transgressive art, and live performances that fuse industrial, ambient, club, and noise music.",
+                "city": null,
+                "name": "KAVARI",
+                "time": null
+              },
+              {
+                "bio": "Gretchen's sets chronicle experimental industrial desires, tread noisy distorted precipices, and charge unabashedly through fractured backdoors. They are wrested from pain thresholds; Gretchen's dramaturgy shatters on dark bass escapades, ultimately leaving the club abandoned.\n\nOscillating between low-end industrial dub, sharply textured soundscapes, and post club deconstructions, Gretchen's sound is dedicated to the manifold rhythms of unrelenting transgression. As part of the event series Echidna, Gretchen expands her unwavering desire to bring attention to the unnoticed; she organized several club events dedicated to musical expressions which challenge familiar forms.",
+                "city": "Vienna",
+                "name": "Gretchen",
+                "time": null
+              }
+            ],
+            "subtitle": "Three Skies at Open Ground"
           }
         ]
       },
@@ -11455,6 +11485,15 @@
             "..."
           ],
           "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "DJ Brom",
+            "Emma dj",
+            "KAVARI",
+            "Gretchen"
+          ],
+          "name": "ANNEX"
         }
       ],
       "id": "2026-12-19",
@@ -11635,5 +11674,5 @@
       "url": "https://www.openground.club/en/schedule/2026-12-31-new-years-eve"
     }
   ],
-  "scraped_at": "2026-11-05T06:54:29+00:00"
+  "scraped_at": "2026-11-05T20:00:24+00:00"
 }
