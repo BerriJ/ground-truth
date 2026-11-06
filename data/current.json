@@ -10661,7 +10661,7 @@
       "date_iso": "2026-11-07",
       "date_label": "Sat.07.11.26",
       "detail": {
-        "description": "Admision 40 €",
+        "description": "We'll open the doors earlier on Saturday.\nCome between 5:00 and 6:00 p.m. so you don't miss a second!\n\nCome early, stay late!\n\nSold out.",
         "floors": [
           {
             "name": "FREIFELD",
@@ -10670,43 +10670,43 @@
                 "bio": "Breakfake is a DJ & producer based in Leeds, UK. His sound covers a wide spectrum, blending elements of roots with contemporary bass music.\n\nComing from a live music background, his journey changed after experiencing UK sound system sessions, which deeply shaped his approach to music production and performance.\n\nHe also incorporates live elements into his sets, and plays both DJ and live performances in the form of live dubbing involving MPC, synths and analog effects such as echoes, spring reverbs and filters, always keeping the foundation and message of sound system culture at heart.",
                 "city": "Leeds",
                 "name": "Breakfake (live)",
-                "time": null
-              },
-              {
-                "bio": null,
-                "city": "London",
-                "name": "Channel One",
-                "time": null
-              },
-              {
-                "bio": "Commodo is a producer and DJ from Sheﬃeld, widely respected for his genre-busting approach to 140-BPM, Grime and rap beats. Emerging in the early 2010s, he quickly gained recognition through releases on influential labels like Black Acre and foundational entities like Deep Medi Musik, where his 2013 EP $pace Cash established his reputation for tasteful sound design, cinematic atmospheres, and impactful low-end.\n\nBlending elements of Grime, Dubstep and Hip-Hop, Commodo’s productions stand out for their intricate rhythms, analogue sound textures, and stripped-back but powerful arrangements. His work often pushes beyond traditional 140 bpm structures, drawing influence from obscure Soundtracks to Grunge & Shoegaze while maintaining the genre’s essential Widescreen production standard. As a DJ Commodo has built an equally enviable reputation, able to throw down a more functional dubstep set or incorporate more eclectic and contemporary influences with a keen ear for a blend.",
-                "city": "Sheﬃeld",
-                "name": "Commodo",
-                "time": null
-              },
-              {
-                "bio": "Over the past decade, Ila Brugal has built a loyal following with her signature blend of bass-heavy, percussive cuts. A regular fixture across the UK and European club circuits, she continues to push her sound as both a producer and the founder of her label, Amygdala.\n\nA former Rinse FM and Fabric London resident, Ila has also performed for leading events and labels including DEEP MEDi, Outlook Festival, 1985, Swamp81, and TW/TW LDN.\n\nAs a producer, her output continues to expand. Following her debut two-tracker ‘Airstrike/TEN’ on Amygdala, she’s released music via Martyn’s 3024, Dublin’s Woozy, and Earful of Wax, as well as a collaborative EP with Jon1st. Her productions have received widespread radio support from BBC Radio 1, 1Xtra, Rinse FM, and more.Most recently, Ila dropped some new music on SPE:C and Osmura latest VA compilation and has a series of forthcoming projects lined up over the coming months.\n\nCardiff-based producer, visual artist and DJ COCODUBZ has been making serious waves across the country and beyond with her bass-driven beats, high energy sets with mc's, and seamlessly blending dubstep, grime, rap, and rnb in her solo sets and radio shows. Known for her heavy basslines and immersive soundscapes, she brings a unique touch to every set that leaves the crowd wobbling. You can listen to her every first Sunday of the month at 18:00 GMT on SWU.FM.",
-                "city": "Cardiff",
-                "name": "Ila Brugal b2b Coco Dubz",
-                "time": null
+                "time": "18:00"
               },
               {
                 "bio": null,
                 "city": null,
-                "name": "Joe Armon Jones & Maxwell Owin",
-                "time": null
-              },
-              {
-                "bio": "Music, energy, culture and collaboration: Born and raised in South London, Mala has played a\n\npioneering role in UK music since the turn of the century.\n\nStirring dubstep’s musical melting pot with its most primal ingredients before it even had a name, Mala was a founding member of DMZ, the crew behind some of modern bass music’s most influential dances and the most highly prized 12” vinyls the movement has witnessed.\n\n20 years on, the man behind the agenda setting label Deep Medi Musik, Mala has continued to develop the UK bass music blueprint, encouraging creative compositions from genre-affirming artists like Skream, Swindle, Silkie, Commodo, Calibre, Goth-Trad, Truth, Kahn, Egoless, Bukez Finezt and Sir Spyro, whose ‘Topper Top’ became one of grime’s most iconic tracks.\n\nMala has created 3 critically acclaimed and forward thinking albums to emerge out of the UK bass music in the last decade.",
-                "city": "London",
-                "name": "Mala",
-                "time": null
+                "name": "Joe Armon Jones & Maxwell Owin (live)",
+                "time": "19:30"
               },
               {
                 "bio": "Silkie is a producer, DJ and dubstep pioneer from West London. Emerging from the early 2000s UK grime scene, he developed a signature jazz-influenced dubstep sound and has released music on Deep MEDi, Skream’s Disfigured Dubz and his own Antisocial Records. His early grime track No Help or Handouts was recently played at the 2026 MOBO Awards, bringing renewed attention to his early work. His unique style has led him to tour across Europe, South America, Asia, Australia and New Zealand, support artists like Mobb Deep, remix for artists including Sean Paul, DJ Shadow, Scissor Sisters, Azealia Banks, and Above & Beyond, with MCs such as P-Money, Nolay, Remtrex, Tinchy Stryder, and Jammer using his beats. In 2025, he relaunched Antisocial Records, founded UKG label Bedroom Rat Records and launched Antisocial Audio, a bass music education platform offering workshops and personalised production classes.",
                 "city": "London",
                 "name": "Silkie",
-                "time": null
+                "time": "20:30"
+              },
+              {
+                "bio": "Commodo is a producer and DJ from Sheﬃeld, widely respected for his genre-busting approach to 140-BPM, Grime and rap beats. Emerging in the early 2010s, he quickly gained recognition through releases on influential labels like Black Acre and foundational entities like Deep Medi Musik, where his 2013 EP $pace Cash established his reputation for tasteful sound design, cinematic atmospheres, and impactful low-end.\n\nBlending elements of Grime, Dubstep and Hip-Hop, Commodo’s productions stand out for their intricate rhythms, analogue sound textures, and stripped-back but powerful arrangements. His work often pushes beyond traditional 140 bpm structures, drawing influence from obscure Soundtracks to Grunge & Shoegaze while maintaining the genre’s essential Widescreen production standard. As a DJ Commodo has built an equally enviable reputation, able to throw down a more functional dubstep set or incorporate more eclectic and contemporary influences with a keen ear for a blend.",
+                "city": "Sheﬃeld",
+                "name": "Commodo",
+                "time": "21:30"
+              },
+              {
+                "bio": "Over the past decade, Ila Brugal has built a loyal following with her signature blend of bass-heavy, percussive cuts. A regular fixture across the UK and European club circuits, she continues to push her sound as both a producer and the founder of her label, Amygdala.\n\nA former Rinse FM and Fabric London resident, Ila has also performed for leading events and labels including DEEP MEDi, Outlook Festival, 1985, Swamp81, and TW/TW LDN.\n\nAs a producer, her output continues to expand. Following her debut two-tracker ‘Airstrike/TEN’ on Amygdala, she’s released music via Martyn’s 3024, Dublin’s Woozy, and Earful of Wax, as well as a collaborative EP with Jon1st. Her productions have received widespread radio support from BBC Radio 1, 1Xtra, Rinse FM, and more.Most recently, Ila dropped some new music on SPE:C and Osmura latest VA compilation and has a series of forthcoming projects lined up over the coming months.\n\nCardiff-based producer, visual artist and DJ COCODUBZ has been making serious waves across the country and beyond with her bass-driven beats, high energy sets with mc's, and seamlessly blending dubstep, grime, rap, and rnb in her solo sets and radio shows. Known for her heavy basslines and immersive soundscapes, she brings a unique touch to every set that leaves the crowd wobbling. You can listen to her every first Sunday of the month at 18:00 GMT on SWU.FM.",
+                "city": "Cardiff",
+                "name": "Ila Brugal b2b Coco Dubz",
+                "time": "22:30"
+              },
+              {
+                "bio": "Music, energy, culture and collaboration: Born and raised in South London, Mala has played a\n\npioneering role in UK music since the turn of the century.\n\nStirring dubstep’s musical melting pot with its most primal ingredients before it even had a name, Mala was a founding member of DMZ, the crew behind some of modern bass music’s most influential dances and the most highly prized 12” vinyls the movement has witnessed.\n\n20 years on, the man behind the agenda setting label Deep Medi Musik, Mala has continued to develop the UK bass music blueprint, encouraging creative compositions from genre-affirming artists like Skream, Swindle, Silkie, Commodo, Calibre, Goth-Trad, Truth, Kahn, Egoless, Bukez Finezt and Sir Spyro, whose ‘Topper Top’ became one of grime’s most iconic tracks.\n\nMala has created 3 critically acclaimed and forward thinking albums to emerge out of the UK bass music in the last decade.",
+                "city": "London",
+                "name": "Mala",
+                "time": "00:00"
+              },
+              {
+                "bio": null,
+                "city": "London",
+                "name": "Channel One",
+                "time": "04:00"
               }
             ],
             "subtitle": null
@@ -10715,34 +10715,34 @@
             "name": "ANNEX",
             "slots": [
               {
-                "bio": "Bukez Finezt is a Berlin-based producer and DJ who has been living and breathing bass music for over 20 years. Dubstep, Dub, Grime and Hip-Hop run through everything he makes, and you can hear it on releases for DeepMedi, Vision, Deep Dark & Dangerous, Deadbeats and more.\n\nBehind the decks, he doesn’t stick to one lane. His sets move through dubstep, Grime, Techno, Gqom, Breakbeat and whatever else fits the moment, mixed with plenty of unreleased material you won’t hear anywhere else. Expect heavy low end, high energy and a few surprises.\n\nHis sound has taken him from Berlin to London, Paris, New York, Los Angeles and Sydney, and the crowds are as mixed as the music: all ages, all backgrounds, all moving.\n\nIn the studio and on the dancefloor, he’s still chasing the next sound. Bukez is known just as much for his creative and unique approached as for his low-end.",
-                "city": "Berlin",
-                "name": "Bukez Finezt",
-                "time": null
+                "bio": null,
+                "city": "London",
+                "name": "Swindle",
+                "time": "21:00"
               },
               {
                 "bio": "Founder of Berlin based crew Femme Bass Mafia - Dangermami is a pivotal part of Berlin’s new generation of artists and crews, helping shape the rising selectors of the city's bass scene and catering to her community of femme DJs. As both a DJ and producer, she is known for her love of extensive 140-170 mixing explorations, elevating energies with her trippy sounds & rhythmic twists in every set, playfully fusing classic UK sounds to modern bass music, blending dubstep, drum and bass, or footwork.\n\nThe past years have seen the bass angel go global, blessing booths across the world from Europe to Asia, freshly coming off the back of an India tour. Not only gigs at Horst, Outlook or CTM Festival & clubs around Europe like Open Ground, fabric, La Station, De School or Berghain’s Saule, but also both of her residencies at Refuge Worldwide & RSO Berlin with her FBM crew have served to establish herself as one to watch.\n\nOrson is one of Germany’s most influential ambassadors of dubstep and UK bass culture. Born in Düsseldorf, he launched VERSION at the legendary Salon des Amateurs in 2006—its very first guest was Mala—and for over a decade, the event has continued to thrive as a Berlin institution. As a DJ and producer, Orson is known for his precision and commitment to detail. He transforms the dancefloor into an emotional, deep-listening experience where weight, rhythm, and space converge.",
                 "city": "Berlin",
                 "name": "Dangermami b2b Orson",
-                "time": null
-              },
-              {
-                "bio": "Jaz Imsky is a heavyweight bass specialist, merging roots of soundsystem culture with multicultural innovation. Inspired by the ineffable, she alters states of consciousness through vibrational healing.",
-                "city": "London",
-                "name": "Jaz Imsky",
-                "time": null
+                "time": "22:30"
               },
               {
                 "bio": "ROKLEM & SEBALO are already collaborating for 10 years having released 100+ tracks and counting. Their dedication and creative fusion is relentless & they are ready to showcase a lot more original music.",
                 "city": "Cologne",
                 "name": "Roklem & Sebalo",
-                "time": null
+                "time": "00:30"
               },
               {
-                "bio": null,
+                "bio": "Bukez Finezt is a Berlin-based producer and DJ who has been living and breathing bass music for over 20 years. Dubstep, Dub, Grime and Hip-Hop run through everything he makes, and you can hear it on releases for DeepMedi, Vision, Deep Dark & Dangerous, Deadbeats and more.\n\nBehind the decks, he doesn’t stick to one lane. His sets move through dubstep, Grime, Techno, Gqom, Breakbeat and whatever else fits the moment, mixed with plenty of unreleased material you won’t hear anywhere else. Expect heavy low end, high energy and a few surprises.\n\nHis sound has taken him from Berlin to London, Paris, New York, Los Angeles and Sydney, and the crowds are as mixed as the music: all ages, all backgrounds, all moving.\n\nIn the studio and on the dancefloor, he’s still chasing the next sound. Bukez is known just as much for his creative and unique approached as for his low-end.",
+                "city": "Berlin",
+                "name": "Bukez Finezt",
+                "time": "02:00"
+              },
+              {
+                "bio": "Jaz Imsky is a heavyweight bass specialist, merging roots of soundsystem culture with multicultural innovation. Inspired by the ineffable, she alters states of consciousness through vibrational healing.",
                 "city": "London",
-                "name": "Swindle",
-                "time": null
+                "name": "Jaz Imsky",
+                "time": "03:15"
               }
             ],
             "subtitle": null
@@ -10753,22 +10753,22 @@
         {
           "artists": [
             "Breakfake (live)",
-            "Channel One",
+            "Joe Armon Jones & Maxwell Owin (live)",
+            "Silkie",
             "Commodo",
             "Ila Brugal b2b Coco Dubz",
-            "Joe Armon Jones & Maxwell Owin",
             "Mala",
-            "Silkie"
+            "Channel One"
           ],
           "name": "FREIFELD"
         },
         {
           "artists": [
-            "Bukez Finezt",
+            "Swindle",
             "Dangermami b2b Orson",
-            "Jaz Imsky",
             "Roklem & Sebalo",
-            "Swindle"
+            "Bukez Finezt",
+            "Jaz Imsky"
           ],
           "name": "ANNEX"
         }
@@ -11462,7 +11462,7 @@
                 "time": null
               }
             ],
-            "subtitle": "Klockworks at Open Ground"
+            "subtitle": "20 Years of Klockworks at Open Ground"
           },
           {
             "name": "ANNEX",
@@ -11694,5 +11694,5 @@
       "url": "https://www.openground.club/en/schedule/2026-12-31-new-years-eve"
     }
   ],
-  "scraped_at": "2026-11-06T06:54:10+00:00"
+  "scraped_at": "2026-11-06T19:27:52+00:00"
 }
