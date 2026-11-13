@@ -11627,9 +11627,27 @@
             "name": "FREIFELD",
             "slots": [
               {
-                "bio": null,
-                "city": null,
-                "name": "...",
+                "bio": "Mark Ernestus–founder of Hard Wax and producer of Basic Channel, Maurizio and Rhythm & Sound fame–plays mostly Jamaican or other African rooted music beyond prevalent club sounds.",
+                "city": "Berlin",
+                "name": "Mark Ernestus",
+                "time": null
+              },
+              {
+                "bio": "Rezzett are Jackson Bailey (AKA Tapes) and Luke Blair (AKA Lukid and Refreshers). Hailing from London and known for their raw and distorted sound, Rezzett combine elements of techno, jungle, grime, and ambience to create their own unique blend of blown-out euphoria.\n\nSince their first 12\" on The Trilogy Tapes in 2012, Rezzett have released three albums, most recently 2026’s 21-track Into the Boiling Darks.",
+                "city": "London / Tallinn",
+                "name": "Rezzett (live)",
+                "time": null
+              },
+              {
+                "bio": "The Tottenham London born-and-bred selector grew up on soul and reggae, later becoming a dedicated junglist. First as a resident DJ at the legendary London club Plastic People, she’s built a rep as one of the most effective and interesting DJs around. Playing shape-shifting, genre-bending sets that effortlessly move from classic rare groove and disco records to upfront house and techno, via garage, jungle and whatever else she feels like. With no social media presence, Josey’s reputation is based on selection, passion and authenticity.",
+                "city": "London",
+                "name": "Josey Rebelle",
+                "time": null
+              },
+              {
+                "bio": "Her mastery behind the decks shows as she smoothly moves between electro, bass music, IDM, dubstep, electronics and breakcore throughout her sets. An infectious energy behind the decks that truly manifests it on any dance floor she takes control over. Her sets tend to be a adventure through leftfield novelties and obscurities deeply rooted in 90s rave.",
+                "city": "Amsterdam",
+                "name": "mad miran",
                 "time": null
               }
             ],
@@ -11639,9 +11657,9 @@
             "name": "ANNEX",
             "slots": [
               {
-                "bio": null,
-                "city": null,
-                "name": "...",
+                "bio": "Willikens & Ivkovic are two DJs with a particularly unique talent for selecting records and weaving them into larger – and often unusually compelling – narratives.",
+                "city": "Düsseldorf / Krefeld",
+                "name": "Willikens & Ivkovic",
                 "time": null
               }
             ],
@@ -11652,13 +11670,16 @@
       "floors": [
         {
           "artists": [
-            "..."
+            "Mark Ernestus",
+            "Rezzett (live)",
+            "Josey Rebelle",
+            "mad miran"
           ],
           "name": "FREIFELD"
         },
         {
           "artists": [
-            "..."
+            "Willikens & Ivkovic"
           ],
           "name": "ANNEX"
         }
@@ -11727,7 +11748,378 @@
       "time": "22:00–07:00",
       "title": "New Years Eve",
       "url": "https://www.openground.club/en/schedule/2026-12-31-new-years-eve"
+    },
+    {
+      "category": "Clubnight",
+      "date_iso": "2027-01-09",
+      "date_label": "Sat.09.01.27",
+      "detail": {
+        "description": "Admission 20 € / before 23:00 15 €",
+        "floors": [
+          {
+            "name": "FREIFELD",
+            "slots": [
+              {
+                "bio": "Agnes‘ vinyl-only sets are atmospheric, with distorted and driving elements and transition into driving Techno. They are characterized by old and new techno tracks, with influences from Detroit and industrial.",
+                "city": "Wuppertal",
+                "name": "Agnes Stark",
+                "time": null
+              },
+              {
+                "bio": "There is a continual hypnotic locked channel in Suckut’s reduced techno. His elements might be sparse but they are highly effective, the tracks are denied excess but the funk is still there, clearly visible. Whether he leans towards more dubby spheres or letting breakbeat be the backbone structure in the production, the swinging groove - his trademark - is always present.\n\nAs a DJ he likes to take on the role of a storyteller, preferring the longer variety of a set if he can choose. His career is built on excitement and playfulness, both as a DJ and producer, something that has paid off into becoming a considerable back catalogue.",
+                "city": "Düsseldorf",
+                "name": "Markus Suckut (live)",
+                "time": null
+              },
+              {
+                "bio": "German electronic Duo FJAAK continue to push boundaries in 2025 with their distinctive blend of driving, energetic dance tracks. From storming warehouse techno to reflective power house, their sound seamlessly incorporates influences from U.K. garage, dub, breakbeat hardcore, and beyond. Known for their gritty yet sensual productions, FJAAK create most of their music entirely on analog equipment, staying true to their raw and authentic sound.\n\nBased in Berlin, Felix Wagner and Aaron Röbig have been making music together since childhood and started producing techno as FJAAK in the late 2000s. Over the years, they’ve built a reputation for their rebellious attitude, electrifying live performances, and commitment to revitalizing the club scene with hardware-only live shows and high-energy DJ sets.\n\nAfter launching their labels “FJAAK,” “SPANDAU20,” and the 2023-established “CROWD,” the duo made waves in 2024 with their most ambitious project yet: the genre-defying album FJAAK THE SYSTEM. A love letter to club music in all its forms, the album merges UK breakbeat, techno, 2-step, d’n’b, jungle, trip-hop, and ambient. Featuring collaborations with Modeselektor, Skee Mask, Red Eye, and J.Manuel, it has been widely celebrated as a groundbreaking release.\n\nNow, in 2025, FJAAK are building on this momentum with new music, global tours, and a growing roster on their labels. By continuing to challenge the norms of the club scene, they remain at the forefront of electronic music, injecting playfulness, intensity, and innovation into every project.",
+                "city": "Berlin",
+                "name": "FJAAK",
+                "time": null
+              }
+            ],
+            "subtitle": null
+          },
+          {
+            "name": "ANNEX",
+            "slots": [
+              {
+                "bio": "Wuppertal-based artist and head of the Ballett label – crafts immersive, deep-textured soundscapes that blur the lines between dub-infused techno and ambient minimalism. His sets are shaped by warm, grainy rhythms, atmospheric grooves, and an earthy sonic palette that feels both grounded and expansive.\n\nRooted in classic dub aesthetics yet forward-thinking in execution, Mauzius merges analog warmth with precise electronic detail. The result is a sound that is organically fluid yet tightly structured — creating intimate moments between sound and movement.\n\nWhether in the studio or behind the decks, Mauzius curates a dynamic and deeply engaging journey, marked by subtle shifts, hypnotic patterns, and a tactile sense of depth.",
+                "city": "Wuppertal",
+                "name": "Mauzius",
+                "time": null
+              },
+              {
+                "bio": "Charis’ music is an invitation to a place of crackling hi-hats, fitting use of repetitive loops and smooth flows to transport the crowd into a state of an emotional and meditative atmosphere. Dubby sounds progressing into deep vibes, being followed by an ambient feel. The beats never aim to push, instead they are flowing steadily, much like a captivating contest of bass and reverb.\n\nThe energy is what matters most, the sounds and rhythms used want to create a surface for the listener, an open space where the beats run like water down a stream, yet keep up a deep groove in the melodic soundscape. This is what Charis likes to call “emotional dance music”.\n\nNow based in Hanover, Charis is a member of Qenem, an organization that empowers and connects FLINTA* DJs and producers, emphasizing the importance of diversity and enrichment in the music scene.",
+                "city": null,
+                "name": "Charis",
+                "time": null
+              },
+              {
+                "bio": "paaradoxx is a DJ originally from Wuppertal, where she not only learned to DJ but also co-founded the Flinta* collective PRUDE with DJ Frank and Maruhni, which has been hosting workshops and creating spaces for Flinta* since 2022. Her greatest contribution to the scene is always giving back.\n\nHer sound is constantly evolving, but she always comes back to techno and her deep roots in dub and ambient. Her greatest ambition is always to express emotions through music and bring them to the dance floor.\n​\nAbove all, the scene‘s constant evolution and its commitment to promoting diversity and supporting emerging talent make her a key player both at the forefront and behind the scenes.",
+                "city": "Cologne",
+                "name": "paaradoxx",
+                "time": null
+              }
+            ],
+            "subtitle": "Ballett at Open Ground"
+          }
+        ]
+      },
+      "floors": [
+        {
+          "artists": [
+            "Agnes Stark",
+            "Markus Suckut (live)",
+            "FJAAK"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Mauzius",
+            "Charis",
+            "paaradoxx"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2027-01-09",
+      "ticket": {
+        "state": "onsale",
+        "url": "https://shop.weeztix.com/b865fae0-93eb-42ae-baf6-9967f3cdd25e/tickets"
+      },
+      "time": "22:00–06:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2027-01-09"
+    },
+    {
+      "category": "Extended Clubnight",
+      "date_iso": "2027-01-16",
+      "date_label": "Sat.16.01.27",
+      "detail": {
+        "description": "Admission 25 €",
+        "floors": [
+          {
+            "name": "FREIFELD",
+            "slots": [
+              {
+                "bio": null,
+                "city": null,
+                "name": "...",
+                "time": null
+              }
+            ],
+            "subtitle": "Hyper Real at Open Ground"
+          },
+          {
+            "name": "ANNEX",
+            "slots": [
+              {
+                "bio": null,
+                "city": null,
+                "name": "...",
+                "time": null
+              }
+            ],
+            "subtitle": null
+          }
+        ]
+      },
+      "floors": [
+        {
+          "artists": [
+            "..."
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "..."
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2027-01-16",
+      "ticket": {
+        "state": "onsale",
+        "url": "https://shop.weeztix.com/b9958aaa-d020-4b37-81dd-c3d7f01f1662/tickets"
+      },
+      "time": "20:00–06:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2027-01-16"
+    },
+    {
+      "category": "Clubnight",
+      "date_iso": "2027-01-23",
+      "date_label": "Sat.23.01.27",
+      "detail": {
+        "description": "Admission 25 €",
+        "floors": [
+          {
+            "name": "FREIFELD",
+            "slots": [
+              {
+                "bio": "Influenced by early Detroit techno and Berlin dub techno, drum'n'bass and IDM, the Berghain resident likes to break the frame as a producer & DJ. Coupled with fast and razor-sharp multi-deck mixing, he continues to develop his DJ sets with forward thrust and pursues the goal of a unity-creating experience on the floor. His productions and sets are united by a constant lookout for groove, flow, reduction and repetition and follow the urge to surrender oneself solely to the music.",
+                "city": "Berlin",
+                "name": "Fadi Mohem",
+                "time": null
+              }
+            ],
+            "subtitle": null
+          },
+          {
+            "name": "ANNEX",
+            "slots": [
+              {
+                "bio": "South of North dj duo presenting a broad range of music with a DIY leaning ethos.",
+                "city": "Amsterdam / Paris",
+                "name": "Fry-Ry & Marathon Man",
+                "time": null
+              },
+              {
+                "bio": null,
+                "city": "Paris",
+                "name": "Axel Larsen (live)",
+                "time": null
+              },
+              {
+                "bio": null,
+                "city": "Amsterdam / Berlin",
+                "name": "La Rat (live)",
+                "time": null
+              }
+            ],
+            "subtitle": "South of North at Open Ground"
+          }
+        ]
+      },
+      "floors": [
+        {
+          "artists": [
+            "Fadi Mohem"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Fry-Ry & Marathon Man",
+            "Axel Larsen (live)",
+            "La Rat (live)"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2027-01-23",
+      "ticket": {
+        "state": "onsale",
+        "url": "https://shop.weeztix.com/cb4b5c44-830a-42cc-bd06-b6f8697f9b0a/tickets"
+      },
+      "time": "22:00–06:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2027-01-23"
+    },
+    {
+      "category": "Clubnight",
+      "date_iso": "2027-01-30",
+      "date_label": "Sat.30.01.27",
+      "detail": {
+        "description": "Admission 20 € / before 23:00 15 €",
+        "floors": [
+          {
+            "name": "FREIFELD",
+            "slots": [
+              {
+                "bio": null,
+                "city": null,
+                "name": "...",
+                "time": null
+              }
+            ],
+            "subtitle": "Schleuse Eins at Open Ground"
+          },
+          {
+            "name": "ANNEX",
+            "slots": [
+              {
+                "bio": "As co-founder and resident DJ of Münster’s schick.standort collective, Katana has been shaping the local scene for years. Techno is and has always been his core foundation behind the decks—a sound he continues to play and push. Over time he has also unlocked new layers to his musical identity, bringing even more diversity into his sets. Instead of sticking to one fixed lane, he now brings a wide range of styles to the floor. His sets are versatile and built around distinct musical passages, seamlessly blending different genres, rhythms, and atmospheres into a fluid mix that keeps the dancefloor hooked.",
+                "city": "Münster",
+                "name": "Katana",
+                "time": null
+              },
+              {
+                "bio": null,
+                "city": "Cologne",
+                "name": "chyn.chylla",
+                "time": null
+              },
+              {
+                "bio": "Di² is a resident of the collectives schick.standort and Playhaus. Guided by a vision of a timeless sound, her musical identity is atmospheric, deep and yet playful. Her sound brings together influences from various subgenres of techno and house, shaped by years of musical exploration and shared moments on the dancefloor.",
+                "city": "Cologne",
+                "name": "Di²",
+                "time": null
+              },
+              {
+                "bio": "pik demonstrates her long-lasting connection to electronic music in a union of timeless detroit and dub techno with house and leftfield influences and has been active in the scene as a resident of the collectives schick.standort and rau.ton. Ranging from intense percussions and playful rhythms to hypnotic flow, her sets create an intricate web of peculiar sounds that touch on the primal effects of electronic music on both body and mind. A point-blank yet curious approach to electronic music.",
+                "city": "Berlin",
+                "name": "pik",
+                "time": null
+              }
+            ],
+            "subtitle": "schick.standort at Open Ground"
+          }
+        ]
+      },
+      "floors": [
+        {
+          "artists": [
+            "..."
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Katana",
+            "chyn.chylla",
+            "Di²",
+            "pik"
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2027-01-30",
+      "ticket": {
+        "state": "onsale",
+        "url": "https://shop.weeztix.com/5d1a60d8-18c1-4a3a-b098-732cd365576a/tickets"
+      },
+      "time": "22:00–06:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2027-01-30"
+    },
+    {
+      "category": "Extended Clubnight",
+      "date_iso": "2027-02-06",
+      "date_label": "Sat.06.02.27",
+      "detail": {
+        "description": "Admission 40 €",
+        "floors": [
+          {
+            "name": "FREIFELD",
+            "slots": [
+              {
+                "bio": "Ranging deep house, techno, dubstep drum & bass, Calibre sets mostly draw from his own personal spectrum of productions, perennially sprung with never-before-heard surprises.\nA part of Calibre is poet and a part of him is man who's lived through Northern Ireland at its worst. There's a gentleness and tension to him. somewhere in that middle ground is his music' Craig Richards",
+                "city": "Belfast",
+                "name": "Calibre",
+                "time": null
+              },
+              {
+                "bio": "Klaus cut his teeth DJing at Plastic People as one of the 1-800-Dinosaur crew. Following its closure, he built Tanum Sound System, which he now operates alongside Crease, L4E, Mellowdramatics and Winsome. As a DJ, he tends to focus on the many styles of sound system music that have evolved in the UK, from roots music through jungle & garage to more recent mutations, while his productions, released on his label Tanum, explore more abstract worlds of rhythm, space and sub frequencies, always underpinned by dub ethos.",
+                "city": "Glasgow",
+                "name": "Klaus",
+                "time": null
+              },
+              {
+                "bio": "From his 1994 breakthrough Original Nuttah to era-defining hits, Shy FX has been at the heart of British club culture for three decades – tearing up dancefloors with a sound that fuses jungle, drum & bass, reggae, dancehall, and beyond. His DJ sets are pure high-energy chaos in the best way possible, moving effortlessly from carnival vibes to underground pressure.",
+                "city": "London",
+                "name": "Shy FX",
+                "time": null
+              },
+              {
+                "bio": "Tasha’s DJing style weaves tunes together seamlessly from her bass informed home of the UK alongside four four techno forms born in Berlin and Detroit. With an accomplished and atmospheric hold on the dancefloor expect upfront cuts mixed in with some old gems and other styles in between like D&B / Jungle. In an industry where artists are asked to prioritize their art for social media presence, likes and other vacuous pursuits, Tasha is very much in demand for her ‘music first’ attitude, selection and ability.",
+                "city": "London",
+                "name": "Tasha",
+                "time": null
+              }
+            ],
+            "subtitle": null
+          },
+          {
+            "name": "ANNEX",
+            "slots": [
+              {
+                "bio": "Berlin-based DJ and radio host Elke radiates high energy – whether through playful electro, garage, and jungle or via percussive techno, bassy rollers, and stone-cold drumfunk.",
+                "city": "Berlin",
+                "name": "Elke",
+                "time": null
+              },
+              {
+                "bio": null,
+                "city": null,
+                "name": "...",
+                "time": null
+              }
+            ],
+            "subtitle": null
+          }
+        ]
+      },
+      "floors": [
+        {
+          "artists": [
+            "Calibre",
+            "Klaus",
+            "Shy FX",
+            "Tasha"
+          ],
+          "name": "FREIFELD"
+        },
+        {
+          "artists": [
+            "Elke",
+            "..."
+          ],
+          "name": "ANNEX"
+        }
+      ],
+      "id": "2027-02-06",
+      "ticket": {
+        "state": "onsale",
+        "url": "https://shop.weeztix.com/3c9bca4b-e14b-4937-9484-0263b174e21a/tickets"
+      },
+      "time": "20:00–06:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2027-02-06"
     }
   ],
-  "scraped_at": "2026-11-13T06:51:35+00:00"
+  "scraped_at": "2026-11-13T19:46:41+00:00"
 }
