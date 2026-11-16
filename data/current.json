@@ -11649,6 +11649,12 @@
                 "city": "Amsterdam",
                 "name": "mad miran",
                 "time": null
+              },
+              {
+                "bio": null,
+                "city": null,
+                "name": "...",
+                "time": null
               }
             ],
             "subtitle": null
@@ -11673,7 +11679,8 @@
             "Mark Ernestus",
             "Rezzett (live)",
             "Josey Rebelle",
-            "mad miran"
+            "mad miran",
+            "..."
           ],
           "name": "FREIFELD"
         },
@@ -12121,5 +12128,5 @@
       "url": "https://www.openground.club/en/schedule/2027-02-06"
     }
   ],
-  "scraped_at": "2026-11-16T06:37:37+00:00"
+  "scraped_at": "2026-11-16T22:11:24+00:00"
 }
