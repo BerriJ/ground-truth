@@ -12090,9 +12090,9 @@
                 "time": null
               },
               {
-                "bio": null,
-                "city": null,
-                "name": "...",
+                "bio": "Berlin-based producer & DJ Laurie Osborne aka Appleblim has been making & releasing music for 35 years, 21 of those on some of underground dance music’s most respected & influential labels, such as Skull Disco, Tempa, Aus Music, R&S Records & now Sneaker Social Club & Peak Oil.\nHis work incorporates elements of dub, bass music, techno, electro, deep house, jungle, garage, breakbeat hardcore,\nambient, drone & much more.... Recent shows at events such as Reef at Berghain & festivals like We Out Here & Atonal show his commitment to fwd>> thinking cutting edge electronics. Combined with a veteran's knowledge of bass music & dancefloor dynamics plus an ability join the dots and weave between eras & styles of dance music with ease, Appleblim is a selector's selector!",
+                "city": "Berlin",
+                "name": "Appleblim",
                 "time": null
               }
             ],
@@ -12113,7 +12113,7 @@
         {
           "artists": [
             "Elke",
-            "..."
+            "Appleblim"
           ],
           "name": "ANNEX"
         }
@@ -12128,5 +12128,5 @@
       "url": "https://www.openground.club/en/schedule/2027-02-06"
     }
   ],
-  "scraped_at": "2026-11-18T07:35:59+00:00"
+  "scraped_at": "2026-11-18T20:37:01+00:00"
 }
