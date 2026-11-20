@@ -11279,21 +11279,15 @@
                 "time": null
               },
               {
-                "bio": "Part of Berlin's vinyl-loving community, AB's selections do the talking.\n\nChristian AB has carved a distinctive path in electronic music through a sound that’s both timeless and forward-thinking. Known for his deep musicality, razor-sharp mixing, and wide-reaching influences, he brings an emotional intensity to the dancefloor that resonates far beyond trends. His sets weave together house, techno, breaks, and electro with a fluidity that reflects both knowledge and instinct. From intimate basements to some of the world’s most respected clubs and festivals, his performances—daring and uncompromising—have earned him recognition as one of the scene’s most captivating selectors. Alongside his reputation as a DJ, Christian AB is an accomplished producer with releases on Faith Beat and Timeless, showcasing a unique vision translated into records that stand the test of time. Rooted in curiosity and passion, he embodies what we value most: authenticity, depth, and relentless dedication to the music.\n\n'Ogazón is an artist that truly embodies the spirit of the music she plays. Releasing all inhibitions, she pours herself totally into her performances. Her approach is one of careful consideration, with the audience's journey at its heart. Deeply sensitive to the subtle and contextual nature of electronic music, she is equally adept at presenting both house and techno, often rendering the perceived boundary between non-existent.\n\nWith forward-facing music that propels, she's able to make creative progress in an already well-established art form while remaining true to its fundamentals -the mark of a student truly passionate about their subject matter.’",
-                "city": "Berlin",
-                "name": "Christian AB b2b Ogazón",
-                "time": null
-              },
-              {
-                "bio": "'Ogazón is an artist that truly embodies the spirit of the music she plays. Releasing all inhibitions, she pours herself totally into her performances. Her approach is one of careful consideration, with the audience's journey at its heart. Deeply sensitive to the subtle and contextual nature of electronic music, she is equally adept at presenting both house and techno, often rendering the perceived boundary between non-existent.\n\nWith forward-facing music that propels, she's able to make creative progress in an already well-established art form while remaining true to its fundamentals -the mark of a student truly passionate about their subject matter.’",
-                "city": "Berlin",
-                "name": "Ogazón",
-                "time": null
-              },
-              {
                 "bio": "As enamoured as Peter Kremeier was with the new sounds he was hearing, he was a soul boy at heart, sensitive to the emotional sway of earlier RnB and soul he now found beating at the electronic heart of boogie, garage, and subsequently house music. Even as a whole generation fell under the seductive spell of sequencers and synthesis, Kremeier still felt the funk guiding his assured steps forward in this strange new realm.\n\nSuch is the nature of his hypnotic effect, you might easily lose yourself in one of these long-form jams, find yourself dancing away from the funk of the track in a dislocated fashion, only to come to and find yourself back in the groove anyway – in Losoul's hands, the groove is never just one-dimensional. Equal parts an expressive dreamer and a studious preacher, Losoul has metabolized the funk in an inimitable style that is still unique, and that continues to bear new fruit to this day.\n\nFrom his initial alias Don Disco to his now firmly-established Losoul guise, Kremeier has remained dedicated to the musical roots behind the electronic music wave, both as a producer and on stage.\n\n\"Four beats, two claps – from there you can go everywhere.\" (Losoul, 1999)",
                 "city": null,
                 "name": "Losoul (live)",
+                "time": null
+              },
+              {
+                "bio": "Part of Berlin's vinyl-loving community, AB's selections do the talking.\n\nChristian AB has carved a distinctive path in electronic music through a sound that’s both timeless and forward-thinking. Known for his deep musicality, razor-sharp mixing, and wide-reaching influences, he brings an emotional intensity to the dancefloor that resonates far beyond trends. His sets weave together house, techno, breaks, and electro with a fluidity that reflects both knowledge and instinct. From intimate basements to some of the world’s most respected clubs and festivals, his performances—daring and uncompromising—have earned him recognition as one of the scene’s most captivating selectors. Alongside his reputation as a DJ, Christian AB is an accomplished producer with releases on Faith Beat and Timeless, showcasing a unique vision translated into records that stand the test of time. Rooted in curiosity and passion, he embodies what we value most: authenticity, depth, and relentless dedication to the music.\n\n'Ogazón is an artist that truly embodies the spirit of the music she plays. Releasing all inhibitions, she pours herself totally into her performances. Her approach is one of careful consideration, with the audience's journey at its heart. Deeply sensitive to the subtle and contextual nature of electronic music, she is equally adept at presenting both house and techno, often rendering the perceived boundary between non-existent.\n\nWith forward-facing music that propels, she's able to make creative progress in an already well-established art form while remaining true to its fundamentals -the mark of a student truly passionate about their subject matter.’",
+                "city": "Berlin",
+                "name": "Christian AB b2b Ogazón",
                 "time": null
               }
             ],
@@ -11335,9 +11329,8 @@
         {
           "artists": [
             "Christian AB",
-            "Christian AB b2b Ogazón",
-            "Ogazón",
-            "Losoul (live)"
+            "Losoul (live)",
+            "Christian AB b2b Ogazón"
           ],
           "name": "FREIFELD"
         },
@@ -11371,8 +11364,8 @@
       "floors": [],
       "id": "2026-12-05-express-bus",
       "ticket": {
-        "state": "onsale",
-        "url": "https://shop.weeztix.com/ba9569ee-b90c-41eb-b13f-ac3ba3ce756f/tickets"
+        "state": "soldout",
+        "url": null
       },
       "time": "18:00–06:00",
       "title": "Express Bus",
@@ -11539,8 +11532,8 @@
       ],
       "id": "2026-12-19",
       "ticket": {
-        "state": "onsale",
-        "url": "https://shop.weeztix.com/d07c308e-f7ee-4c6c-bfc8-837b734199e2/tickets"
+        "state": "soldout",
+        "url": null
       },
       "time": "22:00–10:00",
       "title": null,
@@ -12128,5 +12121,5 @@
       "url": "https://www.openground.club/en/schedule/2027-02-06"
     }
   ],
-  "scraped_at": "2026-11-20T07:23:28+00:00"
+  "scraped_at": "2026-11-20T20:27:02+00:00"
 }
