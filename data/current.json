@@ -11263,6 +11263,35 @@
       "url": "https://www.openground.club/en/schedule/2026-11-28"
     },
     {
+      "category": "Open Lobby",
+      "date_iso": "2026-12-03",
+      "date_label": "Thu.03.12.26",
+      "detail": {
+        "description": null,
+        "floors": [
+          {
+            "name": "LOBBY + ANNEX",
+            "slots": [],
+            "subtitle": "Drinks and DJ selections Free entry"
+          }
+        ]
+      },
+      "floors": [
+        {
+          "artists": [],
+          "name": "LOBBY + ANNEX"
+        }
+      ],
+      "id": "2026-12-03",
+      "ticket": {
+        "state": "free",
+        "url": null
+      },
+      "time": "20:00–00:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2026-12-03"
+    },
+    {
       "category": "Clubnight",
       "date_iso": "2026-12-05",
       "date_label": "Sat.05.12.26",
@@ -11372,6 +11401,35 @@
       "url": "https://www.openground.club/en/schedule/2026-12-05-express-bus"
     },
     {
+      "category": "Open Lobby",
+      "date_iso": "2026-12-10",
+      "date_label": "Thu.10.12.26",
+      "detail": {
+        "description": null,
+        "floors": [
+          {
+            "name": "LOBBY + ANNEX",
+            "slots": [],
+            "subtitle": "Drinks and DJ selections Free entry"
+          }
+        ]
+      },
+      "floors": [
+        {
+          "artists": [],
+          "name": "LOBBY + ANNEX"
+        }
+      ],
+      "id": "2026-12-10",
+      "ticket": {
+        "state": "free",
+        "url": null
+      },
+      "time": "20:00–00:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2026-12-10"
+    },
+    {
       "category": "Clubnight",
       "date_iso": "2026-12-12",
       "date_label": "Sat.12.12.26",
@@ -11440,6 +11498,35 @@
       "time": "22:00–06:00",
       "title": null,
       "url": "https://www.openground.club/en/schedule/2026-12-12"
+    },
+    {
+      "category": "Open Lobby",
+      "date_iso": "2026-12-17",
+      "date_label": "Thu.17.12.26",
+      "detail": {
+        "description": null,
+        "floors": [
+          {
+            "name": "LOBBY + ANNEX",
+            "slots": [],
+            "subtitle": "Drinks and DJ selections Free entry"
+          }
+        ]
+      },
+      "floors": [
+        {
+          "artists": [],
+          "name": "LOBBY + ANNEX"
+        }
+      ],
+      "id": "2026-12-17",
+      "ticket": {
+        "state": "free",
+        "url": null
+      },
+      "time": "20:00–00:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2026-12-17"
     },
     {
       "category": "Extended Clubnight",
@@ -11538,6 +11625,35 @@
       "time": "22:00–10:00",
       "title": null,
       "url": "https://www.openground.club/en/schedule/2026-12-19"
+    },
+    {
+      "category": "Open Lobby",
+      "date_iso": "2026-12-24",
+      "date_label": "Thu.24.12.26",
+      "detail": {
+        "description": null,
+        "floors": [
+          {
+            "name": "LOBBY + ANNEX",
+            "slots": [],
+            "subtitle": "Drinks and DJ selections Free entry"
+          }
+        ]
+      },
+      "floors": [
+        {
+          "artists": [],
+          "name": "LOBBY + ANNEX"
+        }
+      ],
+      "id": "2026-12-24",
+      "ticket": {
+        "state": "free",
+        "url": null
+      },
+      "time": "20:00–00:00",
+      "title": null,
+      "url": "https://www.openground.club/en/schedule/2026-12-24"
     },
     {
       "category": "Clubnight",
@@ -12121,5 +12237,5 @@
       "url": "https://www.openground.club/en/schedule/2027-02-06"
     }
   ],
-  "scraped_at": "2026-11-23T07:46:05+00:00"
+  "scraped_at": "2026-11-23T23:58:00+00:00"
 }
