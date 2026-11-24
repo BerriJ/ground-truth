@@ -11651,7 +11651,7 @@
         "state": "free",
         "url": null
       },
-      "time": "20:00–00:00",
+      "time": "20:00–02:00",
       "title": null,
       "url": "https://www.openground.club/en/schedule/2026-12-24"
     },
@@ -12237,5 +12237,5 @@
       "url": "https://www.openground.club/en/schedule/2027-02-06"
     }
   ],
-  "scraped_at": "2026-11-24T09:59:16+00:00"
+  "scraped_at": "2026-11-24T22:30:34+00:00"
 }
