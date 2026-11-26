@@ -12080,7 +12080,7 @@
       "date_iso": "2027-01-30",
       "date_label": "Sat.30.01.27",
       "detail": {
-        "description": "Admission 20 € / before 23:00 15 €",
+        "description": "Admission 25 €",
         "floors": [
           {
             "name": "FREIFELD",
@@ -12237,5 +12237,5 @@
       "url": "https://www.openground.club/en/schedule/2027-02-06"
     }
   ],
-  "scraped_at": "2026-11-25T21:45:38+00:00"
+  "scraped_at": "2026-11-26T08:27:13+00:00"
 }
