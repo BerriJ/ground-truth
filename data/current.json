@@ -11267,18 +11267,48 @@
       "date_iso": "2026-12-03",
       "date_label": "Thu.03.12.26",
       "detail": {
-        "description": null,
+        "description": "Open Call with YAYA.",
         "floors": [
           {
             "name": "LOBBY + ANNEX",
-            "slots": [],
+            "slots": [
+              {
+                "bio": "tu nana is the mother of a$$ shaking on the dancefloor. miami bass meets DnB, na$ty basslines & synthesizers meet funk & tribal influences… don’t try and describe her sound, just $hake it.",
+                "city": null,
+                "name": "tu nana",
+                "time": null
+              },
+              {
+                "bio": "BC-A is a DJ, cultural worker, and member of EAT network based in Innsbruck. With a definite soft spot for all things bassy and breaky, she likes to blend percussive grooves with broken beats and heavy basslines, while increasingly incorporating ambient soundscapes that reflect her deep respect for nature and the more-than-human world. She has played in various cities and venues, including Tresor Berlin, Corsica Studios London, Museion Bolzano, Grelle Forelle Vienna, and has been featured on radio stations like Rinse, Res Radio, and Radio Rudina.\n\nIn 2020, she became a part of the multi-genre collective Inseminoid, a non-profit cultural association that emphasizes live performances and visual art, with a strong commitment to prioritizing FLINTA* artists in its programming. Firmly opposing gendered power dynamics in nightlife, Barbara co-founded the FLINTA* network EAT in 2022 and is a proud member since.\n\nBarbara is a cultural worker at TKI – Tiroler Kulturinitiativen, focusing on climate culture by bridging the pressing issues of climate protection and justice with the transformative potential of arts and culture. Guided by feminist values, she emphasizes solidarity, community, and a deep respect for the environment in all her endeavors, hoping to create and sustain cultural spaces for collective well-being.",
+                "city": null,
+                "name": "BC - A",
+                "time": null
+              },
+              {
+                "bio": "Samodiva carries a diverse combination of disciplines, bringing mixed art forms and technology together. More than a decade she performed as Pool, a DJ project rooted in European clubs and festivals. Her distinctive dub-influenced style and technical precision have taken her to stages across Europa. Her foundation runs deeper into years of formal training in Bulgarian folklore music encompassing instrument, voice and choreography. The artist gathered professional experience as a stage lighting designer and software developer, learning how to build systems and live experiences. Sculpture, photography, videography, mixed media and visual arts have always run in parallel.",
+                "city": null,
+                "name": "Samodiva",
+                "time": null
+              },
+              {
+                "bio": "POUREKKA is a queer brown Cypriot performance artist and emerging DJ based in Essen, NRW. Coming from a performance background, she explores music and sound as spaces for expression, connection and collective energy.\n\nDrawing on her Middle Eastern and Cypriot roots, Martsy blends reggaeton, Brazilian funk and hip-hop with electronic sounds, building infectious grooves that gradually find their way into techno.\n\nHaving started her DJ journey less than a year ago, she continues to develop her sound through workshops, experimentation and informal dancefloor experiences, driven by curiosity and a love for collective movement.",
+                "city": null,
+                "name": "POUREKKA",
+                "time": null
+              }
+            ],
             "subtitle": "Drinks and DJ selections Free entry"
           }
         ]
       },
       "floors": [
         {
-          "artists": [],
+          "artists": [
+            "tu nana",
+            "BC - A",
+            "Samodiva",
+            "POUREKKA"
+          ],
           "name": "LOBBY + ANNEX"
         }
       ],
@@ -11305,19 +11335,19 @@
                 "bio": "Part of Berlin's vinyl-loving community, AB's selections do the talking.\n\nChristian AB has carved a distinctive path in electronic music through a sound that’s both timeless and forward-thinking. Known for his deep musicality, razor-sharp mixing, and wide-reaching influences, he brings an emotional intensity to the dancefloor that resonates far beyond trends. His sets weave together house, techno, breaks, and electro with a fluidity that reflects both knowledge and instinct. From intimate basements to some of the world’s most respected clubs and festivals, his performances—daring and uncompromising—have earned him recognition as one of the scene’s most captivating selectors. Alongside his reputation as a DJ, Christian AB is an accomplished producer with releases on Faith Beat and Timeless, showcasing a unique vision translated into records that stand the test of time. Rooted in curiosity and passion, he embodies what we value most: authenticity, depth, and relentless dedication to the music.",
                 "city": "Berlin",
                 "name": "Christian AB",
-                "time": null
+                "time": "00:00"
               },
               {
                 "bio": "As enamoured as Peter Kremeier was with the new sounds he was hearing, he was a soul boy at heart, sensitive to the emotional sway of earlier RnB and soul he now found beating at the electronic heart of boogie, garage, and subsequently house music. Even as a whole generation fell under the seductive spell of sequencers and synthesis, Kremeier still felt the funk guiding his assured steps forward in this strange new realm.\n\nSuch is the nature of his hypnotic effect, you might easily lose yourself in one of these long-form jams, find yourself dancing away from the funk of the track in a dislocated fashion, only to come to and find yourself back in the groove anyway – in Losoul's hands, the groove is never just one-dimensional. Equal parts an expressive dreamer and a studious preacher, Losoul has metabolized the funk in an inimitable style that is still unique, and that continues to bear new fruit to this day.\n\nFrom his initial alias Don Disco to his now firmly-established Losoul guise, Kremeier has remained dedicated to the musical roots behind the electronic music wave, both as a producer and on stage.\n\n\"Four beats, two claps – from there you can go everywhere.\" (Losoul, 1999)",
                 "city": null,
                 "name": "Losoul (live)",
-                "time": null
+                "time": "02:00"
               },
               {
                 "bio": "Part of Berlin's vinyl-loving community, AB's selections do the talking.\n\nChristian AB has carved a distinctive path in electronic music through a sound that’s both timeless and forward-thinking. Known for his deep musicality, razor-sharp mixing, and wide-reaching influences, he brings an emotional intensity to the dancefloor that resonates far beyond trends. His sets weave together house, techno, breaks, and electro with a fluidity that reflects both knowledge and instinct. From intimate basements to some of the world’s most respected clubs and festivals, his performances—daring and uncompromising—have earned him recognition as one of the scene’s most captivating selectors. Alongside his reputation as a DJ, Christian AB is an accomplished producer with releases on Faith Beat and Timeless, showcasing a unique vision translated into records that stand the test of time. Rooted in curiosity and passion, he embodies what we value most: authenticity, depth, and relentless dedication to the music.\n\n'Ogazón is an artist that truly embodies the spirit of the music she plays. Releasing all inhibitions, she pours herself totally into her performances. Her approach is one of careful consideration, with the audience's journey at its heart. Deeply sensitive to the subtle and contextual nature of electronic music, she is equally adept at presenting both house and techno, often rendering the perceived boundary between non-existent.\n\nWith forward-facing music that propels, she's able to make creative progress in an already well-established art form while remaining true to its fundamentals -the mark of a student truly passionate about their subject matter.’",
                 "city": "Berlin",
                 "name": "Christian AB b2b Ogazón",
-                "time": null
+                "time": "03:00"
               }
             ],
             "subtitle": null
@@ -11329,25 +11359,31 @@
                 "bio": "The Meakusma DJs will warm up the night, playing some of the extremely diverse music that makes the collective tick.",
                 "city": "Eupen",
                 "name": "Meakusma DJs",
-                "time": null
-              },
-              {
-                "bio": "opo plays with music, sounds, images, and DIY technology, focusing on improvisation, experimentation, and collaboration. opo is a member of the Jokkoo Collective, founded in Barcelona in 2017, that explores and amplifies contemporary electronic and avant-garde sounds from the African continent and its diaspora. opo recently released 666ridims on Meakusma, a minimalist dive into strange meters, polyrhythm, and the transcendence of ideas. Fast, slow. Exhilarating.",
-                "city": "Barcelona",
-                "name": "opo",
-                "time": null
-              },
-              {
-                "bio": "Rudi J, formerly known as Weird Dust and one half of Tav Exotic, honors dub’s revolutionary spirit, deconstructs reggae, and adds a 90s take on library music. His live sets delve deeply and encompassingly into the full spectrum of sound system culture, paying tribute to never-ending nights and daily surrealism. He will release a 7inch on Meakusma in the near future.",
-                "city": "Brussels",
-                "name": "Rudi J (live)",
-                "time": null
+                "time": "22:00"
               },
               {
                 "bio": "Tropa Macaca is a project run by André Abel and Joana da Conceição, a Lisbon-based duo working in electronic contemporary composition. Their music has always been long, cathartic, and deeply poetic, as if looking for unfound places or trying to speak unknown languages. It is a ritualistic experience, where secrets unfold, and mysteries are forever shattered. Pure sonic hypnosis, filtering and crossing countless branches of experimental music.",
                 "city": "Lisbon",
                 "name": "Tropa Macaca (live)",
-                "time": null
+                "time": "23:00"
+              },
+              {
+                "bio": "Rudi J, formerly known as Weird Dust and one half of Tav Exotic, honors dub’s revolutionary spirit, deconstructs reggae, and adds a 90s take on library music. His live sets delve deeply and encompassingly into the full spectrum of sound system culture, paying tribute to never-ending nights and daily surrealism. He will release a 7inch on Meakusma in the near future.",
+                "city": "Brussels",
+                "name": "Rudi J (live)",
+                "time": "00:00"
+              },
+              {
+                "bio": "opo plays with music, sounds, images, and DIY technology, focusing on improvisation, experimentation, and collaboration. opo is a member of the Jokkoo Collective, founded in Barcelona in 2017, that explores and amplifies contemporary electronic and avant-garde sounds from the African continent and its diaspora. opo recently released 666ridims on Meakusma, a minimalist dive into strange meters, polyrhythm, and the transcendence of ideas. Fast, slow. Exhilarating.",
+                "city": "Barcelona",
+                "name": "opo",
+                "time": "01:00"
+              },
+              {
+                "bio": null,
+                "city": null,
+                "name": "Meakusma DJ",
+                "time": "03:00"
               }
             ],
             "subtitle": "Meakusma at Open Ground"
@@ -11366,9 +11402,10 @@
         {
           "artists": [
             "Meakusma DJs",
-            "opo",
+            "Tropa Macaca (live)",
             "Rudi J (live)",
-            "Tropa Macaca (live)"
+            "opo",
+            "Meakusma DJ"
           ],
           "name": "ANNEX"
         }
@@ -11443,13 +11480,13 @@
                 "bio": "A leader in global dance music, Louie Vega has painted an award-winning career from a palette mixed with everything from house, salsa and afro-beat, to jazz, hip hop, gospel and soul.\n\nWhat distinguishes the Grammy winner and 7-time nominee as one of the best living house music deejays is his ability to evolve alongside the times, distill the current musical landscape through his unique taste and put his own timeless spin on all the music he creates.",
                 "city": "New York City",
                 "name": "Louie Vega",
-                "time": null
+                "time": "22:00"
               },
               {
                 "bio": "Tom Kutsche is a Cologne-born, Berlin-based DJ, selector, label owner, and music lover whose sound is deeply rooted in disco, boogie, funk, and house music.\n\nHis musical journey began in his early teenage years and continues to be inspired by the same energy and sound that first captivated him.\n\nIn a community-minded perspective, bringing people together and uplifting them through music are the drivers behind his party series cologne is for lovers and the beloved LOVEDANCIN' Party in Berlin.\n\nAs the founder of kickin‘ up dust, Tom has put out releases from artists such as George Davis and Sound On Sound, along with remixes by Kai Alcé and Roy Davis Jr. Through the label, he channels his passion for soulful music into every release.",
                 "city": "Berlin",
                 "name": "Tom Kutsche",
-                "time": null
+                "time": "04:00"
               }
             ],
             "subtitle": "LOVEDANCIN' at Open Ground"
@@ -11461,13 +11498,13 @@
                 "bio": "Sebastian was born 1983 in Bensberg, where he started collecting and playing records at the age of 16. Back then he was spinning Hip-Hop but it wasn’t long until his first rave. Shortly after, in 2001, he moved to Cologne where he started to digg deep..\n\nHe then met Joschka Tschirley and they shared a flat called the „RaucherEcke“, which also became their artists name later. In 2008 the duo played their first DJ-Ging as „RaucherEcke“ with their debut record to follow one year later on 200 Records. After that Sebastian quickly made his way into the Cologne techno scene where he became one of the most requested residents. Since then three more releases as „RaucherEcke“ followed and the duo started to attract attention beyond Cologne playing for example in Bochum, Leipzig or Berlin. In late 2012 they founded „I’m in Love“ together with Lukas Höh hosting parties and releasing records.",
                 "city": "Cologne",
                 "name": "Habben",
-                "time": null
+                "time": "22:00"
               },
               {
                 "bio": null,
                 "city": "Cologne",
                 "name": "Sandilé b2b Black M1d1",
-                "time": null
+                "time": "01:00"
               }
             ],
             "subtitle": "I'm In Love at Open Ground"
@@ -11870,7 +11907,7 @@
       "date_iso": "2027-01-09",
       "date_label": "Sat.09.01.27",
       "detail": {
-        "description": "Admission 20 € / before 23:00 15 €",
+        "description": "Annex:\n\nBallett is back at Open Ground, this time with a night curated around a wide range of\ndub-leaning\nsounds.\n\nThe night on the Annex Floor starts with Ballett’s own Mauzius, setting the tone with some noisy, percussive cuts, followed by the outstanding selector Charis. They have built a strong fan base on the foundation of an extensive knowledge of the\ndub techno\nscene and its music.\n\nThe club night will come to a finish with Ballett’s newest member, paaradoxx, contributing her vast and distinctive sound.\n\nAdmission 20 € / before 23:00 15 €",
         "floors": [
           {
             "name": "FREIFELD",
@@ -11954,7 +11991,7 @@
       "date_iso": "2027-01-16",
       "date_label": "Sat.16.01.27",
       "detail": {
-        "description": "Admission 25 €",
+        "description": "Following its February 2026 debut, Hyper Real returns on January 16th for its first extended session: a concert followed by a\nbass-heavy\nclub marathon.\n\nOpening the evening: Manchester/Berlin duo Space Afrika live on the custom-built rig. Fresh off Quiet Storm, their\nindustrial-noir\nsound has turned more orchestral and raw. Blending\ntrip-hop\n,\nambient\n, and\nlow-end pressure\n, their set will use every decibel of Open Ground's\nsub-bass\nbefore the strobes kick in.\n\nKicking off the night shift is Bali-born DJ and producer Kasimyn, one half of Gabber Modus Operandi and co-producer of Björk's Fossora. His solo sets splice\nIndonesian trance\nand\ngamelan\ninto blistering,\nhigh-BPM\nclub hybrids.\n\nBelfast-born producer Kessler will summon razor-sharp\nelectro\nand\nbreakbeats\nfrom hardware.\n\nAhead of his solo Hyperdub debut in February,\njungle\nprodigy Tim Reaper will bring his encyclopedic\namen break\nscience and\nhardcore\nfuturism\n.\n\nHong Kong-born\ndrum & bass\ninnovator gyrofield will go b2b with Hyper Real founder Opium Hum:\nhyper-modern breaks\n,\nacid-laced techno\n, and dystopian club tools.\n\nHyper Real is a global community and traveling party series of rave misfits united by underground sound without borders.\n\nAdmission 25 €",
         "floors": [
           {
             "name": "FREIFELD",
@@ -12237,5 +12274,5 @@
       "url": "https://www.openground.club/en/schedule/2027-02-06"
     }
   ],
-  "scraped_at": "2026-11-26T08:27:13+00:00"
+  "scraped_at": "2026-11-26T21:38:58+00:00"
 }
