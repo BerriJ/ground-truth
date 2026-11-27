@@ -11997,9 +11997,33 @@
             "name": "FREIFELD",
             "slots": [
               {
-                "bio": null,
+                "bio": "Space Afrika, innovators in electronic music, fuse UK Dance, Ambient, Alternative, Trip-hop, Pop, Modern Classical, and Experimental genres. As producers, contemporary composers, visual artists, performers, and NTS Radio hosts, they are renowned for their genre-defying sound. The duo, comprised of Josh Inyang and Joshua Tarelle Reid, have released two critically acclaimed albums: Somewhere Decent To Live (sferic, 2018) and Honest Labour (Dais Records, 2021), the latter topping Resident Advisor’s Album of the Year chart and earning DJ Mag nominations for Best Live Act and Best Album.",
                 "city": null,
-                "name": "...",
+                "name": "Space Afrika (live)",
+                "time": null
+              },
+              {
+                "bio": "Emerging from the bustling, raw energy of North Jakarta’s ghettos, Kasimyn thrives at the intersection of cultural roots and sonic futurism. A DJ, producer, and one half of Gabber Modus Operandi (GMO), his artistry has been celebrated as a mayhem of anti-aesthetic fun and featured in Boiler Room’s explorations of global rave culture. His solo and collaborative works traverse a hyper-kaleidoscopic range of influences, from gabber and grindcore to Indonesian jathilan trance rituals, forging new pathways between the traditional and the avant-garde in thrillingly unpredictable ways. GMO’s sound obliterates boundaries, fusing high-BPM chaos with distinctly Indonesian musical traditions like dangdut koplo and funkot, blasting out ecstatic cultural collisions, while his solo project Hulubalang explores speculative futures of Indonesian dance music.Kasimyn’s fascination with distortion—not just as a sound but as a concept tied to postcolonial identity—has fueled his projects. Influenced by thinkers like Wendy Brown, he approaches distortion as a means to destroy something for the future. His work extends into deep research on Southeast Asia’s harmonic scales, pelog and slendro, blending these ancient systems with modern club dynamics. Whether spinning sets that traverse house, hip-hop, gabber, and ambient soundscapes or contributing to Björk’s Fossor, Kasimyn’s artistry is rooted in a vision of liberation: musically, politically, and spiritually.",
+                "city": null,
+                "name": "Kasimyn",
+                "time": null
+              },
+              {
+                "bio": "Kessler is a Belfast-born, Rotterdam-based sonic alchemist weaving immersive, left-field techno with gritty breaks and deep bass textures. As one half of the vision behind the Elicit record label, he crafts soundscapes that exist at the crossroads of rhythm and emotion — where dreamers and dancers alike find their refuge.",
+                "city": "Rotterdam",
+                "name": "Kessler (live)",
+                "time": null
+              },
+              {
+                "bio": "Future Retro London label boss and lover of all things Jungle, Drum & Bass and Hardcore.",
+                "city": "London",
+                "name": "Tim Reaper",
+                "time": null
+              },
+              {
+                "bio": "Hong Kong native gyrofield is becoming a distinctive force on the global club circuit, with widespread praise accelerating their growing influence within dance music. Since discovering electronic music via online communities as a teenager, gyrofield has followed curiosity and inspiration into disparate musical territory, exploring the realms of drum and bass, techno, ambient, pop and free jazz, bending recognised genres into bold new forms. Fuelled by an unrelenting drive to push boundaries, their digital productions become moody and introspective through IDM experimentation, jungle breakbeats, melodic synths and chopped vocal samples – as showcased on recent releases with XL and FABRICLIVE.\n\nFor over 15 years, Michail Stangl aka Opium Hum has been a vital node in the global electronic music underground. Best known as the former face and lead programmer of Boiler Room and as curator of Berlin's legendary CTM Festival, Stangl's work has consistently mapped the bleeding edges of contemporary club culture.\n​\nAs Opium Hum, his DJ sets move fluidly between bass-heavy club constructions, off-kilter rave mutations, acidy steppers, industrialised grime and driving techno, an eclectic but never scattershot approach shaped by an insatiable appetite for the emergent forms constantly bubbling up from the fringes of global rave culture.\n\nHe has performed in over 40 countries, from China, Pakistan and Vietnam to Georgia, Peru and Uganda, ran the Leisure System and ≠ (not equal) residencies at Berghain and currently holds a residency at São Paulo's notorious Vampire Haus warehouse series and the David Lynch designed Club Silencio in Paris. He also runs Hyper Real, an online community and traveling event series with regular events at Prague's Fuchs2, Open Ground, RSO, and Tbilisi's Bassiani, plus a dedicated stage at this year's Outlook Festival.\n\nWhether as a curator or behind the decks, he remains single-mindedly committed to championing the radical, the overlooked and the yet-to-be-defined in electronic music.",
+                "city": "Utrecht / Hong Kong / Berlin",
+                "name": "gyrofield b2b Opium Hum",
                 "time": null
               }
             ],
@@ -12009,26 +12033,51 @@
             "name": "ANNEX",
             "slots": [
               {
-                "bio": null,
-                "city": null,
-                "name": "...",
+                "bio": "As a DJ, he was doing this before it was a thing - burning through jungle, techno, grime and noise with a speed, physicality and instinct that still sounds like nobody else.\n\nHis sets have been aptly described as \"nothing short of outrageous [...] rollercoaster through genre & tempo, spanning sub-destroying bass & grime, dubstep infusions, plenty of breaks and a hefty dose of freaky techno, [...] while always remaining highly danceable and exceptionally fun\"",
+                "city": "Birmingham",
+                "name": "Lee Gamble",
+                "time": null
+              },
+              {
+                "bio": "With a fascination for all things bass & breaks, matildnz likes to play whatever tickles her brain, touches her soul or gets her body moving — preferably all at once. Aiming to create more spaces for unique electronic sounds, the DJ, designer and digital artist has been involved in the local music scene for quite some time now, organizing events as part of IVORY as well as curating the online radio station beton.fm.",
+                "city": "Witten",
+                "name": "Matildnz",
+                "time": null
+              },
+              {
+                "bio": "N:in has always been attracted to dystopian sounds and unusual rhythms. sometimes more on the soft side, sometimes completely distorted, she explores different genres and connect them through sounddesign or harsh contrasts. Mainly inspired by modern, dupstep influenced club-, deconstructed and experimental approaches\n\nYears spent as a record dealer profoundly shaped Aphasit’s (fka Low Ki) musical identity and his approach to DJing. He thrives on tailoring the right sound to any room while consistently pushing the boundaries of the crowd’s comfort zone. With high technical standards, his mixing seamlessly connects the dots between UK-influenced club music, driving House grooves, twisted Techno, and immersive non-dance-music layers.\n\nAs a core member of the Cologne-based 'Illusion' crew, he has been championing both dance and listening events since 2016. In 2025, he launched his own project, \"supersoft\", further exploring the intersection of electronic club culture and deep listening music & different approaches of consuming music.",
+                "city": "Hamburg / Cologne",
+                "name": "N:in b2b Aphasit",
+                "time": null
+              },
+              {
+                "bio": "Ole B/P is a Wuppertal-born and Cologne-based DJ. His DJ sets aim at balancing functionality with curiosity, maintaining a keen sense of context and curation.As co-founder of Illusion he has been an active part of the Cologne music scene for almost a decade, playing alongside artists like upsammy, Bambounou, OKO DJ and others.\n\nWith his new alias „mmara\", formerly known as Max Scholpp, the Cologne-based DJ, Producer, and Live-Performer embarks on a journey to introduce a newly formed, yet constantly evolving, musical vision. Embracing experimentation and innovation, pushing the boundaries of traditional genres and blending elements from diverse musical influences.",
+                "city": "Cologne",
+                "name": "Ole B/P b2b mmara",
                 "time": null
               }
             ],
-            "subtitle": null
+            "subtitle": "Illusion at Open Ground"
           }
         ]
       },
       "floors": [
         {
           "artists": [
-            "..."
+            "Space Afrika (live)",
+            "Kasimyn",
+            "Kessler (live)",
+            "Tim Reaper",
+            "gyrofield b2b Opium Hum"
           ],
           "name": "FREIFELD"
         },
         {
           "artists": [
-            "..."
+            "Lee Gamble",
+            "Matildnz",
+            "N:in b2b Aphasit",
+            "Ole B/P b2b mmara"
           ],
           "name": "ANNEX"
         }
@@ -12117,15 +12166,33 @@
       "date_iso": "2027-01-30",
       "date_label": "Sat.30.01.27",
       "detail": {
-        "description": "Admission 25 €",
+        "description": "Schleuse Eins\nis a\nCologne-based\ncommunity project with a strong focus on off-location events and\nunderground club culture\n. Through appearances at Blitz Club, Bassiani and Open Ground, alongside a residency at Cologne’s renowned Gewölbe, the collective has grown beyond the city’s borders, driven by carefully curated line-ups and a shared passion with liked minded people.\n\nFor this special night, hosting Freifeld for the very first time, we are bringing together some of our favourite artists from the past and present, alongside some of our closest friends, to share our vision of a thriving, ever-growing community built around music and connection.\n\nAdmission 25 €",
         "floors": [
           {
             "name": "FREIFELD",
             "slots": [
               {
-                "bio": null,
-                "city": null,
-                "name": "...",
+                "bio": "As one of the Co founders of Schleuse Eins, he became an integral part of the Cologne local scene in the last 5 years. Raphi as he is called by his friends, does not hesitate to push boundaries in style. His musical journey is always on groove between Bass, House and Techno.",
+                "city": "Cologne",
+                "name": "Raphael Hansen b2b ...",
+                "time": null
+              },
+              {
+                "bio": "The musical project ATEQ (Florian Lepa) is marked by recurring gentle waves of electronic loops seamlessly integrated into each other while crawling toward its climax.\n\nBeing one of the old-timers of the Weimar-founded Giegling label, both of his 12” and further V/A contributions were released on the collective’s imprint. All of which demonstrate ATEQ’s sound with stunningly deep and powerful motives while keeping a melancholic essence.\n\nVarious collaborative efforts have manifested ATEQ’s skill in stepping between house and techno within minimalistic soundscapes. Furthermore, a recent live show together with Samuel Rohrer’s percussion virtuosity has explored the realms of avant-garde jazz & ambient.\n\nIt is to no surprise that ATEQ has valued to maintain strong bonds and at his home base in Berlin developed residency in Berlin’s finest house parties at Heideglühen. While touring globally with his DJ and Live performance, he has also developed a residence and close alliance with Tbilisi’s Bassiani.\n\nOne may say ATEQ’s profound foundation has been created; it is however yet to unfold where this journey will lead.",
+                "city": "Berlin",
+                "name": "ATEQ",
+                "time": null
+              },
+              {
+                "bio": "A pioneer of the French house scene, DJ Deep is a Paris-based DJ and producer with over 35 years behind the decks. He is the founder of Deeply Rooted and curator of the Legends nights at Rex Club. His sets bring house and techno classics into dialogue with the latest releases. His productions have appeared on Kaoz Theory, Rekids and Tresor.",
+                "city": "Paris",
+                "name": "DJ Deep",
+                "time": null
+              },
+              {
+                "bio": "Pancratio is a Rome-born, Berlin-based DJ and producer whose sound is rooted in house music at its most physical, emotional and instinctive.\n\nWarm, dynamic and emotionally charged, his music moves with constant momentum shif ting between tension, release and unexpected turns while remaining firmly rooted in the groove. His production process reflects the same philosophy. Working primarily with hardware and through an instinctive, per formance-led approach, Pancratio treats the studio as a place for capturing moments rather than endlessly refining them. The result is music that feels immediate and human: deeply connected to house music’s history while remaining distinctly personal and forward-moving.\n\nOver the past two years, that identit y has come sharply into focus. Love Letters on Love On The Rocks opened a new chapter, followed by Automatic House, his eight-track album on Faith Beat: a record that became an impor tant par t of the house music conversation around 2025 and helped establish Pancratio as a distinctive voice within the contemporary scene. Its 2026 follow-up, Be Yourself, pushed that language fur ther, becoming one of his most widely recognised releases to date.\n\nThat momentum has translated naturally to the dancefloor. Multiple appearances at Panorama Bar, across label nights and Klubnacht, have been joined by per formances at Dimensions, Wildeburg and Rober t Johnson, alongside extended sets and shared booths with ar tists including Ryan Elliott and PARAMIDA. Beneath the physicalit y of Pancratio’s music, there is always an emotional current. His records and DJ sets are built around movement, feeling and contrast moments of intensit y sitting next to warmth, playfulness and vulnerabilit y. Rather than separating emotion from functionalit y, he lets the two coexist naturally within the dancefloor experience.\n\nFor Pancratio, house music remains a living language. Something to par ticipate in rather than preserve. As his world continues to expand, the intention remains the same: stay instinctive, stay selective and keep building a space that feels unmistakably his own.",
+                "city": "Berlin",
+                "name": "Pancratio",
                 "time": null
               }
             ],
@@ -12166,7 +12233,10 @@
       "floors": [
         {
           "artists": [
-            "..."
+            "Raphael Hansen b2b ...",
+            "ATEQ",
+            "DJ Deep",
+            "Pancratio"
           ],
           "name": "FREIFELD"
         },
@@ -12274,5 +12344,5 @@
       "url": "https://www.openground.club/en/schedule/2027-02-06"
     }
   ],
-  "scraped_at": "2026-11-27T08:42:16+00:00"
+  "scraped_at": "2026-11-27T21:22:32+00:00"
 }
